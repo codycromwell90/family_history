@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<d:book xmlns:d="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="5.1">
+    <d:info>
+        <d:title>Paul's Book Log - Read but not Reviewed</d:title>
+        <d:abstract>
+            <d:para>These are the criteria by which I grade a book. A grade of <d:emphasis
+                    role="bold">1</d:emphasis> usually means that I have made a definite decision
+                not to finish a book. Of course, there are some books that I start and set aside.
+                But I only enter the book if I have finished it or determined it is not worth
+                finishing.</d:para>
+            <d:formalpara>
+                <d:title>Grading Scale</d:title>
+                <d:para>
+                    <d:simplelist>
+                        <d:member><d:emphasis role="italic">1</d:emphasis> - Don't bother</d:member>
+                        <d:member><d:emphasis role="italic">2</d:emphasis> - Generally a waste of
+                            time</d:member>
+                        <d:member><d:emphasis role="italic">3</d:emphasis> - OK</d:member>
+                        <d:member><d:emphasis role="italic">4</d:emphasis> - Recommend the book to
+                            others</d:member>
+                        <d:member><d:emphasis role="italic">5</d:emphasis> - Plan to read the book
+                            again</d:member>
+                    </d:simplelist>
+                </d:para>
+            </d:formalpara>
+        </d:abstract>
+    </d:info>
+    <d:chapter>
+        <d:title>1970's</d:title>
+        <d:para>
+            <table xmlns="http://docbook.org/ns/docbook" frame="all">
+                <title>Book List</title>
+                <tgroup cols="3">
+                    <colspec colname="Title" colnum="1"/>
+                    <colspec colname="Author" colnum="2"/>
+                    <colspec colname="Notes" colnum="3"/>
+                    <thead>
+                        <row>
+                            <entry colname="Title">Title</entry>
+                            <entry colname="Author">Author</entry>
+                            <entry colname="Notes">Notes</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry colname="Title">Little House in the Big Woods</entry>
+                            <entry colname="Author">Laura Ingalls Wilder</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Farmer Boy</entry>
+                            <entry colname="Author">Laura Ingalls Wilder</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Chronicles of Narnia (7 vols.)</entry>
+                            <entry colname="Author">C.S. Lewis</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">English Fairy Tales</entry>
+                            <entry colname="Author">Flora Annie Steel</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Good Earth</entry>
+                            <entry colname="Author">Pearl S. Buck</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Tarzan of the Apes</entry>
+                            <entry colname="Author">Edgar Rice Burroughs</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Brave Men</entry>
+                            <entry colname="Author">Ernie Pyle</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">At The Earth's Core</entry>
+                            <entry colname="Author">Edgar Rice Burroughs</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Princess of Mars</entry>
+                            <entry colname="Author">Edgar Rice Burroughs</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Gods of Mars</entry>
+                            <entry colname="Author">Edgar Rice Burroughs</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Warlord of Mars</entry>
+                            <entry colname="Author">Edgar Rice Burroughs</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Thuvia, Maid of Mars</entry>
+                            <entry colname="Author">Edgar Rice Burroughs</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Chessmen of Mars</entry>
+                            <entry colname="Author">Edgar Rice Burroughs</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Guadalcanal Diary</entry>
+                            <entry colname="Author">Richard Tregakskis</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Ten Who Dared</entry>
+                            <entry colname="Author">Desmond Wilcox</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">All Creatures Great and Small</entry>
+                            <entry colname="Author">James Herriot</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Diary of Ann Frank</entry>
+                            <entry colname="Author">Ann Frank</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Ra Expeditions</entry>
+                            <entry colname="Author">Thor Hyerdahl</entry>
+                            <entry colname="Notes"></entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Kon-Tiki Expedition</entry>
+                            <entry colname="Author">Thor Hyerdahl</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Crusade In Jeans</entry>
+                            <entry colname="Author">Thea Beckman</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">My Friend Flicka</entry>
+                            <entry colname="Author">Mary O'Hara</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title"/>
+                            <entry colname="Author"/>
+                            <entry colname="Notes"/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </d:para>
+    </d:chapter>
+    <d:chapter>
+        <d:title>1980's</d:title>
+        <d:para>
+            <table xmlns="http://docbook.org/ns/docbook" frame="all">
+                <title>Book List</title>
+                <tgroup cols="3">
+                    <colspec colname="Title" colnum="1"/>
+                    <colspec colname="Author" colnum="2"/>
+                    <colspec colname="Notes" colnum="3"/>
+                    <thead>
+                        <row>
+                            <entry colname="Title">Title</entry>
+                            <entry colname="Author">Author</entry>
+                            <entry colname="Notes">Notes</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry colname="Title">Alive and Dead in Indiana</entry>
+                            <entry colname="Author">Michael Martone</entry>
+                            <entry colname="Notes">Gift from Karl Pence, H.S. Engilsh teacher</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">In War's Dark Shadow</entry>
+                            <entry colname="Author">W. Bruce Lincoln</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Flight of the Intruder</entry>
+                            <entry colname="Author">Steven Coonts</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Grand Failure</entry>
+                            <entry colname="Author">Zbigniew Brzezinski</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Huckleberry Finn</entry>
+                            <entry colname="Author">Mark Twain</entry>
+                            <entry colname="Notes">H.S. Engish - 12th grade</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Great Gatsby</entry>
+                            <entry colname="Author">F. Scott Fitzgerald</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Big Sky</entry>
+                            <entry colname="Author">A.B. Guthrie</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">As I Lay Dying</entry>
+                            <entry colname="Author">William Faulkner</entry>
+                            <entry colname="Notes">USNA English</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Tale of Two Cities</entry>
+                            <entry colname="Author">Charles Dickens</entry>
+                            <entry colname="Notes">10th grade and USNA English</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">HMS Ulysses</entry>
+                            <entry colname="Author">Alistair McLean</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Caine Mutiny</entry>
+                            <entry colname="Author">Herman Wouk</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Cruel Sea</entry>
+                            <entry colname="Author">Nicholas Monsarrat</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Heart of Darkness</entry>
+                            <entry colname="Author">Joseph Conrad</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Lord Jim</entry>
+                            <entry colname="Author">Joseph Conrad</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Fields of Fire</entry>
+                            <entry colname="Author">James Webb</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Sense of Honor</entry>
+                            <entry colname="Author">James Webb</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Country Such as This</entry>
+                            <entry colname="Author">James Webb</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Wold According to Garp</entry>
+                            <entry colname="Author">John Irving</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Great True Spy Stories</entry>
+                            <entry colname="Author">Allen Dulles</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Hunt for Red October</entry>
+                            <entry colname="Author">Tom Clancy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Dr. No</entry>
+                            <entry colname="Author">Ian Fleming</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Red Badge of Courage</entry>
+                            <entry colname="Author">Stephen Crane</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Invisible Man</entry>
+                            <entry colname="Author">Ralph Ellison</entry>
+                            <entry>9th Grade English</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Vietnam: A History</entry>
+                            <entry colname="Author">Stanley Karnow</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Prince</entry>
+                            <entry colname="Author">Nicolo Machiavelli</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Fail-Safe</entry>
+                            <entry colname="Author">Burdick &amp; Wheeler</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Complete Sherlock Holmes</entry>
+                            <entry colname="Author">Arthur Conan Doyle</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">American Caesar</entry>
+                            <entry colname="Author">William Manchester</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">One Hundred Years of Solitude</entry>
+                            <entry colname="Author">Gabriel Garcia Marquez</entry>
+                            <entry colname="Notes">USNA English</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Invisible Man</entry>
+                            <entry colname="Author">Ralph Ellison</entry>
+                            <entry colname="Notes">H.S. 9th Grade English</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Flag for Sunrise</entry>
+                            <entry colname="Author">Robert Stone</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Sun Also Rises</entry>
+                            <entry colname="Author">Ernest Hemingway</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Guns of August</entry>
+                            <entry colname="Author">Barbara Tuchman</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Distant Mirror</entry>
+                            <entry colname="Author">Barbara Tuchman</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Bury My Heart at Wounded Knee</entry>
+                            <entry colname="Author">Dee Brown</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Worldly Philosophers</entry>
+                            <entry colname="Author">Robert Heilbroner</entry>
+                            <entry colname="Notes">USNA Economics</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Iliad</entry>
+                            <entry colname="Author">Homer</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Odyssey</entry>
+                            <entry colname="Author">Homer</entry>
+                            <entry colname="Notes">H.S. 12th Grade English</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Ivanhoe</entry>
+                            <entry colname="Author">Sir Walter Scott</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Killer Angels</entry>
+                            <entry colname="Author">Michael Shaara</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Battle to Save the Houston</entry>
+                            <entry colname="Author">John Grider Miller</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Le Morte D'Arthur</entry>
+                            <entry colname="Author">Sr Thomas Mallory</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Virginian</entry>
+                            <entry colname="Author">Owen Wister</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Last of the Mohicans</entry>
+                            <entry colname="Author">James Fenimore Cooper</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Right Stuff</entry>
+                            <entry colname="Author">Tom Wolfe</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Moby Dick</entry>
+                            <entry colname="Author">Herman Melville</entry>
+                            <entry colname="Notes">H.S. 12th Grade English</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Japanese Inn</entry>
+                            <entry colname="Author">Oliver Statler</entry>
+                            <entry colname="Notes">USNA Chinese/Japanese History</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Shogun</entry>
+                            <entry colname="Author">James Clavell</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Farenheit 451</entry>
+                            <entry colname="Author">Ray Bradbury</entry>
+                            <entry colname="Notes">H.S. 10th Grade English</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Moll Flanders</entry>
+                            <entry colname="Author">Daniel Dafoe</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Cosmos</entry>
+                            <entry colname="Author">Carl Sagan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Rumor of War</entry>
+                            <entry colname="Author">Philip Caputo</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Run Silent, Run Deep</entry>
+                            <entry colname="Author">Cdr. Edward L. Beach</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Cold is the Sea</entry>
+                            <entry colname="Author">Capt. Edward L. Beach</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Third World War: August 1985</entry>
+                            <entry colname="Author">Gen. Sir John Hackett</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Third World War: The Untold Story</entry>
+                            <entry colname="Author">Gen. Sir John Hackett</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Red Storm Rising</entry>
+                            <entry colname="Author">Tom Clancy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Patriot Games</entry>
+                            <entry colname="Author">Tom Clancy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Shining</entry>
+                            <entry colname="Author">Stephen King</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Stand</entry>
+                            <entry colname="Author">Stephen King</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Night Shift</entry>
+                            <entry colname="Author">Stephen King</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Animal Farm</entry>
+                            <entry colname="Author">George Orwell</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">1984</entry>
+                            <entry colname="Author">George Orwell</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">White-Jacket</entry>
+                            <entry colname="Author">Herman Melville</entry>
+                            <entry colname="Notes">USNA Naval History</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Dune</entry>
+                            <entry colname="Author">Frank Herbert</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Dune Messiah</entry>
+                            <entry colname="Author">Frank Herbert</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Children of Dune</entry>
+                            <entry colname="Author">Frank Herbert</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Rickenbacker</entry>
+                            <entry colname="Author">Edward V. Rickenbacker</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The War of the Running Dogs</entry>
+                            <entry colname="Author">Noel Barber</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Mr. Lincoln's Army</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Glory Road</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Stillness at Appomatox</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Centennial History of the Civil War</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Captain Sam Grant</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Grant Moves South</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Grant Takes Command</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">This Hallowed Ground</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Move Your Shadow</entry>
+                            <entry colname="Author">Joseph Lelyveld</entry>
+                            <entry colname="Notes">USNA African Politics</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Things Fall Apart</entry>
+                            <entry colname="Author">Chinua Achebe</entry>
+                            <entry colname="Notes">USNA African Politics</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">All Quiet on the Western Front</entry>
+                            <entry colname="Author">Erich Maria Remarque</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Story of Civilization: The Reformation</entry>
+                            <entry colname="Author">Will and Ariel Durant</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Firefox</entry>
+                            <entry colname="Author">Craig Thomas</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Rosemary's Baby</entry>
+                            <entry colname="Author">Ira Levin</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Exorcist</entry>
+                            <entry colname="Author">Peter Blatty</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Jaws</entry>
+                            <entry colname="Author">Peter Benchley</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Goodbye to All That</entry>
+                            <entry colname="Author">Robert Graves</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">I, Claudius</entry>
+                            <entry colname="Author">Robert Graves</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Claudius the God</entry>
+                            <entry colname="Author">Robert Graves</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Korean War</entry>
+                            <entry colname="Author">Max Hastings</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Crusade In Europe</entry>
+                            <entry colname="Author">Gen. Dwight D. Eisenhower</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Eagle Against the Sun: The American War with Japan</entry>
+                            <entry colname="Author">Ronald Spector</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">At Dawn We Slept</entry>
+                            <entry colname="Author">Gordon Prange</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Night to Remember</entry>
+                            <entry colname="Author">Walter Lord</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Day of Infamy</entry>
+                            <entry colname="Author">Walter Lord</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Dawn's Early Light</entry>
+                            <entry colname="Author">Walter Lord</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Bridge Too Far</entry>
+                            <entry colname="Author">Cornelius Ryan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Infamy</entry>
+                            <entry colname="Author">John Toland</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Day of the Jackal</entry>
+                            <entry colname="Author">Frederick Forsyth</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Dogs of War</entry>
+                            <entry colname="Author">Frederick Forsyth</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Odessa File</entry>
+                            <entry colname="Author">Frederick Forsyth</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Fifth Horseman</entry>
+                            <entry colname="Author">Collins and Lapierre</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Thinking in Time</entry>
+                            <entry colname="Author">Neustadt and May</entry>
+                            <entry colname="Notes">USNA Ideology, Religion and Terrorism class</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Battle Cry of Freedom</entry>
+                            <entry colname="Author">James McPherson</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Coming Fury</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Terrible Swift Sword</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Never Call Retreat</entry>
+                            <entry colname="Author">Bruce Catton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Mask of Command</entry>
+                            <entry colname="Author">John Keegan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Face of Battle</entry>
+                            <entry colname="Author">John Keegan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Price of Admiralty</entry>
+                            <entry colname="Author">John Keegan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Battle Cry</entry>
+                            <entry colname="Author">Leon Uris</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Mila 18</entry>
+                            <entry colname="Author">Leon Uris</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Exodus</entry>
+                            <entry colname="Author">Leon Uris</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Agony and the Ecstasy</entry>
+                            <entry colname="Author">Irving Stone</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Tales of the South Pacific</entry>
+                            <entry colname="Author">James Michener</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Chesapeake</entry>
+                            <entry colname="Author">James Michener</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Centennial</entry>
+                            <entry colname="Author">James Michener</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Source</entry>
+                            <entry colname="Author">James Michener</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Bridges at Toko-ri</entry>
+                            <entry colname="Author">James Michener</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Space</entry>
+                            <entry colname="Author">James Michener</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Eye of the Needle</entry>
+                            <entry colname="Author">Ken Follett</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Key to Rebecca</entry>
+                            <entry colname="Author">Ken Follet</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Man from St. Petersburg</entry>
+                            <entry colname="Author">Ken Follet</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">On Wings of Eagles</entry>
+                            <entry colname="Author">Ken Follet</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Sacred Rage: The Wrath of Militant Islam</entry>
+                            <entry colname="Author">Robin Wright</entry>
+                            <entry colname="Notes">USNA Ideology, Religion and Terrorism class</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Power of Myth</entry>
+                            <entry colname="Author">Joseph Campbell</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Origin</entry>
+                            <entry colname="Author">Irving Stone</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Pueblo Incident</entry>
+                            <entry colname="Author">Daniel Gallery</entry>
+                            <entry colname="Notes">USNA Naval History</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">My Story</entry>
+                            <entry colname="Author">Lloyd Bucher and Mark Rascovich</entry>
+                            <entry colname="Notes">USNA Naval History</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Death in Venice</entry>
+                            <entry colname="Author">Thomas Mann</entry>
+                            <entry colname="Notes">USNA Western Culture</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Big E</entry>
+                            <entry colname="Author">Edward P. Stafford</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Bay of Pigs: The Untold Story</entry>
+                            <entry colname="Author">Peter Wyden</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Catcher in the Rye</entry>
+                            <entry colname="Author">J.D. Salinger</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Swordbearers: Supreme Command in the
+                                    First World War</entry>
+                            <entry colname="Author">Corelli Barnett</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Confessions of Nat Turner</entry>
+                            <entry colname="Author">William Styron</entry>
+                            <entry colname="Notes"></entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Hitch Hikers Guide to the Galaxy</entry>
+                            <entry colname="Author">Douglas Adams</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>                          
+                            <entry colname="Title">The Jungle</entry>
+                            <entry colname="Author">Upton Sinclair</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title"/>
+                            <entry colname="Author"/>
+                            <entry colname="Notes"/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </d:para>
+    </d:chapter>
+    <d:chapter>
+        <d:title>1990's</d:title>
+        <d:para>
+            <table xmlns="http://docbook.org/ns/docbook" frame="all">
+                <title>Book List</title>
+                <tgroup cols="3">
+                    <colspec colname="Title" colnum="1"/>
+                    <colspec colname="Author" colnum="2"/>
+                    <colspec colname="Notes" colnum="3"/>
+                    <thead>
+                        <row>
+                            <entry colname="Title">Title</entry>
+                            <entry colname="Author">Author</entry>
+                            <entry colname="Notes">Notes</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry colname="Title">A History of Warfare</entry>
+                            <entry colname="Author">John Keegan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Man Without a Face</entry>
+                            <entry colname="Author">Markus Wolf</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Consolations of Philosophy</entry>
+                            <entry colname="Author">Boethius</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">We Never Make Mistakes</entry>
+                            <entry colname="Author">Aleksandr Solzhenitsyn</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">My Antonia</entry>
+                            <entry colname="Author">Willa Cather</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Sound and the Fury</entry>
+                            <entry colname="Author">William Faulkner</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Blue Highways</entry>
+                            <entry colname="Author">William Least Half-Moon</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Seven Pillars of Wisdom</entry>
+                            <entry colname="Author">T.E. Lawrence</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">One Day in the Life of Ivan Denisovich</entry>
+                            <entry colname="Author">Aleksandr Solzhenitsyn</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Zen and the Art of Motorcycle Maintenance</entry>
+                            <entry colname="Author">William Pirsig</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Crime and Punishment</entry>
+                            <entry colname="Author">Fyodor Dostoevsky</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Starship Trooper</entry>
+                            <entry colname="Author">Robert Heinlein</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The March of Folly</entry>
+                            <entry colname="Author">Barbara Tuchman</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">In Search of Excellence</entry>
+                            <entry colname="Author">Peters and Waterman</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">7 Habits of Highly Effective People</entry>
+                            <entry colname="Author">Stephen Covey</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">How to Win Friends and Influence People</entry>
+                            <entry colname="Author">Dale Carnegie</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Power of Positive Thinking</entry>
+                            <entry colname="Author">Norman Vincent Peale</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Madame Bovary</entry>
+                            <entry colname="Author">Gustave Flaubert</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">King Rat</entry>
+                            <entry colname="Author">James Clavell</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Soldier of the Great War</entry>
+                            <entry colname="Author">Mark Helprin</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">My Traitor's Heart</entry>
+                            <entry colname="Author">Rian Malan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Faith of My Fathers</entry>
+                            <entry colname="Author">John McCain and Mark Salter</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Winters Tale</entry>
+                            <entry colname="Author">Mark Helprin</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Tales from an Antproof Case</entry>
+                            <entry colname="Author">Mark Helprin</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Clear and Present Danger</entry>
+                            <entry colname="Author">Tom Clancy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Sum of All Fears</entry>
+                            <entry colname="Author">Tom Clancy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Without Remorse</entry>
+                            <entry colname="Author">Tom Clancy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Dark Tower: The Gunslinger</entry>
+                            <entry colname="Author">Stephen King</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Misery</entry>
+                            <entry colname="Author">Stephen King</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">It</entry>
+                            <entry colname="Author">Stephen King</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Skeleton Crew</entry>
+                            <entry colname="Author">Stephen King</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Gulag Archipeligo</entry>
+                            <entry colname="Author">Aleksandr Solzhenitsyn</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Emporer's General</entry>
+                            <entry colname="Author">James Webb</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Book of Virtues</entry>
+                            <entry colname="Author">William J. Bennett</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Silmarillion</entry>
+                            <entry colname="Author">J.R.R Tolkien</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Death of Common Sense</entry>
+                            <entry colname="Author">Philip K. Howard</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The First Man in Rome</entry>
+                            <entry colname="Author">Colleen McCullough</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Grass Crown</entry>
+                            <entry colname="Author">Colleen McCullough</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Fortune's Favorites</entry>
+                            <entry colname="Author">Colleen McCullough</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Blood Meridian</entry>
+                            <entry colname="Author">Cormac McCarthy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">All the Pretty Horses</entry>
+                            <entry colname="Author">Cormac McCarthy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Crossing</entry>
+                            <entry colname="Author">Cormac McCarthy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Cities of the Plain</entry>
+                            <entry colname="Author">Cormac McCarthy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">To War in a Stringbag</entry>
+                            <entry colname="Author">Charles Lamb</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Marine Sniper</entry>
+                            <entry colname="Author">Charles Henderson</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Bright Shining Lie: John Paul Vann and America in Vietnam</entry>
+                            <entry colname="Author">Neil Sheehan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">George Patton: A Genius for War</entry>
+                            <entry colname="Author">Carlo D'Este</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Case Closed: Lee Harvey Oswald and the Assissination of JFK</entry>
+                            <entry colname="Author">Gerald Posner</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The River and The Gauntlet</entry>
+                            <entry colname="Author">S.L.A. Marshall</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">We Were Soldiers Once … And Young</entry>
+                            <entry colname="Author">Harold G. Moore and Joseph L. Galloway</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">About Face: The Odyssey of an American Warrior</entry>
+                            <entry colname="Author">Col. David Hackworth</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The 13th Valley</entry>
+                            <entry colname="Author">John DelVecchio</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">For the Sake of All Living Things</entry>
+                            <entry colname="Author">John DelVecchio</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Six Armies in Normandy</entry>
+                            <entry colname="Author">John Keegan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Byzantium: The Early Centuries</entry>
+                            <entry colname="Author">John Julian Norwich</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Byzantium: The Apogee</entry>
+                            <entry colname="Author">John Julian Norwich</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Byzantium: The Decline and Fall</entry>
+                            <entry colname="Author">John Julian Norwich</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Nightingale's Song</entry>
+                            <entry colname="Author">Robert Timberg</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">In Harm's Way: The Sinking of the USS Indianapolis and the Extraordinary Story of Its Survivors</entry>
+                            <entry colname="Author">Doug Stanton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Master of Disguise: My Secret Life in the CIA</entry>
+                            <entry colname="Author">Anthonio Mendez</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Stonewall in the Valley</entry>
+                            <entry colname="Author">Robert Tanner</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Memoirs</entry>
+                            <entry colname="Author">Gen. William T. Sherman</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Memoirs</entry>
+                            <entry colname="Author">Gen. Ulysses Grant</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Iron Brigade</entry>
+                            <entry colname="Author">Alan T. Nolan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Battle of the Wilderness</entry>
+                            <entry colname="Author">Gordon Rhea</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The First World War</entry>
+                            <entry colname="Author">John Keegan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Churchill's Generals</entry>
+                            <entry colname="Author">John Keegan editor</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Undaunted Courage</entry>
+                            <entry colname="Author">Stephen Ambrose</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Lincoln</entry>
+                            <entry colname="Author">David Herbert Donald</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Night Over Water</entry>
+                            <entry colname="Author">Ken Follet</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Absolute Power</entry>
+                            <entry colname="Author">David Baldacci</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Age and Guile Beat Youth, Innocence, and a Bad Haircut</entry>
+                            <entry colname="Author">P.J. O'Rourke</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Eat the Rich</entry>
+                            <entry colname="Author">P.J. O'Rourke</entry>
+                            <entry colname="Notes">Audio Book</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">One Flew Over the Cuckoos Nest</entry>
+                            <entry colname="Author">Ken Kesey</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Fear and Loathing in Los Vegas</entry>
+                            <entry colname="Author">Hunter S. Thomson</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">On the Road </entry>
+                            <entry colname="Author">Jack Kerouac</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">I Know Why The Caged Bird Sings</entry>
+                            <entry colname="Author">Maya Angelou</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Rogue Warrior</entry>
+                            <entry colname="Author">Richard Marcinko with John Weisman</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Red Cell</entry>
+                            <entry colname="Author">Richard Marcinko with John Weisman</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Green Team</entry>
+                            <entry colname="Author">Richard Marcinko with John Weisman</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Option Delta</entry>
+                            <entry colname="Author">Richard Marcinko with John Weisman</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Last Stand! Famous Battles Against the Odds</entry>
+                            <entry colname="Author">Bryan Perrett</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A River Runs Through It</entry>
+                            <entry colname="Author">Norman Maclean</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Young Men and Fire</entry>
+                            <entry colname="Author">Norman Maclean</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Foucault's Pendulum,</entry>
+                            <entry colname="Author">Umberto Eco</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Island of the Day Before</entry>
+                            <entry colname="Author">Umberto Eco</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Name of the Rose</entry>
+                            <entry colname="Author">Umberto Eco</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Autobiography of Benjamin Franklin</entry>
+                            <entry colname="Author">Benjamin Franklin</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Last Ship</entry>
+                            <entry colname="Author">William Brinkley</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Town Like Alice</entry>
+                            <entry colname="Author">Nevil Shute</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Interview with the Vampire</entry>
+                            <entry colname="Author">Anne Rice</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Lasher</entry>
+                            <entry colname="Author">Anne Rice</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Lonesome Dove</entry>
+                            <entry colname="Author">Larry McMurtry</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Comanche Moon</entry>
+                            <entry colname="Author">Larry McMurtry</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </d:para>
+    </d:chapter>
+    <d:chapter>
+        <d:title>2000's</d:title>
+        <d:para>
+            <table xmlns="http://docbook.org/ns/docbook" frame="all">
+                <title>Book List</title>
+                <tgroup cols="3">
+                    <colspec colname="Title" colnum="1"/>
+                    <colspec colname="Author" colnum="2"/>
+                    <colspec colname="Notes" colnum="3"/>
+                    <thead>
+                        <row>
+                            <entry colname="Title">Title</entry>
+                            <entry colname="Author">Author</entry>
+                            <entry colname="Notes">Notes</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry colname="Title">Dr. Zhivago</entry>
+                            <entry colname="Author">Boris Pasternak</entry>
+                            <entry colname="Notes">2006?</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">August 1914</entry>
+                            <entry colname="Author">Aleksandr Solzhenitsyn</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">November 1916: The Red Wheel II</entry>
+                            <entry colname="Author">Aleksandr Solzhenitsyn</entry>
+                            <entry colname="Notes">2006?</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Stories from the Secret War</entry>
+                            <entry colname="Author">Terrance M. Burke</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Screwtape Letters</entry>
+                            <entry colname="Author">C.S. Lewis</entry>
+                            <entry colname="Notes">2006?</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Alices' Adventures in Wonderland</entry>
+                            <entry colname="Author">Lewis Carroll</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Up From Slavery</entry>
+                            <entry colname="Author">Booker T. Washington</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Guns, Germs and Steel</entry>
+                            <entry colname="Author">Jared Diamond</entry>
+                            <entry colname="Notes">Audio Book</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Liar's Poker</entry>
+                            <entry colname="Author">Michael Lewis</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Once Upon a Town</entry>
+                            <entry colname="Author">Bob Green</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Road</entry>
+                            <entry colname="Author">Cormac McCarthy</entry>
+                            <entry colname="Notes">2006</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">No Country for Old Men</entry>
+                            <entry colname="Author">Cormac McCarthy</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">When Pride Still Mattered: A Life of Vince Lombardi</entry>
+                            <entry colname="Author">David Maraniss</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">John Paul Jones: A Sailor's Biography</entry>
+                            <entry colname="Author">Samuel Elliot Morrison</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Sheridan</entry>
+                            <entry colname="Author">Richard O'Connor</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">From Dawn to Decadence</entry>
+                            <entry colname="Author">Jacques Barzun</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Team of Rivals</entry>
+                            <entry colname="Author">Doris Kearns Goodwin</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">In The Beginning was the Command Line</entry>
+                            <entry colname="Author">Neil Stephenson</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Cryptonomicon</entry>
+                            <entry colname="Author">Neil Stephenson</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title"></entry>
+                            <entry colname="Author"></entry>
+                            <entry colname="Notes"></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </d:para>
+    </d:chapter>
+    <d:chapter>
+        <d:title>2010's</d:title>
+        <d:para>
+            <table xmlns="http://docbook.org/ns/docbook" frame="all">
+                <title>Book List</title>
+                <tgroup cols="3">
+                    <colspec colname="Title" colnum="1"/>
+                    <colspec colname="Author" colnum="2"/>
+                    <colspec colname="Notes" colnum="3"/>
+                    <thead>
+                        <row>
+                            <entry colname="Title">Title</entry>
+                            <entry colname="Author">Author</entry>
+                            <entry colname="Notes">Notes</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry colname="Title">The Mortal Danger</entry>
+                            <entry colname="Author">Aleksandr Solzhenitsyn</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Beowulf</entry>
+                            <entry colname="Author">J.R.R. Tolkein, translator</entry>
+                            <entry colname="Notes">2015</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Lion's Gate</entry>
+                            <entry colname="Author">Steven Pressfield</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Big Short</entry>
+                            <entry colname="Author">Michael Lewis</entry>
+                            <entry colname="Notes">Audio Book</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title"></entry>
+                            <entry colname="Author"></entry>
+                            <entry colname="Notes"></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </d:para>
+    </d:chapter>
+</d:book>
