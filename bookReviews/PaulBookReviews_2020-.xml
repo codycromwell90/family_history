@@ -1053,6 +1053,83 @@
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Nicomachean Ethics</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Aristotle</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>8/16/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>This  is a tough book to read straight through; it is really better
+                            suited as the basis for a course in ethics. The first challenge is in
+                            the specialized language. For instance, Arisotle's prime concern in this
+                            book is how to live to achieve happiness. In modern usage, happiness is
+                            a feeling - think of the yellow smiley face figure. But for Aristotle,
+                            happiness is not a feeling, but the achievement of the higest possible
+                            goodness. Good is another word that differs greatly from Aritotle's
+                            meaning and common usage today.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Science and the Good</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>John D. Hunter and Paul
+                    Nedelisky</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>8/20/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>An interesting overview of the attempt by some scientist to assert a
+                            scientific theory of morality. In some sense this is understandable
+                            given the endless conflict and controversy that continue in spite of the
+                            best efforts of philosphers and theologians to develop a universal
+                            standard of morality. But the authors point out that over 200 years of
+                            scientific efforts have done no better. Worse, some scientists, in order
+                            to make their hypothosesis fit their facts, seem to have concluded that
+                            there is no such thing as morality at all. The authors are not at all
+                            anti-scientific, and certainly aren't in the least pro-religion. Rather,
+                            they are two left-of-center academians who recognize that an attempt to
+                            explain away morality allows anyone to justify their actions, good or
+                            bad.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Republic</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Plato</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/1/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>An electronic book from Amazon.com. The formatting was absolute
+                            trash. Instead of electronic text, the book consisted of electronic
+                            images of scanned pages. The images didn't even fit 100% within the
+                            viewer, and the type was painfully small. And I suspect that there are
+                            some pages missing. Despite this, The Republic may be Plato's most
+                            famous work. It is written as a dialoge between Socrates and his
+                            friends, and begins with some of his colleagues asserting that the
+                            unjust are happier than the just. The rest of the book is an examination
+                            of justice, happiness and the nature of the city state that would
+                            promote justice. It is best to think of this as a "thought experiment"
+                            rather than a handbook for a political platform. Because many of his
+                            ideas, taken simply at face value, sound more like the republic of
+                            Florence under Savoronella, or the Bolshevik Soviet Union or Nazi
+                            Germany. Indeed, Plato's (or Socrates, I'm not sure if these are truly
+                            Socrates' views) suggestions point to the modern obession of developing
+                            the right social structure to ensure human flourishing. But if, instead,
+                            you read it a framework for questioning human learning and behavior in
+                            the pursuit of betterment, it is still useful even if some of the
+                            prescriptions have been disproven by later history. All in all, I prefer
+                            Aristotle's "lecture" style of writing, emphasis on "means"  than
+                            Plato's dialogues and emphasis on the eternal forms. Too many times,
+                            Socrates' companions are little more than strawmen, or worse, sycophants
+                            who simply agree with everything he proposes.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
     </d:chapter>
     <d:appendix>
         <d:title>Template</d:title>
