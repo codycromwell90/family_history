@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<book xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <title>Journal: 1931-1935</title>
+        <author>
+            <personname>Elizabeth Anne Jennings</personname>
+            <address>
+                <street>Linden Lane</street>
+                <city>Sewickley</city>
+                <state>Pennsylvania</state>            
+            </address>
+        </author>
+        <revhistory>
+            <revision>
+                <revnumber>1</revnumber>
+                <date>2020-05-13</date>
+                <authorinitials>PSK</authorinitials>
+            </revision>
+        </revhistory>
+    </info>
+    <chapter>
+        <title>Introduction</title>
+        <para><inlinemediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="left"
+                        fileref="../ajk_journal_1931-1935/images/jan/ajk_journal026.jpg"/>
+                </imageobject>
+            </inlinemediaobject></para>
+        <para>Dec. 31, 1928   Anne Jennings</para>
+        <para>Diary of Elizabeth Anne Jennings, later Anne Jennings Krush. Known to me and her other
+            grandchildren as "Nanny." Her eldest daughter, Carol Krush, inherited all of Nanny's
+            journals. Aunt Carol sent the journals to me in February, 2020.</para>
+        <para>This journal has an interesting set-up; one page for each day of the year, but with
+            lines allowing entries for the same day on four different years.</para>           
+    </chapter>
+    <chapter>
+        <title>JANUARY</title>
+        <simplesect>
+            <title>JANUARY 1</title>
+            <para><inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal027.jpg"/>
+                    </imageobject>
+                </inlinemediaobject></para>
+            <formalpara>
+                <title>JANUARY 1</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+        <?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 2 - 3</title>
+            <para><inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal028.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 2</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 3</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 4 - 5</title>
+            <para><inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal029.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 4</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 5</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 6 - 7</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal030.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 6</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 7</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 8 - 9</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal031.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 8</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 9</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 10 - 11</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal032.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 10</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 11</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 12 - 13</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal033.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 12</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 13</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 14 - 15</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal034.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 14</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 15</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 16 - 17</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal035.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 16</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 17</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 18 - 19</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal036.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 18</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 19</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 20 - 21</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal037.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 20</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 21</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 22 - 23</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal038.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 22</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 23</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 24 - 25</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal039.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 24</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 25</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 26 - 27</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal040.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 26</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 27</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 28 - 29</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal041.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 28</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 29</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+<?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>JANUARY 30 - 31</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/jan/ajk_journal042.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>JANUARY 30</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>JANUARY 31</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - </para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 -</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+    </chapter>
+</book>
