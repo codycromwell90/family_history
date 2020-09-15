@@ -859,6 +859,11 @@
                             <entry colname="Notes"/>
                         </row>
                         <row>
+                            <entry colname="Title">Veil: The Secret Wars of the CIA</entry>
+                            <entry colname="Author">Robert Woodward</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
                             <entry colname="Title"/>
                             <entry colname="Author"/>
                             <entry colname="Notes"/>
@@ -1356,13 +1361,14 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry/>
-                            <entry/>
+                            <entry>The Last Picture Show</entry>
+                            <entry>Larry McMurtry</entry>
                             <entry/>
                         </row>
                         <row>
-                            <entry/>
-                            <entry/>
+                            <entry>Blind Man's Bluff: The Untold Story of American Submarine
+                                Espionage</entry>
+                            <entry>Sherry Sontag &amp; Christopher Drew</entry>
                             <entry/>
                         </row>
                         <row>
@@ -1488,9 +1494,14 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title"></entry>
-                            <entry colname="Author"></entry>
+                            <entry colname="Title">Unrestricted Warfare</entry>
+                            <entry colname="Author">James F. DeRose</entry>
                             <entry colname="Notes"></entry>
+                        </row>
+                        <row>
+                            <entry colname="Title"/>
+                            <entry colname="Author"/>
+                            <entry colname="Notes"/>
                         </row>
                     </tbody>
                 </tgroup>
