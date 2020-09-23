@@ -111,6 +111,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Synthetic Men of Mars</entry>
+                            <entry colname="Author">Edgar Rice Burroughs</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">Guadalcanal Diary</entry>
                             <entry colname="Author">Richard Tregakskis</entry>
                             <entry/>
@@ -133,7 +138,7 @@
                         <row>
                             <entry colname="Title">The Ra Expeditions</entry>
                             <entry colname="Author">Thor Hyerdahl</entry>
-                            <entry colname="Notes"></entry>
+                            <entry colname="Notes"/>
                         </row>
                         <row>
                             <entry colname="Title">The Kon-Tiki Expedition</entry>
@@ -148,6 +153,21 @@
                         <row>
                             <entry colname="Title">My Friend Flicka</entry>
                             <entry colname="Author">Mary O'Hara</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Black Beauty</entry>
+                            <entry colname="Author">Anna Sewell</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Child's History of England</entry>
+                            <entry colname="Author">Charles Dickens</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title"/>
+                            <entry colname="Author"/>
                             <entry colname="Notes"/>
                         </row>
                         <row>
@@ -180,7 +200,8 @@
                         <row>
                             <entry colname="Title">Alive and Dead in Indiana</entry>
                             <entry colname="Author">Michael Martone</entry>
-                            <entry colname="Notes">Gift from Karl Pence, H.S. Engilsh teacher</entry>
+                            <entry colname="Notes">Gift from Karl Pence, H.S. Engilsh
+                                teacher</entry>
                         </row>
                         <row>
                             <entry colname="Title">In War's Dark Shadow</entry>
@@ -280,6 +301,51 @@
                         <row>
                             <entry colname="Title">Dr. No</entry>
                             <entry colname="Author">Ian Fleming</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Live and Let Die</entry>
+                            <entry colname="Author">Ian Fleming</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Casion Royale</entry>
+                            <entry colname="Author">Ian Fleming</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Moonraker</entry>
+                            <entry colname="Author">Ian Fleming</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Diamonds Are Forever</entry>
+                            <entry colname="Author">Ian Fleming</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">From Russia, with Love</entry>
+                            <entry colname="Author">Ian Fleming</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Thunderball</entry>
+                            <entry colname="Author">Ian Fleming</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Octopussy and The Living Daylights</entry>
+                            <entry colname="Author">Ian Fleming</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">You Only Live Twice</entry>
+                            <entry colname="Author">Ian Fleming</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Streetcar Named Desire</entry>
+                            <entry colname="Author">Tennessee Williams</entry>
                             <entry/>
                         </row>
                         <row>
@@ -578,7 +644,8 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">The Story of Civilization: The Reformation</entry>
+                            <entry colname="Title">The Story of Civilization: The
+                                Reformation</entry>
                             <entry colname="Author">Will and Ariel Durant</entry>
                             <entry/>
                         </row>
@@ -628,7 +695,8 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Eagle Against the Sun: The American War with Japan</entry>
+                            <entry colname="Title">Eagle Against the Sun: The American War with
+                                Japan</entry>
                             <entry colname="Author">Ronald Spector</entry>
                             <entry/>
                         </row>
@@ -685,7 +753,8 @@
                         <row>
                             <entry colname="Title">Thinking in Time</entry>
                             <entry colname="Author">Neustadt and May</entry>
-                            <entry colname="Notes">USNA Ideology, Religion and Terrorism class</entry>
+                            <entry colname="Notes">USNA Ideology, Religion and Terrorism
+                                class</entry>
                         </row>
                         <row>
                             <entry colname="Title">Battle Cry of Freedom</entry>
@@ -795,7 +864,8 @@
                         <row>
                             <entry colname="Title">Sacred Rage: The Wrath of Militant Islam</entry>
                             <entry colname="Author">Robin Wright</entry>
-                            <entry colname="Notes">USNA Ideology, Religion and Terrorism class</entry>
+                            <entry colname="Notes">USNA Ideology, Religion and Terrorism
+                                class</entry>
                         </row>
                         <row>
                             <entry colname="Title">The Power of Myth</entry>
@@ -838,22 +908,22 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">The Swordbearers: Supreme Command in the
-                                    First World War</entry>
+                            <entry colname="Title">The Swordbearers: Supreme Command in the First
+                                World War</entry>
                             <entry colname="Author">Corelli Barnett</entry>
                             <entry/>
                         </row>
                         <row>
                             <entry colname="Title">The Confessions of Nat Turner</entry>
                             <entry colname="Author">William Styron</entry>
-                            <entry colname="Notes"></entry>
+                            <entry colname="Notes"/>
                         </row>
                         <row>
                             <entry colname="Title">The Hitch Hikers Guide to the Galaxy</entry>
                             <entry colname="Author">Douglas Adams</entry>
                             <entry colname="Notes"/>
                         </row>
-                        <row>                          
+                        <row>
                             <entry colname="Title">The Jungle</entry>
                             <entry colname="Author">Upton Sinclair</entry>
                             <entry colname="Notes"/>
@@ -861,6 +931,36 @@
                         <row>
                             <entry colname="Title">Veil: The Secret Wars of the CIA</entry>
                             <entry colname="Author">Robert Woodward</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Macbeth</entry>
+                            <entry colname="Author">William Shakespeare</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Death of a Salesman</entry>
+                            <entry colname="Author">Arthur Miller</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">A Long Day's Journey Into Night</entry>
+                            <entry colname="Author">Eugene O'Neill</entry>
+                            <entry colname="Notes">USNA 9th Grade English</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Flotilla: Battle for the Patuxent</entry>
+                            <entry colname="Author">Donald Shomette</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Gorky Park</entry>
+                            <entry colname="Author">Martin Cruz Smith</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Pentagon and the Art of War</entry>
+                            <entry colname="Author">Edward Luttwak</entry>
                             <entry colname="Notes"/>
                         </row>
                         <row>
@@ -1116,7 +1216,8 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">A Bright Shining Lie: John Paul Vann and America in Vietnam</entry>
+                            <entry colname="Title">A Bright Shining Lie: John Paul Vann and America
+                                in Vietnam</entry>
                             <entry colname="Author">Neil Sheehan</entry>
                             <entry/>
                         </row>
@@ -1126,7 +1227,8 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Case Closed: Lee Harvey Oswald and the Assissination of JFK</entry>
+                            <entry colname="Title">Case Closed: Lee Harvey Oswald and the
+                                Assissination of JFK</entry>
                             <entry colname="Author">Gerald Posner</entry>
                             <entry/>
                         </row>
@@ -1141,7 +1243,8 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">About Face: The Odyssey of an American Warrior</entry>
+                            <entry colname="Title">About Face: The Odyssey of an American
+                                Warrior</entry>
                             <entry colname="Author">Col. David Hackworth</entry>
                             <entry/>
                         </row>
@@ -1181,12 +1284,14 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">In Harm's Way: The Sinking of the USS Indianapolis and the Extraordinary Story of Its Survivors</entry>
+                            <entry colname="Title">In Harm's Way: The Sinking of the USS
+                                Indianapolis and the Extraordinary Story of Its Survivors</entry>
                             <entry colname="Author">Doug Stanton</entry>
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">The Master of Disguise: My Secret Life in the CIA</entry>
+                            <entry colname="Title">The Master of Disguise: My Secret Life in the
+                                CIA</entry>
                             <entry colname="Author">Anthonio Mendez</entry>
                             <entry/>
                         </row>
@@ -1246,7 +1351,8 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Age and Guile Beat Youth, Innocence, and a Bad Haircut</entry>
+                            <entry colname="Title">Age and Guile Beat Youth, Innocence, and a Bad
+                                Haircut</entry>
                             <entry colname="Author">P.J. O'Rourke</entry>
                             <entry/>
                         </row>
@@ -1296,7 +1402,8 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Last Stand! Famous Battles Against the Odds</entry>
+                            <entry colname="Title">Last Stand! Famous Battles Against the
+                                Odds</entry>
                             <entry colname="Author">Bryan Perrett</entry>
                             <entry/>
                         </row>
@@ -1459,7 +1566,8 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">When Pride Still Mattered: A Life of Vince Lombardi</entry>
+                            <entry colname="Title">When Pride Still Mattered: A Life of Vince
+                                Lombardi</entry>
                             <entry colname="Author">David Maraniss</entry>
                             <entry/>
                         </row>
@@ -1496,7 +1604,7 @@
                         <row>
                             <entry colname="Title">Unrestricted Warfare</entry>
                             <entry colname="Author">James F. DeRose</entry>
-                            <entry colname="Notes"></entry>
+                            <entry colname="Notes"/>
                         </row>
                         <row>
                             <entry colname="Title"/>
@@ -1546,9 +1654,9 @@
                             <entry colname="Notes">Audio Book</entry>
                         </row>
                         <row>
-                            <entry colname="Title"></entry>
-                            <entry colname="Author"></entry>
-                            <entry colname="Notes"></entry>
+                            <entry colname="Title"/>
+                            <entry colname="Author"/>
+                            <entry colname="Notes"/>
                         </row>
                     </tbody>
                 </tgroup>
