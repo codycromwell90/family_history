@@ -1297,6 +1297,34 @@
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Day of Battle</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/4/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>The second of Mr. Atkinson's three-volume history of the U.S. Army
+                            in Europe in WWII. This volume covers the invasion of Sicily and the
+                            Italian campaign through the capture of Rome on June 5, 1944. As always,
+                            Mr. Atkinson delivers a compelling narrative. He does an excellent job
+                            weaving first hand accounts into the flow of events. He follows some
+                            individuals thoughout the couse of the campaing, and weaves in other
+                            individual voices to highlight particular events. He does not offer bold
+                            judgements of those in command, but he does evaluate controversies from
+                            all sides; noting the generally accepted verdicts while presenting the
+                            case of those being judged. In this volume, General Patton's slapping of
+                            two hospitalized soldiers and General Mark Clark's attacks along the
+                            Rapido River and the break out from Anzio are clearly the subjects that
+                            have received the most criticism over the years. Mr. Atkinson presents
+                            all the available facts, the reactions of those who particated in the
+                            events, the reactions of other officers and later historians and an
+                            occasional pointed comment of his own. But in the end, he leaves the
+                            reader to their own judgement.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
     </d:chapter>
     <d:appendix>
         <d:title>Template</d:title>

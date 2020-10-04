@@ -66,6 +66,11 @@
                             <entry colname="Notes"/>
                         </row>
                         <row>
+                            <entry colname="Title">Commando Extraordinary</entry>
+                            <entry colname="Author">Charles Foley</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
                             <entry colname="Title">Ten Who Dared</entry>
                             <entry colname="Author">Desmond Wilcox</entry>
                             <entry/>
@@ -859,7 +864,7 @@
                         </row>
                         <row>
                             <entry colname="Title">Le Morte D'Arthur</entry>
-                            <entry colname="Author">Sr Thomas Mallory</entry>
+                            <entry colname="Author">Sir Thomas Mallory</entry>
                             <entry/>
                         </row>
                         <row>
@@ -926,6 +931,11 @@
                             <entry colname="Title">The Jungle</entry>
                             <entry colname="Author">Upton Sinclair</entry>
                             <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Candide</entry>
+                            <entry colname="Author">Voltaire</entry>
+                            <entry colname="Notes">11th or 12th Grade English</entry>
                         </row>
                         <row>
                             <entry colname="Title">In War's Dark Shadow</entry>
@@ -1622,6 +1632,11 @@
                             <entry colname="Notes"/>
                         </row>
                         <row>
+                            <entry colname="Title">Gates of Fire</entry>
+                            <entry colname="Author">Steven Pressfield</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
                             <entry colname="Title"/>
                             <entry colname="Author"/>
                             <entry colname="Notes"/>
@@ -1659,7 +1674,7 @@
                             <entry colname="Notes">2015</entry>
                         </row>
                         <row>
-                            <entry colname="Title">The Lion's Gate</entry>
+                            <entry colname="Title">Lions Gate</entry>
                             <entry colname="Author">Steven Pressfield</entry>
                             <entry/>
                         </row>
