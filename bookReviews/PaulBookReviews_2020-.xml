@@ -207,7 +207,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Eugene
                     Vodolazkin</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>2/22/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>A very interesting novel. Solovyov is a graduate student in history
@@ -273,7 +273,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Joseph Cardinal
                     Ratzinger</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>3/29/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>I've been slowly working on this for a few years now. It is amusing
@@ -407,8 +407,7 @@
             <d:title><d:emphasis role="underline">March 1917 The Red Wheel Node III Book
                     1</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: Aleksandr Solzhenitsyn</d:emphasis>Dr.
-                    Seuss</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Aleksandr Solzhenitsyn</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>5/3/20</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
@@ -898,7 +897,7 @@
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>An art history of pre-revolutionary Russia. Although Ms. Massie has
-                            great enthusiasm for the subject, this book reads somewhat like a
+                            great enthusiasm for the subject, this book still reads somewhat like a
                             textbook.</d:para>
                     </d:annotation></d:member>
             </d:simplelist>
@@ -983,19 +982,6 @@
                             the shame of enabling "Jim Crow" and the Republican Party (in the 20th
                             century) that of genrally ignoring the issue altoghether. Issues of
                             artistic style aside, this remains a compelling novel.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Cat in the Hat</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Seuss</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Somebody, somebody has to you see. And then she picked out two
-                            somebodies, Sally and me.</d:para>
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
@@ -1138,10 +1124,11 @@
                             you read it a framework for questioning human learning and behavior in
                             the pursuit of betterment, it is still useful even if some of the
                             prescriptions have been disproven by later history. All in all, I prefer
-                            Aristotle's "lecture" style of writing, emphasis on "means" than Plato's
-                            dialogues and emphasis on the eternal forms. Too many times, Socrates'
-                            companions are little more than strawmen, or worse, sycophants who
-                            simply agree with everything he proposes.</d:para>
+                            Aristotle's "lecture" style of writing and his emphasis on achieving the
+                            "mean" between an excess and a dearth of a virtue to Plato's dialogues
+                            and emphasis on the eternal forms. Too many times, Socrates' companions
+                            are little more than strawmen, or worse, sycophants who simply agree
+                            with everything he proposes.</d:para>
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
@@ -1150,7 +1137,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Lucretius</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>9/10/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>An extended poem describing the tenets of Epicureanism. Key points
@@ -1325,6 +1312,100 @@
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Style: The Art of Writing Well</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>F.L. Lucas</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/6/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Highly recommended by Joseph Epstein. A common sense evaluation of
+                            how to write with good style. Certainly a highly subjective goal, but
+                            Mr. Lucas' suggestions seem to me to be on the right track. In summary:
+                            be honest, be consise, end sentences with strong words and paragraphs
+                            with strong sentences, pay attention to metre and don't be afraid of
+                            "poetic" devices such as simile and metaphor. In style, this book comes
+                            across as a lecture by a professor of long tenure. It is dated in the
+                            sense that many of his examples are in French or Greek. Perhaps, as a
+                            result of frequent trips to the endnotes for the translations, this
+                            makes his chapters seem longer than they need to be. If Mr. Epstein was
+                            a student of Mr. Lucas in developing his own style, then I would say
+                            that the student has surpassed the master.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Confidence Man</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Herman Melville</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/7/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Melville's journey to sea with the whaleship Pequod is unforgetable; his
+                            journey down the Mississipi on the steamer Fidele is long-winded and
+                            confusing.</d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Charterhouse of Parma</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Stendhal</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/08/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>This book was recommended in the Wall Street Journal Review section
+                            some years ago. I downloaded the electronic book from Amazon, read about
+                            120 pages and then set it aside. I came back to it today and realized
+                            that I could not realized that I could not recall any details of what I
+                            earlier read. A few pages more and I recalled that I do not care for
+                            wordy style or the lives of the noblemen and women portrayed in the
+                            novel.</d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Abelard and Heloise: The Letters and Other Writings</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>William Levitan, translator</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/9/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Anna is reading this in her English class. When I was ordering the
+                            electronic version of the book from Amazon, I was amused by one review
+                            in which the reader was disappointed that there was very little romance
+                            in the letters, but a great deal of instruction on how to run a
+                            monastery! The modern idea of a love letter is based on the Greek
+                            version of love Eros. While Peter and Heloise do acknowledge their
+                            "erotic" love, the letters are really more centered on the Greek version
+                            of love Agape. These are letters between two very intelligent and highly
+                            educated people, so the letters read generally read more like academic
+                            treatises than personal letters. But they do offer a very personal
+                            insight into life in medieval life and philosophy. </d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Thomas Aquinas: A Portrait</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Denys Turner</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/23/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>An introduction to the theology of Thomas Aquinas. Mr. Turner's
+                            style is rather dense, which is ironic since he frequently notes that
+                            St. Thomas' style was plain and direct. I prefer G.K. Chesterton's book
+                            in terms of biography and I prefer Peter Kreeft's A Shorter Summa as an
+                            introduction to his theology. But this book is worthwhile if you want
+                            more than a cursory introduction.</d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
     </d:chapter>
     <d:appendix>
         <d:title>Template</d:title>
@@ -1337,7 +1418,7 @@
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>Somebody, somebody has to you see. And then she picked out two
-                            somebodies, Sally and me.</d:para>
+                            somebodies, Sally and me.</d:para>                       
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>

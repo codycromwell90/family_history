@@ -256,7 +256,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Lewis</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>3/11/10</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis></d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>0</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>I've not yet decided on how to grade this book. It is a short series
@@ -785,7 +785,7 @@
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Admiral Farragut</d:emphasis></d:title>
             <d:simplelist>
-                <d:member>Author: Alfred Thayer Mahan</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Alfred Thayer Mahan</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>2/11/11</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
@@ -1335,7 +1335,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>G. K. Chesterton</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>12/16/12</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis></d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation><d:para/></d:annotation></d:member>
             </d:simplelist>
@@ -1345,7 +1345,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>J.R.R. Tolkien</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>12/17/12</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis></d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation><d:para/></d:annotation></d:member>
             </d:simplelist>
@@ -1408,7 +1408,7 @@
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Letters of St. Ignatius of Antioch</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Seuss</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>St. Ignatius of Antioch</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>2/13</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
@@ -1457,7 +1457,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Hilaire Belloc</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>4/22/13</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation><d:para>A short book describing the English defeat of the French during the 100 Years War.  
                         Like all the great English victories of this war the result was largely decided by the long bow.</d:para></d:annotation></d:member>
@@ -1597,7 +1597,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Richard McKenna</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>1/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">I didn’t read McKenna’s
@@ -1615,7 +1615,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> E.B. Sledge</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>2/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">The memoirs of a Marine who
@@ -1637,7 +1637,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> G.K. Chesterton</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>5/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 5</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">I ordered this e-book from
@@ -1653,7 +1653,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Allen C. Guelzo</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>6/1/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">I picked this up for Thomas
@@ -1688,7 +1688,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Drew Gilpin
                     Faust</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>6/10/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 3</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">Written in drab academic style,
@@ -1735,7 +1735,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Alfred Thayer
                     Mahan</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>10/1/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para/>
@@ -1747,7 +1747,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Randall Munroe</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis> 10/8/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 3</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para/>
@@ -1780,7 +1780,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Dante Alighieri</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>10/29/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 5</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para/>
@@ -1804,7 +1804,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> St. Thomas More</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>11/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para/>
@@ -1817,7 +1817,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Lewis Carroll</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>12/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 3</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para/>
@@ -1830,7 +1830,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> George
                     MacDonald</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>12/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para/>
@@ -1842,7 +1842,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Peter Kreeft</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>12/30/14</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para/>
@@ -1858,7 +1858,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Thomas B. Buell</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>1/15</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>Mr. Buell is one of my favorite biographers, and this was an
@@ -1894,8 +1894,8 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Sir Arthur Conan
                     Doyle</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis> not finished</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 1</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2015</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">From same book list as Chico the
@@ -1998,7 +1998,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Father Ronald
                     Knox</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>12/15</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">A series of homilies given by
@@ -2013,7 +2013,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Helaine L.
                     Smith</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>12/15</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">Ms. Smith is a private school
@@ -2069,7 +2069,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Pietro Redondi</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>5/2016</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>What I love about this book was that it sought to understand Galileo
@@ -2172,7 +2172,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>William Henry
                     Chamberlin</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>7/11/2016</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 2</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>Utterly forgettable.</d:para>
@@ -2185,7 +2185,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Amity Shlaes</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>8/30/2016</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis> 4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>A well written review of the causes of the Great Depression and the
@@ -2472,7 +2472,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Nathaniel
                     Philbrick</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>4/17</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para/>
@@ -2485,7 +2485,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Trent Horn</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>4/17</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para/>
@@ -2828,9 +2828,9 @@
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Political Tribes </d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Amy Chua </d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Amy Chua</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>6/29/18</d:member>
-                <d:member>Grade: 31</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>Ms. Chua argues that current political divisions are due more to
@@ -2847,7 +2847,7 @@
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Fall of Berlin 1945 </d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Antony Beevor </d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Antony Beevor</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>7/14/18</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
@@ -2870,7 +2870,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Aleksandr Solzhenitsyn </d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>7/27/18</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>incomplete</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>0</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>To my knowledge, this book has not yet been fully translated into
@@ -3394,7 +3394,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Mark Twain</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>9/28/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member>
                     <d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
@@ -3408,7 +3408,7 @@
                             with his observations on his late trip is sometimes too much. I'm sorry
                             I didn't book mark it, but there was one bit of unintentional irony when
                             he talks about the 19th century being the most "progressive" in history.
-                            Mr. Twain had no inkling of modern "progressives" who brand him as a
+                            Mr. Twain had no inkling of present day "progressives" who brand him as a
                             racist miscreant and who would love to consign <d:emphasis
                                 role="underline">Huckleberry Finn</d:emphasis> to the ash heap of
                             history. This raises a couple of points for consideration. When he

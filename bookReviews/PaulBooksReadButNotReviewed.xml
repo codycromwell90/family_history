@@ -923,6 +923,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">The Tunnels of Cu Chi</entry>
+                            <entry colname="Author">Tom Mangold</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">The Right Stuff</entry>
                             <entry colname="Author">Tom Wolfe</entry>
                             <entry/>
@@ -999,9 +1004,9 @@
             <table xmlns="http://docbook.org/ns/docbook" frame="all">
                 <title>Book List</title>
                 <tgroup cols="3">
-                    <colspec colname="Title" colnum="1"/>
-                    <colspec colname="Author" colnum="2"/>
-                    <colspec colname="Notes" colnum="3"/>
+                    <colspec colname="Title" colnum="1" colwidth="1*"/>
+                    <colspec colname="Author" colnum="2" colwidth="1*"/>
+                    <colspec colname="Notes" colnum="3" colwidth="1*"/>
                     <thead>
                         <row>
                             <entry colname="Title">Title</entry>
@@ -1057,7 +1062,7 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Consolations of Philosophy</entry>
+                            <entry colname="Title">Consolation of Philosophy</entry>
                             <entry colname="Author">Boethius</entry>
                             <entry/>
                         </row>
@@ -1142,6 +1147,11 @@
                             <entry colname="Title">In Harm's Way: The Sinking of the USS
                                 Indianapolis and the Extraordinary Story of Its Survivors</entry>
                             <entry colname="Author">Doug Stanton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Russka</entry>
+                            <entry colname="Author">Edward Rutherford</entry>
                             <entry/>
                         </row>
                         <row>
@@ -1276,8 +1286,8 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry>The Last Picture Show</entry>
-                            <entry>Larry McMurtry</entry>
+                            <entry colname="Title">The Last Picture Show</entry>
+                            <entry colname="Author">Larry McMurtry</entry>
                             <entry/>
                         </row>
                         <row>
@@ -1287,6 +1297,11 @@
                         </row>
                         <row>
                             <entry colname="Title">Tales from an Antproof Case</entry>
+                            <entry colname="Author">Mark Helprin</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Refiner's Fire</entry>
                             <entry colname="Author">Mark Helprin</entry>
                             <entry/>
                         </row>
@@ -1380,6 +1395,11 @@
                         <row>
                             <entry colname="Title">Starship Trooper</entry>
                             <entry colname="Author">Robert Heinlein</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Chickenhawkr</entry>
+                            <entry colname="Author">Robert Mason</entry>
                             <entry/>
                         </row>
                         <row>
@@ -1637,6 +1657,11 @@
                             <entry colname="Notes"/>
                         </row>
                         <row>
+                            <entry colname="Title">The Rape of Nanking</entry>
+                            <entry colname="Author">Iris Chang</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
                             <entry colname="Title"/>
                             <entry colname="Author"/>
                             <entry colname="Notes"/>
@@ -1681,6 +1706,16 @@
                         <row>
                             <entry colname="Title">The Big Short</entry>
                             <entry colname="Author">Michael Lewis</entry>
+                            <entry colname="Notes">Audio Book</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">O, Pioneers!</entry>
+                            <entry colname="Author">Willa Cather</entry>
+                            <entry colname="Notes">Audio Book</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Ghost Soldiers</entry>
+                            <entry colname="Author">Hampton Sides</entry>
                             <entry colname="Notes">Audio Book</entry>
                         </row>
                         <row>

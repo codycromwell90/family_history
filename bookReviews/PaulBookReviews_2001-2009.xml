@@ -250,19 +250,6 @@
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Cat</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Seuss</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/01</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Somebody, somebody has to you see. And then she picked out two
-                            somebodies, Sally and me.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
     </d:chapter>
     <d:chapter>
         <d:title>2002</d:title>
@@ -806,7 +793,7 @@
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Data Structures</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis></d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Not Recorded</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>6/03</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
@@ -1058,7 +1045,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Iain Pears</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/04</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>An historical mystery novel in the manner of the <emphasis
@@ -2233,7 +2220,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>David Coyle</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>12/05</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">Stacy gave this book to me for
@@ -2251,6 +2238,13 @@
                             cycling enthusiast with a good journalist's objectivity and an excellent
                             writing style. If you are in any way interested in cycling, read this
                             book.</para>
+                        <d:para>Oct. 2020.  I recently created a list of all the books that I have
+                            graded with a '5' and decided that this grade must be downgraded. Mr.
+                            Coyle's work was exemplory, but he was duped just like nearly everyone
+                            outside of Mr. Armstrong's inner circle. Mr. Armstrong ranks as one of
+                            the great frauds in sports history. As compelling this book remains as a
+                            work of history, life is too short to recommend that anyone else spend
+                            their time in the company of a fraud.</d:para>
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
@@ -2275,7 +2269,7 @@
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Bible</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis></d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>N/A</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>12/05</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
@@ -2655,7 +2649,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Benjamin
                     Franklin</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>6/24/07</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">Franklin never completed his
@@ -3188,7 +3182,7 @@
             <d:title><d:emphasis role="underline">Earthly Powers</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Michael Burleigh</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/08</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>02/08</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
@@ -3430,7 +3424,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Herman Melville</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>7/22/08</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <para xmlns="http://docbook.org/ns/docbook">I read this book the summer
@@ -3467,7 +3461,7 @@
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="note">
             <d:title>In Memoriam ...</d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Aleksandr
@@ -3642,7 +3636,7 @@
                 Crusades</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Thomas Madden</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis></d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2008</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
@@ -3657,7 +3651,7 @@
             <d:title><d:emphasis role="underline">Oliver Twist</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Charles Dickens</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis></d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2008</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
@@ -3794,7 +3788,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Alan Greenspan</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/09</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>Audio book. Given the current tumult in the financial world, this is
@@ -4058,7 +4052,7 @@
             <d:title><d:emphasis role="underline">The Fringes of Power</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>John Colville</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1415/09</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>4/15/09</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
@@ -4169,7 +4163,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Father Walter
                     Ciszek</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>6/8/09</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>A fascinating account of a clandestine missionary journey to Russia
@@ -4358,7 +4352,7 @@
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Tony Horowitz</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/09</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>I gave up relatively quickly on Mr. Horowitz's travelogue of his
@@ -4372,7 +4366,7 @@
                             early 21st century male middle-aged crisis than insight into the
                             remarkable career of Capt. Cook. Normally, I would assign a grade of 1
                             to a book I did not finish, but Mr. Horowitz deserves some credit for
-                            his fine writing in the first chapter..</d:para>
+                            his fine writing in the first chapter.</d:para>
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
