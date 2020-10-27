@@ -1406,6 +1406,32 @@
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Storm of Steel</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Ernst Junger</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/27/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Capt. Junger's memoirs of his service in the German army in WWI. He
+                            survived four years of combat in the trenches and was wounded 7 times.
+                            Here is his account of the battlefield: "The Modern battlefield is like
+                            a huge, resting piece of machinery. Countless hidden eyes, ears, and
+                            arms are idly watching for some poor sould to arrive alone at any
+                            minute. Then as a fiery overture, a single red flare rises high above
+                            from some hole in the earth. A thousand guns roar at the same time. At a
+                            stroke, the work of annihilation begins, driven by countless levers and
+                            its crushing gears. Battlefield commands increase like sparks and
+                            flaxhes through a tight electrical network. This initiates and spurs on
+                            increased destruction. From the rear areas, a steady stream of new
+                            people and material are set in motion, and thrown into the surge of
+                            annihilation. Everyone feels compelled to reach the focal point of the
+                            deadly new events. It is as if a whirlpool seizes them from afar, and a
+                            mysterious will yanks them in with a relentless precision."</d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
     </d:chapter>
     <d:appendix>
         <d:title>Template</d:title>
