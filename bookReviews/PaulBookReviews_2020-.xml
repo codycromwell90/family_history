@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<d:book xmlns:d="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+<d:book xmlns:d="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="5.1">
     <d:info>
         <d:title>Paul's Book Log</d:title>
         <d:abstract>
-            <d:para>These are the criteria by which I grade a book. A grade of <d:emphasis role="bold">1</d:emphasis> usually means that I have made a definite decision
+            <d:para>These are the criteria by which I grade a book. A grade of <d:emphasis
+                    role="bold">1</d:emphasis> usually means that I have made a definite decision
                 not to finish a book. Of course, there are some books that I start and set aside.
                 But I only enter the book if I have finished it or determined it is not worth
                 finishing.</d:para>
@@ -124,7 +126,8 @@
                             is totally unexpected; I won't spoil it here because it is so fun to see
                             how the novel unfolds. Written in the form of journal entries, which
                             works surprisingly well. In a sense, this is a modern version of
-                                <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Crime and Punishment</emphasis>.</d:para>
+                                <emphasis xmlns="http://docbook.org/ns/docbook" role="underline"
+                                >Crime and Punishment</emphasis>.</d:para>
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
@@ -204,7 +207,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Eugene
                     Vodolazkin</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>2/22/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>A very interesting novel. Solovyov is a graduate student in history
@@ -270,7 +273,7 @@
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Joseph Cardinal
                     Ratzinger</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>3/29/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>I've been slowly working on this for a few years now. It is amusing
@@ -344,12 +347,15 @@
                             Twain's biting satire, confidence in modern progress in comparison to
                             medieval ignorance and superstition. So I turned to the internet to get
                             the reaction of others to this book. Susan Harris, a professor states:
-                            "By the time Twain is writing <emphasis xmlns="http://docbook.org/ns/docbook" role="italic">Recollections</emphasis>, he’s not a believer. He is anti-Catholic,
+                            "By the time Twain is writing <emphasis
+                                xmlns="http://docbook.org/ns/docbook" role="italic"
+                                >Recollections</emphasis>, he’s not a believer. He is anti-Catholic,
                             and he doesn’t like the French. So he writes a book about a
                             French-Catholic-martyr? Ostensibly, it doesn’t make a lot of sense."
                             Most modern opinions cited on Wikipedia, unless they are from profession
                             Catholics, either share this befuddlement or our downright dismissive.
-                            Yet this is what Mark Twain had to say: "I like <emphasis xmlns="http://docbook.org/ns/docbook" role="italic">Joan of
+                            Yet this is what Mark Twain had to say: "I like <emphasis
+                                xmlns="http://docbook.org/ns/docbook" role="italic">Joan of
                                 Arc</emphasis> best of all my books; and it is the best; I know it
                             perfectly well. And besides, it furnished me seven times the pleasure
                             afforded me by any of the others; twelve years of preparation, and two
@@ -401,8 +407,7 @@
             <d:title><d:emphasis role="underline">March 1917 The Red Wheel Node III Book
                     1</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: Aleksandr Solzhenitsyn</d:emphasis>Dr.
-                    Seuss</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Aleksandr Solzhenitsyn</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>5/3/20</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
@@ -583,10 +588,10 @@
                     <d:annotation>
                         <d:para>After 30 years of English &amp; German royal and parliamentary
                             politics with some naval development thrown in on the side in
-                            Dreadnaught,  the payoff comes with the history of the war at sea in
-                            WWI. Which, as far as battleships go, pretty comes down to the Battle of
+                            Dreadnaught, the payoff comes with the history of the war at sea in WWI.
+                            Which, as far as battleships go, pretty comes down to the Battle of
                             Jutland. I am already familiar with that battle, and Mr. Massie does a
-                            fine job of describing the action  and evaluating the performance of the
+                            fine job of describing the action and evaluating the performance of the
                             participating admirals and ships (as he does with all the engagements in
                             this book.) He gives a great deal of Adm. Jellico, who is usually
                             criticised for excessive criticism. But his handling of the British
@@ -636,7 +641,7 @@
                             character, and that the novel might more accurately been titled "Love
                             and Marriage" (cue the Frank Sinatra song …) Tolstoy offers in depth
                             examination of love, marriage and faith and the various ways these
-                            played out in upper crust Russian society in the 1870's.  The novel is
+                            played out in upper crust Russian society in the 1870's. The novel is
                             brialliantly written and I truly enjoyed it. I didn't rank it as a 5
                             because I doubt I'd read the whole thing again, although I might return
                             to the final section.</d:para>
@@ -646,7 +651,8 @@
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Way West</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>A.B. Guthrie, Jr.</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>A.B. Guthrie,
+                    Jr.</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>6/21/20</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
@@ -663,14 +669,15 @@
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Jenkins' Ear</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Odell &amp; Willard Shepard</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Odell &amp; Willard
+                    Shepard</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>6/27/20</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>I inherited this book from Grandpa Rodine. Since there is no cover
                             jacket, I assumed it was a history of the "War of Jenkins' Ear" (more
-                            generally referred to as the War of Austrian Succession."  Instead, this
+                            generally referred to as the War of Austrian Succession." Instead, this
                             is a work of historical fiction, set at the start of the Seven Years War
                             with characters relating their experience in the War of Jenkins Ear. The
                             stories are very well done. The plot device that drives the telling of
@@ -682,7 +689,8 @@
             </d:simplelist>
         </d:simplesect>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Seven Ages of Washington</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">The Seven Ages of
+                Washington</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Owen Wister</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>6/28/20</d:member>
@@ -692,23 +700,24 @@
                         <d:para>A printed sheet was inserted inside the front cover of this book. It
                             states, "In furtherance of the Nation Wide Bicentennial Celebration of
                             the Birth of George Washington and as a Prize for Excellence in the
-                            Bicentennial Poster Contest Conducted Among the Pupils in  the Schools
-                            of Phelps County, Nebraska, This Book is Publicly Presented this 18th
-                            day of August, 1932, at the Holdrege Auditorium to Paul Rodine through
-                            the courtesy of The Holdrege Rotary Club, The Holdrege Womans Club, The
+                            Bicentennial Poster Contest Conducted Among the Pupils in the Schools of
+                            Phelps County, Nebraska, This Book is Publicly Presented this 18th day
+                            of August, 1932, at the Holdrege Auditorium to Paul Rodine through the
+                            courtesy of The Holdrege Rotary Club, The Holdrege Womans Club, The
                             Holdrege American Legion Auxiliary, The Business and Professional Womans
-                            Club of Holdrege, The Phelps County Junior Fair."  Mr. Wister was
-                            invited to give a presentation at the University of Pennsylvania about
-                            George Washington, and this book is an expansion on his talk. He main
-                            emphasis it to review Washington's life and character through his own
-                            words from speeches and letters. His goal was to "de-mythologize"
-                            Washington in order to illustrate the "real" Washington is more
-                            impressive than the myth. Dated in style and content.</d:para>
+                            Club of Holdrege, The Phelps County Junior Fair." Mr. Wister was invited
+                            to give a presentation at the University of Pennsylvania about George
+                            Washington, and this book is an expansion on his talk. He main emphasis
+                            it to review Washington's life and character through his own words from
+                            speeches and letters. His goal was to "de-mythologize" Washington in
+                            order to illustrate the "real" Washington is more impressive than the
+                            myth. Dated in style and content.</d:para>
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Life of Andrew Jackson: Complete in One Volume</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">The Life of Andrew Jackson: Complete in One
+                    Volume</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Marquis James</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>7/10/20</d:member>
@@ -720,15 +729,15 @@
                             referring to the American people, he often says "we," where today
                             historians would strive to view their subject with an outsiders
                             perspective. And in 2020, could you imagine anyone writing the following
-                            senentce: "General Jackson was an ideal slave-owner." p349  - and
+                            senentce: "General Jackson was an ideal slave-owner." p349 - and
                             surviving the Twitter storm that would follow? But for all the stylistic
                             challenges, the book is well researched and won a Pulitzer Prize. Mr.
                             James provices ample footnotes and includes frequent quotations from
                             letters and speeches of Jackson, his friends and his foes.</d:para>
                         <d:para>Mr. Marquis portrays Jackson as the paragon of the Scots-Irish
                             "Border Chieftan". Proud and honest to a fault, devoted to his family
-                            and friends and implacable to his foes.  His central political tenet was
-                            the preservation of the United States  and service to the common people
+                            and friends and implacable to his foes. His central political tenet was
+                            the preservation of the United States and service to the common people
                             (as Jackson understood the needs of the people.) Mr. James view Jackso
                             mostly as a conservative"The contest of 1824 … witnessed the opening of
                             the schisms that were to wreck the Republican Party and remould it,
@@ -752,7 +761,7 @@
                             simple bigot and consign him to oblivion. The same holds true for Mr.
                             James' handling of Jackson's relations with Native Americans. Indeed,
                             perhaps the greatest shortcoming of this book is the complete ignoring
-                            of the Trail of Tears.   </d:para>
+                            of the Trail of Tears. </d:para>
                         <d:para>Two weeks ago, a mob attempted to pull down the statue of Jackson in
                             front of the White House. In part, this is what makes Jackson so
                             interesting. He did not create the society in which he lived and he was
@@ -768,14 +777,15 @@
                             popularity was key in pullilng the process of selecting Presidential
                             candidate from the hands of state Congressional delegations and thus to
                             bolstered American democratic traditions. And as determined a military
-                            foe of the Native American  as Jackson was, during the campaign against
+                            foe of the Native American as Jackson was, during the campaign against
                             the Creeks, he adopted an orphaned Creek boywhen no Creek woman would do
                             so and raised him as his own child. </d:para>
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Pale Rider: The Spanish Flu of 1918 and How it Changed the World</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">Pale Rider: The Spanish Flu of 1918 and How it
+                    Changed the World</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Laura Spinney</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>7/12/20</d:member>
@@ -793,20 +803,20 @@
                             paragraph that begins with a sentence describing the impact of the
                             "Spanish Flu" on pregnant women. The next sentence states that many
                             people bled from the nose and mouth and the rest of the sentence deals
-                            with the experience of soldiers on troop transports.  There is a section
+                            with the experience of soldiers on troop transports. There is a section
                             in one chapter that focuses on the flu in Chile that concludes with a
                             single paragraph on the Shanshi province in China. Then the chapter
                             breaks to a new section examing the flu in Shanshi. Why the orphan
-                            paragraph in the previous section?  She is prone to run-on sentence and
+                            paragraph in the previous section? She is prone to run-on sentence and
                             sentences in which two clauses don't really belong together. She
                             sometimes uses words out of contex - Chilean Lieutenant Dagoberto Godoy
                             is an "ace pilot" because he flew a plane over the Andes (his Wikipedia
                             bio indicates that he never served in time of war, and thus never shot
                             down the requisite 5 enemy planes to be classified as an "ace".) And
                             there is the sentence in which she states that "By 1918 [Poland] had
-                            been entirely erase from the map..."  The Polish partition was complete
+                            been entirely erase from the map..." The Polish partition was complete
                             in 1795- certainly "by 1918" but her syntax would imply the partition
-                            had only been recently completed.  I hold the editor and the
+                            had only been recently completed. I hold the editor and the
                             fact-checkers from her publish (Public Affairs, New York) most
                             responsible for allowing so many annoying little errors.</d:para>
                         <d:para>Issues of stye aside, Ms. Spinney's coverage of the scientific
@@ -841,7 +851,7 @@
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>Stacy's brother Tim gave Thomas Rick Atkinson's three volume history
-                            of the US Army in Europe during WWII.  This is the first volume covering
+                            of the US Army in Europe during WWII. This is the first volume covering
                             operations in North Africa. Most history's of WWII give scant coverage
                             to this period of the war. Mr. Atkinson is an outstanding writer who
                             weaves the viewpoints of many of the participants into his narrative. It
@@ -854,7 +864,8 @@
             </d:simplelist>
         </d:simplesect>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Victory Machine: The Making &amp; Unmaking of the Warriors Dynasty</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">The Victory Machine: The Making &amp; Unmaking of
+                    the Warriors Dynasty</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ethan Strauss</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>7/18/20</d:member>
@@ -877,7 +888,8 @@
             </d:simplelist>
         </d:simplesect>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Land of the Firebird: The Beauty of Old Russia</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">Land of the Firebird: The Beauty of Old
+                    Russia</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Suzanne Massie</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>7/26/20</d:member>
@@ -885,13 +897,14 @@
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>An art history of pre-revolutionary Russia. Although Ms. Massie has
-                            great enthusiasm for the subject, this book reads somewhat like a
+                            great enthusiasm for the subject, this book still reads somewhat like a
                             textbook.</d:para>
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Collected Tales of Nikolai Gogol</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">The Collected Tales of Nikolai
+                Gogol</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Nikolai Gogol</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>8/2/20</d:member>
@@ -928,7 +941,7 @@
                             Or this example of understated irony: "The rich want to be beautiful or
                             wish themselves wise; and the wise, if they really are wise, know that
                             the wisdom begins with the acknowledgement that one knows nothing, so,
-                            really, what the hell good is that."  Looking at these two examples, I
+                            really, what the hell good is that." Looking at these two examples, I
                             realize that they do not do Mr. Epstein justice. The chapter title,
                             removed from the context of the book, make him seem like an angry crank.
                             And the quote could imply that he has no respect for wisdom. </d:para>
@@ -973,20 +986,8 @@
             </d:simplelist>
         </d:simplesect>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Cat in the Hat</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Seuss</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Somebody, somebody has to you see. And then she picked out two
-                            somebodies, Sally and me.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Silk Roads: A New History of the World</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">The Silk Roads: A New History of the
+                    World</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Peter Frankopan</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>8/13/20</d:member>
@@ -1011,7 +1012,7 @@
                             any such benefit of the doubt. Indeed, if America had followed the
                             conventions of the Monguls, we would have dropped nuclear bombs on
                             Baghdad, Tehran and Kabul in the aftermath of 9/11. And he states: "The
-                            great iron, then, that although  Eurpoe experienced a glorious Golden
+                            great iron, then, that although Eurpoe experienced a glorious Golden
                             age, … it was forged by violence." True, but how does that differ from
                             the Persian Empire, or Alexander and the Hellenic empire, or the Roman
                             Empire, or the Byzantines, or the Islamic caliphates, or the Mongol and
@@ -1061,7 +1062,7 @@
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
-                        <d:para>This  is a tough book to read straight through; it is really better
+                        <d:para>This is a tough book to read straight through; it is really better
                             suited as the basis for a course in ethics. The first challenge is in
                             the specialized language. For instance, Arisotle's prime concern in this
                             book is how to live to achieve happiness. In modern usage, happiness is
@@ -1123,10 +1124,378 @@
                             you read it a framework for questioning human learning and behavior in
                             the pursuit of betterment, it is still useful even if some of the
                             prescriptions have been disproven by later history. All in all, I prefer
-                            Aristotle's "lecture" style of writing, emphasis on "means"  than
-                            Plato's dialogues and emphasis on the eternal forms. Too many times,
-                            Socrates' companions are little more than strawmen, or worse, sycophants
-                            who simply agree with everything he proposes.</d:para>
+                            Aristotle's "lecture" style of writing and his emphasis on achieving the
+                            "mean" between an excess and a dearth of a virtue to Plato's dialogues
+                            and emphasis on the eternal forms. Too many times, Socrates' companions
+                            are little more than strawmen, or worse, sycophants who simply agree
+                            with everything he proposes.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">On the Nature of Things</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Lucretius</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/10/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>An extended poem describing the tenets of Epicureanism. Key points
+                            are that all matter is ultimately composed of tiny objects (he tends to
+                            call germs, but what we would call atoms) and empty spaces; that this
+                            matter is eternal and of infinite number, that everything composed of
+                            these basic building blocks is not eternal, that everything is explained
+                            by the interaction of these objects and the forces which cause them to
+                            move. Epicurus said that there were gods, but that they were not
+                            involved in the natural order; Lucretius seems more inclined to the view
+                            that gods don't exist. (Although he does dedicate the poem to Venus -
+                            the may simply be a manner of style.) The reading is tough sledding;
+                            perhaps his Latin poetry was elequent. This translation certainly is not
+                            although it does seem dated. As a work of science, like most
+                            "scientific" works from the classical era, it contains many errors of
+                            interpretation of how nature works. But as a work of history of
+                            scientific thought, it is a useful illustration of how the ancients
+                            reasoned. If their conclusions were often wrong, the process of
+                            observation and rational argument clearly anticipate modern scientific
+                            methods.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Aristotle for Everybody</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Mortimer J.
+                    Adler</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/16/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>I had this book when I was young, but never read more than the first
+                            chapter. It is a shame that it has taken me so long to return to this
+                            book. An excellent overview on the wide range of concepts evaluted and
+                            explained by Aristotle. The style of this book is somewhat dry and
+                            pedantic,  like a text book, but not bad. Its great strengh is in the
+                            clear explanation of what Aristotle taught and how it applies even
+                            today. </d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Experience of God: Being, Consciousness, Bliss</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>David Bentley Hart</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/22/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Dr. Hart presents an argument for the existence of God by refuting
+                            atheist attempts to limit all knowledge to that which can be physically
+                            verified in the framework of the scientific method. More importantly, he
+                            reformulates the common arguments for the existence of God as
+                            traditionally espoused by the world's great religions (as well as the
+                            Greek philosophers such as Plato and Aristotle.) In summary, the very
+                            fact that the universe exists (which science cannot explain because it
+                            can only deal in the realm of what already exists) is the primary
+                            argument. Science can deal with an endless chain of causes and effects,
+                            but there must be an "uncreated" and "unchanging" being outside of any
+                            cause and effect for anything to exist at all. The fact that we all have
+                            and recognize consciousness is his next proof; he argues against any
+                            attempts to explain consciousness as a result of any purely material
+                            cause. Incidentally, he includes a very strong critique on the idea of
+                            "artificial intelligence" and the analogy of the brain (and
+                            intelligence) as some sort of advanced "computer" algoritm.  Finally,
+                            the sense of bliss, for instance in human kind's pursuit of the good,
+                            the true and the beautiful. "God is thus experienced as that bliss in
+                            which our natures have their consumation because that bliss is already,
+                            in God, the perfect consumation of divine unity of being and
+                            consciousness: infinite being knows itself in infinite consciousness and
+                            therefore infinetely rejoices." This is not a work for the casual
+                            reader. True to his style, there are many long sentences and arcane
+                            words. But his arguments are clear, thorough and easy to
+                            follow.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Rise and Fall of Great Powers</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Paul Kennedy</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/22/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>This book came from Stacy's father's collection; her brother Tom
+                            recommended that I read it. The reason I hadn't planned on reading this
+                            book, indeed the reason I have taken so long to actually getting around
+                            to reading it is that I had developed a prejudice against the book in my
+                            time as a Midshipman. The book was published in 1987, when I was a
+                            Plebe. This was during the very heart of the Reagan era defense build up
+                            of conventional military forces to contest the Soviets. The Reagan era
+                            also saw many heated debates between those who contended that America
+                            was on the decline due to Vietnam and economic competition with Japan
+                            and those who argued for the expansion of American military power and an
+                            aggressive policy to counter Soviet influence. Needless to say, the more
+                            popular view at the Naval Academy was in support of an active,
+                            "muscular" American involvement in world affairs. When Mr. Kennedy's
+                            book was published, I remember that it was lauded by those were on the
+                            other side of the argument. As I was young, and didn't enjoy the idea
+                            that the United States could be a declining power, I was inherently
+                            disposed to avoid the book. A further prejudice against the book was a
+                            result of Mr. Kennedy's very bad luck to have published it just two
+                            years before the fall of the Berlin Wall and the collapse of the Soviet
+                            military threat. He joined the very long list of experts who failed to
+                            forsee this prospect.</d:para>
+                        <d:para>Having finally read his book, this serves as a very useful reminder
+                            to question your prejudices. The central premise of the book is to
+                            examine the how various nations rose to great power in the periods fo
+                            1500 - 1987 and then fell from power. It gives very great weight to the
+                            ecomonic component of power, and if it has a central argument, it is
+                            that it is very expensive to maintain military forces strong enough to
+                            project power, and it is even more expensive to maintain a strong
+                            military presence far from a nation's border. Mr. Kennedy does not
+                            discount the role that diplomatic and military skill and technical
+                            innovation play in creating a powerful nation. He simply asks the
+                            obvious question of how a nations economy can support its ambitions. For
+                            instance, in discussing Germany during World War I, he offers an
+                            explanation for the food shortages in Germany that I have not
+                            encountered before. The most common explanation was that the British
+                            naval blockade was so efffective. But given the large landmass of
+                            Germany and the Austria-Hungarian empire, this never seemed to be a
+                            convincing argument. Much more convincing is Mr. Kennedy's argument that
+                            the sheer number of men pulled into the miiltary (and the armament
+                            factories) resulted in a critical shortage of manpower left to support
+                            agriculture. </d:para>
+                        <d:para>There is nothing anti-American (or anti- any particular nation) in
+                            his arguments, and he made no predictions that Japan, or the Soviets, or
+                            the Chinese would inevitably surplant the US as a global power. Indeed,
+                            he is very balanced in evaluating the relative strenghs and weaknesses
+                            of the large powers at the end of the 20th century. He clearly
+                            recognized the great strain the Cold War had placed upon the Soviet
+                            economy, but like nearly everyone else, he had no idea how quickly the
+                            Soviet Union would collapse. Rather than arguing that Japan would
+                            surpass the US, he anticipates many of the problems that would hinder
+                            Japan since the 1990's. And he noted the rise of the Chinese economy
+                            since the death of Mao, and gave some thought to the impact of sustained
+                            growth yet did not anticipate just how far China would advance. And he
+                            did not forsee (but who did?) the economic revolution of computer
+                            technology. But his central examination of the relationship of economic
+                            development (and decline) with political, diplomatic and military power
+                            seems to me to be quite sound.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Day of Battle</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/4/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>The second of Mr. Atkinson's three-volume history of the U.S. Army
+                            in Europe in WWII. This volume covers the invasion of Sicily and the
+                            Italian campaign through the capture of Rome on June 5, 1944. As always,
+                            Mr. Atkinson delivers a compelling narrative. He does an excellent job
+                            weaving first hand accounts into the flow of events. He follows some
+                            individuals thoughout the couse of the campaing, and weaves in other
+                            individual voices to highlight particular events. He does not offer bold
+                            judgements of those in command, but he does evaluate controversies from
+                            all sides; noting the generally accepted verdicts while presenting the
+                            case of those being judged. In this volume, General Patton's slapping of
+                            two hospitalized soldiers and General Mark Clark's attacks along the
+                            Rapido River and the break out from Anzio are clearly the subjects that
+                            have received the most criticism over the years. Mr. Atkinson presents
+                            all the available facts, the reactions of those who particated in the
+                            events, the reactions of other officers and later historians and an
+                            occasional pointed comment of his own. But in the end, he leaves the
+                            reader to their own judgement.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Style: The Art of Writing Well</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>F.L. Lucas</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/6/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Highly recommended by Joseph Epstein. A common sense evaluation of
+                            how to write with good style. Certainly a highly subjective goal, but
+                            Mr. Lucas' suggestions seem to me to be on the right track. In summary:
+                            be honest, be consise, end sentences with strong words and paragraphs
+                            with strong sentences, pay attention to metre and don't be afraid of
+                            "poetic" devices such as simile and metaphor. In style, this book comes
+                            across as a lecture by a professor of long tenure. It is dated in the
+                            sense that many of his examples are in French or Greek. Perhaps, as a
+                            result of frequent trips to the endnotes for the translations, this
+                            makes his chapters seem longer than they need to be. If Mr. Epstein was
+                            a student of Mr. Lucas in developing his own style, then I would say
+                            that the student has surpassed the master.</d:para>
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Confidence Man</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Herman Melville</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/7/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Melville's journey to sea with the whaleship Pequod is unforgetable; his
+                            journey down the Mississipi on the steamer Fidele is long-winded and
+                            confusing.</d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Charterhouse of Parma</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Stendhal</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/08/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>This book was recommended in the Wall Street Journal Review section
+                            some years ago. I downloaded the electronic book from Amazon, read about
+                            120 pages and then set it aside. I came back to it today and realized
+                            that I could not realized that I could not recall any details of what I
+                            earlier read. A few pages more and I recalled that I do not care for
+                            wordy style or the lives of the noblemen and women portrayed in the
+                            novel.</d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Abelard and Heloise: The Letters and Other Writings</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>William Levitan, translator</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/9/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Anna is reading this in her English class. When I was ordering the
+                            electronic version of the book from Amazon, I was amused by one review
+                            in which the reader was disappointed that there was very little romance
+                            in the letters, but a great deal of instruction on how to run a
+                            monastery! The modern idea of a love letter is based on the Greek
+                            version of love Eros. While Peter and Heloise do acknowledge their
+                            "erotic" love, the letters are really more centered on the Greek version
+                            of love Agape. These are letters between two very intelligent and highly
+                            educated people, so the letters read generally read more like academic
+                            treatises than personal letters. But they do offer a very personal
+                            insight into life in medieval life and philosophy. </d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Thomas Aquinas: A Portrait</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Denys Turner</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/23/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>An introduction to the theology of Thomas Aquinas. Mr. Turner's
+                            style is rather dense, which is ironic since he frequently notes that
+                            St. Thomas' style was plain and direct. I prefer G.K. Chesterton's book
+                            in terms of biography and I prefer Peter Kreeft's A Shorter Summa as an
+                            introduction to his theology. But this book is worthwhile if you want
+                            more than a cursory introduction.</d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Storm of Steel</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Ernst Junger</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/27/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Capt. Junger's memoirs of his service in the German army in WWI. He
+                            survived four years of combat in the trenches and was wounded 7 times.
+                            Here is his account of the battlefield: "The Modern battlefield is like
+                            a huge, resting piece of machinery. Countless hidden eyes, ears, and
+                            arms are idly watching for some poor sould to arrive alone at any
+                            minute. Then as a fiery overture, a single red flare rises high above
+                            from some hole in the earth. A thousand guns roar at the same time. At a
+                            stroke, the work of annihilation begins, driven by countless levers and
+                            its crushing gears. Battlefield commands increase like sparks and
+                            flaxhes through a tight electrical network. This initiates and spurs on
+                            increased destruction. From the rear areas, a steady stream of new
+                            people and material are set in motion, and thrown into the surge of
+                            annihilation. Everyone feels compelled to reach the focal point of the
+                            deadly new events. It is as if a whirlpool seizes them from afar, and a
+                            mysterious will yanks them in with a relentless precision."</d:para>
+                        <d:para>One interesting note about Junger. After serving in combat for four
+                            years and winning the highest medals awarded by the German army, he
+                            never rose above the rank of Captain nor served in a higher capacity
+                            than that of company commander. Tocqueville, in Democracy in Amercia,
+                            expresses the opinion that in war, democracies are at a disadvantage a
+                            the start of the war but have the advantage in an extended conflict
+                            (book 2, chapter 24). He suggests this is the case because in a
+                            democracy, military service is generally undesirable and those who are
+                            ambitious take their talents to other fields. In contrast, in an
+                            aristocracy, the officer class comes from the nobility and tends to
+                            attract the best of that class. Junger was not from the aristocracy and
+                            enlisted at the start of the war. The German army was quick to promote
+                            promising enlisted men to the rank of 2nd Lieutenant, which is what
+                            happened with Junger after his first stint in the trenches in 1914. From
+                            that point forward, he was promoted twice in a period of about 4 years.
+                            In the modern American army, all junior officers can expect to be
+                            promoted with the exact same rapitidty. Yet he was one of the finest
+                            soldiers in the German army with extensive experience in combat. He does
+                            note quite frequently that officers of longer tenure (and often with
+                            noble titles) were promoted ahead of him. So perhaps Toqueville's
+                            suggestion has some merit, at least in this case. </d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Democracy in America</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Alexis de Toqueville</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/30/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>When you write a book as astute and well regarded as this, a book to
+                            which academics still turn more than a century later, you may be so
+                            lucky as Toqueville and be rewarded with an introduction by Joseph
+                            Epstein.  Mr. Epstein begins his introduction with this: "The older one
+                            gets, the more it becomes clear that it is a great mistake not to have
+                            been brilliant when very young. Difficult to arrange, I realize, but
+                            what a splendid saving of time it is to come into one's intelligence
+                            early!" This is a long work, undertaken by the author not so much to
+                            study the United States as to understand the impact of the dying of
+                            European aristocracy and the rise of individual freedom, political
+                            liberty and democratic government. He travelled in the United States and
+                            offers brilliant insight in to the strengths and weaknesses of the young
+                            nation. And he offers commentary on what he thinks this means for the
+                            future of democratic government. I found myself highlighting far more
+                            passages than I can include here for future consideration. But as a
+                            warning, I found that this book is best taken in short, regular doses.
+                            His writing focuses on the abstractions he forms from the experiences of
+                            his study and his travels. His style is direct and he has the gift of
+                            creating a very vivid abstraction. Equally often, too much abstraction
+                            without supporting detail makes it hard to hold interest. </d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Apology</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Plato</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/31/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Not sure this really counts as a book, but since it was sold as such
+                            by Amazon I will count it as such. This is Plato's account of Socrate's
+                            defense during his trial for atheism and corruption of youth. This
+                            should be required reading for all high school students.</d:para>                       
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
@@ -1142,7 +1511,7 @@
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>Somebody, somebody has to you see. And then she picked out two
-                            somebodies, Sally and me.</d:para>
+                            somebodies, Sally and me.</d:para>                       
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
