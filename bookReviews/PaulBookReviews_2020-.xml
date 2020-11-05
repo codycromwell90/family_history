@@ -1493,9 +1493,26 @@
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>Not sure this really counts as a book, but since it was sold as such
-                            by Amazon I will count it as such. This is Plato's account of Socrate's
-                            defense during his trial for atheism and corruption of youth. This
-                            should be required reading for all high school students.</d:para>                       
+                            by Amazon I will count it. This is Plato's account of Socrate's defense
+                            during his trial for atheism and corruption of youth. This should be
+                            required reading for all high school students.</d:para>                       
+                    </d:annotation></d:member>
+            </d:simplelist>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Favorite Poems of Henry Wadsworth Longfellow</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Henry Wadsworth Longfellow</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>11/4/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
+                    <d:annotation>
+                        <d:para>Inherited this from either Granpa Rodine or Nanny. I'm not a huge
+                            poetry fan, so it took a while to get through his longer poems, such as
+                            "Song of Hiawatha." Long though this poem was, it was still an
+                            interesting retelling of Native American folklore. "Evangaline" was
+                            another long poem, but I did not care for it's soap opera twists and
+                            turns of fate.</d:para>                       
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>
