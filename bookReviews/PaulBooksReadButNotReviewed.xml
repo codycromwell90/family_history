@@ -1033,7 +1033,7 @@
                         <row>
                             <entry colname="Title">One Day in the Life of Ivan Denisovich</entry>
                             <entry colname="Author">Aleksandr Solzhenitsyn</entry>
-                            <entry/>
+                            <entry>Book on tape</entry>
                         </row>
                         <row>
                             <entry colname="Title">We Never Make Mistakes</entry>
@@ -1157,6 +1157,11 @@
                         <row>
                             <entry colname="Title">Russka</entry>
                             <entry colname="Author">Edward Rutherford</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Tao of Physics</entry>
+                            <entry colname="Author">Fritjof Capra</entry>
                             <entry/>
                         </row>
                         <row>
@@ -1403,7 +1408,7 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Chickenhawkr</entry>
+                            <entry colname="Title">Chickenhawk</entry>
                             <entry colname="Author">Robert Mason</entry>
                             <entry/>
                         </row>
