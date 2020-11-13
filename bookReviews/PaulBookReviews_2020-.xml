@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<d:book xmlns:d="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
-    version="5.1">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><d:book xmlns:d="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
     <d:info>
         <d:title>Paul's Book Log</d:title>
         <d:abstract>
             <d:para>These are the criteria by which I grade a book. A grade of <d:emphasis
-                    role="bold">1</d:emphasis> usually means that I have made a definite decision
+                role="bold">1</d:emphasis> usually means that I have made a definite decision
                 not to finish a book. Of course, there are some books that I start and set aside.
                 But I only enter the book if I have finished it or determined it is not worth
                 finishing.</d:para>
@@ -30,18 +26,9 @@
     </d:info>
     <d:chapter>
         <d:title>2020</d:title>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Bach: Music in the Castle of
-                Heaven</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>John Eliot
-                    Gardiner</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
-                <d:member>
-                    <d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Have had this for a few years now; got half way through and now I’ve
+        <d:simplesect><d:title><d:emphasis role="underline">Bach: Music in the Castle of
+                Heaven</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>John Eliot
+                    Gardiner</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Have had this for a few years now; got half way through and now I’ve
                             decided to give up. Mr. Gardiner is a noted conductor of Bach’s choral
                             works and I own a couple of albums that he has conducted. But in spite
                             of his enthusiasm, he does not overcome the fundamental problem of
@@ -54,19 +41,8 @@
                             the culture / world view in which Bach operated. Mr. Gardiner is very
                             much a man of the modern secular world and projects his values onto Bach
                             more than truly trying to understand Bach. My recommendation - buy Mr.
-                            Gardiner’s albums, but skip this book.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Day Will Pass Away</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Ivan Chistyakov</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/12/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>The subtitle, which sums up this book nicely, is: 'The Diary of a
+                            Gardiner’s albums, but skip this book.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Day Will Pass Away</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Ivan Chistyakov</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>1/12/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>The subtitle, which sums up this book nicely, is: 'The Diary of a
                             Gulag Prison Guard 1935-1936. As you might expect, this is not an
                             uplifting book. Mr. Chistyakov was drafted into a position as a junior
                             officer supervision prison guards building railroads in the Soviet Far
@@ -80,21 +56,10 @@
                             Chistyakov remained a loyal Soviet, he was very critical of the Gulag.
                             Mr. Chistyakov's diary ends before we learn of his fate; apparently he
                             was arrested himself at some point. All that is known is that he was
-                            killed at the front in 1941 fighting the Germans.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Be Strong and of Good
-                Courage</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Dennis Ross and David
-                    Makovsky</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/13/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Thomas gave this book to me for Christmas; he attended a lecture my
+                            killed at the front in 1941 fighting the Germans.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Be Strong and of Good
+                Courage</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Dennis Ross and David
+                    Makovsky</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>1/13/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Thomas gave this book to me for Christmas; he attended a lecture my
                             Mr. Ross at Tufts University and bought the book afterwards. These days,
                             the phrase "Peace in the Middle East" is synonymous with "a hopeless
                             task." Nobody has tilted at this windmill harder than Mr. Ross, and I
@@ -109,37 +74,14 @@
                             balanced Israel's need for security while advancing the possibility of
                             achieving peace - most famously by Begin and Sadat at Camp David. This
                             book is well written, well reasoned and gives honest attention to
-                            viewpoints that differ from the authors'. </d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Aviator</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Eugene
-                    Vodolazkin</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/2/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Stacy gave this to me for Christmas. Beautifully written. The plot
+                            viewpoints that differ from the authors'. </d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Aviator</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Eugene
+                    Vodolazkin</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>2/2/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Stacy gave this to me for Christmas. Beautifully written. The plot
                             is totally unexpected; I won't spoil it here because it is so fun to see
                             how the novel unfolds. Written in the form of journal entries, which
                             works surprisingly well. In a sense, this is a modern version of
-                                <emphasis xmlns="http://docbook.org/ns/docbook" role="underline"
-                                >Crime and Punishment</emphasis>.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Intelligent Investor</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Benjamin Graham</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/7/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Revised edition. I started this several years ago, and finally got
+                                <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Crime and Punishment</emphasis>.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Intelligent Investor</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Benjamin Graham</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>2/7/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Revised edition. I started this several years ago, and finally got
                             around to finishing it. Central premise is to explore the difference
                             between investment and speculation and to offer guidance to those who
                             wish to invest intelligently rather than simply gamble with their money.
@@ -148,20 +90,9 @@
                             this helped me to recognize that I am curious about how money can be put
                             to effective use, but my level of interest does not rise above simple
                             curiosity. Which, I suppose, is why I am a software engineer and not a
-                            financial analyst.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">President McKinley: Architect of the American
-                    Century</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert W. Merry</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/16/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>A well written and well balanced biography. President McKinley, was
+                            financial analyst.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">President McKinley: Architect of the American
+                    Century</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Robert W. Merry</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>2/16/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>A well written and well balanced biography. President McKinley, was
                             a man of even temperament, quiet confidence and low key charisma. He had
                             the bad luck not only of being assassinated but of being followed in
                             office by the hyper-energetic and highly charismatic Teddy Roosevelt.
@@ -197,20 +128,9 @@
                             historical analysis. For a present day Republican would be greatly in
                             favor of the Democratic Polk's policy of lowering taxes while a present
                             day Democrat would much prefer the Republican McKinley's approach of
-                            raising taxes.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Solovyov and Larionov</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis> Eugene
-                    Vodolazkin</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/22/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>A very interesting novel. Solovyov is a graduate student in history
+                            raising taxes.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Solovyov and Larionov</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis> Eugene
+                    Vodolazkin</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>2/22/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>A very interesting novel. Solovyov is a graduate student in history
                             whose thesis is on General Larionov. On one level, the novel seems to be
                             a very satirical take on Russian academia. Even given the difficulties
                             of translation (for instance, in Russian, the novel apparently included
@@ -234,20 +154,9 @@
                             see how many more details tie to the conclusion. But also, Mr.
                             Vodolazkin seems to be attempting a larger examination on the process of
                             recording and understanding history versus living and understanding life
-                            in the first place.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">American Sniper</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Chris Kyle, Scott McEwen
-                    and Jim DeFelice</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>3/23/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Audio Book, I checked this out before driving up to Boston to pick
+                            in the first place.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">American Sniper</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Chris Kyle, Scott McEwen
+                    and Jim DeFelice</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>3/23/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Audio Book, I checked this out before driving up to Boston to pick
                             Thomas up from Tufts University due to the school closure as a result of
                             the coronovirus outbreak. The autobiography of Chris Kyle, a Nay SEAL
                             who completed 4 combat tours in Iraq. He served as a sniper and is
@@ -262,21 +171,10 @@
                             wife as she dealt with the challenges of being married to a SEAL in a
                             time of war. In a sad bit of irony (not dealt with in this book), Mr.
                             Kyle was murdered by a fellow veteran a number of years after the war.
-                        </d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Introduction to Christianity, 2nd
-                    Edition</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Joseph Cardinal
-                    Ratzinger</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>3/29/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>I've been slowly working on this for a few years now. It is amusing
+                        </d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Introduction to Christianity, 2nd
+                    Edition</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Joseph Cardinal
+                    Ratzinger</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>3/29/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>I've been slowly working on this for a few years now. It is amusing
                             that this is entitled as an "Introduction" as this is written at a far
                             higher level than that which most people would consider introductory. I
                             believe that it is intended as an introduction for graduate level
@@ -286,8 +184,7 @@
                             sections with glazed eyes, yet found other sections to be very engaging
                             and thought provoking. Fortunately, the concluding paragraph give a very
                             clear summary of the book. I quote the conclusion in the next
-                            paragraph.</d:para>
-                        <d:para>"The goal of the Christian is not private bliss but the whole. He
+                            paragraph.</d:para><d:para>"The goal of the Christian is not private bliss but the whole. He
                             believes in Christ, and for that reason he believes in the future of the
                             world, not just in his own future. He knows that this future is more
                             than he himself can create. He knows that there is a meaning he is quite
@@ -310,36 +207,14 @@
                             Utopia but certainty, which we advance to meet in faith. A salvation of
                             the world does exist — that is the confidence that supports the
                             Christian and that still makes it rewarding even today to be a
-                            Christian"</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Imitation of Christ</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Thomas A' Kempis</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>4/4/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>A free version of this from Amazon Kindle. This is not a book to
+                            Christian"</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Imitation of Christ</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Thomas A' Kempis</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>4/4/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>A free version of this from Amazon Kindle. This is not a book to
                             read straight through, but rather a collection of contemplations by a
                             monk. Perhaps because of the translation, the language is archaic. While
                             this sometimes works to "elevate" the text, in this case, it often made
-                            it hard to retain focus on some passages.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Personal Recollections of Joan of
-                Arc</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Mark Twain</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>4/12/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Finished this on Easter Day, 2020, in the year of the coronovirus
+                            it hard to retain focus on some passages.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Personal Recollections of Joan of
+                Arc</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Mark Twain</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>4/12/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Finished this on Easter Day, 2020, in the year of the coronovirus
                             pandemic. I can't remember where I first heard about this book;
                             certainly almost no-one today would think that Mark Twain would have
                             written a favorable portrayal of Joan of Arc. When I was young, I had
@@ -347,15 +222,12 @@
                             Twain's biting satire, confidence in modern progress in comparison to
                             medieval ignorance and superstition. So I turned to the internet to get
                             the reaction of others to this book. Susan Harris, a professor states:
-                            "By the time Twain is writing <emphasis
-                                xmlns="http://docbook.org/ns/docbook" role="italic"
-                                >Recollections</emphasis>, he’s not a believer. He is anti-Catholic,
+                            "By the time Twain is writing <emphasis xmlns="http://docbook.org/ns/docbook" role="italic">Recollections</emphasis>, he’s not a believer. He is anti-Catholic,
                             and he doesn’t like the French. So he writes a book about a
                             French-Catholic-martyr? Ostensibly, it doesn’t make a lot of sense."
                             Most modern opinions cited on Wikipedia, unless they are from profession
                             Catholics, either share this befuddlement or our downright dismissive.
-                            Yet this is what Mark Twain had to say: "I like <emphasis
-                                xmlns="http://docbook.org/ns/docbook" role="italic">Joan of
+                            Yet this is what Mark Twain had to say: "I like <emphasis xmlns="http://docbook.org/ns/docbook" role="italic">Joan of
                                 Arc</emphasis> best of all my books; and it is the best; I know it
                             perfectly well. And besides, it furnished me seven times the pleasure
                             afforded me by any of the others; twelve years of preparation, and two
@@ -369,67 +241,23 @@
                             and the Paladin is annoying and distracting - I times I would skip over
                             sections relating between the two. But as a reflection on the life of
                             Joan and her impact upon French history, this is a masterful work of
-                            historical fiction.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Rule of Four</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Ian Caldwell and Dustin
-                    Thomason</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>4/16/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>A work of historical detective work. Interesting and a quick read. I
-                            gave this to Anna for Christmas and read it after she finished.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Meetings With Remarkable
-                Manuscripts</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Christopher De
-                    Hamel</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>4/29/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>An examination of twelve illuminated manuscripts from the Middle
+                            historical fiction.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Rule of Four</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Ian Caldwell and Dustin
+                    Thomason</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>4/16/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>A work of historical detective work. Interesting and a quick read. I
+                            gave this to Anna for Christmas and read it after she finished.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Meetings With Remarkable
+                Manuscripts</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Christopher De
+                    Hamel</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>4/29/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>An examination of twelve illuminated manuscripts from the Middle
                             Ages. The book is beautifully illustrated, and Mr. De Hamel acts as an
-                            enthusiastic tour guide.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">March 1917 The Red Wheel Node III Book
-                    1</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Aleksandr Solzhenitsyn</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/3/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Covers a period of four days in March 1917 in which Petrograd
+                            enthusiastic tour guide.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">March 1917 The Red Wheel Node III Book
+                    1</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Aleksandr Solzhenitsyn</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>5/3/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Covers a period of four days in March 1917 in which Petrograd
                             descednded into chaos following rebellion by Russian troops. On one
                             hand, this is a very convincing portrayal of the state of chaos. On the
                             other hand, the characters from the earlier novels in the Red Wheel
-                            cycle barely make an appearance. </d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Dreadnaught: Britain, Germany, and the Coming of
-                    the Great War</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert K. Massie</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/4/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>When it comes to book titles, ususally I complain about inane
+                            cycle barely make an appearance. </d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Dreadnaught: Britain, Germany, and the Coming of
+                    the Great War</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Robert K. Massie</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>5/4/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>When it comes to book titles, ususally I complain about inane
                             sub-titles. In this case, the sub-title actually tells you the theme of
                             the book. Silly me for thinking this would be a naval history. The
                             actuall H.M.S. Dreadnaught does not make its first appearance until page
@@ -463,19 +291,8 @@
                             assuring a hostile power did not appear in Belgium and the Netherlands,
                             had no inherent interest in supporting the French army against the
                             Germans. In the end, the weak powers dragged the strong into global
-                            conflict.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Blindness</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Jose Saramago</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/17/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Anna read this last summer as part of her summer reading for
+                            conflict.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Blindness</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Jose Saramago</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>5/17/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Anna read this last summer as part of her summer reading for
                             English. It details the total breakdown of social order caused by a
                             pandemic of sudden blindness. In the part of the book set when the
                             charaters are forced into quarantine, the story is like a very condensed
@@ -485,19 +302,8 @@
                             feature of this story is that it is filled with colloquialisms. The most
                             annoying feature of this novel is the rendering of dialog. Extended
                             dialog tends to run in single paragraphs with no delination of the
-                            speaker and often no puntuation between statements.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Journey By Moonlight</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Antal Szerb</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/19/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>David Bentley Hart once published a long list of books that he
+                            speaker and often no puntuation between statements.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Journey By Moonlight</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Antal Szerb</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>5/19/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>David Bentley Hart once published a long list of books that he
                             recommended and this was one of them. I was not really impressed. On one
                             hand, the main character's journey to Italy in the mid 1930's is fairly
                             interesting. Despite the fine writing, I really did not like any of the
@@ -507,19 +313,8 @@
                             human condition, but with an individual's fixation on their own death.
                             Mr. Szerb might argue, as does one of his characters, that modern
                             civilization has distracted us to such a degree that we simply forget
-                            about death. </d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Why Intelligence Fails</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert Jervis</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/20/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>An examination of two "intelligence failures - the failure to
+                            about death. </d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Why Intelligence Fails</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Robert Jervis</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>5/20/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>An examination of two "intelligence failures - the failure to
                             predict the Iranin Revolution in 1979 and the mistaken belief that Iraq
                             had weapons of mass destruction prior to the second Gulf War. Mr. Jervis
                             does have a number of recommendations for improving the process of
@@ -549,20 +344,9 @@
                             the occasional humor: "We are not happy with the apocryphal story of a
                             British Foreign Office official who proudly said on his retirement that
                             throughout his career he had said there would be no European war and was
-                            wrong only twice"!</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Greece: Biography of a Modern
-                Nation</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Roderick Beaton</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/25/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>A fairly balanced history of Greece since its independence from the
+                            wrong only twice"!</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Greece: Biography of a Modern
+                Nation</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Roderick Beaton</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>5/25/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>A fairly balanced history of Greece since its independence from the
                             Ottomans. The idea that Greece needs a biography instead of a history is
                             somewhat of a conceit of the author; based upon his history, if Greece
                             were a person, it would be a person suffering from manic-depression or
@@ -574,19 +358,8 @@
                             between east and west, between religious and ethic identity, between
                             democracy and dictatorship. A useful study that probably shed some light
                             on what much of the Balkans have in store as they deal with the histor
-                            of opression by the Ottoman's and the Soviets.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Castles of Steel</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert K. Massie</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>6/6/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>After 30 years of English &amp; German royal and parliamentary
+                            of opression by the Ottoman's and the Soviets.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Castles of Steel</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Robert K. Massie</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>6/6/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>After 30 years of English &amp; German royal and parliamentary
                             politics with some naval development thrown in on the side in
                             Dreadnaught, the payoff comes with the history of the war at sea in WWI.
                             Which, as far as battleships go, pretty comes down to the Battle of
@@ -612,19 +385,8 @@
                             stunning amount of casualties inflicted in pursuit of such paltry goals.
                             Also, interesting to reflect on the naval competition between Britain
                             and Germany in light of the current tensions between the U.S. and
-                            China.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Anna Karennina</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Leo Tolstoy</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>6/19/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Pevear &amp; Volokhonsky translation, which is highly commended
+                            China.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Anna Karennina</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Leo Tolstoy</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>6/19/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Pevear &amp; Volokhonsky translation, which is highly commended
                             online. This book had an insert indicating that it was an Oprah Winfrey
                             book club recommendation - kudos to Oprah for this recommendation,
                             although I wonder how many people bought the book only to discover this
@@ -644,38 +406,16 @@
                             played out in upper crust Russian society in the 1870's. The novel is
                             brialliantly written and I truly enjoyed it. I didn't rank it as a 5
                             because I doubt I'd read the whole thing again, although I might return
-                            to the final section.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Way West</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>A.B. Guthrie,
-                    Jr.</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>6/21/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>A novel about a wagon train making the trip from Missouri to Oregon.
+                            to the final section.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Way West</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>A.B. Guthrie,
+                    Jr.</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>6/21/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>A novel about a wagon train making the trip from Missouri to Oregon.
                             By the author of The Big Sky, a novel about mountaing men. I really
                             enjoyed The Big Sky, but this one, not so much. This book was either
                             from Grandpa Krush's collection, or maybe Grandpa Rodine's; but since
                             there is a sticker from a bookstore in Boston, I assume Grandpa
-                            Krush's.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Jenkins' Ear</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Odell &amp; Willard
-                    Shepard</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>6/27/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>I inherited this book from Grandpa Rodine. Since there is no cover
+                            Krush's.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Jenkins' Ear</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Odell &amp; Willard
+                    Shepard</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>6/27/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>I inherited this book from Grandpa Rodine. Since there is no cover
                             jacket, I assumed it was a history of the "War of Jenkins' Ear" (more
                             generally referred to as the War of Austrian Succession." Instead, this
                             is a work of historical fiction, set at the start of the Seven Years War
@@ -684,20 +424,9 @@
                             the stories is far less interesting (and far too wordy.) The authors
                             clearly enjoyed the process of getting "inside" their characters. But in
                             the end, the plot is not convincing, the dialog is too wordy and whole
-                            effect falls short.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Seven Ages of
-                Washington</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Owen Wister</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>6/28/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>A printed sheet was inserted inside the front cover of this book. It
+                            effect falls short.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Seven Ages of
+                Washington</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Owen Wister</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>6/28/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>A printed sheet was inserted inside the front cover of this book. It
                             states, "In furtherance of the Nation Wide Bicentennial Celebration of
                             the Birth of George Washington and as a Prize for Excellence in the
                             Bicentennial Poster Contest Conducted Among the Pupils in the Schools of
@@ -711,20 +440,9 @@
                             it to review Washington's life and character through his own words from
                             speeches and letters. His goal was to "de-mythologize" Washington in
                             order to illustrate the "real" Washington is more impressive than the
-                            myth. Dated in style and content.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Life of Andrew Jackson: Complete in One
-                    Volume</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Marquis James</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>7/10/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Inherited from the library of my grandfather - Thaddeus Krush.
+                            myth. Dated in style and content.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Life of Andrew Jackson: Complete in One
+                    Volume</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Marquis James</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>7/10/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Inherited from the library of my grandfather - Thaddeus Krush.
                             Originally published in 1938, the style is dated. For instance, when
                             referring to the American people, he often says "we," where today
                             historians would strive to view their subject with an outsiders
@@ -733,8 +451,7 @@
                             surviving the Twitter storm that would follow? But for all the stylistic
                             challenges, the book is well researched and won a Pulitzer Prize. Mr.
                             James provices ample footnotes and includes frequent quotations from
-                            letters and speeches of Jackson, his friends and his foes.</d:para>
-                        <d:para>Mr. Marquis portrays Jackson as the paragon of the Scots-Irish
+                            letters and speeches of Jackson, his friends and his foes.</d:para><d:para>Mr. Marquis portrays Jackson as the paragon of the Scots-Irish
                             "Border Chieftan". Proud and honest to a fault, devoted to his family
                             and friends and implacable to his foes. His central political tenet was
                             the preservation of the United States and service to the common people
@@ -744,8 +461,7 @@
                             Andrew Jackson's violent moderation sueperseding the mild radicalism of
                             Thomas Jefferson …"p364. "The gradual alteration from border
                             conservative to national liberal is noteworthy …" p721 , but one whose
-                            views adjusted to his perception of what was best for the union. </d:para>
-                        <d:para>I would probably rate Jackson as the most interesting person in the
+                            views adjusted to his perception of what was best for the union. </d:para><d:para>I would probably rate Jackson as the most interesting person in the
                             first half of the 1800's, and this book does a good job of capturing the
                             drive and energy of one who never sought popularity yet became the most
                             popular American of his era. And Mr. James does a very good job of
@@ -761,8 +477,7 @@
                             simple bigot and consign him to oblivion. The same holds true for Mr.
                             James' handling of Jackson's relations with Native Americans. Indeed,
                             perhaps the greatest shortcoming of this book is the complete ignoring
-                            of the Trail of Tears. </d:para>
-                        <d:para>Two weeks ago, a mob attempted to pull down the statue of Jackson in
+                            of the Trail of Tears. </d:para><d:para>Two weeks ago, a mob attempted to pull down the statue of Jackson in
                             front of the White House. In part, this is what makes Jackson so
                             interesting. He did not create the society in which he lived and he was
                             not one to question the pros and cons of the social order that he
@@ -779,20 +494,9 @@
                             bolstered American democratic traditions. And as determined a military
                             foe of the Native American as Jackson was, during the campaign against
                             the Creeks, he adopted an orphaned Creek boywhen no Creek woman would do
-                            so and raised him as his own child. </d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Pale Rider: The Spanish Flu of 1918 and How it
-                    Changed the World</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Laura Spinney</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>7/12/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Thomas read this for a history course this summer; I read it given
+                            so and raised him as his own child. </d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Pale Rider: The Spanish Flu of 1918 and How it
+                    Changed the World</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Laura Spinney</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>7/12/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Thomas read this for a history course this summer; I read it given
                             the current COVID-19 pandemic. First off, let's dispense with the review
                             of Ms. Spinney's writing style. The book's sub-title with its hackneyed
                             "how it changed the world" sets a bad first impression. Given the scope
@@ -818,8 +522,7 @@
                             in 1795- certainly "by 1918" but her syntax would imply the partition
                             had only been recently completed. I hold the editor and the
                             fact-checkers from her publish (Public Affairs, New York) most
-                            responsible for allowing so many annoying little errors.</d:para>
-                        <d:para>Issues of stye aside, Ms. Spinney's coverage of the scientific
+                            responsible for allowing so many annoying little errors.</d:para><d:para>Issues of stye aside, Ms. Spinney's coverage of the scientific
                             efforts to understand that the flu is top notch. Her coverage of the
                             public policy actions taken to try to manage impact of the pandemic are
                             also well done. It is clear from her writing that she is not a fan of
@@ -838,19 +541,8 @@
                             most effective reponse still seems to be social distancing and
                             quarantine of those deemed to be at high-risk. But in 1918 as in 2020,
                             the interactions between politicians, bureaucrats and scientist seems to
-                            have improved very little.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">An Army at Dawn</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>7/15/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Stacy's brother Tim gave Thomas Rick Atkinson's three volume history
+                            have improved very little.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">An Army at Dawn</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>7/15/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Stacy's brother Tim gave Thomas Rick Atkinson's three volume history
                             of the US Army in Europe during WWII. This is the first volume covering
                             operations in North Africa. Most history's of WWII give scant coverage
                             to this period of the war. Mr. Atkinson is an outstanding writer who
@@ -859,20 +551,9 @@
                             combat and this book amply proves the wisdom of the adage "the more you
                             sweat in training, the less you bleed in combat." But this book also
                             illustrates just how quickly the Americans learned how to
-                            fight.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Victory Machine: The Making &amp; Unmaking of
-                    the Warriors Dynasty</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Ethan Strauss</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>7/18/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Bought this for Anna recently as she has been a fan of Steph Curry
+                            fight.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Victory Machine: The Making &amp; Unmaking of
+                    the Warriors Dynasty</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Ethan Strauss</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>7/18/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Bought this for Anna recently as she has been a fan of Steph Curry
                             and the Golden State Warriors. This is not a well written book. It is
                             ramblin, dis-organized and offers very little insight on what made the
                             Warriors so good. Mostly it is a rehashing of Kevin Durant's tenure with
@@ -883,35 +564,13 @@
                             as a reporter covering a great team, that would have been fine. Another
                             instance where good editorial guidance could have greatly improved the
                             book. Mr. Strauss presens some some interesting views, but it in the end
-                            it is not a compelling treatment of its subject.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Land of the Firebird: The Beauty of Old
-                    Russia</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Suzanne Massie</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>7/26/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>An art history of pre-revolutionary Russia. Although Ms. Massie has
+                            it is not a compelling treatment of its subject.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Land of the Firebird: The Beauty of Old
+                    Russia</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Suzanne Massie</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>7/26/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>An art history of pre-revolutionary Russia. Although Ms. Massie has
                             great enthusiasm for the subject, this book still reads somewhat like a
-                            textbook.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Collected Tales of Nikolai
-                Gogol</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Nikolai Gogol</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>8/2/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Selections from the various collections of short stories by Gogol,
+                            textbook.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Collected Tales of Nikolai
+                Gogol</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Nikolai Gogol</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>8/2/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Selections from the various collections of short stories by Gogol,
                             translated by Pevear &amp; Volokhonsky. The first half of the collection
                             are stories set in the Ukraine and the second half are set in St.
                             Petersburgh. I preferred the one set in the Ukraine. As an American, I
@@ -919,19 +578,8 @@
                             light hearted critic of the foibles of the self-important, the ability
                             to describe the details of the daily lives and settings of his subject
                             and the willingness to weave the supernatural to make a memorable
-                            impression.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Envy</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Joseph Epstein</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>8/4/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>A relatively brief treatment of one of the seven deadly sins;
+                            impression.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Envy</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Joseph Epstein</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>8/4/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>A relatively brief treatment of one of the seven deadly sins;
                             written as part of a collecition covering all seven. Each chapter is, in
                             effect, an essay on an aspect of envy. And, as usual, Mr. Epstein brings
                             his tremdous learning to bear upon the subject and writes with style,
@@ -944,19 +592,8 @@
                             really, what the hell good is that." Looking at these two examples, I
                             realize that they do not do Mr. Epstein justice. The chapter title,
                             removed from the context of the book, make him seem like an angry crank.
-                            And the quote could imply that he has no respect for wisdom. </d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Native Son</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Richard Wright</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>8/10/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Reminded me a bit of "Crime and Punishment", where the author
+                            And the quote could imply that he has no respect for wisdom. </d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Native Son</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Richard Wright</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>8/10/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Reminded me a bit of "Crime and Punishment", where the author
                             portrays the innner struggle of a young man who has committed murder.
                             But while the structure of the novels are similar, the "outlook" of the
                             novels differ greatly. Mr. Wright is just as effective as Dostoeyevsky
@@ -981,20 +618,9 @@
                             the communists deserve some credity, while the Democratic Party bears
                             the shame of enabling "Jim Crow" and the Republican Party (in the 20th
                             century) that of genrally ignoring the issue altoghether. Issues of
-                            artistic style aside, this remains a compelling novel.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Silk Roads: A New History of the
-                    World</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Peter Frankopan</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>8/13/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>I bought this book for Thomas due to his great interest in his high
+                            artistic style aside, this remains a compelling novel.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Silk Roads: A New History of the
+                    World</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Peter Frankopan</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>8/13/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>I bought this book for Thomas due to his great interest in his high
                             school World History course. Mr. Frankopan rightly notes the traditional
                             historical emphasis on the rise and triumph of the West. This book puts
                             the spotlight on the history and influence (religious, cultural and
@@ -1017,8 +643,7 @@
                             the Persian Empire, or Alexander and the Hellenic empire, or the Roman
                             Empire, or the Byzantines, or the Islamic caliphates, or the Mongol and
                             Ottoman Empires - each of which established it hegemony over central
-                            Asia by force?</d:para>
-                        <d:para>This leads us to the 20th and 21st Centuries, which receive as much
+                            Asia by force?</d:para><d:para>This leads us to the 20th and 21st Centuries, which receive as much
                             coverage as all of the ages past. He criticizes the European powers from
                             asserting their economic and political interests. By implication, this
                             is a bad thing, even though, based on the evidence presented in his
@@ -1038,8 +663,7 @@
                             far as the British did in the 20th Century. Mr. Frankopan believes the
                             center of the world sits in Central Asia, which makes him largely blind
                             to North and South America and Africa (even Egypt generally gets short
-                            shrift.) </d:para>
-                        <d:para>There are a couple of minor nitpicks I have with regards to his
+                            shrift.) </d:para><d:para>There are a couple of minor nitpicks I have with regards to his
                             coverage of the Crusades. He critized the eventual focus of the Crusades
                             on the capture of Egypt due to a simply desire for plunder and wealth.
                             That is certainly partially true, but from a strategic point of view,
@@ -1047,42 +671,19 @@
                             Salahdin, who captured Jerusalem from the Crusade state had first
                             established his rule over Egypt. (And note, that even today, the US
                             provides enormous amounts of aid to Egypt in order to preseve peace
-                            between Egypt and Israel.)</d:para>
-                        <d:para>Aside from my substantial criticisms, this is still a worthwhile
+                            between Egypt and Israel.)</d:para><d:para>Aside from my substantial criticisms, this is still a worthwhile
                             book. Mr. Frankopan writes well, and in his enthusiasm does remind us
-                            that there is much to learn from outside our own culture.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Nicomachean Ethics</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Aristotle</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>8/16/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>This is a tough book to read straight through; it is really better
+                            that there is much to learn from outside our own culture.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Nicomachean Ethics</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Aristotle</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>8/16/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>This is a tough book to read straight through; it is really better
                             suited as the basis for a course in ethics. The first challenge is in
                             the specialized language. For instance, Arisotle's prime concern in this
                             book is how to live to achieve happiness. In modern usage, happiness is
                             a feeling - think of the yellow smiley face figure. But for Aristotle,
                             happiness is not a feeling, but the achievement of the higest possible
                             goodness. Good is another word that differs greatly from Aritotle's
-                            meaning and common usage today.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Science and the Good</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>John D. Hunter and Paul
-                    Nedelisky</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>8/20/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>An interesting overview of the attempt by some scientist to assert a
+                            meaning and common usage today.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Science and the Good</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>John D. Hunter and Paul
+                    Nedelisky</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>8/20/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>An interesting overview of the attempt by some scientist to assert a
                             scientific theory of morality. In some sense this is understandable
                             given the endless conflict and controversy that continue in spite of the
                             best efforts of philosphers and theologians to develop a universal
@@ -1093,19 +694,8 @@
                             anti-scientific, and certainly aren't in the least pro-religion. Rather,
                             they are two left-of-center academians who recognize that an attempt to
                             explain away morality allows anyone to justify their actions, good or
-                            bad.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Republic</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Plato</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/1/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>An electronic book from Amazon.com. The formatting was absolute
+                            bad.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Republic</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Plato</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>9/1/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>An electronic book from Amazon.com. The formatting was absolute
                             trash. Instead of electronic text, the book consisted of electronic
                             images of scanned pages. The images didn't even fit 100% within the
                             viewer, and the type was painfully small. And I suspect that there are
@@ -1128,19 +718,8 @@
                             "mean" between an excess and a dearth of a virtue to Plato's dialogues
                             and emphasis on the eternal forms. Too many times, Socrates' companions
                             are little more than strawmen, or worse, sycophants who simply agree
-                            with everything he proposes.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">On the Nature of Things</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Lucretius</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/10/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>An extended poem describing the tenets of Epicureanism. Key points
+                            with everything he proposes.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">On the Nature of Things</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Lucretius</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>9/10/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>An extended poem describing the tenets of Epicureanism. Key points
                             are that all matter is ultimately composed of tiny objects (he tends to
                             call germs, but what we would call atoms) and empty spaces; that this
                             matter is eternal and of infinite number, that everything composed of
@@ -1157,38 +736,16 @@
                             scientific thought, it is a useful illustration of how the ancients
                             reasoned. If their conclusions were often wrong, the process of
                             observation and rational argument clearly anticipate modern scientific
-                            methods.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Aristotle for Everybody</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Mortimer J.
-                    Adler</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/16/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>I had this book when I was young, but never read more than the first
+                            methods.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Aristotle for Everybody</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Mortimer J.
+                    Adler</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>9/16/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>I had this book when I was young, but never read more than the first
                             chapter. It is a shame that it has taken me so long to return to this
                             book. An excellent overview on the wide range of concepts evaluted and
                             explained by Aristotle. The style of this book is somewhat dry and
                             pedantic,  like a text book, but not bad. Its great strengh is in the
                             clear explanation of what Aristotle taught and how it applies even
-                            today. </d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Experience of God: Being, Consciousness, Bliss</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>David Bentley Hart</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/22/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Dr. Hart presents an argument for the existence of God by refuting
+                            today. </d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Experience of God: Being, Consciousness, Bliss</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>David Bentley Hart</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>9/22/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Dr. Hart presents an argument for the existence of God by refuting
                             atheist attempts to limit all knowledge to that which can be physically
                             verified in the framework of the scientific method. More importantly, he
                             reformulates the common arguments for the existence of God as
@@ -1212,19 +769,8 @@
                             therefore infinetely rejoices." This is not a work for the casual
                             reader. True to his style, there are many long sentences and arcane
                             words. But his arguments are clear, thorough and easy to
-                            follow.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Rise and Fall of Great Powers</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Paul Kennedy</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/22/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>This book came from Stacy's father's collection; her brother Tom
+                            follow.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Rise and Fall of Great Powers</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Paul Kennedy</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>9/22/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>This book came from Stacy's father's collection; her brother Tom
                             recommended that I read it. The reason I hadn't planned on reading this
                             book, indeed the reason I have taken so long to actually getting around
                             to reading it is that I had developed a prejudice against the book in my
@@ -1244,8 +790,7 @@
                             result of Mr. Kennedy's very bad luck to have published it just two
                             years before the fall of the Berlin Wall and the collapse of the Soviet
                             military threat. He joined the very long list of experts who failed to
-                            forsee this prospect.</d:para>
-                        <d:para>Having finally read his book, this serves as a very useful reminder
+                            forsee this prospect.</d:para><d:para>Having finally read his book, this serves as a very useful reminder
                             to question your prejudices. The central premise of the book is to
                             examine the how various nations rose to great power in the periods fo
                             1500 - 1987 and then fell from power. It gives very great weight to the
@@ -1264,8 +809,7 @@
                             convincing argument. Much more convincing is Mr. Kennedy's argument that
                             the sheer number of men pulled into the miiltary (and the armament
                             factories) resulted in a critical shortage of manpower left to support
-                            agriculture. </d:para>
-                        <d:para>There is nothing anti-American (or anti- any particular nation) in
+                            agriculture. </d:para><d:para>There is nothing anti-American (or anti- any particular nation) in
                             his arguments, and he made no predictions that Japan, or the Soviets, or
                             the Chinese would inevitably surplant the US as a global power. Indeed,
                             he is very balanced in evaluating the relative strenghs and weaknesses
@@ -1280,19 +824,8 @@
                             did not forsee (but who did?) the economic revolution of computer
                             technology. But his central examination of the relationship of economic
                             development (and decline) with political, diplomatic and military power
-                            seems to me to be quite sound.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Day of Battle</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/4/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>The second of Mr. Atkinson's three-volume history of the U.S. Army
+                            seems to me to be quite sound.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Day of Battle</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>10/4/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>The second of Mr. Atkinson's three-volume history of the U.S. Army
                             in Europe in WWII. This volume covers the invasion of Sicily and the
                             Italian campaign through the capture of Rome on June 5, 1944. As always,
                             Mr. Atkinson delivers a compelling narrative. He does an excellent job
@@ -1308,19 +841,8 @@
                             all the available facts, the reactions of those who particated in the
                             events, the reactions of other officers and later historians and an
                             occasional pointed comment of his own. But in the end, he leaves the
-                            reader to their own judgement.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Style: The Art of Writing Well</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>F.L. Lucas</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/6/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Highly recommended by Joseph Epstein. A common sense evaluation of
+                            reader to their own judgement.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Style: The Art of Writing Well</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>F.L. Lucas</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>10/6/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Highly recommended by Joseph Epstein. A common sense evaluation of
                             how to write with good style. Certainly a highly subjective goal, but
                             Mr. Lucas' suggestions seem to me to be on the right track. In summary:
                             be honest, be consise, end sentences with strong words and paragraphs
@@ -1331,51 +853,18 @@
                             result of frequent trips to the endnotes for the translations, this
                             makes his chapters seem longer than they need to be. If Mr. Epstein was
                             a student of Mr. Lucas in developing his own style, then I would say
-                            that the student has surpassed the master.</d:para>
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Confidence Man</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Herman Melville</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/7/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Melville's journey to sea with the whaleship Pequod is unforgetable; his
+                            that the student has surpassed the master.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Confidence Man</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Herman Melville</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>10/7/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Melville's journey to sea with the whaleship Pequod is unforgetable; his
                             journey down the Mississipi on the steamer Fidele is long-winded and
-                            confusing.</d:para>                       
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Charterhouse of Parma</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Stendhal</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/08/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>This book was recommended in the Wall Street Journal Review section
+                            confusing.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Charterhouse of Parma</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Stendhal</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>10/08/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>This book was recommended in the Wall Street Journal Review section
                             some years ago. I downloaded the electronic book from Amazon, read about
                             120 pages and then set it aside. I came back to it today and realized
                             that I could not realized that I could not recall any details of what I
                             earlier read. A few pages more and I recalled that I do not care for
                             wordy style or the lives of the noblemen and women portrayed in the
-                            novel.</d:para>                       
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Abelard and Heloise: The Letters and Other Writings</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>William Levitan, translator</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/9/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Anna is reading this in her English class. When I was ordering the
+                            novel.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Abelard and Heloise: The Letters and Other Writings</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>William Levitan, translator</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>10/9/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Anna is reading this in her English class. When I was ordering the
                             electronic version of the book from Amazon, I was amused by one review
                             in which the reader was disappointed that there was very little romance
                             in the letters, but a great deal of instruction on how to run a
@@ -1385,36 +874,14 @@
                             of love Agape. These are letters between two very intelligent and highly
                             educated people, so the letters read generally read more like academic
                             treatises than personal letters. But they do offer a very personal
-                            insight into life in medieval life and philosophy. </d:para>                       
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Thomas Aquinas: A Portrait</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Denys Turner</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/23/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>An introduction to the theology of Thomas Aquinas. Mr. Turner's
+                            insight into life in medieval life and philosophy. </d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Thomas Aquinas: A Portrait</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Denys Turner</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>10/23/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>An introduction to the theology of Thomas Aquinas. Mr. Turner's
                             style is rather dense, which is ironic since he frequently notes that
                             St. Thomas' style was plain and direct. I prefer G.K. Chesterton's book
                             in terms of biography and I prefer Peter Kreeft's A Shorter Summa as an
                             introduction to his theology. But this book is worthwhile if you want
-                            more than a cursory introduction.</d:para>                       
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Storm of Steel</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Ernst Junger</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/27/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Capt. Junger's memoirs of his service in the German army in WWI. He
+                            more than a cursory introduction.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Storm of Steel</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Ernst Junger</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>10/27/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Capt. Junger's memoirs of his service in the German army in WWI. He
                             survived four years of combat in the trenches and was wounded 7 times.
                             Here is his account of the battlefield: "The Modern battlefield is like
                             a huge, resting piece of machinery. Countless hidden eyes, ears, and
@@ -1428,8 +895,7 @@
                             people and material are set in motion, and thrown into the surge of
                             annihilation. Everyone feels compelled to reach the focal point of the
                             deadly new events. It is as if a whirlpool seizes them from afar, and a
-                            mysterious will yanks them in with a relentless precision."</d:para>
-                        <d:para>One interesting note about Junger. After serving in combat for four
+                            mysterious will yanks them in with a relentless precision."</d:para><d:para>One interesting note about Junger. After serving in combat for four
                             years and winning the highest medals awarded by the German army, he
                             never rose above the rank of Captain nor served in a higher capacity
                             than that of company commander. Tocqueville, in Democracy in Amercia,
@@ -1449,19 +915,8 @@
                             soldiers in the German army with extensive experience in combat. He does
                             note quite frequently that officers of longer tenure (and often with
                             noble titles) were promoted ahead of him. So perhaps Toqueville's
-                            suggestion has some merit, at least in this case. </d:para>                       
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Democracy in America</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Alexis de Toqueville</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/30/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>When you write a book as astute and well regarded as this, a book to
+                            suggestion has some merit, at least in this case. </d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Democracy in America</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Alexis de Toqueville</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>10/30/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>When you write a book as astute and well regarded as this, a book to
                             which academics still turn more than a century later, you may be so
                             lucky as Toqueville and be rewarded with an introduction by Joseph
                             Epstein.  Mr. Epstein begins his introduction with this: "The older one
@@ -1480,51 +935,18 @@
                             His writing focuses on the abstractions he forms from the experiences of
                             his study and his travels. His style is direct and he has the gift of
                             creating a very vivid abstraction. Equally often, too much abstraction
-                            without supporting detail makes it hard to hold interest. </d:para>                       
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Apology</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Plato</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/31/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Not sure this really counts as a book, but since it was sold as such
+                            without supporting detail makes it hard to hold interest. </d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Apology</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Plato</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>10/31/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Not sure this really counts as a book, but since it was sold as such
                             by Amazon I will count it. This is Plato's account of Socrate's defense
                             during his trial for atheism and corruption of youth. This should be
-                            required reading for all high school students.</d:para>                       
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Favorite Poems of Henry Wadsworth Longfellow</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Henry Wadsworth Longfellow</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>11/4/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>Inherited this from either Granpa Rodine or Nanny. I'm not a huge
+                            required reading for all high school students.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Favorite Poems of Henry Wadsworth Longfellow</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Henry Wadsworth Longfellow</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>11/4/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>Inherited this from either Granpa Rodine or Nanny. I'm not a huge
                             poetry fan, so it took a while to get through his longer poems, such as
                             "Song of Hiawatha." Long though this poem was, it was still an
                             interesting retelling of Native American folklore. "Evangaline" was
                             another long poem, but I did not care for it's soap opera twists and
-                            turns of fate.</d:para>                       
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Guns at Last Light</d:emphasis></d:title>
-            <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>11/7/20</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
-                <d:member><d:emphasis role="italic">Comments: </d:emphasis>
-                    <d:annotation>
-                        <d:para>The third and final volume of his "Liberation Trilogy" covering the
+                            turns of fate.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">The Guns at Last Light</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>11/7/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>The third and final volume of his "Liberation Trilogy" covering the
                             American Army in Europe from D-Day until the German surrender. Fine
                             writing, as usual. Two nits to pick with this volume, both very minor.
                             First, I'm not sure why he devoted so much coverage to the Yalta
@@ -1543,10 +965,10 @@
                             102nd Division in the 9th Army. The 102nd Division gets a brief mention
                             in the book for it's discovery of a German massacre of prisoners at
                             Gardelegen; this is something my grandfather would have witnessed
-                            personnally because he was an Army doctor.</d:para>                       
-                    </d:annotation></d:member>
-            </d:simplelist>
-        </d:simplesect>
+                            personnally because he was an Army doctor.</d:para></d:simplesect>
+        <d:simplesect><d:title><d:emphasis role="underline">Fire Upon the Earth</d:emphasis></d:title><d:simplelist><d:member><d:emphasis role="italic">Author: </d:emphasis>Norman F.
+                    Langford</d:member><d:member><d:emphasis role="italic">Date: </d:emphasis>11/9/20</d:member><d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member><d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member></d:simplelist><d:para>I think I inherited this one from Nanny. Could be sub-titles "A
+                            History of Christianity for Young Protestants." </d:para></d:simplesect>
     </d:chapter>
     <d:appendix>
         <d:title>Template</d:title>
@@ -1559,7 +981,7 @@
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis>
                     <d:annotation>
                         <d:para>Somebody, somebody has to you see. And then she picked out two
-                            somebodies, Sally and me.</d:para>                       
+                            somebodies, Sally and me.</d:para>
                     </d:annotation></d:member>
             </d:simplelist>
         </d:simplesect>

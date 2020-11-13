@@ -384,6 +384,12 @@
                             <entry colname="Notes"/>
                         </row>
                         <row>
+                            <entry colname="Title">The Narrative of Arthur Gordon Pym of
+                                Nantucket</entry>
+                            <entry colname="Author">Edgar Allan Poe</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
                             <entry colname="Title">The Pentagon and the Art of War</entry>
                             <entry colname="Author">Edward Luttwak</entry>
                             <entry colname="Notes"/>
@@ -576,6 +582,11 @@
                         <row>
                             <entry colname="Title">Catcher in the Rye</entry>
                             <entry colname="Author">J.D. Salinger</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Fellowship of the Ring</entry>
+                            <entry colname="Author">J.R.R. Tolkien</entry>
                             <entry/>
                         </row>
                         <row>
@@ -811,9 +822,24 @@
                             <entry>9th Grade English</entry>
                         </row>
                         <row>
+                            <entry colname="Title">Dandelion Wine</entry>
+                            <entry colname="Author">Ray Bradbury</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
                             <entry colname="Title">Farenheit 451</entry>
                             <entry colname="Author">Ray Bradbury</entry>
                             <entry colname="Notes">H.S. 10th Grade English</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Something Wicket This Way Comes</entry>
+                            <entry colname="Author">Ray Bradbury</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Martial Chronicles</entry>
+                            <entry colname="Author">Ray Bradbury</entry>
+                            <entry colname="Notes"/>
                         </row>
                         <row>
                             <entry colname="Title">Claudius the God</entry>
@@ -960,6 +986,16 @@
                         <row>
                             <entry colname="Title">The Dawn's Early Light</entry>
                             <entry colname="Author">Walter Lord</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Knickerbocker's History of New York</entry>
+                            <entry colname="Author">Washington Irving</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Salmagundi</entry>
+                            <entry colname="Author">Washington Irving</entry>
                             <entry/>
                         </row>
                         <row>
