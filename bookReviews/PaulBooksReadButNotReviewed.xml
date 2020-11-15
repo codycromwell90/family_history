@@ -1683,6 +1683,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Hot Commodities</entry>
+                            <entry colname="Author">Jim Rodgers</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">In The Beginning was the Command Line</entry>
                             <entry colname="Author">Neil Stephenson</entry>
                             <entry/>
