@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/sch/docbook.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="5.1">
+    <info>
+        <title > Paint, Oil and Chemical Review</title>
+        <subtitle>Vol. 34</subtitle>
+        <author>
+            <personname>Trade Review Company</personname>
+        </author>
+        <pubdate>Dec. 1, 1902</pubdate>
+        <othercredit class="other" otherclass="transcriber">
+            <personname>
+                <firstname>Paul</firstname>
+                <othername>S.</othername>
+                <surname>Krush</surname>
+            </personname>
+            <address>
+                <city>Bethesda</city>
+                <state>Maryland</state>
+            </address>
+            <email>pskrush@verizon.net</email>
+            <contrib>Document electronically transcribed by</contrib>
+        </othercredit>
+        
+        <keywordset>
+            <keyword>Charles Finley Nevin</keyword>
+            <keyword>Theodore H. Nevin</keyword>
+            <keyword>Elizabeth Grafton Nevin</keyword>
+        </keywordset>
+    </info>
+    <section>
+        <title>Transcriber's Notes</title>
+        <para> This was copied from the digital edition of the book.  The original book was 
+               scanned and published by Google Books.</para>
+    </section>
+    <section>
+        <title>Issue Front Page</title>
+        <subtitle>PAINT, OIL AND DRUG REVIEW.</subtitle>
+        <para>Published every Wednesday.</para>
+        <para>In the interest of the PAINT, OIL AND DRUG TRADE.  The largest circulation in the PAINT and OIL trade.
+        </para>
+        <para>D. VAN NESS PERSON, Publisher, 84 and 86 La Salle St., Chicago, Ill.</para>
+        <para>CHICAGO, SEPTEMBER 17, 1902</para>
+    </section>
+    <section>
+        <title>Death of Charles F. Nevin</title>
+        <para>page 470 </para>
+        <para>Charles Finley Nevin, of Pittsburgh, Pa., died September 9,
+            after a lingering illness of nearly two years’ duration. Mr. Nevin was president of the
+            T. H. Nevin Co., paint manufacturers of Pittsburgh, and was widely known as treasurer of
+            the Paint Grinders’ Association of the United States, in which organization he was
+            prominent. His death, though not unexpected, has made a profound impression in trade
+            circles where he was best known and highly honored. In November, 1900, Mr. Nevin
+            suffered a severe attack of pneu-</para>
+        <para>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="./images/charlesFinleyNevinObitImage.jpg" 
+                    contentwidth="4in" align="center" format="JPG"></imagedata></imageobject>
+            </mediaobject>
+        </para>
+        <para>monia, which developed into consumption, from which he was unable to recover. Charles
+            F. Nevin was born in Sewickley, Pa., on May 19, 1848. He was a son of Theodore H. Nevin,
+            and with his father he organized the T. H. Nevin Company, pioneer —paint and white lead
+            company, of which he has been president since 1870. He succeeded his father as inspector
+            on the prison board of the Western Pennsylvania penitentiary, which office he has held
+            ever since. In Sewickley, where his whole life has been spent he has been prominent in
+            the church, social and political lines. For the past three terms he has been president
+            of Sewickley borough council, holding that oﬂice at the time of his death, and he also
+            served two previous terms with that body, in the eighties. Mr. Nevin is survived by a
+            wife -formerly Miss Elizabeth Grafton - and two children, Theodore Hugh, a senior at
+            Yale University, and Elizabeth, a young school girl, and a brother and sister, Franklin
+            Taylor Nevin, Esq., of the Allegheny county bar, and Mrs. John B. Booth, of
+            Sewickley.</para>
+        
+    </section>
+
+    <acknowledgements>
+        <para>Google Books</para>
+        <para> This is a digital copy of a book that was preserved for generations on library
+            shelves before it was carefully scanned by Google as part of a project to make the
+            world's books discoverable online. See the back of the book for detailed
+            information.</para>
+        <para>
+            
+            <link 
+                xlink:href="https%3A%2F%2Fplay.google.com%2Fstore%2Fbooks%2Fdetails%3Fid%3De-A1AQAAMAAJ%26rdid%3Dbook-e-A1AQAAMAAJ%26rdot%3D1"></link>         
+        </para>
+    </acknowledgements>
+    
+</article>

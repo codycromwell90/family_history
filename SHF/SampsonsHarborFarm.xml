@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <title>Memories of Sampson's Harbor Farm</title>
+        <author>
+            <personname>Paul Krush</personname>
+            <address>
+                <city>Bethesda</city>
+                <state>Maryland</state>
+                <email/>
+            </address>
+        </author>
+    </info>
+    <part>
+        <title>Sampson's Harbor Farm</title>
+        <chapter>
+            <title>Our Trip</title>
+            <para>Thomas and Anna – let's take a trip. I have a pleasant destination in mind; let's
+                go to the Farm. To be precise, let's go to Samson's Harbor Farm on the banks of the
+                Patuxent River. As you know, Samson's Harbor Farm is located in Saint Mary’s County
+                in southern Maryland, midway between the towns of Mechanicsville and Hollywood. The
+                Farm fronts the Patuxent River and Cole Creek for about one and a half miles and
+                contains a large tidal pond and several small marshes. It covers about 450 acres
+                with about 75 acres of fields. There are about 2 acres of yard for three houses and
+                the remaining area are mostly woods with some marshy bottomland. The woods are
+                composed of a mixture of hardwood and pine trees, although the hardwoods
+                predominate. The driveway from Sandgates Road to the main house covers a distance of
+                about a mile and three-quarters. The Farm is oriented towards the river, reflecting
+                its origins in colonial times when nearly all transportation in the Tidewater region
+                was by water. If we were making this trip around the time of the Civil War, we would
+                start with a steamer from Washington to Point Lookout or Solomon's Island. We would
+                then transfer to another steamer to take us up the Patuxent. Although the thought of
+                such a trip sounds fun, it must have taken at least two days to accomplish. Instead,
+                we will make the drive, as we have always done, in about 90 minutes.</para>
+            <para> We leave our house in Bethesda, drive through the neighborhoods of DC, along the
+                Potomac River and past the monuments. We continue down the highways leading south
+                and east from Washington. The cityscape transitions to a suburban mixture of homes
+                and strip malls as we pass through Prince George's and into Charles County. Entering
+                St. Mary's county, the landscape is increasingly rural. We may even pass an Amish
+                buggy traveling on the shoulder of the road. At long last, we turn off of the
+                highway onto Sandgates Road. We descend two small hills and turn onto the fifth
+                driveway on the right. You both understand that a good part of why a visit to the
+                Farm is so special is the anticipation that builds as the journey draws you nearer
+                and nearer. The moment we turn off of Road and onto the driveway is the point where
+                anticipation ends and we enjoy our entry into a new landscape.</para>
+            <para>Our turn off of the macadam pavement of Sandgates Road onto the gravel driveway
+                begins the second, and far more interesting, part of our journey. Perhaps you take
+                notice of the tall signpost upon which hangs a small sign displaying “Samson's
+                Harbor Farm”. In a way, this is like the lamp post in "The Lion, The Witch, and The
+                Wardrobe." It marks the transition from our modern world of hustle and bustle to
+                another world, a place set apart. From this point forward, you can ride in the car
+                without a seatbelt, you can roll down the windows and turn off the air conditioner
+                and you can even sit on your father’s lap and steer the car. This is where the two
+                of you in your excitement, would begin (to sing to the tune of “She'll Be Coming
+                'Round the Mountain”):
+            </para>
+            <blockquote>
+                <para>There are no cars behind us on the road,</para>
+                <para>There are no cars behind us on the road,</para>
+                <para>There are no cars behind us, no cars behinds us,</para>
+                <para>There are no cars behind us on the road!</para>
+            </blockquote>
+            
+            
+
+        </chapter>
+    </part>
+</book>

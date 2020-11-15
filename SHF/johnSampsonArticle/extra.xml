@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/sch/docbook.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <keywordset>
+            <keyword>Ismene Microutsicos</keyword>
+        </keywordset>
+        <title>Columbia University Catalog - Ismene Microutsicos</title>        
+        <othercredit class="other" otherclass="transcriber">
+            <personname>
+                <firstname>Paul</firstname>
+                <othername>S.</othername>
+                <surname>Krush</surname>
+            </personname>
+            <address>
+                <city>Bethesda</city>
+                <state>Maryland</state>
+            </address>
+            <email>pskrush@verizon.net</email>
+            <contrib>Document electronically transcribed by</contrib>
+        </othercredit>
+    </info>
+    
+        
+        <formalpara>
+            <title>Catalog </title>
+            <para><link xlink:href="http://www.ebooksread.com/authors-eng/columbia-university/catalogue-volume-19431944-and-19441945-ulo/page-99-catalogue-volume-19431944-and-19441945-ulo.shtml">
+                Link to (Volume 1943/1944 and 1944/1945) online (page 99 of 187)</link>  
+            Website accessed on 9/10/2019</para>
+            
+        </formalpara>
+    <para>Microutsicos, Ismene | 225 Park Pl Brooklyn, NY</para>
+        
+
+    
+    <bibliolist>
+        <title>Bibliography</title>
+        <biblioentry>
+            <title>Catalogue (Volume 1943/1944 and 1944/1945)</title>
+            <publisher>
+                <publishername>Columbia University</publishername>
+            </publisher>
+            <pubdate>March 20, 1913</pubdate>
+            <bibliomisc>http://www.ebooksread.com/authors-eng/columbia-university/catalogue-volume-19431944-and-19441945-ulo.shtml</bibliomisc>
+        </biblioentry>
+    </bibliolist>
+</article>
+

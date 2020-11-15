@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/sch/docbook.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="5.1">
+    <info>
+        <keywordset>
+            <keyword>Charles Finley Nevin</keyword>
+            <keyword>Theodore H. Nevin</keyword>
+        </keywordset>
+        <title>National Painters Magazine</title>
+        <subtitle>Volume 41</subtitle>
+        <author>
+            <personname>Trade Review Company</personname>
+        </author>
+        <pubdate>Dec. 1, 1902</pubdate>
+        <othercredit class="other" otherclass="transcriber">
+            <personname>
+                <firstname>Paul</firstname>
+                <othername>S.</othername>
+                <surname>Krush</surname>
+            </personname>
+            <address>
+                <city>Bethesda</city>
+                <state>Maryland</state>
+            </address>
+            <email>pskrush@verizon.net</email>
+            <contrib>Document electronically transcribed by</contrib>
+        </othercredit>
+    </info>
+    
+    <chapter>
+        <title>THE PAINTERS MAGAZINE</title>
+        <subtitle>Front Page</subtitle>
+        <para>and PAINT &amp; WALLPAPER DEALER</para>
+        <para>MAY 1914</para>
+        <para>Copyright, 1914, by The Painters Magazine.</para>
+        <para>VOL. XLI.   NUMBER 5.</para>
+        <para>OUR FORTIETH ANNIVERSARY NUMBER</para>
+    
+    <section>
+        <title>Transcriber's Notes</title>
+        <para> This was copied from the digital edition of the book.  The original book was 
+               scanned and published by Google Books.</para>
+    </section>
+    </chapter>
+    <chapter>
+    
+        <title>PAINT, OIL AND DRUG REVIEW, CHICAGO, SEPTEMBER 17, 1902</title>
+        <para>Published every Wednesday.</para>
+        <para>In the interest of the PAINT, OIL AND DRUG TRADE.  The largest circulation in the PAINT and OIL trade.
+        </para>
+        <para>D. VAN NESS PERSON, Publisher, 84 and 86 La Salle St., Chicago, Ill.</para>
+  
+    <section>
+        <title>White Lead Manufacture</title>
+        <subtitle>A Historical Sketch of its Development in the United States Since 1874.</subtitle>
+        <para>By G. W. Thompson, Chemist of the National Lead Company.</para>
+        <para>pages 326 - 330</para>
+        <para>PULSIFER in his "Notes for a History Lead," states that the annual production white lead in the United 
+            States during decade ending 1880 averaged about 55,000 tons per year. Taking this as the production in 
+            the year 1874, we find according to the government reports that the production in 1884 was 65,000 tons;
+            in 1894, 76,343 tons; in 1904, 126,336 tons. It is probable that the production in 1913 was in the neighborhood
+            of 140,000 tons.</para>
+        <para>Considering these figures, the particularly striking feature is that the annual production of white lead increased 
+            nearly 70 per cent. during the ten years ending 1904.  This rapid increase in production may be variously explained,
+            but it is probably mostly due to the campaign for the purity of white lead, which was started in the 8o's and which 
+            was carried forward persistently by white lead manufacturers from that time on.</para>
+        <para>In the 70's when this history starts, some few manufacturers of white lead still added other pigments to their product,
+            selling it as white lead, sometimes with distinguishing marks, at a reduced price. During the time that this practice existed,
+            it became necessary to designate by adjectives the degree of purity of product. Those manufacturers, that marketed only the 
+            pure product found it necessary to designate their product by some distinguishing adjective. This was done first by describing
+            it as "pure," but as some so-called pure white lead was occasionally found to be adulterated, the adverb of "strictly" was added. 
+            Some went even further than this. It can readily be appreciated that such a condition of deception could not last long, and it 
+            was finally agreed by all manufacturers of white lead that no adulteration should be practiced by them. They were manufacturers 
+            of dry white lead, however, and some of this dry white lead was sold to paint grinders, mixed by them with other pigments and 
+            labelled "strictly pure white lead." Sometimes this label was placed on packages containing no white lead. The low standard of 
+            public morals which allowed the practice of selling, under the name of white lead, materials which were not white lead, or only 
+            partly white lead, could not but hinder the legitimate growth of the white lead industry. The campaign for pure white lead was 
+            inaugurated and it is safe to assume that the phenomenal growth referred to above was largely due to the confidence to which 
+            the public was finally restored. It is probable also that the increased production of white lead was partially due to the fact 
+            that white lead, no longer being adulterated to the same degree, was consumed in place of the substitutes. This however was probably
+            a small factor as compared with the big factor of restored confidence and popularity. </para>
+        <para>The plants manufacturing white lead in 1874 were as follows:
+            <itemizedlist>
+                <listitem>
+                    <para>The Salem White Lead Company, organized in the 50's by Francis Brown. (There was, prior to this, a Salem Lead 
+                        Manufacturing Company which commenced operations in 1824, manufacturing white lead by something like the chamber process,
+                        changing later to the Dutch process. This company gave up business in 1835) </para>
+                </listitem>
+                <listitem>
+                    <para>The Boston Lead Company which began manufacturing in 1831. This later became the Boston-Chadwick White Lead Company,
+                        absorbing the Forest River Lead Company.</para>
+                </listitem>
+                <listitem>
+                    <para>Forest River Lead Company (succeeding in 1843 Francis Peabody, who commenced manufacture in 1826), at Salem Mass.,
+                        this company later becoming a part of the Boston-Chadwick White Lead Company.</para>
+                </listitem>
+                <listitem>
+                    <para>The Union White Lead Manufacturing Company, Brooklyn N.Y., which in the '40s succeeded the Union White Lead Company 
+                        established prior to 1830, first as a white lead grinder, then as a corroder.</para>
+                </listitem>
+                <listitem>
+                    <para>The Brooklyn White Lead Company, organized prior to 1830, manufacturing white lead by a quick process - quickly changing 
+                        to the Dutch process.</para>
+                </listitem>
+                <listitem>
+                    <para>John Jewett &amp; Sons, who started manufacture at Saugerties, NY in 1838, and shortly thereafter moved to Port Richmond,
+                        Staten Island.</para>
+                </listitem>
+                <listitem>
+                    <para>Hall Bradley &amp; Co., Brooklyn N.Y., started in the '60's, becoming later the Bradley White Lead Company.</para>
+                </listitem>
+                <listitem>
+                    <para>The Atlantic White Lead and Linseed Oil Company, Brooklyn, N.Y., established by Robert Colgate in the '40's </para>
+                </listitem>
+                <listitem>
+                    <para>Wetherill &amp; Brother, Philadelphia, Pa., successors to Samuel Wetherill &amp; Son, who began corroding lead in 1804.</para>
+                </listitem>
+                <listitem>
+                    <para>Harrison Bros. &amp; Co., Philadelphia, Pa., who were the successors to the business started by John Harrison, sometime
+                    prior to 1810.</para>
+                </listitem>
+                <listitem>
+                    <para>John T. Lewis &amp; Bros., Philadelphia, Pa., who were the successors to the business of Mordecai Lewis &amp; Co., who purchasing 
+                        in 1820 the lead works of Joseph and John Richards, began the manufacture of lead products </para>
+                </listitem>
+                <listitem>
+                    <para>Maryland White Lead Company, Baltimore, Md., started in 1867.</para>
+                </listitem>
+                <listitem>
+                    <para>The Pennsylvania Lead Works (formerly B.A. Fahnestock &amp; Co.), Pittsburgh, Pa., started in the '40's.</para>
+                </listitem>
+                <listitem>
+                    <para>Davis-Chambers White Lead Company, Pittsburgh, Pa., started in the '60's.</para>
+                </listitem>
+                <listitem>
+                    <para>Beymer-Bowman &amp; Co., Pittsburgh, Pa., started in the '60's.</para>
+                </listitem>
+                <listitem>
+                    <para>B.L. Fahnestock &amp; Co., Pittsburgh, Pa., started in the '60's.</para>
+                </listitem>
+                <listitem>
+                    <para>T. H. Nevin &amp; Co., Pittsburgh, Pa., started in the '60's.</para>
+                </listitem>
+                <listitem>
+                    <para>Suydam-Lawrence &amp; Co., Pittsburgh, Pa., started in the '60's.</para>
+                </listitem>
+                <listitem>
+                    <para>Cornell Lead Company, Buffalo, N.Y., which had absorbed the old Niagara White Lead Company,
+                        organized in the '50's and the firm of Thompson &amp; Co., started in the '40's.</para>
+                </listitem>
+                <listitem>
+                    <para>J.H. Morley &amp; Co., Cleveland, Ohio the successors of the firm of Morlev &amp; Cary, started in 1862.</para>
+                </listitem>
+                <listitem>
+                    <para>Anchor White Lead Company, Cincinnati, Ohio, successors to the business established by McCamdles in 1828.</para>
+                </listitem>
+                <listitem>
+                    <para>Eckstein White Lead Company, Cincinnati, Ohio, successors to the business established bv Townsend Hills in 1836.</para>
+                </listitem>
+                <listitem>
+                    <para>Eagle White Lead Company, Cincinnati, Ohio, started in the 40's.</para>
+                </listitem>
+                <listitem>
+                    <para>St. Louis Lead and Oil Company, St. Louis, Mo., successors of the O'Fallon White Lead Company, started in 1865.</para>
+                </listitem>
+                <listitem>
+                    <para>Southern White Lead Company, St. Louis, Mo., started in 1865.</para>
+                </listitem>
+                <listitem>
+                    <para>Collier White Lead and Oil Company, St. Louis, Mo. successors to Read &amp; Hoffman, started in 1837.</para>
+                </listitem>
+                <listitem>
+                    <para>DB Shipman &amp; Co., Chicago, Ill., started in the '60's.</para>
+                </listitem>
+                <listitem>
+                    <para>Kentucky Lead and Oil Company, Louisville, Ky., successors to the works started by Wilson Waters &amp; Co., in 1856.</para>
+                </listitem>
+                <listitem>
+                    <para>American White Lead Company, Louisville, Ky., started in the '60's</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <para>All of these plants, at the beginning of this period, manufactured white lead by the Dutch process. Since that time there have been
+            numerous attempts to establish manufacture by other processes. The only process other than the Dutch, which has really successful is 
+            that now most generally known as the Carter process, to which we will refer a later on. The improvements which have been in the 
+            Dutch process involve no change in the general methods of manufacture. The methods of manufacture now in vogue which are a development 
+            of those of 1874 are as follows:- </para>
+        <para>To change pig lead into white lead, it is subjected to the corroding gases produced by the fermentation of refuse tan bark. Special 
+            buildings, known as "corroding houses," are provided for this purpose. These corroding houses are four-sided buildings, about thirty 
+            feet high and have various dimensions; they frequently have a floor space of about twenty feet by forty feet in area. On the floor 
+            of this building, which floor may be of ordinary earth, a layer of spent tan bark is placed about twenty inches thick. On this is 
+            placed a layer of corroding pots covering the entire floor except around the edges, where tan bark is packed. This tan bark is known
+            as the "banking." In each corroding pot there is placed about a half pint of weak acetic acid (containing about two and one-half
+            per cent. of glacial acetic acid) or vinegar. These pots are then filled with lead cast in the form of buckles. On top of the pots 
+            a layer of boards is placed, and on these boards another layer of tan bark. Another layer of pots is placed on this second layer of
+            tan bark; these pots are filled, as with the first layer, and other layers are placed on this until there are from eight to ten 
+            layers of "tiers" in the stack.</para>
+        <para>For the corrosion of lead to white lead, a certain amount of ventilation is necessary so that the moisture can be carried off 
+            from the stack. This is done in various ways. A typical way is to provide a wooden pipe that shall run from each tier up near 
+            the center of the stack to the top. On the top of this pipe is an outlet which may be opened or closed as may be desired.</para>
+        <para>When the stack has been built, the tan bark commences to ferment, liberating carbonic acid and generating considerable heat. The 
+            heat occasions the acetic acid to evaporate and to attack the lead buckles. In a short time these buckles are covered with a layer 
+            of basic acetate of lead. The carbonic acid generated by the fermentation of the tan bark then decomposes the basic acetate of lead,
+            producing white lead or basic carbonate and liberating neutral acetate of lead, which has a strong solvent action upon lead itself.
+            This fermentation and corrosion of the lead continues until most of the lead is changed into white lead. At times the heat generated 
+            by the fermentation of the tan bark rises quite high, sometimes exceeding 180 degrees Fahrenheit.</para>
+        <para>When the fermentation of the tan bark has practically ceased and the corroding action is nearly finished, the "stack" as the whole 
+            body of tiers is called, is taken down commencing at the top. When one takes down a stack, he is said to "strip" it. The corroding 
+            operation takes from one hundred to one hundred and thirty days. When the stack is stripped, it is found that the metallic lead that
+            was originally in the pots, has been changed into a white, porcelain-like material, which is white lead. All of the metallic lead 
+            originally present has not been corroded, however. It is necessary, therefore, to remove the remaining metallic lead, and to finely
+            grind the white lead in order to make it a suitable paint material. This work is done, largely, in iron machinery that is air tight,
+            so that the dust formed will not escape. The corroded lead from the stacks is first passed through a screen, covered with sheet steel
+            perforated with rather large holes. This screen tumbles the lead about, breaking up the white lead so that it passes through the holes
+            in the steel covering, while the large pieces of metallic lead pass out as tailings, to be re-melted for further use. This coarse 
+            white lead is then passed through rolls, and fine screens to remove the finer metallic lead, following which process the white lead 
+            reaches the condition known as "unground carbonate" and becomes suitable for water grinding. The unground carbonate is then mixed with 
+            water and ground with high-speed millstones so that every particle will pass through fine silk bolting cloth. The white lead in water,
+            after grinding, is also floated a long distance, so that any coarse and unground particles may settle out. The water containing the 
+            white lead is pumped into large tanks and allowed to settle. The thick mixture of white lead and water, called "pulp," which settles 
+            to the bottom, is then pumped on drying pans made of copper and dried with exhaust steam, the product being the dry white lead of 
+            commerce. This dry white lead is mixed with linseed oil and ground through buhr mills to produce a white lead paste, which is the 
+            white lead in oil of commerce. Sometimes the white lead pulp is mixed directly with refined linseed oil in special mixers, the oil 
+            combining mechanically with the white lead, producing white lead in oil of commerce, the water being eliminated.</para>
+        <para>During these forty years, corroding stacks in general have become larger and more uniform in size; better control of the ventilating 
+            operations have been introduced; crane handling has to some extent superseded the use of wheelbarrows and cars. The newer stack 
+            buildings are constructed of reinforced concrete; the plants themselves have become larger, it not being considered to-day economical 
+            to manufacture on the small scale followed in the '70's. The diversified methods of grinding, so general in the '70's, have disappeared
+            and a more uniform system has been introduced. Grinding operations are conducted in closed machinery, so that the white lead, from the
+            time it enters the mill to the time it is packed, is untouched by hand labor. The small grinding mills then in use are now replaced 
+            by powerful high speed mills. The manufacture has become much more sanitary. The first great step in this direction was in the 
+            introduction of the pulp mixing process, whereby the use of drying pans and the dry grinding of white lead was avoided. The enclosed 
+            machinery referred to above also made the manufacture much more sanitary. While the pulp mixing process dispensed, to a large extent 
+            with the drying of white lead on pans, what has remained of this pan drying has been made more sanitary in some cases by the 
+            enclosing of the pans. Methods of dust collecting have been introduced, both for the purpose of preventing the loss of lead and also 
+            to clear the atmosphere, where men are working, of particles of lead which would otherwise be breathed into the system with unhealthful
+            results.</para>
+        <para>Methods of merchandizing have been improved. We have already referred to the fact that in the '70s some manufacturers of white lead 
+            sold some of their product more or less adulterated. Now no manufacturer of white lead sells white lead, as such, that is not pure.
+            In order to cover the difference in cost of packing, in the early days white lead packages from 100 pounds down contained less than 
+            100 pounds of white lead in oil. Now all white lead is sold in net weight packages, the difference in cost of packing appearing as 
+            a difference in price. The use of the old wooden package has almost entirely disappeared. White lead is now almost universally packed 
+            in steel containers for sizes of 100 pounds and less.</para>
+        <para>In general the quality of white lead has improved. Part of this improvement has been due to the generally better quality of pig 
+            lead now manufactured. All corroding lead is now carefully desilverized and otherwise purified, whereas even up to the '80's, it was 
+            very difficult to obtain pig lead of the desirable degree of purity. Improvements in methods of grinding have resulted in a generally
+            finer product.</para>
+        <para>No one can question the fact that the largest part of the advance in the manufacture of white lead has taken place since the organization
+            of the National Lead Company. Prior to its formation, every white lead factory conducted its operations with the utmost secrecy, the 
+            secrets really being imperfections in methods of manufacture.  With the formation of the National Lead Company, these imperfect methods 
+            became matters of common knowledge and rapid improvement resulted. There is little to-day in white lead manufacture that is secret, and 
+            the general rule may be laid down, just as in old days, that where secrecy exists it covers defects rather than advantages. The chemical
+            testing of white lead has advanced in great strides, so that to-day we are in a very much better position to judge of the real quality 
+            of white lead than was the case in the early half of the period we are considering </para>
+        <para>Attempts to develop methods of manufacture other than the Dutch process have been prolific during these forty years but with few 
+            exceptions these processes have been found wanting and have fallen by the wayside. A great deal of the waste of money in attempts to 
+            develop new processes of manufacture arose from the fact that imperfect knowledge existed as to what constituted a good white lead. The
+            assumption was made that, because white lead had a correct chemical composition, that was all that was to be desired; the physical 
+            properties were ignored. While undoubtedly, chemical composition is an important factor in quality, it is only one factor, and the
+            neglect to recognize the importance of other factors has resulted in wasted effort and a great loss to investor and promoters. The 
+            writer has had occasion, regretfully, to condemn many processes and thereby disappoint many inventors, because these processes did not
+            recognize all of the qualities necessary for the production of a suitable product.</para>
+        <para>It is a curious coincidence that the only process which has made great strides, in competition with the Dutch process, was patented 
+            in 1874. On March 24, 1874, letters patent were issued to David K. Tuttle and James A. McCreary form a process of manufacture which 
+            is the progenitor of the present Carter process. This patent, No. 148862, is of great historical interest. Shortly after the patent was
+            issued, it was assigned to the Adams White Lead Company of "Baltimore City." The Adams Company, however, were not very successful in
+            putting this process in operation, and in 1885 the patent was again assigned to the Estate of Samuel M. Shoemaker who, in his life had
+            loaned money to the Adams Company to carry on the manufacture. By later assignments the right to manufacture under this patent east
+            of the Mississippi River passed to David K. Tuttle, and west of the Mississippi River to the Carter White Lead Company of Omaha, the 
+            successor of the Omaha White Lead Company. Manufacture under these patents was later undertaken by Harrison Bros. &amp; Co., of 
+            Philadelphia, who with the Carter White Lead Co., have been the really successful manufactures of white lead in the United States by
+            this process. Much of the success of this process was due to the energy and ability of the late Mr. Levi Carter, who with exceedingly
+            competent associates built up a great manufacturing business in spite of great financial difficulties. The real success, however, of 
+            the Carter process in competition with the Dutch process lies in the fact that the physical structure of white lead made by the Carter
+            process is very similar to that made by the Dutch process. Two other processes have met with passing success; one is a precipitation 
+            process developed by Dahl and financed by W.J. Matheson &amp; Co., of New York. The other process is the Rowley process, now operated
+            by the Acme White Lead &amp; Color Company of Detroit. This is, in principle, similar to the Carter process except that no acetic acid
+            is used in the manufacture </para>
+        <para>Of the very many plants manufacturing white lead in 1874, a large proportion, when they were started, began manufacture by newly
+            patented or invented processes, all of which were failures. Having entered into the business of manufacturing white lead, however, they 
+            continued in it, but saw the advisability of changing to the Dutch process. It is probable that this lure - this expectation - of 
+            replacing the Dutch by some simpler process - was to some extent responsible for the large number of small concerns manufacturing 
+            white lead in 1874 and for some years thereafter, the corroding capacity of the country greatly exceeding the demand. The only solution
+            which seemed open to corroders was a combination which would result in manufacturing in larger units and the closing up of many of the
+            small plants expensive to operate. Through the many years of disaster, and through methods which would not be countenanced to-day, a
+            combination resulted of many of the manufacturers which, however, fell down of its own weight after a time, and from the ruins the 
+            National Lead Company was organized in 1891.</para>
+        <para>The lure of new processes did not end in 1874. As we have stated above, only one of these new processes has been successful in the
+            really large sense. This is the Carter process. Nevertheless, the growth of manufacture by the Dutch process, independent of the National 
+            Lead Company, grew rapidly during this period, so that to-day, we have in addition to the plants operated by the National Lead Company, the 
+            following plants which are producing white lead on a fairly large scale. These are the plants of the Eagle White Lead Company,
+            Harrison Brothers &amp; Co., Wetherill &amp; Bro., Whittier, Fuller &amp; Co., the Camden White Lead Company, Hammar Bros., 
+            Sherwin Williams &amp; Co., and the Acme White Lead and Color Company. All of these plants except those of Harrison Bros &amp; Co. and
+            the Acme Company manufacture white lead by the Dutch process. The concerns that have come and gone during this period are very numerous,
+            and practically all of them failed because they attempted to manufacture by processes other than the Dutch.</para>
+        <para>We would like to make passing reference to a few of the men to whose efforts the growth of the white lead business during the last
+            forty years is to be credited. Foremost in this list was Col. W.P. Thompson, who took hold of the old Lead Trust, wiped out the 
+            questionable features in its financing and organized the National Lead Company. To his energy of character the laying of the enduring 
+            foundations of the National Lead Company was largely due. Succeeding him in the '90's as president of the company Mr L.A. Cole carried 
+            on its operations with the same devotion to high business principles and a conservatism and judgment unsurpassed. His death left a
+            personal void in the hearts of his many friends and associates. Fletcher W. Rockwell was one of the vice-presidents of tht National 
+            Lead Company and contributed much to its success. We can simply mention some of the others who have passed away such as A.S. Townsend 
+            to whom some give the credit of having invented the pulp mixing system; J.H. McKelvy, of the old firm of Armstrong &amp; McKelvy;
+            John Baldwin, whose manufacturing ability made the old Shipman works in Chicago a powerful factor; D.B. Shipman himself, who died
+            more recently and whose benefactions are a monument to the city of his activities; A.P. Thompson of Buffalo, Colonel Richeson of St.
+            Louis, Joseph L. McBirney of Chicago - all were influential factors. We must also mention the most recent death, that of Capt. J.
+            Gordon Taylor of the Eagle White Lead Company, who for over twenty years had been an active worker in that company. We can but 
+            conclude this personal reference by saying that there are hundreds of others to whom reference could be made, who co-operated in
+            bringing the white lead business to its present high standard.</para>
+        <para>In concluding this short history, in which indeed much remains that could be said, we must make a reference to this business
+            as a fair example of what can be accomplished in almost any industry by an attention to the ordinary dictates of business morality.
+            Its great growth came when by general agreement a campaign for purity of product was undertaken. The present stability of the business 
+            rests upon its discountenancing the piratical methods of financing of twenty five years ago. Its hold upon the trade is largely due
+            to its broadening recognition of community interest which sees that all honest competition is legitimate.</para>
+    </section>
+    <section>
+        <title>The Honor Role</title>
+        <subtitle>A LIST OF FIRMS OR CORPORATIONS CONNECTED WITH THE PAINT AND WALL PAPER TRADES
+        THAT HAVE BEEN IN EXISTENCE FOR FORTY YEARS.</subtitle>
+        <para>Manufacturers and Jobbers</para>
+        <para>Pennsylvania</para>
+        <para>Pittsburgh</para>
+        <para>page 373</para>
+        <para>T.H. Nevin Company, corner Island and Preble avenue, North Side Pittsburgh; 
+            paint manufacturers and white lead corroders. This business was established by Theodore H. Nevin
+            and a younger brother Robert P Nevin in 1841, the style of the firm being T.H. Nevin &amp; Co.,
+            for the purpose of manufacturing white lead. They were the pioneer establishment of this kind in
+            Pittsburgh. The original lead works were at the corner of Grant and Western avenues, Allegheny 
+            (now North Side Pittsburgh). A short time after the establishment of the concern Mitchell Finley 
+            was taken into partnership. A few years later his interest was purchased by John Irwin, Jr.
+            under which partnership the business continued for years. In 1873 Charles Finley Nevin was admitted
+            to partnership. From 1841 to December 31, 1879, the firm was known as T.H. Nevin &amp; Co.
+            From January 1, 1880 till February 3, 1882 it was T.H. Nevin &amp; Co., Limited, the partnership 
+            being composed of Charles F. Nevin and Willard M. Gibbs. From February 3, 1882 until December 3, 1888
+            the business was continued by the same partners under the firm name of TH Nevin &amp; Co., and
+            on December 4, 1888 the business was incorporated under the laws of Pennsylvania under the present
+            title. In 1891 they moved to the present plant. The present officers of the company are Dr. H.W. 
+            Hechelman, president; T.H. Nevin; vice-president; F.J. Torrance, treasurer; H.R. Glbbs, general 
+            manager; and L.C. Sadd, secretary. The company has a thoroughly modern electrically equipped plant 
+            turning out a volume of business which would have been deemed impossible a few years ago. The 
+            brand "Pioneer" was used prior to 1876, but in that year was adopted for prepared paints, and since 
+            then has been registered in the United States Patent Office as applying to paints and painters' 
+            materials and has been continuously in use as a fire-grade brand.</para>
+       
+    </section></chapter>
+
+    <acknowledgements>
+        <para>Google Books</para>
+        <para> This is a digital copy of a book that was preserved for generations on library
+            shelves before it was carefully scanned by Google as part of a project to make the
+            world's books discoverable online. See the back of the book for detailed
+            information.</para>
+        <para>
+            
+            <link 
+                xlink:href="https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D5abmAAAAMAAJ%26lpg%3DPA373%26ots%3Dwq8kwafdZb%26dq%3Dcharles%2520finley%2520nevin%26pg%3DPA373%23v%3Donepage%26q%3Dcharles%2520finley%2520nevin%26f%3Dfalse"></link>         
+        </para>
+    </acknowledgements>
+    
+</book>

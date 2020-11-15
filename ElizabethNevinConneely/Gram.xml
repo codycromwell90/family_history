@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/sch/docbook.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <title/>
+        <author>
+            <orgname/>
+            <address><city/>
+<street/>
+<postcode/>
+<country/></address>
+            <email/>
+        </author>
+    </info>
+    <sect1>
+        <title>My Memories</title>
+        <para>I was born in 1967 in Omaha, Nebraska. Elizabeth Nevin Conneely was 77 years old and
+            lived on Samson's Harbor Farm in Mechanicsvillle, Maryland. Before I record my personal
+            memories, I will provide a bit of background, although I will save more of her
+            biographical details for later. In 1967, Gram lived by herself in the farmhouse and the
+            Nolans and the Plowdens also lived on the Farm. William Nolan, who had managed the
+            farming for Gram since the late 1930's , died in 1967. York Plowden was hit by a car and
+            killed in 1968, although the Plowdens may no longer have been working on the farm by
+            then. Gram's oldest child, John Gundry Jennings lived in Huntington, WV and Nanny and my
+            parents lived in Omaha, Nebraska.</para>
+        <para>The following events obiously occurred long before my first memories, but I have
+            scanned my childhood photo album and have my Mom's notes to guide me. I was born on
+            November 24th and baptized in the Catholic church in December. Gram travelled to Omaha
+            in March 1968 and I met Gram for the first time. I'm not sure what brought Gram to
+            Omaha, but while she was there, I was baptized for the second time, this time in the
+            Presbyterian Church. Gram was a Presbyterian, and either didn't know about my Catholic
+            baptism, or didn't care and wanted the job done according to her standards. I will have
+            to ask my parents. My first visit to the farm was in September, 1968 and my first
+            Christmas on the farm was in 1970.</para>
+        <figure floatstyle="right" pgwide="0" >
+            <?dbfo float-type="right"?>
+            <title>Omaha, March 1968</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata align="right" width="1in" fileref="gram-1.jpg"/>
+                </imageobject>
+            </mediaobject>            
+        </figure>
+
+        <para>The first visit to Samson's Harbor that I actually remember was probably in the summer
+            of 1972, and I really can't say that I have any specific memories of Gram. What I do
+            remember is Dad and Aunt Kathy putting rows of well-rings into the beach to prevent
+            erosion and a visit to the Leonardtown Volunteer Fire Department's Summer Carnival.
+            Perhaps it is from this visit that I remember sitting in the front seat of Gram's Ford
+            as she drove down the driveway. I remember keeping an eye on the driveway looking for
+            box turtles, and Gram singing a song describing the features of the the farm that we
+            were passing. "Here we go past Gant's Lot, Gant's Lot, Gant's Lot …" </para>
+        <para>We moved from Omaha to Maryland in August 1973. I believe that Gram had some health
+            care that promted Nanny and Dad to move east to be closer to Gram. Nanny found a job at
+            Johns Hopkins Medical Campus in Baltimore, and Dad was hired as an art teacher at Thomas
+            Stone High School in Waldorf, Maryland. We lived on the Farm from August until December
+            while Mom and Dad looked for a house to buy. Considering I spent more than three months
+            in daily contact with Gram, I actually have very few memories of her.  Like many people
+            who lived through the Depression, she didn't throw much away. When she was finished with
+            a small tub of margarine, she would wash it out and save it for later use.  One warm
+            day, probably shortly after we moved in, I noticed stink bugs climbing on the screen
+            door on the front porch. I was fascinated by these ugly insects that gave off an
+            unpleasant odor when you poked them. Gram noticed my interest in the bugs. I asked her
+            if I could have a jar to collect the stink bugs and she brought out a stack of margarine
+            tubs. </para>
+        <para>Gram was 8? years old at this time</para>
+    </sect1>
+</article>

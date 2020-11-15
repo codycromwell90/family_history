@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<book xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <title>Memories of Gram</title>
+        <author>
+            <personname>Paul Krush</personname>
+            <email>pskrush@verizon.net</email>
+        </author>
+    </info>
+        <chapter>
+        <title>Childhood</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" depth="50%" align="center" format="JPG"
+                    fileref="./images/childhood/gram-and-theodore-1896.jpg"/>
+            </imageobject>
+            <caption>
+                <para>Elizabeth and Theodore Nevin, 1896</para>
+            </caption>
+        </mediaobject>
+        <para>Elizabeth Grafton Nevin is my great-grandmother, my father's mother's mother. Because
+            her mother and daughter were also named Elizabeth, and because I knew her as such, from
+            this point forward I will refer to her as Gram. Even if it is a bit strange to refer to
+            a child as Gram! Gram was born to Charles Finley Nevin and Elizabeth Anne (nee Grafton)
+            Nevin. Gram's mother, Elizabeth Anne Nevin was called "Dammuddy". Gram's daughter was
+            also named Elizabeth Anne and always went by her middle name.  She was called "Nanny" by
+            her grandchildren and as her grandchild I will continue to do so. And for good measure,
+            Nanny's second daughter is named Elizabeth. I will refer to her as Aunt Betty. And any
+            references to Mom and Dad with the use of capital letters, will refer to my parents -
+            Christopher and Sandy Krush. Hopefully that will be as clear for you, the reader as it
+            is for me, the writer.</para>
+        <sidebar floatstyle="right">
+            <?dbfo float-type="right"?>
+            <?dbfo sidebar-width="1.5in"?>
+            <mediaobject>
+                <imageobject>
+                    <imagedata align="center" contentwidth="1in" format="JPG"
+                        fileref="./images/childhood/gram-1889.jpg"/>
+                </imageobject>
+                <caption>
+                    <para>With Mother, 1889</para>
+                </caption>
+            </mediaobject>
+        </sidebar>
+        
+        <para>Gram was born on May 3rd, 1889 in Sewickely, Pennsylvania. According to the record of
+            births in Charles Finley Nevin's Bible, Gram was the third child. The first-born, Ester
+            Grafton Nevin, was born in 1875 and died in childhood. Theodore Hugh Nevin, Jr. was born
+            in 1878. So there is an eleven year gap between the birth of Theodore and Gram. As Nanny
+            told the story,  Charles and Dammuddy were planning a trip to Europe when Dammuddy
+            became pregnant with Gram. Nanny said that Dammuddy resented the fact that the trip had
+            to be cancelled. I suppose this resentment was perhaps the beginning of the strained
+            relationsip between Gram and her mother. </para>
+            <sidebar floatstyle="left">
+                <?dbfo float-type="left"?>
+                <?dbfo sidebar-width="1.5in"?>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata align="center" contentwidth="1in" format="JPG"
+                            fileref="./images/childhood/gram-11may1890.jpg"/>
+                    </imageobject>
+                    <caption>
+                        <para>With Father, 1890</para>
+                    </caption>
+                </mediaobject>
+            </sidebar>
+            <para>Whatever ups and downs Gram had with her mother, in Sewickely she was surrounded
+            by a very large extended family. The five sons of John Nevin settled in the area around
+            Pittsburg starting in the 1840s and many of them ended up in Sewickely. A search on the
+            FindAGrave website reveals that there are 59 graves in Sewickely Cemetery bearing the
+            last name of Nevin. And that does not count the women, who in Gram's era nearly
+            universally took the name of their husbands. Gram inherited a strong sense of pride in
+            her family and an interest in her family's history. Although very few of the Nevin's
+            achieved a level of promenance as to be recognized outside the neighborhood of
+            Pittsburg, the Nevins were still proud of their standing in their community.  On her
+            mother's side, the Graftons had also achieved a measure of accomplishment in
+            Pennsylvania politics. Charles Finley Nevin was a president of the xxx Bank and of the
+            XXX White Lead company, so in addition to the moral support of a large extended family,
+            Gram was raised in material comfort.</para>
+    </chapter>
+
+        <chapter>
+            <title>My Memories</title>
+            
+                <para>I was born in 1967 in Omaha, Nebraska. Elizabeth Nevin Conneely was 77 years old and
+                lived on Samson's Harbor Farm in Mechanicsvillle, Maryland. Before I record my personal
+                memories, I will provide a bit of background, although I will save more of her
+                biographical details for later. In 1967, Gram lived by herself in the farmhouse and the
+                Nolans and the Plowdens also lived on the Farm. William Nolan, who had managed the
+                farming for Gram since the late 1930's , died in 1967. York Plowden was hit by a car and
+                killed in 1968, although the Plowdens may no longer have been working on the farm by
+                then. Gram's oldest child, John Gundry Jennings lived in Huntington, WV and Nanny and my
+                parents lived in Omaha, Nebraska.</para>
+                <sidebar floatstyle="right" >
+                    <?dbfo float-type="right"?>
+                    <?dbfo sidebar-width="2.5in"?>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata align="center" contentwidth="2in"  format="JPG" fileref="gram-1.jpg"/>
+                        </imageobject>
+                        <caption>
+                            <para>Omaha, March 1968</para>
+                        </caption>
+                    </mediaobject>            
+                </sidebar>
+                <para>The following events obiously occurred long before my first memories, but I have
+                    scanned my childhood photo album and have my Mom's notes to guide me. I was born on
+                    November 24th and baptized in the Catholic church in December. Gram travelled to Omaha
+                    in March 1968 and I met Gram for the first time. I'm not sure what brought Gram to
+                    Omaha, but while she was there, I was baptized for the second time, this time in the
+                    Presbyterian Church. Gram was a Presbyterian, and either didn't know about my Catholic
+                    baptism, or didn't care and wanted the job done according to her standards. I will have
+                    to ask my parents. My first visit to the farm was in September, 1968 and my first
+                    Christmas on the farm was in 1970.</para>
+                
+                
+                <para>The first visit to Samson's Harbor that I actually remember was probably in the summer
+                    of 1972, and I really can't say that I have any specific memories of Gram. What I do
+                    remember is Dad and Aunt Kathy putting rows of well-rings into the beach to prevent
+                    erosion and a visit to the Leonardtown Volunteer Fire Department's Summer Carnival.
+                    Perhaps it is from this visit that I remember sitting in the front seat of Gram's Ford
+                    as she drove down the driveway. I remember keeping an eye on the driveway looking for
+                    box turtles, and Gram singing a song describing the features of the the farm that we
+                    were passing. "Here we go past Gant's Lot, Gant's Lot, Gant's Lot …" </para>
+                <para>We moved from Omaha to Maryland in August 1973. I believe that Gram had some health
+                    care that promted Nanny and Dad to move east to be closer to Gram. Nanny found a job at
+                    Johns Hopkins Medical Campus in Baltimore, and Dad was hired as an art teacher at Thomas
+                    Stone High School in Waldorf, Maryland. We lived on the Farm from August until December
+                    while Mom and Dad looked for a house to buy. Considering I spent more than three months
+                    in daily contact with Gram, I actually have very few memories of her.  Like many people
+                    who lived through the Depression, she didn't throw much away. When she was finished with
+                    a small tub of margarine, she would wash it out and save it for later use.  One warm
+                    day, probably shortly after we moved in, I noticed stink bugs climbing on the screen
+                    door on the front porch. I was fascinated by these ugly insects that gave off an
+                    unpleasant odor when you poked them. Gram noticed my interest in the bugs. I asked her
+                    if I could have a jar to collect the stink bugs and she brought out a stack of margarine
+                    tubs. </para>
+                <para>Gram was 8? years old at this time</para>
+            
+        </chapter>
+</book>

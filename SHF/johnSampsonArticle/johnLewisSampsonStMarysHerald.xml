@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/sch/docbook.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <keywordset>
+            <keyword>J. Lewis Sampson</keyword>
+            <keyword>Sampson Harbor</keyword>
+        </keywordset>
+        <title>Saint Mary's Beacon</title>
+        <subtitle>March 20, 1913</subtitle>
+
+        <othercredit class="other" otherclass="transcriber">
+            <personname>
+                <firstname>Paul</firstname>
+                <othername>S.</othername>
+                <surname>Krush</surname>
+            </personname>
+            <address>
+                <city>Bethesda</city>
+                <state>Maryland</state>
+            </address>
+            <email>pskrush@verizon.net</email>
+            <contrib>Document electronically transcribed by</contrib>
+        </othercredit>
+    </info>
+  
+        <para>St. Mary's Beacon Thursday, March 20, 1913</para>
+        <para>Leonardtown, MD. VOL 74.  4641</para>
+        <para>                   
+            <link xlink:href="https://chroniclingamerica.loc.gov/lccn/sn82006687/1913-03-20/ed-1">
+                    Link to Saint Mary's Beacon, March 20, 1913</link>  
+            Website accessed on 9/14/2018
+        </para>
+        <para>
+            <link xlink:href="https://chroniclingamerica.loc.gov/lccn/sn82006687/1913-03-20/ed-1/seq-3/">
+                link to page 3</link>
+
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="./images/St.MarysBeacon13Mar1913page3.jpeg" 
+                        contentwidth="4in" align="center" format="JPG"></imagedata></imageobject>
+            </mediaobject>
+        </para>
+        <para>
+            <link xlink:href="https://chroniclingamerica.loc.gov/lccn/sn82006687/1913-03-20/ed-1/seq-4/">
+                link to page 4</link>
+
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="./images/St.MarysBeacon13Mar1913page4.jpeg" 
+                        contentwidth="4in" align="center" format="JPG"></imagedata></imageobject>
+            </mediaobject>
+        </para>
+    
+   
+        <bibliolist>
+        <title>Bibliography</title>
+        <biblioentry>
+            <editor>
+                <personname>
+                    <firstname>A. F.</firstname><surname>King</surname>
+                </personname>
+            </editor>
+            <publisher>
+                <publishername>St. Mary's Herald</publishername>
+            </publisher>
+            <pubdate>March 20, 1913</pubdate>
+            <bibliomisc>https://chroniclingamerica.loc.gov/lccn/sn82006687/1913-03-20/ed-1, 14
+                September 2018</bibliomisc>
+        </biblioentry>
+    </bibliolist>
+</article>
+
