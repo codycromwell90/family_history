@@ -1216,6 +1216,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Men at Work: The Craft of Baseball</entry>
+                            <entry colname="Author">George Will</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">Case Closed: Lee Harvey Oswald and the
                                 Assissination of JFK</entry>
                             <entry colname="Author">Gerald Posner</entry>
@@ -1456,6 +1461,11 @@
                         <row>
                             <entry colname="Title">The Nightingale's Song</entry>
                             <entry colname="Author">Robert Timberg</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Jordon Rules</entry>
+                            <entry colname="Author">Sam Smith</entry>
                             <entry/>
                         </row>
                         <row>
