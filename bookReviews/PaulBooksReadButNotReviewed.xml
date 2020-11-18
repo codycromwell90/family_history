@@ -822,17 +822,12 @@
                             <entry>9th Grade English</entry>
                         </row>
                         <row>
-                            <entry colname="Title">Dandelion Wine</entry>
-                            <entry colname="Author">Ray Bradbury</entry>
-                            <entry colname="Notes"/>
-                        </row>
-                        <row>
                             <entry colname="Title">Farenheit 451</entry>
                             <entry colname="Author">Ray Bradbury</entry>
                             <entry colname="Notes">H.S. 10th Grade English</entry>
                         </row>
                         <row>
-                            <entry colname="Title">Something Wicket This Way Comes</entry>
+                            <entry colname="Title">Something Wicked This Way Comes</entry>
                             <entry colname="Author">Ray Bradbury</entry>
                             <entry colname="Notes"/>
                         </row>
