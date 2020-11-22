@@ -1053,12 +1053,45 @@
                 Socrates. Dr. Kreeft's strongest claim is that we are all philosophers and that we
                 each have the reponsibility of self-examination.</d:para>
         </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Dandelion Wine</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Ray Bradbury</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>11/21/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A beautifully written fictionalized account of childhood during the summer of
+                1928 in Waukegan, Illinois. When I was young, I read a great deal of Mr. Bradbury's
+                stories and his novel Farenheit 451 in high school English. He has a vivid
+                imagination that strikes off in often startling directions. In this case, an
+                idealized picture of childhood is intermixed with reflections on the role of
+                technology in life and on death. Interestinly, this book deal almost solely with the
+                viewpoints of the young and the very old. When the adults / parents are involved in
+                the story, they are generally dealing with some crisis.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Socratic Logic</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Peter Kreeft</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>11/22/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Found this book when looking for books about Aristotle after reading <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Aristotle for
+                    Everybody</emphasis>. This is an examination of the rules of logic as developed
+                by the ancient Greeks; Socrates gets pride of place in the title for the development
+                of the 'Socratic Method' of inquiry. But much of the formal structure of logic was
+                developed by Aristotle. This method of logic is "broader" than the boolean logic I
+                use as a software engineer; and its use of Aristitolean causes is broader than the
+                understanding of causes in the scientific method. </d:para>
+        </d:simplesect>
     </d:chapter>
     <d:appendix>
         <d:title>Template</d:title>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Cat in the Hat Comes
-                Back</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">The Cat in the Hat Comes Back</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Seuss</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/20</d:member>
