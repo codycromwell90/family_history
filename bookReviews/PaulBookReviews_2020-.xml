@@ -986,54 +986,52 @@
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
-            <d:para>Inherited this from Nanny, it is inscribed 'Thaddeus P Krush 5/63.'
-                Although I'm not sure my grandfather actually read the book because the
-                binding was very tight and the book did not feel "broken in." Thomas was
-                assigned this book his freshman year at Tufts. This is a
-                thought-provoking, but uneven book; it is a series of lectures given by
-                Mr. Carr. The first chapter is best, but they get progessively weaker.
-                On the positive side, he commends historians to have an "imaginative
-                understanding for the minds of the people with whom he is dealing, for
-                the thought behind their acts." He notes that history is not just the
-                assembly of all possible facts on a subject, but involves which facts
-                are relevant. He is suspicious of historians making moral judgements on
-                their subject. On a more problematic note, he argues that history be
-                treated as a "science" along the lines of the "social sciences." He
-                correctly notes that the social sciences differ from the physical
-                sciences in that they cannot separate the "observer" from the
-                "observed." But his disdain for providing definitions as being
-                "pedantic" leads him into trouble. He doesn't clearly delineate what he
-                means by "science", rather using analogy to other branches of learning
-                that in modern usage are known as sciences (e.g. physics, botany).  Like
-                those who utilize the modern "scientific method," he attempts to limit
-                philosophy, theology and morality from the evaluation of historical
-                evidence. This would be fine, except that he then takes on the subject
-                of "progress" in history. He notes the problems with what is known as
-                the "Whig" interpretation of history in which things are always getting
-                better. He notes that this was a self-serving viewpoint for historians
-                of the British empire at the peak of its power. Never-the-less, he
-                argues that the "progress" of history has been for the best because it
-                was the result of interactions that lead us to where we are today - it
-                is best because it is. In his chapter on causation, this is really where
-                he runs into problems with his refusal to clearly define terms. His idea
-                of causation, in Aristotelian terms, is merely of the "efficient" causes
-                - every event is the result of a constant interplay of cause and effect.
-                His belief in "progress" is now problematic, because that is a value
-                judgement implying "final" causes. He correctly notes that the
-                Judeao-Chritian world view of man's progress towards perfection in God
-                is the source of this view of history. He throws out the theological and
-                philosophical basis for this view - the "final" cause and maintains a
-                belief that "efficient" causes have an inherent direction. And he seems
-                to really mis-understand the idea of "chance", or "accident" in his
-                preferred usage. He seems to mean "chance" to be an occurance that has
-                no cause - more on line of the term "miracle." But, to take an example
-                from my field of software engineering. The computer operates at the
-                level of 1's and 0's - known as bits. Sometime bits flip unintentionally
-                and change data. There is always a cause for this flip (electro-magnetic
-                interference) but when it happens and how it affects the data is for all
-                practical purposes unforeseeable. His final chapter, where he tries to
-                provide some rough generalizations on what the future hold, is the
-                weakest. </d:para>
+            <d:para>Inherited this from Nanny, it is inscribed 'Thaddeus P Krush 5/63.' Although I'm
+                not sure my grandfather actually read the book because the binding was very tight
+                and the book did not feel "broken in." Thomas was assigned this book his freshman
+                year at Tufts. This is a thought-provoking, but uneven book; it is a series of
+                lectures given by Mr. Carr. The first chapter is best, but they get progessively
+                weaker. On the positive side, he commends historians to have an "imaginative
+                understanding for the minds of the people with whom he is dealing, for the thought
+                behind their acts." He notes that history is not just the assembly of all possible
+                facts on a subject, but involves which facts are relevant. He is suspicious of
+                historians making moral judgements on their subject. On a more problematic note, he
+                argues that history be treated as a "science" along the lines of the "social
+                sciences." He correctly notes that the social sciences differ from the physical
+                sciences in that they cannot separate the "observer" from the "observed." But his
+                disdain for providing definitions as being "pedantic" leads him into trouble. He
+                doesn't clearly delineate what he means by "science", rather using analogy to other
+                branches of learning that in modern usage are known as sciences (e.g. physics,
+                botany). Like those who utilize the modern "scientific method," he attempts to limit
+                philosophy, theology and morality from the evaluation of historical evidence. This
+                would be fine, except that he then takes on the subject of "progress" in history. He
+                notes the problems with what is known as the "Whig" interpretation of history in
+                which things are always getting better. He notes that this was a self-serving
+                viewpoint for historians of the British empire at the peak of its power.
+                Never-the-less, he argues that the "progress" of history has been for the best
+                because it was the result of interactions that lead us to where we are today - it is
+                best because it is. In his chapter on causation, this is really where he runs into
+                problems with his refusal to clearly define terms. His idea of causation, in
+                Aristotelian terms, is merely of the "efficient" causes - every event is the result
+                of a constant interplay of cause and effect. His belief in "progress" is now
+                problematic, because that is a value judgement implying "final" causes. He correctly
+                notes that the Judeao-Chritian world view of man's progress towards perfection in
+                God is the source of this view of history. He throws out the theological and
+                philosophical basis for this view - the "final" cause and maintains a belief that
+                "efficient" causes have an inherent direction. And he seems to really mis-understand
+                the idea of "chance", or "accident" in his preferred usage. He seems to mean
+                "chance" to be an occurance that has no cause - more on line of the term "miracle."
+                But, to take an example from my field of software engineering. The computer operates
+                at the level of 1's and 0's - known as bits. Sometime bits flip unintentionally and
+                change data. There is always a cause for this flip (electro-magnetic interference)
+                but when it happens and how it affects the data is for all practical purposes
+                unforeseeable. His final chapter, where he tries to provide some rough
+                generalizations on what the future hold, is the weakest. As a side note, he had one
+                very interesting comment on the Russian Revolution. He asserts that the Bolsheviks
+                were very conscious of how the French Revolution played out and were worried about a
+                "Napoleon" taking power. When Lenin died, mos Bolsheviks viewed Trotsky as the
+                likely candidate as the Soviet Napoleon given his military role in the civil war.
+                And thus, they over-looked Stalin.</d:para>
         </d:simplesect>
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Philosophy 101 by Socrates</d:emphasis></d:title>
@@ -1080,12 +1078,28 @@
             </d:simplelist>
             <d:para>Found this book when looking for books about Aristotle after reading <emphasis
                     xmlns="http://docbook.org/ns/docbook" role="underline">Aristotle for
-                    Everybody</emphasis>. This is an examination of the rules of logic as developed
+                    Everybody</emphasis>. Thought this might be useful for Thomas when he takes his
+                course in Logic at Tufts. This is an examination of the rules of logic as developed
                 by the ancient Greeks; Socrates gets pride of place in the title for the development
                 of the 'Socratic Method' of inquiry. But much of the formal structure of logic was
                 developed by Aristotle. This method of logic is "broader" than the boolean logic I
                 use as a software engineer; and its use of Aristitolean causes is broader than the
                 understanding of causes in the scientific method. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Loyal Son</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Daniel Epstein</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>11/25/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Mom gave this to me for Christmas last year. Based on the title, I thought this
+                would be a biography of William Franklin; but in this case the sub-title is
+                illuminating: "The War in Ben Franklin's House." In summary, it is an examination of
+                the relationship between Benjamin (the "patriot") and William (the "loyalist"). Not
+                bad. I don't much care for the author's style. The book could have used better
+                editing as he is often careless with dates.</d:para>
         </d:simplesect>
     </d:chapter>
     <d:appendix>
