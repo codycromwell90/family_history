@@ -797,6 +797,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Paul Harvey's The Rest of the Story</entry>
+                            <entry colname="Author">Paul Harvey Aurandt</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">Jaws</entry>
                             <entry colname="Author">Peter Benchley</entry>
                             <entry/>
@@ -1191,8 +1196,18 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">The Wise Men</entry>
+                            <entry colname="Author">Evan Thomas &amp; Walter Isaacson</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">The Tao of Physics</entry>
                             <entry colname="Author">Fritjof Capra</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Real Frank Zappa Book</entry>
+                            <entry colname="Author">Frank Zappa</entry>
                             <entry/>
                         </row>
                         <row>
@@ -1244,6 +1259,11 @@
                         <row>
                             <entry colname="Title">The Silmarillion</entry>
                             <entry colname="Author">J.R.R. Tolkien</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">This House of Sky</entry>
+                            <entry colname="Author">Ivan Doig</entry>
                             <entry/>
                         </row>
                         <row>
