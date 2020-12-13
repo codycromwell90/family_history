@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<book xmlns="http://docbook.org/ns/docbook"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
     <info>
         <title>Journal: 1931-1935</title>
         <author>
@@ -29,12 +28,12 @@
                         fileref="../ajk_journal_1931-1935/images/mar/ajk_journal026.jpg"/>
                 </imageobject>
             </inlinemediaobject></para>
-        <para>Dec. 31, 1928   Anne Jennings</para>
+        <para>Dec. 31, 1928 Anne Jennings</para>
         <para>Diary of Elizabeth Anne Jennings, later Anne Jennings Krush. Known to me and her other
             grandchildren as "Nanny." Her eldest daughter, Carol Krush, inherited all of Nanny's
             journals. Aunt Carol sent the journals to me in February, 2020.</para>
         <para>This journal has an interesting set-up; one page for each day of the year, but with
-            lines allowing entries for the same day on four different years.</para>           
+            lines allowing entries for the same day on four different years.</para>
     </chapter>
     <chapter>
         <title>MARCH</title>
@@ -96,19 +95,31 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Monday. Had music lesson. Got very good. Made up French in
+                                Activity period.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Wed. Note to &amp; from Chubby - long! Town with Munny in
+                                aft. Bot a hat! Home - drove Chevy. Sally got her hair cut. Looks
+                                keen. Don &amp; Bill full of nasty cracks. Studied tonite.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Thurs. Handed in lousy theme. Eng. Conference this aft.
+                                &amp; she was nice. Ate dinner with Honey. Great kid. Studied tonite
+                                &amp; fooled - G'nite!</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Fri. Up &amp; to chapel. Cut Bible this aft &amp; went to
+                                vill with Prill. Slushy. Made up in gym. Attempted Alliance
+                                Francaise. More fun! Helped with dishes. Saw Mlle Malbot. Talked.
+                                Bed late. Dobby's for dinner.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Sat. Worked. Gym in aft &amp; did bicycle work for O2 debt
+                                expt for Naomi White. Fun. Early supper &amp; on long bells. Art
+                                came &amp; I had a few words with him! Almost like him a lot, di.
+                                What the heck. Peanut &amp; I to Natick &amp; a little celebration
+                                at 10 - Betty Tony, Dolly, P.?</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -118,25 +129,39 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Tuesday. Stayed in for lab until five. I made up one
+                                experiment &amp; finished one other.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Thursday. Note to &amp; from Chubby. "Love." Stayed in for
+                                Eng. Waved to Joe Cook &amp; Chubby! Roller skated tonite - S.S., R.
+                                Challis &amp; Peg Handy. Faculty game. Won 30-25. Chubby made 13
+                                points! Ride with Don &amp; Ralph &amp; home at 10:10!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Fri. Betty's birthday. Gave her box of paper. She was sick
+                                in aft &amp; so I cut gym. Little supper party. Surprise party for
+                                her tonite &amp; was it grand? More darn fun &amp; bed real
+                                late!</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Sat. Lab. Studied &amp; fooled this aft. Boston on 4:58.
+                                Fairbanks &amp; I to Russian Bear. (Prill &amp; I gave her corsage).
+                                To movies "It Happened One Night." Clark Gable &amp; Claudette
+                                Colbert. Good!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Sun. Up late. Grand day. Birthday breakfast for Fairbanks.
+                                Studied etc. To libe in aft to do French &amp; then Agora for
+                                dinner. Home &amp; read &amp; wrote letters. Bed early after a
+                                little celebration in my room - Tony, Betty, Peanut &amp; Dolly.
+                            </para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 4 - 5</title>
             <para><inlinemediaobject>
@@ -151,19 +176,33 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Wednesday. Got out at 3:45  &amp; Juniors beat the Seniors,
+                                but I've forgotten the score. Ruth Challis &amp; I go well
+                                together.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Friday. Read Bible. Note to &amp; from Chubby. "Loads of
+                                love" Don trying to break it up! B.B. game at 4. I was captain. We
+                                won hugely. Movies &amp; Chocolate shop with J. Crooks. "Flying
+                                High."</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sat. Awful classes. Ruth Keown, Betty, Dolly &amp; I
+                                shopped in aft. Tonite, Ginny &amp; Betty &amp; I went to Riding
+                                Club circus. Keeno! Awfully cold. GInny came in &amp; we ate till
+                                late &amp; bed! Banks closed for time. Roosevelt inaugurated.
+                                Listened over radio. Good.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Sun. Up late. Got my bekbets. Studied. Miss Clarke for
+                                dinner. Studied. Tea in Ann Coyle's room. Miss Hawk &amp; Miss
+                                McCarthy. Fun! Waited supper. Weekend bells. Feed for Fairbanks'
+                                birthday.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Mon. Our 2nd team lost tonite &amp; so we shall probably
+                                tie for 2nd place. Tough. But who cares? I timed. Kilbon there &amp;
+                                a few remarks. Dumb Education. Why didn't I drop it?</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -173,25 +212,36 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Thursday. Don't know what I did today &amp; really don't
+                                care much.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sat. Up late. To town with Sally. Her house for supper.
+                                Movies. Football - good. Home to S's &amp; Wally &amp; Joe down.
+                                Cards. Home 11 &amp; bed. No word from Chubby!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sun. Up late. Studied &amp; fooled in a.m. Wrote theme this
+                                aft. Ate supper with Dolly. To Young People's &amp; Dr. Weston
+                                spoke. Keen! Said nice things about Peggy. Home. Studied. Bed
+                                early.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Mon. To vil this aft &amp; hair cut &amp; Dammuddy's
+                                present. Gym - Letters. Sat with gang at dinner. B.B. tonite. Hill
+                                vs. Vill. 1st Score 19-18. Played about 2 minutes! Home. Fooled. Bed
+                                10:30</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Tuesday. Another day. Signed up for oral Physiology quize
+                                next Tues. To vil with Dob. Met Tony &amp; we shopped. Food for
+                                Agora &amp; tea. Home. Studied hard etc.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 6 - 7</title>
             <para>
@@ -247,7 +297,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 8 - 9</title>
             <para>
@@ -303,7 +353,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 10 - 11</title>
             <para>
@@ -359,7 +409,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 12 - 13</title>
             <para>
@@ -415,7 +465,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 14 - 15</title>
             <para>
@@ -471,7 +521,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 16 - 17</title>
             <para>
@@ -527,7 +577,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 18 - 19</title>
             <para>
@@ -583,7 +633,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 20 - 21</title>
             <para>
@@ -639,7 +689,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 22 - 23</title>
             <para>
@@ -695,7 +745,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 24 - 25</title>
             <para>
@@ -751,7 +801,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 26 - 27</title>
             <para>
@@ -807,7 +857,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 28 - 29</title>
             <para>
@@ -863,7 +913,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 30 - 31</title>
             <para>

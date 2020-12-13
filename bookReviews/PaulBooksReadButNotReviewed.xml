@@ -620,6 +620,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Sports in America</entry>
+                            <entry colname="Author">James Michener</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">Tales of the South Pacific</entry>
                             <entry colname="Author">James Michener</entry>
                             <entry/>
@@ -1492,6 +1497,12 @@
                             <entry>Blind Man's Bluff: The Untold Story of American Submarine
                                 Espionage</entry>
                             <entry>Sherry Sontag &amp; Christopher Drew</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Fragments of an Analysis of a Case of
+                                Hysteria</entry>
+                            <entry colname="Author">Sigmund Freud</entry>
                             <entry/>
                         </row>
                         <row>
