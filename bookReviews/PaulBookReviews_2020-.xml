@@ -1163,6 +1163,16 @@
                 there is still much we don't know about how COVID spreads and why some are affected
                 more than others.</d:para>
         </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Othello</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>William Shakespeare</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>12/9/20</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Such beautiful language used for such an ugly story.</d:para>
+        </d:simplesect>
     </d:chapter>
     <d:appendix>
         <d:title>Template</d:title>
