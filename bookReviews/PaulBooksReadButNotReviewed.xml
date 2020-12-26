@@ -655,6 +655,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Faust</entry>
+                            <entry colname="Author">Johann Wolfgang von Goethe</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">The Battle to Save the Houston</entry>
                             <entry colname="Author">John Grider Miller</entry>
                             <entry/>
@@ -1032,7 +1037,7 @@
                         <row>
                             <entry colname="Title">The Grand Failure</entry>
                             <entry colname="Author">Zbigniew Brzezinski</entry>
-                            <entry/>
+                            <entry>USNA Soviet Politics</entry>
                         </row>
                     </tbody>
                 </tgroup>
@@ -1284,6 +1289,11 @@
                         <row>
                             <entry colname="Title">The Emporer's General</entry>
                             <entry colname="Author">James Webb</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">In God We Trust, All Others Pay Cash</entry>
+                            <entry colname="Author">Jean Shepherd</entry>
                             <entry/>
                         </row>
                         <row>
