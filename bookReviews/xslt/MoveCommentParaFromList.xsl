@@ -14,7 +14,8 @@
                 <xsl:apply-templates select="node() | @*"/>              
             </xsl:copy>
     </xsl:template>
-        
+    
+    <!-- TODO - bug fix - drops @label='review' from output -->    
     <xsl:template match="d:chapter/d:simplesect[@label='review']">
         <xsl:copy><xsl:copy-of select="./d:title"></xsl:copy-of>
         <xsl:apply-templates select = "d:simplelist"></xsl:apply-templates>

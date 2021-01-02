@@ -1,5 +1,6 @@
-<!-- Generate Text File of book reviews for a given year. -->
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Generate Text File of book reviews for a given year. -->
+<!-- Remeber to include $year argument when running! -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:d="http://docbook.org/ns/docbook"
@@ -34,7 +35,7 @@
             <xsl:value-of select="./d:simplelist/d:member[1]/normalize-space(.)"/><xsl:text>&#10;</xsl:text>
             <xsl:value-of select="./d:simplelist/d:member[2]/normalize-space(.)"/><xsl:text>&#10;</xsl:text>
             <xsl:value-of select="./d:simplelist/d:member[3]/normalize-space(.)"/><xsl:text>&#10;</xsl:text>
-            <xsl:text>&#009;</xsl:text><xsl:value-of select="./d:simplelist/d:member[4]/d:annotation/d:para/normalize-space(.)"/><xsl:text>&#10;</xsl:text>
+            <xsl:text>&#009;</xsl:text><xsl:value-of select="./d:para/normalize-space(.)"/><xsl:text>&#10;</xsl:text>
             <xsl:text>&#10;</xsl:text>
         </xsl:for-each>
                

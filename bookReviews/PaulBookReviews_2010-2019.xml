@@ -29,7 +29,7 @@
     </d:info>
     <d:chapter>
         <d:title>2010</d:title>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Quiet Warrior</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Thomas Buell</d:member>
@@ -54,7 +54,7 @@
                 with a professional eye, and provides judgement on any controversial actions or
                 decisions in just a few well crafted sentences. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Apologia Pro Vita Sua</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>John Henry Cardinal
@@ -80,7 +80,7 @@
                 state of the Anglican Church, Cardinal Newman's warnings seem to be
                 confirmed.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Into the Fire</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>LCDR John Owen</d:member>
@@ -95,7 +95,7 @@
                 inside observations of the players and coaches who participated in one of the best
                 season's in Navy football history.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">In the Aftermath: Provocations and
                     Lamentations</d:emphasis></d:title>
             <d:simplelist>
@@ -122,7 +122,7 @@
                 of 38 lines, the following words provide an example of his formidable vocabulary:
                 obtundently, perspicuous, caliginous, turgidity, splenetic </para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">What Hath God Wrought: The Transformation of
                     America, 1815-1848</d:emphasis></d:title>
             <d:simplelist>
@@ -164,7 +164,7 @@
                 faults of his subject without evaluating how the virtues of the subject compare with
                 the faults of the author and his society.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Forged Coupon</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Leo Tolstoy</d:member>
@@ -198,7 +198,7 @@
                 illustrating the point that the road to hell is paved with good intentions. Surely
                 Satan is aware of the military maxim "Divide and Conquer."</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Edward Dominic Fenwick Papers 1803 -
                     1832</d:emphasis></d:title>
             <d:simplelist>
@@ -215,7 +215,7 @@
                 DC. Any collection of letters does not provide narrative flow, but this a
                 fascinating look at life in the early days of America.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Abolition of Man</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Lewis</d:member>
@@ -228,7 +228,7 @@
                 is certainly prescient. I think that I will read this again before deciding on a
                 grade.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">What's Wrong with the World</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>G.K. Chesterton</d:member>
@@ -241,7 +241,7 @@
                 whether the subject is religion or society - not for nothing is he known as the
                 "Apostle of Common Sense."</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">John Paul Jones</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Samuel Eliot
@@ -262,7 +262,7 @@
                 identical, Adm. Morison's book was more interesting, more balanced and more
                 insightful.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Modern Times: The World from the Twenties to the
                     Eighties</d:emphasis></d:title>
             <d:simplelist>
@@ -277,7 +277,7 @@
                 grew slowly and ambiguously." I will certainly return to this book later as Mr.
                 Johnson revised this book to carry it up to the Nineties.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Two-Ocean War</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Samuel Eliot
@@ -290,7 +290,7 @@
                 thorough and very readable summary of the operations of the U.S. Navy in World War
                 II.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Jesus Shock</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Peter Kreeft</d:member>
@@ -301,7 +301,7 @@
             <d:para>Bought this from Amazon.com with a gift certificate I received as a gift when I
                 left Fannie Mae.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Forty Ways to Look at Winston
                     Churchill</d:emphasis></d:title>
             <d:simplelist>
@@ -316,7 +316,7 @@
                 life, accomplishments and failures and trying to give expression to as many possible
                 views on Churchill as possible.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">How Robert E. Lee Lost the Civil
                 War</d:emphasis></d:title>
             <d:simplelist>
@@ -352,7 +352,7 @@
                 not support his arguments particularly well - he would have been better off
                 organizing the book around his chief arguments.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Out of the Silent Planet</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Lewis</d:member>
@@ -362,7 +362,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Philosophy 101 by Socrates</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Peter Kreeft</d:member>
@@ -372,7 +372,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">"They Have Killed Papa Dead: The Road to Ford's
                     Theatre, Abraham Lincoln's Murder, and the Rage for
                 Vengeance"</d:emphasis></d:title>
@@ -384,7 +384,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Warrior Generals</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Thomas Buell</d:member>
@@ -436,7 +436,7 @@
                 learned to transition from tightly massed formations to flexible skirmish lines
                 which could take advantage of the terrain.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Notes from the Underground</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Fyodor
@@ -463,7 +463,7 @@
                     Cosmos</emphasis>. I wonder if this influence is direct (i.e. they are
                 reflecting upon Dostoevsky's story) or indirect.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Sacraments We Celebrate</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Msgr Peter Vahgi</d:member>
@@ -473,7 +473,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Chancellorsville</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Stephen Sears</d:member>
@@ -494,7 +494,7 @@
                 fought exactly the type of battle that Hooker wanted to fight - allowing Lee to
                 repeatedly attack his prepared positions at Gettysburg. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Lost in the Cosmos - The Last Self-Help
                     Book</d:emphasis></d:title>
             <d:simplelist>
@@ -519,7 +519,7 @@
                 light-years away, than you presently know about yourself, even though you've been
                 stuck with yourself all your life?" </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Last Battle</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Lewis</d:member>
@@ -529,7 +529,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Perelandra</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Lewis</d:member>
@@ -549,7 +549,7 @@
                 bombarded with these empty promises. This book definitely calls for a second reading
                 to fully explore Mr. Lewis' arguments and symbols.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">That Hideous Strength</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Lewis</d:member>
@@ -568,7 +568,7 @@
                 morality. As I read this book, I felt it would be a nice companion piece to
                 Solzhenitsyn's The First Circle.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Manalive</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>G.K. Chesterton</d:member>
@@ -582,7 +582,7 @@
                 problem and are a small price to pay in order to be able to read a book like this,
                 which would be difficult to find in print.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Winters Tale</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Mark Helprin</d:member>
@@ -608,7 +608,7 @@
     </d:chapter>
     <d:chapter>
         <d:title>2011</d:title>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Arians of the Fourth
                 Century</d:emphasis></d:title>
             <d:simplelist>
@@ -635,7 +635,7 @@
                 is woven throughout the narrative - this will be of interest to Thomas some
                 day..</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Descent into Hell</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Charles Williams</d:member>
@@ -670,7 +670,7 @@
                 as this was in e-book form, I would like to read this one again in text.</para>
             <d:para>.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Admiral Farragut</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Alfred Thayer
@@ -695,7 +695,7 @@
                 officer allowed him to achieve greatness when called to duty in the Civil
                 War.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The River War</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Winston
@@ -709,7 +709,7 @@
                 interest as the Sudan has just recently voted to split into two separate countries
                 (north and south).</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Silence</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Shusaku Endo</d:member>
@@ -722,7 +722,7 @@
                 why simply try to survive. The book offers no answers but hints that Christ remains
                 with both the heroic and the abject..</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Man Who Was Thursday</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>G.K. Chesterton</d:member>
@@ -732,7 +732,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Influence of Sea Power Upon
                     History</d:emphasis></d:title>
             <d:simplelist>
@@ -746,7 +746,7 @@
                 this book except for the first chapter. In fact, the first chapter should be
                 required reading for every Midshipman at Annapolis..</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Crecy</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Hilaire Belloc</d:member>
@@ -756,7 +756,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Between the Water and the
                 Woods</d:emphasis></d:title>
             <d:simplelist>
@@ -778,7 +778,7 @@
                 there are plenty of small obstacles overcome, but no resolution of weighty matters
                 that would provide depth..</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Jesus Christ</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Pope Benedict
@@ -797,7 +797,7 @@
                 has become the very reason for faith and the center point of all of the history of
                 mankind..</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Robinson Crusoe</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Daniel Defoe</d:member>
@@ -819,7 +819,7 @@
                 gripping up to the point of the rescue of Friday. From there on out, it returns to
                 being simply a run-of-the-mill adventure story.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">A Country of Vast Designs</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert W. Merry</d:member>
@@ -830,7 +830,7 @@
             <d:para>A balanced and readable history of the presidency of James K. Polk. A good
                 introduction, but not a great deal of depth.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Rite</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Matt Baglio</d:member>
@@ -841,7 +841,7 @@
             <d:para>A balanced view of the Catholic Church's rite of exorcism. Reads like a really
                 long magazine article.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Innocence of Father
                 Brown</d:emphasis></d:title>
             <d:simplelist>
@@ -858,7 +858,7 @@
                 Doyle achieves with Holmes. (This is not a criticism of Doyle as I love nearly all
                 of the Holmes collection.) Nearly all of these stories were a joy to read..</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Randolph of Roanoke: A Study in
                     Conservatism</d:emphasis></d:title>
             <d:simplelist>
@@ -876,7 +876,7 @@
                 can best be summarized, perhaps, by a phrase used by Randolph: "Change is not
                 reform."</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Exploring Reality: The Intertwining of Science and
                     Religion</d:emphasis></d:title>
             <d:simplelist>
@@ -900,7 +900,7 @@
                 Polkinghorne is able to argue intelligently in both realms and is thus provides a
                 more informed opinion.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Heritage</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Abba Eban</d:member>
@@ -925,7 +925,7 @@
     </d:chapter>
     <d:chapter>
         <d:title>2012</d:title>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Imitation of Christ</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Thomas a' Kempis</d:member>
@@ -948,7 +948,7 @@
                 appeal the direct, secular modern style. But, just because the book is hard to read
                 does not mean it is not true.. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Pensees </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Blaise Pascal</d:member>
@@ -963,7 +963,7 @@
                 mathematician. This book is not really intended to read from front to back, and
                 would really be better read as a real book rather than an e-book.. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Phaedo </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Plato</d:member>
@@ -974,7 +974,7 @@
             <d:para>Plato's account of the last hours of Socrates, in which Socrates lays out the
                 rational argument for the afterlife. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Myth of the Great War </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>John Mosier</d:member>
@@ -984,7 +984,7 @@
             </d:simplelist>
             <d:para> </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Lord of the Rings </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>J.R.R. Tolkien</d:member>
@@ -1019,7 +1019,7 @@
                 much of Samson's Harbor Farm. What will always draw me back to these books is the
                 beauty of the writing. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Lancelot </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Walker Percy</d:member>
@@ -1029,7 +1029,7 @@
             </d:simplelist>
             <d:para> </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Possessed </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Fyodor
@@ -1040,7 +1040,7 @@
             </d:simplelist>
             <d:para> </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The First Team </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>John Lundstrom</d:member>
@@ -1051,7 +1051,7 @@
             <d:para>An outstanding academic study of naval fighter combat in the South Pacific
                 during the first 6 months following Pearl Harbor.. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Hamlet </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>William
@@ -1066,7 +1066,7 @@
                 than on the play. In any event, as far as tragedies go, I still prefer Macbeth.
             </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Warrior Elite </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Dick Couch</d:member>
@@ -1076,7 +1076,7 @@
             </d:simplelist>
             <d:para> </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The First Team: The Guadalcanal Campaign
                 </d:emphasis></d:title>
             <d:simplelist>
@@ -1090,7 +1090,7 @@
                 to me as my mother's father was a Marine and an aircraft mechanic on Guadalcanal.
             </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Commentaries on the Gallic War
                 </d:emphasis></d:title>
             <d:simplelist>
@@ -1101,7 +1101,7 @@
             </d:simplelist>
             <d:para> </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Gulliver's Travels </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Jonathan Swift</d:member>
@@ -1119,7 +1119,7 @@
                 always attract new readers, and really, human nature has not changed so much that
                 his satire won't strike home in any age.. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Good Soldier </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ford Maddox Ford</d:member>
@@ -1131,7 +1131,7 @@
                 why. Perhaps it was to illustrate the obtuseness of the British upper class before
                 World War I. Didn't much care for the book. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Battle of Blenheim </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Hilaire Belloc</d:member>
@@ -1149,7 +1149,7 @@
                 campaign leading up to the battle, moving from the Rhine to the Danube to isolate
                 and destroy a combined French and Bavarian force.. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline"> The Wisdom of Father Brown
                 </d:emphasis></d:title>
             <d:simplelist>
@@ -1162,7 +1162,7 @@
                     xmlns="http://docbook.org/ns/docbook" role="underline">Innocence of Father
                     Brown</emphasis>. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Story of the Malakand Field Force
                 </d:emphasis></d:title>
             <d:simplelist>
@@ -1178,7 +1178,7 @@
                 Churchill's belief that western commerce and "progress" would ultimately civilize
                 this frontier. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Macbeth</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>William
@@ -1189,7 +1189,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Phantastes, A Faerie
                 Romance</d:emphasis></d:title>
             <d:simplelist>
@@ -1200,7 +1200,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Heretics</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>G. K. Chesterton</d:member>
@@ -1210,7 +1210,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Tolkien Reader </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>J.R.R. Tolkien</d:member>
@@ -1220,7 +1220,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Cross of Iron: The Rise and Fall of the German War
                     Machine, 1918-1945</d:emphasis></d:title>
             <d:simplelist>
@@ -1247,7 +1247,7 @@
     </d:chapter>
     <d:chapter>
         <d:title>2013</d:title>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Persian Fire: The First World Empire and the
                     Battle for the West</d:emphasis></d:title>
             <d:simplelist>
@@ -1271,7 +1271,7 @@
                 definitely prevent me from recommending this to Thomas until he is older. But,
                 all-in-all, an enjoyable and profitable read.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Letters of St. Ignatius of
                     Antioch</d:emphasis></d:title>
             <d:simplelist>
@@ -1284,7 +1284,7 @@
             <d:para>No point in assigning a grade. It is very interesting how much he writes in the
                 manner of St. Paul - both in content and in style.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">An Essay on the Development of Christian
                     Doctrine</d:emphasis></d:title>
             <d:simplelist>
@@ -1301,7 +1301,7 @@
                 eclipse of paganism. But Christianity was such a radical departure for the Roman
                 establishment that they truly believed that Christians were “atheists”.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Clear the Bridge</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Richard O'Kane</d:member>
@@ -1311,7 +1311,7 @@
             </d:simplelist>
             <d:para>Account of his service as a submarine skipper in WWII.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Place of the Lion</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Charles Williams</d:member>
@@ -1321,7 +1321,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Poitiers</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Hilaire Belloc</d:member>
@@ -1333,7 +1333,7 @@
                 War. Like all the great English victories of this war the result was largely decided
                 by the long bow.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Masters and Commanders</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Andrew Roberts</d:member>
@@ -1348,7 +1348,7 @@
                 course of the war are trite and reflect the “consensus” view of the war with little
                 original thought – particularly when it comes to the Soviets.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Atheist Delusions</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>David Bentley
@@ -1369,7 +1369,7 @@
                 Christianity to the Roman world as discussed above in the "Essay on the Development
                 of Christian Doctrine."</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Three Men in a Boat</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Jerome K. Jerome</d:member>
@@ -1382,7 +1382,7 @@
                 fashion, this book definitely falls in the category of "good but not
                 great."</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Victory of Reason</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Rodney Stark</d:member>
@@ -1392,7 +1392,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Types of Naval Officers Drawn from the History of
                     the British Navy</d:emphasis></d:title>
             <d:simplelist>
@@ -1404,7 +1404,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">From Sail to Steam, Recollections of Naval
                     Life</d:emphasis></d:title>
             <d:simplelist>
@@ -1416,7 +1416,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Sea Power and Its Relation to the War of
                     1812</d:emphasis></d:title>
             <d:simplelist>
@@ -1442,7 +1442,7 @@
     </d:chapter>
     <d:chapter>
         <d:title>2014</d:title>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Incidents and Anecdotes of the Civil
                     War</d:emphasis></d:title>
             <d:simplelist>
@@ -1455,7 +1455,7 @@
             <para xmlns="http://docbook.org/ns/docbook">This is not so much a history of the Civil
                 War but a collection of “sea stories.” A very enjoyable read.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Sand Pebbles</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Richard McKenna</d:member>
@@ -1470,7 +1470,7 @@
                 but he does present a very balanced account of all the different parties in conflict
                 in China in the years in between WWI and WWII.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">With The Old Breed</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> E.B. Sledge</d:member>
@@ -1488,7 +1488,7 @@
                 ornithology), his book is in every way as readable as Manchester’s. Sledge really
                 had a gift for observation.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Complete Father Brown
                 Mysteries</d:emphasis></d:title>
             <d:simplelist>
@@ -1502,7 +1502,7 @@
                 stories are a delight to read; at the end of a busy day I would often pour a beer to
                 accompany one of these stories.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Gettysburg: The Last
                 Invasion</d:emphasis></d:title>
             <d:simplelist>
@@ -1531,7 +1531,7 @@
                 is a borderline 5, although as much as I enjoyed reading it, I doubt I shall read it
                 again. But I definitely recommend it as first rate military history.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">This Republic of Suffering</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Drew Gilpin
@@ -1550,7 +1550,7 @@
                 I look at the portrait of his father, Theodore Hugh Nevin, that hangs above my
                 mantle, I wonder about pain he endured at the loss of his oldest son. </para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Wars of the Roses</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Allison Weir</d:member>
@@ -1570,7 +1570,7 @@
                 even more. This set the stage for the strong monarchs of the House of Tudor and the
                 transition to a more absolute monarchy. </para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Life of Nelson</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Alfred Thayer
@@ -1581,7 +1581,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">What If?</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Randall Munroe</d:member>
@@ -1591,7 +1591,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Beauty of the Infinite: The Aesthetics of
                     Christian Truth</d:emphasis></d:title>
             <d:simplelist>
@@ -1609,7 +1609,7 @@
                 up words with a touch was helpful, but no replacement for already having command of
                 the terminology. </para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Divine Comedy</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Dante Alighieri</d:member>
@@ -1619,7 +1619,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">On Something</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Hillaire Belloc</d:member>
@@ -1629,7 +1629,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Utopia</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> St. Thomas More</d:member>
@@ -1639,7 +1639,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Alice’s Adventures in
                 Wonderland</d:emphasis></d:title>
             <d:simplelist>
@@ -1650,7 +1650,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Princess and the Goblin</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> George
@@ -1661,7 +1661,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">A Shorter Summa</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Peter Kreeft</d:member>
@@ -1674,7 +1674,7 @@
     </d:chapter>
     <d:chapter>
         <d:title>2015</d:title>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Master of Sea Power: A Biography of Fleet Admiral
                     Ernest J. King</d:emphasis></d:title>
             <d:simplelist>
@@ -1687,7 +1687,7 @@
                 of the life and the influence of Admiral King. Admiral King's role in the Navy in WW
                 II can best be compared to that of General George Marshall for the Army.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Chico the Jester</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Alexandre Dumas</d:member>
@@ -1704,7 +1704,7 @@
                 through plots and revolts. Actually a very interesting story to which I am not doing
                 justice owing to the passage of time and the corresponding loss of details.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The White Company</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Sir Arthur Conan
@@ -1722,7 +1722,7 @@
                 blood thirsty lot little better than the Vikings. There is a second volume that
                 accompanies this, but I could not finish the first volume.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Venice: Pure City</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Peter Ackroyd</d:member>
@@ -1734,7 +1734,7 @@
                 Italy. A basic background on the history, art, architecture, and people of
                 Venice.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Virtues of War</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Steven
@@ -1750,7 +1750,7 @@
                 job of dissecting the tactics of the Macedonian army at the peak of its power.
             </para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Yanks are Coming </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> H.W. Crocker
@@ -1763,7 +1763,7 @@
                 was away at summer camp. A very cursory introduction to the US involvement in WWI,
                 including profiles of the most famous American’s involved in the war.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Fighting the Flying Circus</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Eddie
@@ -1776,7 +1776,7 @@
                 The gist was that Eddie Rickenbacker was a truly remarkable man and a terrific
                 writer.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Memoirs of General Baron De
                     Marbot</d:emphasis></d:title>
             <d:simplelist>
@@ -1792,7 +1792,7 @@
                 Steven Pressfield in his notes on the sources he used in writing "The Virtues of
                 War."</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Mass in Slow Motion</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Father Ronald
@@ -1805,7 +1805,7 @@
                 the school girls at a parochial school that he served. Explains the structure and
                 meaning of the Roman Catholic mass.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Teaching Particulars</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Helaine L.
@@ -1828,7 +1828,7 @@
     </d:chapter>
     <d:chapter>
         <d:title>2016</d:title>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">City of God</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>St. Augustine</d:member>
@@ -1841,7 +1841,7 @@
                 good portion of the book contains arguments against paganism; overall its purpose is
                 a justification for the truth of Christianity..</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Game of Thrones</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>George R. R.
@@ -1853,7 +1853,7 @@
             <d:para>Thomas loves the Game of Throne series and suggested that I read it. Mr. Martin
                 is a great story teller - on par with Tom Clancy and Stephen King.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Galileo Heretic</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Pietro Redondi</d:member>
@@ -1867,7 +1867,7 @@
                 interest in theology, this will be a very dry read. If you love thought provoking
                 research, the details are fascinating.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">In the First Circle</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Aleksandr
@@ -1883,7 +1883,7 @@
                 people (both inside and outside the prison) try to survive in Stalinist
                 Russia.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Reckoning: The Murder of Christopher
                     Marlowe</d:emphasis></d:title>
             <d:simplelist>
@@ -1903,7 +1903,7 @@
                 the paranoid “spy vs. spy” atmosphere created by the secret police in Elizabeth I’s
                 reign.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">City of Saints</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>George Weigel</d:member>
@@ -1914,7 +1914,7 @@
             <d:para>A travel guide of sorts, highlighting Pope St. John Paul II’s ties to the city
                 of Krakow, Poland.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Diplomacy</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Henry Kissinger</d:member>
@@ -1941,7 +1941,7 @@
                 rational national interests with the ideals on which the American republic was
                 founded.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Russian Revolution</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>William Henry
@@ -1952,7 +1952,7 @@
             </d:simplelist>
             <d:para>Utterly forgettable.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Forgotten Man: A New History of the Great
                     Depression </d:emphasis></d:title>
             <d:simplelist>
@@ -1971,7 +1971,7 @@
                 the economic and political conditions. I will likely buy this book for Thomas for
                 Christmas.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">A Storm of Swords</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> George R. R.
@@ -2009,7 +2009,7 @@
                 turned out. So, over all I can recommend this series, but I don’t foresee the desire
                 to ever read them again.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">A Journey In the Seaboard Slave States, vols. 1
                     and 2</d:emphasis></d:title>
             <d:simplelist>
@@ -2034,7 +2034,7 @@
                 The second volume is one of the worst printing jobs I’ve ever seen in a book, at
                 least three different pages are duplicated.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">A Journey in the Back
                 Country</d:emphasis></d:title>
             <d:simplelist>
@@ -2050,7 +2050,7 @@
                 half isn’t as interesting as he attempts to draw generalizations on Southern society
                 and on the impact of slavery on both the Southern and National economy.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Fifth Gospel</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ian Caldwell</d:member>
@@ -2070,7 +2070,7 @@
     </d:chapter>
     <d:chapter>
         <d:title>2017</d:title>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Armada</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Garrett
@@ -2084,7 +2084,7 @@
                 written and presents the Spanish point of view with equal attention and sympathy as
                 to the English.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Snow and Steel</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Peter
@@ -2100,7 +2100,7 @@
                 ground and his sound professional judgement. I passed this book on to Uncle
                 Steve.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Last Stand of the Tin Can
                 Sailors</d:emphasis></d:title>
             <d:simplelist>
@@ -2115,7 +2115,7 @@
                 escorts that confronted the main Japanese force during the second day of the battle.
                 .</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Company</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert Little</d:member>
@@ -2136,7 +2136,7 @@
                 fact and not fiction, he assumed the role as Deputy Director for Counterintelligence
                 when Angleton was relieved of his duties.)</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">A Kingdom Far and Clear</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Mark Helprin</d:member>
@@ -2152,7 +2152,7 @@
                 attempts to rise to the perfections of the virtues. I originally bought this for
                 Anna, but she was not interested in the book.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Stalin: Paradoxes of Power,
                 1878-1928</d:emphasis></d:title>
             <d:simplelist>
@@ -2177,7 +2177,7 @@
                 I am drawn to Kotkin's scholarship but not anxious to spend more time in Stalin's
                 presence.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Inspector</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Nikolai Gogol</d:member>
@@ -2191,7 +2191,7 @@
                 Plays are generally not my thing, and you always wonder what gets lost in a
                 translation.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Seven Story Mountain</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Thomas Merton</d:member>
@@ -2201,7 +2201,7 @@
             </d:simplelist>
             <d:para>Selected this for reading during Lent.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Bunker Hill: A City, a Siege, A
                     Revolution</d:emphasis></d:title>
             <d:simplelist>
@@ -2213,7 +2213,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Hard Sayings: A Catholic Approach to Answering
                     Bible Difficulties</d:emphasis></d:title>
             <d:simplelist>
@@ -2224,7 +2224,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Fleet at Flood Tide: America at Total War in
                     the Pacific, 1944-1945</d:emphasis></d:title>
             <d:simplelist>
@@ -2236,7 +2236,7 @@
             </d:simplelist>
             <d:para>Again, a Christmas gift from Stacy.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Natural Navigator: The Rediscovered Art of
                     Letting Nature Be Your Guide</d:emphasis></d:title>
             <d:simplelist>
@@ -2248,7 +2248,7 @@
             <d:para>This was a gift from Stacy and I to Thomas, I read it before him because the
                 stack of books he is trying to catch up on has grown pretty large!</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Last Testament</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Benedict XVI and Peter
@@ -2259,7 +2259,7 @@
             </d:simplelist>
             <d:para/>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Speechwriter</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Barton Swaim</d:member>
@@ -2283,7 +2283,7 @@
                 sir” to answer simple queries, or the correct answer or “I’ll find out, sir” to
                 requests for information.)</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Stories and Prose Poems</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Aleksandr
@@ -2297,7 +2297,7 @@
                 exception of a single new short story.) The writing is great; the grade reflects the
                 lack of new material.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">A Dance With Dragons</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>George R. R.
@@ -2309,7 +2309,7 @@
             <d:para>Meh. Mr. Martin either needs to listen to his editor. If he does, then he needs
                 a better editor. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Art of Invisibility</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Kevin Mitnick</d:member>
@@ -2321,7 +2321,7 @@
                 although I can sympathize since he is a technology geek. The book does have some
                 useful information about staying somewhat safe in the on-line environment.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Histories</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Herodotus</d:member>
@@ -2333,7 +2333,7 @@
                 notes to explain unfamiliar people and places plus maps on every third
                 page.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Outliers</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Malcolm Gladwell</d:member>
@@ -2360,7 +2360,7 @@
     </d:chapter>
     <d:chapter>
         <d:title>2018</d:title>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Grant</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ron Chernow</d:member>
@@ -2403,7 +2403,7 @@
                 demonstrated that I have a glaring lack of knowledge about the Reconstruction
                 era.</para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">His Father’s Son: The Life of General Ted
                     Roosevelt, Jr. </d:emphasis></d:title>
             <d:simplelist>
@@ -2416,7 +2416,7 @@
                 Ted Roosevelt, Jr. will always stand in his father’s shadow. Writing style is merely
                 so-so.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Translator </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Daoud Hari </d:member>
@@ -2436,7 +2436,7 @@
                 the style is his own (just a guess.) The end result is both tragic and
                 beautiful.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Paris in the Present Tense </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Mark Helprin </d:member>
@@ -2453,7 +2453,7 @@
                 approach the book with the expectation of being dazzled by his rumination on art,
                 beauty, modern society, you will not be disappointed. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Light of Christ: An Introduction to
                     Catholicism </d:emphasis></d:title>
             <d:simplelist>
@@ -2469,7 +2469,7 @@
                 requires close attention from the reader. I picked this up to read during
                 Lent.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Last of the Tsars</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert Service </d:member>
@@ -2481,7 +2481,7 @@
                 of Tsar Nicholas II and his family. Well written, but really sheds no new light on
                 the events covered. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Landmark Julius Caesar </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Julius Caesar</d:member>
@@ -2497,7 +2497,7 @@
                 Caesar's writing is much closer to modern style than Herodotus. The Landmark version
                 of this book is top notch.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">How to Think </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Alan Jacobs </d:member>
@@ -2508,7 +2508,7 @@
             <d:para>Mainly a discussion on how to recognize bias in your own thinking and that of
                 others.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Political Tribes </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Amy Chua</d:member>
@@ -2524,7 +2524,7 @@
                 same party. Nothing particularly new or insightful, but a good common sense reminder
                 to at least try to thing for yourself.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Fall of Berlin 1945 </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Antony Beevor</d:member>
@@ -2541,7 +2541,7 @@
                 lives of their ideological opponents. Their conduct of the war ultimately showed an
                 equal disregard for the lives of their own citizens.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Two Hundred Years Together: A Russo-Jewish History
                     to 1972 </d:emphasis></d:title>
             <d:simplelist>
@@ -2557,7 +2557,7 @@
                 coincidence; there was some purpose to it.” Thus this book is Mr. Solzhenitsyn’s
                 reflections upon that purpose.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Plantagenets </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Dan Jones </d:member>
@@ -2574,7 +2574,7 @@
                 highlights and lowlights of each king, leaves little room to explore them in
                 depth.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Battle for Spain </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Antony Beevor </d:member>
@@ -2594,7 +2594,7 @@
                 taken (which he does quite effectively) and left the moral judgements to the reader.
                 He did this much more effectively in The Fall of Berlin 1945.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Fur Hat </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Vladimir
@@ -2609,7 +2609,7 @@
                 is merely that of the fur of a tabby cat. Vanity of vanities in the workers'
                 paradise of the Soviet Union!</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Glass House </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Brian Alexander </d:member>
@@ -2623,7 +2623,7 @@
                 manufacturing jobs. The organization of the book is a mess, but the author does have
                 a vivid eye for the people of Lancaster and their struggles.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Counting Coup </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Larry Colton </d:member>
@@ -2651,7 +2651,7 @@
                 unvarnished look at the struggles the Crows face in adapting to the modern
                 world</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">A Canticle for Leibowitz </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Walter M. Miller </d:member>
@@ -2667,7 +2667,7 @@
                 Ages, the second with the Renaissance and the final a futuristic modern
                 society.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Gun </d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>C.J Chivers </d:member>
@@ -2703,7 +2703,7 @@
     </d:chapter>
     <d:chapter>
         <d:title>2019</d:title>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Lady of Guadalupe: And the Conquest of
                     Darkness</d:emphasis></d:title>
             <d:simplelist>
@@ -2718,7 +2718,7 @@
                 conquest of Mexico from the viewpoint of a believing Catholic for other Catholics.
                 After reading this book, I would like to learn more about Hernan Cortez.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">A Literary Education and Other
                 Essays</d:emphasis></d:title>
             <d:simplelist>
@@ -2738,7 +2738,7 @@
                 entire collection all at once. I will attempt to find other collections at second
                 hand so that I may enjoy them at leisure.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Landmark Thucydides: A Comprehensive Guide to
                     the Peloponnesian War</d:emphasis></d:title>
             <d:simplelist>
@@ -2765,7 +2765,7 @@
                 loaded with maps, footnotes and explanatory appendixes. The Landmark classics almost
                 deserve a grade of 5 based solely on the quality of the production.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Silver Eagle</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Clancy Lyall, Ronald
@@ -2782,7 +2782,7 @@
                 settled in St. Mary's County, Maryland and my mother gave me this book for
                 Christmas.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">A History of Byzantium</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Timothy Gregory</d:member>
@@ -2796,7 +2796,7 @@
                 presentation and delves more deeply into economic and social concerns than I
                 red:member from Norwich.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Sophia Petrovna</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Lydia
@@ -2813,7 +2813,7 @@
                 characters were discovering for themselves the true nature of the Soviet
                 regime.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Byzantines</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Guglielmo Cavallo,
@@ -2828,7 +2828,7 @@
                 Byzantine perspective than trying to pigeon hole their subject into modern
                 terms.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">New Seeds of Contemplation</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Thomas Merton</d:member>
@@ -2844,7 +2844,7 @@
                 is this inner self that is taken up into the mystery of Christ, by His love, by the
                 Holy Spirit, so that in secret we live 'In Christ.'”</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Zen and the Birds of
                 Appetite</d:emphasis></d:title>
             <d:simplelist>
@@ -2861,7 +2861,7 @@
                 appears. That is Zen. It was there all the time but the scavengers missed it,
                 because it was not their kind of prey."</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Frankenstein</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Mary Shelley</d:member>
@@ -2874,7 +2874,7 @@
                 book is as much about “natural philosophy” and the moral impact of the quest for
                 scientific knowledge. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Cuckoo’s Egg</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Cliff Stoll</d:member>
@@ -2884,7 +2884,7 @@
             </d:simplelist>
             <d:para> </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The War of the Copper Kings</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> C.B. Glasscock</d:member>
@@ -2900,7 +2900,7 @@
                 main players. The chapter on the election of one of Montana’s Senators is an eye
                 opening coverage of naked political corruption. </d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Belisarius: Thunder at Dawn</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Eric Flint and David
@@ -2922,7 +2922,7 @@
                 interesting details about the external trappings and customs of the Byzantine Empire
                 and ancient Ethiopia and India.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Snobbery</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Joseph Epstein</d:member>
@@ -2938,7 +2938,7 @@
                 in high regard. All the while enjoying the snobbish pleasure of having his book
                 recommended by some of the greatest writers of the past 150 years!</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Cannon Blasts: Civil War Artillery in the Eastern
                     Armies</d:emphasis></d:title>
             <d:simplelist>
@@ -2954,7 +2954,7 @@
                 effectiveness of Civil War artillery was quite low. Yet he recognizes the commitment
                 and bravery of those who served in the artillery.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">War of the Copper Kings</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Carl B.
@@ -2969,7 +2969,7 @@
                 the story of the founding of Montana and the development of the mining industry in
                 Butte is very interesting.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">War at Sea</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> James P.
@@ -2986,7 +2986,7 @@
                 and the quality of the paper, print and binding is much higher than most hard-back
                 books produced now days.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Life on the Mississippi</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Mark Twain</d:member>
@@ -3010,7 +3010,7 @@
                 his soapbox to moralize, he writing is dated and laughably out of date. So too, I
                 suppose, will our own efforts be judged by future generations.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The British Are Coming The War for America,
                     Lexington to Princeton, 1775-1777</d:emphasis></d:title>
             <d:simplelist>
@@ -3032,7 +3032,7 @@
                 large population and genuine outrage at heavy handed British responses to event in
                 America. Two more volumes to follow!</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Scarlet Letter</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Nathaniel
@@ -3045,7 +3045,7 @@
                 Hawthorne’s decision to tell the story in the third person; the best parts of the
                 novel are when the characters interact in dialog.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Crime and Punishment</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Fyodor
@@ -3078,7 +3078,7 @@
                 negative consequences of some of the emerging “radical” theories of socialism,
                 nihilism and individualism.</d:para>
         </d:simplesect>
-        <d:simplesect>
+        <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Fall and Rise: The Story of
                 9/11</d:emphasis></d:title>
             <d:simplelist>

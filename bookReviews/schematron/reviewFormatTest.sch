@@ -33,5 +33,6 @@
                 Grade must be 0, 1, 2, 3, 4, or 5</s:assert>
         </s:rule>
     </s:pattern>
+    <!-- TODO - add check that all simplesect have @label values-->
 
 </s:schema>
