@@ -33,6 +33,13 @@
                 Grade must be 0, 1, 2, 3, 4, or 5</s:assert>
         </s:rule>
     </s:pattern>
-    <!-- TODO - add check that all simplesect have @label values-->
+    <s:pattern>
+        <s:title>Review db:simplesect Structure</s:title>
+        <s:rule context="db:simplesect">
+            <s:assert test="./@label">simplesect missing label attribute</s:assert>
+            <s:assert test="./@label[.='review'] | ./@label[.='bookOfTheYear'] | ./@label[.='note']">
+                simplesect label must be 'review', 'bookOfTheYear' or 'note'</s:assert>
+        </s:rule>
+    </s:pattern>
 
 </s:schema>
