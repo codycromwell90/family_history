@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><d:book xmlns:d="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
     <d:info>
         <d:title>Paul's Book Log</d:title>
+        <d:subtitle>2020 - </d:subtitle>
         <d:abstract>
             <d:para>These are the criteria by which I grade a book. A grade of <d:emphasis
                 role="bold">1</d:emphasis> usually means that I have made a definite decision
@@ -1260,6 +1261,25 @@
     </d:chapter>
     <d:chapter>
         <d:title>2021</d:title>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Know Your Enemies: Modern Battle</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Lt. Col. Paul W.
+                    Thompson</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/17/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>On the cover of this book is written in ink: "Med. Det. 405th. Do not remove
+                from room."  Apprarently my Grandfather (Thaddeus Paul Krush) failed to read that
+                instruction! Published by the Army Orientation Course.his is a collection of
+                accounts of German army actions in Poland, France, Yugoslavia, and Greece intended
+                to familiarize Army officers with what to expect when fighting the Germans. Since it
+                was published early in the war (1942) the source of its information came from German
+                publication supplemented by accounts in the European press. Thus, the details are
+                lacking in certainty. Styliscally, it is rather dry, as one would expect from Army
+                training material. </d:para>
+        </d:simplesect>
     </d:chapter>
     <d:appendix>
         <d:title>Template</d:title>
@@ -1267,7 +1287,7 @@
             <d:title><d:emphasis role="underline">The Cat in the Hat Comes Back</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Seuss</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/20</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/21</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>

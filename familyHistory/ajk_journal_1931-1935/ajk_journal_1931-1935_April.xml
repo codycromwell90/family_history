@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<book xmlns="http://docbook.org/ns/docbook"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
     <info>
         <title>Journal: 1931-1935</title>
         <author>
@@ -29,16 +28,15 @@
                         fileref="../ajk_journal_1931-1935/images/apr/ajk_journal026.jpg"/>
                 </imageobject>
             </inlinemediaobject></para>
-        <para>Dec. 31, 1928   Anne Jennings</para>
+        <para>Dec. 31, 1928 Anne Jennings</para>
         <para>Diary of Elizabeth Anne Jennings, later Anne Jennings Krush. Known to me and her other
             grandchildren as "Nanny." Her eldest daughter, Carol Krush, inherited all of Nanny's
             journals. Aunt Carol sent the journals to me in February, 2020.</para>
         <para>This journal has an interesting set-up; one page for each day of the year, but with
-            lines allowing entries for the same day on four different years.</para>           
+            lines allowing entries for the same day on four different years.</para>
     </chapter>
     <chapter>
         <title>APRIL</title>
-        
         <simplesect>
             <title>APRIL 1 - 2</title>
             <para><inlinemediaobject>
@@ -123,7 +121,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 3 - 4</title>
             <para><inlinemediaobject>
@@ -203,7 +201,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 5 - 6</title>
             <para>
@@ -288,7 +286,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 7 - 8</title>
             <para>
@@ -369,7 +367,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 9 - 10</title>
             <para>
@@ -426,7 +424,7 @@
                             <para>1932 - Sun. Up &amp; to church with fambly. To Willards. Asked
                                 Bill to dance, but refused. Read "Forty-Niners." Bill, Dan &amp;
                                 Ralph here. John Keeney, Eddy Weyman, Ki &amp; Mr. Conneely here
-                                supper.  Studied late &amp; washed hair.</para>
+                                supper. Studied late &amp; washed hair.</para>
                         </listitem>
                         <listitem>
                             <para>1933 - Mon. Up early. To Salem this a.m. &amp; bought sweater
@@ -449,7 +447,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 11 - 12</title>
             <para>
@@ -529,7 +527,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 13 - 14</title>
             <para>
@@ -542,6 +540,87 @@
             </para>
             <formalpara>
                 <title>APRIL 13</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - Monday. Sally &amp; I went to hear Sewickley debate against
+                                McRees Rocks. We won both debates!!!</para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 - Wed. Notes to &amp; from Chubby. He's disgusted, I guess!
+                                Saw "Grand Hotel" with Munny - Good. I drove &amp; am dead tired at
+                                about 12:30.</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - Thurs. Up late. Mailed laundry case. Class meeting at 3:45.
+                                Honor day in chapel 4:00. Waited dinner. French lecture tonite.
+                                Messed around &amp; bed rather late. Foul snow about ½ foot deep.
+                                Wet. Slushy!</para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 - Fri. Cut some classes. Left at 2 for Smith with Peanut.
+                                Ride to Worcester. Bill. (?)! Movies at Worcester &amp; buses to
+                                Northampton. Arrived 8:45. Jean &amp; we ate. Grand waffles. Good
+                                old Smith. Bed at Wilder. Awful priest. Broke glasses again.</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - Sat. Spent afternoon writing up Zo expts. Miss Leach crazy
+                                in the libe. Andy &amp; Dayton came thru. Rained like Hell. Home
+                                &amp; wrote up more &amp; worked diligintly all evening. Am I
+                                turning into a grind? Do I miss Bill?!</para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara>
+                <title>APRIL 16</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>1931 - Tuesday. Got up early this morning &amp; went for Physics.
+                                It's getting real springy out, now.</para>
+                        </listitem>
+                        <listitem>
+                            <para>1932 - Thurs. Awful day! Cold! Mr. Gill moved seat. Missed Nat.
+                                Honor Society &amp; Sewicki! Bad note from Chubby besides a cute
+                                one. Movies tonite with Sally "Business or Pleasure." Will
+                                Rogers!</para>
+                        </listitem>
+                        <listitem>
+                            <para>1933 - Fri. Classes would hardly end! Left at 4:30 for Smith.
+                                Arrived at 7. Jean took me all around. Visited quad which is grand!
+                                Loved it. "Brownie" nice. "Paradise" lake nice but not like Waban.
+                                Bed at 10!</para>
+                        </listitem>
+                        <listitem>
+                            <para>1934 - Sat. Up &amp; to Scientific Conference most of day. More
+                                fun. "Ape &amp; the Child" Back. Dinner at Park. Movies with gang.
+                                Will Rogers "David Harum" Awful good also "3 on a Honeymoon." Good.
+                                Food &amp; bed!</para>
+                        </listitem>
+                        <listitem>
+                            <para>1935 - Sun. Corridor breakfast &amp; then cleaned rooms. Miss
+                                Murphy &amp; Stede(?) here for dinner &amp; Polly couldn't come. She
+                                was very nice. Then to libe &amp; did Education for talk &amp; wrote
+                                paper. Agora to Vespers &amp; then home &amp; more study.</para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+        </simplesect>
+        <?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>APRIL 15 - 16</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/apr/ajk_journal903.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <formalpara>
+                <title>APRIL 15</title>
                 <para>
                     <itemizedlist>
                         <listitem>
@@ -576,7 +655,7 @@
                 </para>
             </formalpara>
             <formalpara>
-                <title>APRIL 14</title>
+                <title>APRIL 16</title>
                 <para>
                     <itemizedlist>
                         <listitem>
@@ -609,63 +688,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
-        <simplesect>
-            <title>APRIL 15 - 16</title>
-            <para>
-                <inlinemediaobject>
-                    <imageobject>
-                        <imagedata scale="75" align="center"
-                            fileref="../ajk_journal_1931-1935/images/apr/ajk_journal903.jpg"/>
-                    </imageobject>
-                </inlinemediaobject>
-            </para>
-            <formalpara>
-                <title>APRIL 15</title>
-                <para>
-                    <itemizedlist>
-                        <listitem>
-                            <para>1931 - </para>
-                        </listitem>
-                        <listitem>
-                            <para>1932 -</para>
-                        </listitem>
-                        <listitem>
-                            <para>1933 - </para>
-                        </listitem>
-                        <listitem>
-                            <para>1934 -</para>
-                        </listitem>
-                        <listitem>
-                            <para>1935 - </para>
-                        </listitem>
-                    </itemizedlist>
-                </para>
-            </formalpara>
-            <formalpara>
-                <title>APRIL 16</title>
-                <para>
-                    <itemizedlist>
-                        <listitem>
-                            <para>1931 - </para>
-                        </listitem>
-                        <listitem>
-                            <para>1932 -</para>
-                        </listitem>
-                        <listitem>
-                            <para>1933 - </para>
-                        </listitem>
-                        <listitem>
-                            <para>1934 -</para>
-                        </listitem>
-                        <listitem>
-                            <para>1935 - </para>
-                        </listitem>
-                    </itemizedlist>
-                </para>
-            </formalpara>
-        </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 17 - 18</title>
             <para>
@@ -681,19 +704,31 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Friday. Jimmy, Sally, Jim Crooks, V. Rhodes, Dan &amp; I
+                                went to movies "City Lights." Very dumb, but loads of fun
+                                afterwards.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sunday. Church. Bill, Wally, Joe here. Bill cute. Studied.
+                                Took Wally to Warrendale. Studied. Sally. Supper. Studied &amp;
+                                bed.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Mon. Classes again. How awful? More fun telling about
+                                Smith. More work to do for quizzes at end of week. How can I do it?
+                                Rained. Awful Physics lab. Felt lousey. Down!</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Tues. The long awaited for day has come. We got our cats in
+                                Zo!! Mine is a female - Prill &amp; is pregnant!!! French movies
+                                with H.L. Thurston "Mi-lady." Free ticket. Miss Clark nice. Studied
+                                tonite.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Wed. More lacrosse this aft (first of this year) after a
+                                wearisome lab. But life goes on &amp; all is not always rosy. It
+                                rained but cleared &amp; out we went. Studied like the dickens for
+                                Physiology quiz &amp; my French is done for tomorrow!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -703,25 +738,36 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Saturday. Went to town to oculist with Munny. Eyes are no
+                                worse! Sally took me to "Twelfth Night." Jane Cowl was in it.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Mon. Not answereing Chubby's note. Mad at Bill, 'cause when
+                                I came home, he left! Ride with Saddie! Studied tonite &amp; got
+                                much done! Sleepy - so - bed!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Tues. Crazy English class. Zo roll call. I messed it up.
+                                Fooled after Zo. Ran around block after dinner. Waited dinner. Felt
+                                miserable most all day. Studied tonite.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Wed. Forgot dinner bells. More fun. Keen day &amp; baseball
+                                outdoors. Lacrosse O.K. I'm trying for 1st Base in baseball. Dobby
+                                grand pitcher. Studied for Zo quize tonite.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Studied all spare time on Physiology &amp; we had quite the
+                                quiz - taking 2 hrs. Oh me! Such is life. Munny called tonite at
+                                House-meeting &amp; I was in a daze with Chemistry. So good to hear
+                                her. Gosh, I wish I were home. I'm sick of this life at
+                                times!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 19 - 20</title>
             <para>
@@ -737,19 +783,33 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Sunday. Went to S.S. Sally &amp; I fooled around in aft.
+                                Tonite I studied, nassy, nassy.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Tues. Oracle- no note to Chubby, but he wrote in Autograph
+                                - awful! Latin class. Roller skated tonite with Challis &amp; Handy!
+                                Fun. Gossip. Joe Cook real cute. I like him. Want him for
+                                Prom!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Wed. Studied most all day for Physics. Lacrosse in aft
+                                &amp; I had more fun! Hard, tho &amp; I feel dumb. Wrote theme till
+                                12:00 tonite. Dead tired. Sun at last came out after 8 days of
+                                rain.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Thurs. After Bible, Dobby &amp; I fixed food etc. &amp;
+                                she, Peanut, Mash(?) &amp; I went on picnic down the Charles. More
+                                darn fun. Awful current. Got all wet. It got dark, but we were
+                                merry. Again sometime? Zo quiz. Not so bad.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Friday. Feel good after Munny's call. But spend spare time
+                                studying for Chem quiz which was really quite good! Signed up at
+                                bureau. Then to practice baseball &amp; Archery - fun. Shot from 30
+                                yards. I like Miss Schreader. Home. Fooled, Libe &amp; did
+                                Education!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -759,25 +819,40 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Monday. Took Bricky Rhoads, Jane Terry &amp; Sally for
+                                ride. Sally's mother mad cause we didn't go home. Sally
+                                moving.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Wed. At last answered Chubby's note. Also Joe Cook. He
+                                wrote in autograph. Cute note from Joe about Prom! Meeting about
+                                clothes at Commencement. Cute chapel &amp; movie.
+                                Invitations.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Thurs. Awful Physics quiz. Probably flunked. Zoo lab &amp;
+                                Mrs. Hobbs thanked me for Easter card. Saw M.F. Smith about
+                                schedule. Crazy time at gym. Tea. To Astron. with Mudge &amp; Ginny.
+                                Jupiter in telescope.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Fri. A bit stiff from yesterday. Awful rain. Dobby came for
+                                dinner &amp; we toasted, buttered &amp; salted the almonds Aunt Hat
+                                sent. Studied &amp; fooled the rest of the evening. Cleaned &amp;
+                                changed room around. M.K asked me to fix ??? gown May Day.
+                                Hoop!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Sat. Cut in French &amp; so to vill &amp; got much junk.
+                                Home &amp; jobs. Then to Outing Club Hut this aft &amp; we had more
+                                fun. Painted, fooled &amp; worked about. Kids so nice &amp; we had a
+                                heap of fun. Home 9:30 &amp; bed was good.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 21 - 22</title>
             <para>
@@ -793,19 +868,33 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Tuesday. Rained &amp; of course, no tennis. I came home
+                                &amp; tried to practice for a while.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Thurs. No ans. to note. Lovely Spring weather. Out of
+                                school early &amp; to town for hair cut &amp; wave with Sally. G.R.
+                                &amp; movies with (?) Mrs. Jennings! "Polly of Circus." Winona
+                                McClester. Talk - whooey! </para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Friday. Physical exam this a.m. Dumb! Posture better. Home
+                                from Zoo &amp; went to vil. Got socks. Studied a little Speech &amp;
+                                generally messed around tonite. Scared about Physics!</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Sat. Chem lab &amp; actually finished. Jean here. We tore
+                                to town in aft. Saw G. Arliss in "The House of Rothschild" Good.
+                                Museums. No lunch. Foot!(?) Cocktails Peanut, Fairbanks &amp; us -
+                                Seville "Glamour" Paul Lukas good. Bed late!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Easter. Up &amp; over to Agora with Fairbanks &amp; helped
+                                get breakfast. Grand. Home &amp; then to chapel. Thot of fambly!
+                                Dinner grand. To libe with Fairbanks &amp; then out on lake in canoe
+                                for 1st time this year. Art Keown here &amp; great news about Prom.
+                                I feel badly. Vespers again tonite &amp; Art sat with the gang of
+                                us!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -815,25 +904,39 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Wednesday. Early to school. Miss Koehler mad at us. Music
+                                lesson in aft. Excellent. Sally's all moved now - cutest
+                                house!</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Fri. No ans. as yet. Out of school early &amp; to Y &amp;
+                                decorated - 5 hrs. Joe Cook just darling. Home, ate &amp; dressed.
+                                Boys late. Dance. Pretzel Duncan &amp; Jack Haley! I went with Irvin
+                                Sheasby. Fun Ride &amp; bed late!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sat. Awful classes. Whoops! Got B- in Physics quiz. To
+                                Boston with Ginny &amp; Bets this aft. Shopped. Supper at Seville.
+                                "Cavalcade" - keen. Diana Wynward. Fooled &amp; home on 9:30 &amp;
+                                bed early.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Sun. Up late. Breakfast ourselves - Jean, Andy, Betty, M.K
+                                &amp; I. Jean &amp; I walked around lake. Dinner. Fooled till 4:30.
+                                Jean left. Studied &amp; studied. Bed late after much
+                                studying.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Mon. And another week begins. Oh me! Have finished
+                                    <emphasis role="underline">Immensee</emphasis>. Lab &amp; then
+                                to lacrosse. More fun. Quiet day with rain &amp; sunshine. Studied
+                                like Hell tonite for French quiz tomorrow.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 23 - 24</title>
             <para>
@@ -849,19 +952,32 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Thursday. Stayed in for geom. Sally, Mother &amp; I saw
+                                "The Brat" at Hi scool, tonite. Sally here all nite mit me.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sat. Up &amp; to Hist. Home. Lunch. Town with Clem &amp;
+                                Red &amp; met Sally at Nixon "Silver Dominoe." All home. Supper
+                                &amp; kids all here. Also Jim F. Gang came, but left. All down to
+                                S's. Joey tore pants.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sun. Up early &amp; played tennis with Ginny. More fun, but
+                                stiff. Betty's cousin, Marian Beck here. Chapel with them. Studied
+                                for Speech allaft. Walk with Ginny tonite &amp; cute little boys.
+                                Alarm clock. Station.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Mon. Went to lacrosse. Helen Jacobs &amp; lieutenant -
+                                tennis matches. Swell. Cut baseball. Studied a bit tonite. Did my
+                                French &amp; Bible. Bed late.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Tues. Tore around. Out of Physiology early. Bad time at
+                                archery, but I love it. Baseball O.K. To Peggy Kohen's for dinner
+                                with Prill. Fun. Home &amp; studied &amp; to Barn futilely hunting
+                                for Miss Stohl. Chase called - me oh my! I thought surely he had
+                                forgotten!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -871,25 +987,35 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Friday. Stayed in for Physics again. Saw play again tonite
+                                with Sally, "The Brat," guzzled at Walkers afterwards.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sunday. Up early. Took Red, Clem &amp; Wally to Zelienople
+                                &amp; Sally. No church. Bill here! Darling &amp; cute picture. Slept
+                                &amp; studied in aft &amp; all evening. Bed late.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Mon. Awful short story to give in Speech "The Zone of
+                                Quiet." Was I ever scared. Lacrosse, more fun. Baseball 1st time.
+                                Incident of Miss Schroeder &amp; "Casey at the Bat." Struck out. Off
+                                dinner. Studied (?) late.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Tues. Bells this aft &amp; again tonite. Class meeting at
+                                4:40 about May Day. Studied like a demon &amp; bed late.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Wed. Up early. Chem lab this aft &amp; got ahead Wonders!
+                                Barn at 5. Home for dinner &amp; back again. Dob came. Operetta
+                                "Princess Ida" - wonderful. Saw about June Play - OK. Gosh di, I'm
+                                into it!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 25 - 26</title>
             <para>
@@ -905,19 +1031,32 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Saturday. Mrs. Harbison took us to Jewish Synagogue,
+                                Catholic Cathedral, Colonade (lunch) &amp; "What's Up" at Nixon.
+                                Peachy time.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Mon. Sally &amp; I to movies &amp; picked up Joe L. Sally
+                                home &amp; Joey back for cake. Then took him home. He's nice. Roller
+                                skate tomorrow nite - maybe! Oh me!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 -  Tues. Awful Physics again. But I've renewed hope. Bones
+                                &amp; more bones in Zo. Wrote theme on Sabrina Farms for English
+                                &amp; studied Zo till awful late. Dress from Munny. Cute!</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Wed. Got swell box of candy from Jean. Cut both sports. Got
+                                my major all fixed up. Went to society teas. Most fun at T.Z.E. I
+                                want in Z.A. however. Oh me!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Thurs. French quize back &amp; a C. I knew it too. Oh me!
+                                Physiology &amp; she said my quiz was good - me(?) I was thrilled.
+                                Agora tea with Dob. &amp; then Class meeting. Marching song lousy!
+                                All kids up for Offices Pres. Pen. is our Honorary Member! ->but I
+                                changed to Agora &amp; I'm glad! Last day of signing - oh me. Barn
+                                tonite &amp; stayed till 11!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -927,25 +1066,40 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Sunday. Right-ho! Went to S.S. Rained &amp; snowed today.
+                                Bill &amp; Wally here. Fun at nite with Sally, Jimmy, Done, Shirley
+                                &amp; George Davis.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Tues. Stayed in for Latin. Then, Challis, Joe L. &amp; I to
+                                Ben Avon to gym meet &amp; lost. Good, tho! Joe Cook real cute. Joey
+                                cuter! To Myer's &amp; then home &amp; Munny angry a bit.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Wed. B- on Eng. paper. Cut Speech. Lacrosse this aft. Miss
+                                Harris complemented me. Whee! Baseball &amp; Pete hit a home run. I
+                                hit twice out. Base on balls. Betty &amp; I ate with Gentry. Studied
+                                all nite for Zo quiz.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Thurs. Room drawing in aft. I would get 318. And I'm to get
+                                Eve's room - 105. Oh me! Ginny wants my room. Sent candy to John,
+                                Mother &amp; Jean.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Fri. Room drawing last year &amp; we haven't done it yet!
+                                Gave talk on Russian Education, a bit scared. Ginny West visited
+                                German. A- on Chem quiz which averages to B-. Archery &amp; I had a
+                                good day. Then out in canoe with Fairbanks &amp; Ginny West. No Barn
+                                tonite! Di, what a difference a few days make! Will I ever be able
+                                to trust Prill again or will I always feel uneasy &amp; afraid as I
+                                do now? What to do? What to do?</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 27 - 28</title>
             <para>
@@ -961,19 +1115,32 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Monday Went down to Sally's &amp; read Boners to her. Got
+                                100 in Geometry test. Wrote 6 letters &amp; essay of 1250 words
+                                tonite.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Wed. Sore throat. Waited on tables at church supper &amp;
+                                then Mary Ott, Sally &amp; I to Minstrel Show. Pretty dumb. Then to
+                                Sally's all nite &amp; had a fine sleep but not enuf.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Thurs. Awful Zo quiz - Evolution. Probably flunked. Miss
+                                Hamilton read theme in class. Sarcastic. Sex lecture! To libe
+                                tonite. Had finger punched for blood in Zo &amp; miserable. Bed
+                                early.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Fri. Dobby for dinner tonite &amp; I sat again with
+                                Anderson gang. To libe &amp; started my Bible report. Worked on it
+                                tonite. Messed around &amp; got homesick &amp; what not. Even cried.
+                                Bed 8:30  Up 6:35. May day Rehearsal. Missed Zephyr(?)</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Sat. Down to vill early in aft &amp; got food for corridor
+                                breakfast. Ms. Hopkins is awfully nice! Then studied, or tried to
+                                &amp; even tonite I sat around &amp; studied &amp; retired early.
+                                (P.S. This is May 22, 1935!!!) I'll never do it again, di!!!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -983,25 +1150,38 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Tuesday. Worked &amp; fooled around. Studied tonite, &amp;
+                                didn't have time to write any more letters.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Thurs. Crazy Lit. club &amp; cute Chubby &amp; Joe Cook!
+                                Gym - dumb baseball. English at 4. Home, washed hair &amp; up to Dr.
+                                Shanor's. Not there. Home, studied &amp; bed early! 'Nite!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Fri. Conference with Miss Hamilton. Dumb. I guess I am!
+                                Spring here tonite &amp; I couldn't study. Ginny &amp; Dolly &amp; I
+                                talked to Anthony boy. Rudy out in car &amp; smoked cigarettes!
+                                Crazy. 'Nite.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Sat. Better this a.m. after 10 hours sleep. Lab this a.m.
+                                &amp; for 2 hours this aft. More fun. Home. Movies tonite with Andy
+                                &amp; Janet. We were 8 minutes late. Oh me!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Sun. Worked etc. after corridor breakfast &amp; then, this
+                                aft. Miss Bradstreet &amp; friend took Peggy Rohn &amp; me to a man
+                                who owned a coach for coach &amp; four, but he was awful. Suggested
+                                a Mr. Lampton. After Agora vespers I called him up in Framingham(?)
+                                &amp; he is interested &amp; is to meet us tomorrow nite at Ma(?)
+                                about it!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 29 - 30</title>
             <para>
@@ -1057,7 +1237,5 @@
                 </para>
             </formalpara>
         </simplesect>
-
-
     </chapter>
 </book>
