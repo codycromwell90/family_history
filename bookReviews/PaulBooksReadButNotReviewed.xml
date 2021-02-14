@@ -248,7 +248,7 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">A Stillness at Appomatox</entry>
+                            <entry colname="Title">A Stillness at Appomattox</entry>
                             <entry colname="Author">Bruce Catton</entry>
                             <entry/>
                         </row>
@@ -410,11 +410,6 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">All Quiet on the Western Front</entry>
-                            <entry colname="Author">Erich Maria Remarque</entry>
-                            <entry colname="Notes"/>
-                        </row>
-                        <row>
                             <entry colname="Title">The Sun Also Rises</entry>
                             <entry colname="Author">Ernest Hemingway</entry>
                             <entry/>
@@ -520,7 +515,7 @@
                             <entry colname="Notes">H.S. 12th Grade English</entry>
                         </row>
                         <row>
-                            <entry colname="Title">Casion Royale</entry>
+                            <entry colname="Title">Casino Royale</entry>
                             <entry colname="Author">Ian Fleming</entry>
                             <entry/>
                         </row>
@@ -586,7 +581,7 @@
                         </row>
                         <row>
                             <entry colname="Title">Andersonville: A Story of Rebel Prisons</entry>
-                            <entry colname="Author">John McElroyH</entry>
+                            <entry colname="Author">John Elroy</entry>
                             <entry/>
                         </row>
                         <row>
@@ -675,7 +670,7 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">The Wold According to Garp</entry>
+                            <entry colname="Title">The World According to Garp</entry>
                             <entry colname="Author">John Irving</entry>
                             <entry/>
                         </row>
@@ -721,17 +716,17 @@
                         </row>
                         <row>
                             <entry colname="Title">On Wings of Eagles</entry>
-                            <entry colname="Author">Ken Follet</entry>
+                            <entry colname="Author">Ken Follett</entry>
                             <entry/>
                         </row>
                         <row>
                             <entry colname="Title">The Key to Rebecca</entry>
-                            <entry colname="Author">Ken Follet</entry>
+                            <entry colname="Author">Ken Follett</entry>
                             <entry/>
                         </row>
                         <row>
                             <entry colname="Title">The Man from St. Petersburg</entry>
-                            <entry colname="Author">Ken Follet</entry>
+                            <entry colname="Author">Ken Follett</entry>
                             <entry/>
                         </row>
                         <row>
@@ -760,9 +755,15 @@
                             <entry colname="Notes">USNA Naval History</entry>
                         </row>
                         <row>
+                            <entry colname="Title">A Connecticut Yankee in King Arthur's
+                                Court</entry>
+                            <entry colname="Author">Mark Twain</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
                             <entry colname="Title">Huckleberry Finn</entry>
                             <entry colname="Author">Mark Twain</entry>
-                            <entry colname="Notes">H.S. Engish - 12th grade</entry>
+                            <entry colname="Notes">H.S. English - 12th grade</entry>
                         </row>
                         <row>
                             <entry colname="Title">Gorky Park</entry>
@@ -777,7 +778,7 @@
                         <row>
                             <entry colname="Title">Alive and Dead in Indiana</entry>
                             <entry colname="Author">Michael Martone</entry>
-                            <entry colname="Notes">Gift from Karl Pence, H.S. Engilsh
+                            <entry colname="Notes">Gift from Karl Pence, H.S. English
                                 teacher</entry>
                         </row>
                         <row>
@@ -847,7 +848,7 @@
                             <entry>9th Grade English</entry>
                         </row>
                         <row>
-                            <entry colname="Title">Farenheit 451</entry>
+                            <entry colname="Title">Fahrenheit 451</entry>
                             <entry colname="Author">Ray Bradbury</entry>
                             <entry colname="Notes">H.S. 10th Grade English</entry>
                         </row>
@@ -1087,7 +1088,7 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Gulag Archipeligo</entry>
+                            <entry colname="Title">Gulag Archipelago</entry>
                             <entry colname="Author">Aleksandr Solzhenitsyn</entry>
                             <entry/>
                         </row>
@@ -1257,7 +1258,7 @@
                         </row>
                         <row>
                             <entry colname="Title">Case Closed: Lee Harvey Oswald and the
-                                Assissination of JFK</entry>
+                                Assassination of JFK</entry>
                             <entry colname="Author">Gerald Posner</entry>
                             <entry/>
                         </row>
@@ -1282,7 +1283,7 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Fear and Loathing in Los Vegas</entry>
+                            <entry colname="Title">Fear and Loathing in Las Vegas</entry>
                             <entry colname="Author">Hunter S. Thomson</entry>
                             <entry/>
                         </row>
@@ -1307,7 +1308,7 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">The Emporer's General</entry>
+                            <entry colname="Title">The Emperor’s General</entry>
                             <entry colname="Author">James Webb</entry>
                             <entry/>
                         </row>
@@ -1519,7 +1520,7 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">The Jordon Rules</entry>
+                            <entry colname="Title">The Jordan Rules</entry>
                             <entry colname="Author">Sam Smith</entry>
                             <entry/>
                         </row>
