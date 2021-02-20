@@ -1894,9 +1894,11 @@
                 to allow the modern reader to make sense of the details.</d:para>
         </d:simplesect>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Sorrows of Young Werther</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">The Sorrows of Young
+                Werther</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Johann Wolfgang von Goethe</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Johann Wolfgang von
+                    Goethe</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>2/7/21</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
@@ -1905,7 +1907,77 @@
                 engaged (and then married) to another. While technically not a part of the
                 "Romantic" period of art and literature, this novel suffers from the overwrought
                 nature of that period. Perhaps this book is more appealing to the young, but I
-                cannot recommend it.</d:para>
+                cannot recommend it. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Astoria</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Peter Stark</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/11/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A brief history of John Jacob Astor's attempt to create a trading post on the
+                Columbia River in present day Oregon. Mr. Stark is a journalist, and stylistically
+                this reads more like an extended magazine article than a history.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The New Organon</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Francis Bacon</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/11/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Francis Bacon concluded that philosophy of Aristotle in particular, and the
+                Greeks in general, based as they are upon the principles of logic and deduction,
+                were no longer of use for advancing human knowledge. So, in this work, he outlines
+                an approach for using inductive reasoning in the pursuit of scientific knowledge. He
+                recognized that the risk of using an inductive approach would be to get lost in an
+                endless accumluation of facts, so he proposed a framework for guiding induction.
+                This work is clearly a milestone in the development of the scientific method, but it
+                is not withoud its flaws. With the passage of time, it turns out that deduction is
+                still useful, even in science. And, after stating his purpose, it is rather
+                difficult to follow the framework he proposes for developing induction as he
+                proposes a long list of "aphorisms" to guide the quest for knowledge. And he is not
+                particularly good about defining his terms - in fact, he seems somewhat hostile to
+                the idea of spending much time in "philology." So I recommend the first two sections
+                of this book, but skip the rest.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Campaigns of Alexander</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Arrian</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/13/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <para xmlns="http://docbook.org/ns/docbook">Another volume in the Landmark Series of
+                ancient history; a gift for Christmas. Arrian's coverage of the reign of Alexander
+                is very interesting. As always, the quality of the book is top notch.</para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Communist Manifesto</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Karl Mark and Friedrich Engels</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/13/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Another selection from Anna's English reading list this semester. Marx and
+                Engles are surely rolling in their graves at the fact that Amazon is profiting from
+                the sales of this short work; although I must say that I am proud to have found a
+                version that was free ;)  They do have a stong critique of the impact of the
+                industrial revolution on the lives of the working class. But their "10 point plan"
+                for resolving the problem has been pretty convincingly proven wrong by the Soviet
+                Union and even "Communist" China. I think their problem is that they think too much
+                in generalizations and offer no insight into individual responses to individual
+                conditions. And even from the very beginning, the fathers of communism show a talent
+                for labelling different versions of socialism that need to be rooted out along with
+                the industrialists and capitalists. Considering that I graduated from college in the
+                waning days of the Soviet Union, it is somewhat surprising that I have never had
+                occasion to read this work until now. But having finally read it, I can say that I
+                did not miss much.</d:para>
         </d:simplesect>
     </d:chapter>
     <d:appendix>
