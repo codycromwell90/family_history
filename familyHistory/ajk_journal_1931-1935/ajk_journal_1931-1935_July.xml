@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<book xmlns="http://docbook.org/ns/docbook"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
     <info>
         <title>Journal: 1931-1935</title>
         <author>
@@ -29,12 +28,12 @@
                         fileref="../ajk_journal_1931-1935/images/jan/ajk_journal026.jpg"/>
                 </imageobject>
             </inlinemediaobject></para>
-        <para>Dec. 31, 1928   Anne Jennings</para>
+        <para>Dec. 31, 1928 Anne Jennings</para>
         <para>Diary of Elizabeth Anne Jennings, later Anne Jennings Krush. Known to me and her other
             grandchildren as "Nanny." Her eldest daughter, Carol Krush, inherited all of Nanny's
             journals. Aunt Carol sent the journals to me in February, 2020.</para>
         <para>This journal has an interesting set-up; one page for each day of the year, but with
-            lines allowing entries for the same day on four different years.</para>           
+            lines allowing entries for the same day on four different years.</para>
     </chapter>
     <chapter>
         <title>JULY</title>
@@ -51,19 +50,36 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Wednesday. Met Peggy on train. Hot? Oh boy! Mignon &amp;
+                                Nadine awfully nice. Swam as soon as we got here. Mosquitoes.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Fri. Waited around for John. Arrived while we were at Club.
+                                Ushered at Edgeworth Club benefit. Dance with Jim C. (Joey came.)
+                                Chocolate Shop, also Jim F &amp; Sally. Fire &amp; home about
+                                2:30.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sat. Up at 10. Ordered etc. Read. Washed stockings after
+                                lunch. Sat with Bill till Jim, Sally, Dan &amp; I went to Windwood.
+                                Rain. Bill here when we got back. Also tonite. Bill leaves for
+                                Chicago! Sally &amp; I (?) tonite. Gang. Bridge. Read. Mac home.
+                                Better we hope.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Sun. Up at 10. Bill here, also Lou, &amp; John's two guests
+                                - Merrit Raley &amp; Sis Brechin. Good guys. Bill cross at cocktail.
+                                To Bab's in aft &amp; home. Sleep. Supper &amp; John Keeney here.
+                                He's o.k. Read. Talked to young men. Bed!!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Mon. Saw Bill but queer, di! Then a full day at the
+                                hospital. Helped Dr. Stock again with media. 38 urines!! Jabbed a
+                                colored boy! Then home on train with Bill &amp; more like himself
+                                &amp; myself! Came this evening &amp; was swell. Then Jim Crooks
+                                appeared &amp; was very nice. He is awfully nice, di! But Bill left.
+                                I don't understand him!! And oh gosh, di - I love him so much. But
+                                there's no use in getting upset or anything.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -84,19 +100,35 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Thursday. Got up at 8:30. had a grand time. Rowed, paddled,
+                                swam. Sun bath over at Annex. Got all wet. Tired now.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sat. Up late. Down to Sally's in aft. Scotchy there. Fan
+                                belt broke. Movies in town tonite with Jim F, Sally, &amp; Joey.
+                                "Hollywood." Good! Home. Joey stayed. Left late. Bed.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sun. Up to late for church. Washed &amp; ironed &amp; got
+                                down for dinner. Peach ice cream. Rain. Dan &amp; Jim here till
+                                supper time. Bill gone! Wally &amp; Sally &amp; I walked up street
+                                for cones. Read. Bed.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Mon. I guess Bill's mad. Saw cycle at Terry's as I drove to
+                                s. school. Dr. McKinley swell. Met Janet Slece, Bill ? &amp; Martha
+                                Burns. Histology to be good. Home &amp; stayed with Munny tonite.
+                                Washed hair. Bed. Got marks - 4 B's &amp; 2 C's. 2 surprises &amp; 2
+                                disappointments.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Tues. Walked to station with Bill. Said he didn't want to
+                                cut in on Jim, the meany! Saw autopsy on syphilitic colored body.
+                                Not so bad. Beautiful syphilitic brain! Messed around. Home on 5
+                                with Bill. It was fun, di. Then Babs &amp; Terry came to talk about
+                                the affair demain soir. Munny &amp; I together &amp; bed 11:30!!
+                                Missed Bill, but wot the 'ell (?), I, shouldn't, I guess, see him
+                                all the time.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -106,25 +138,40 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Friday. Swam. Rowed to Shield's Bay with Leta &amp; Phil.
+                                Have a terrible sunburn now. Rowed alone also Nadine.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sun. To Episcopal church with Aunt Nellie. Bill, Wally
+                                here. Slept all afternoon on account of intesting trouble. Joey here
+                                tonite. 2nd RFH &amp; we had a keen time. Bed &amp; Mr. Conneely
+                                (?)</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Mon. Got my marks! All B's. Maybe I wasn't thrilled!
+                                Shirley's bridge-luncheon. More fun. Met Kate Bingham &amp; Miriam
+                                …. Jim came after. S &amp; I saw cute movie. "A Woman's Possesion."
+                                Dan here.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Tues. 2nd day of work. Forgot my scalpel. Messed around.
+                                Got out early. Home. Rested. Dance tonite with Dan. To Franny's
+                                afterwards &amp; ate &amp; messed around. Dan peculiar. Bed 2:30.
+                                Tired.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Wed. Up on train with Bill. Not such a busy day. Home on 5
+                                &amp; Ginny R. brot us home. Then the big affair opening of bar.
+                                Franny, Terry, Babs, Charlotte, Bea, Walter, Bill, Dan &amp; Joey.
+                                Fun. A couple got sick. I went up near the end &amp; Bill &amp; I
+                                sat alone for a while. I felt the influence! Babs here all nite. Bed
+                                about 3!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 4 - 5</title>
             <para><inlinemediaobject>
@@ -139,19 +186,33 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Saturday. Got up late. Rowed with Nadine. Incident of
+                                pajamas. Movies at Carling tonite Bed at 1:30. Went woodsing.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Mon. Wakened by firecrackers. Joey here in aft. Then he
+                                &amp; Wally &amp; firecrackers. Gang for supper. Franny's with
+                                Sally. Home &amp; sewed &amp; bed.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Tues. Up late. Read. Jim here &amp; I worked. Picnic with
+                                VanPelts this eve. Fun! To M.W.'s. Home. Read. Bed. Fine - 1:30.
+                                Bomb. Huge blaze. Mr. Tallman &amp; Austin. Met Chubby. Darling as
+                                ever.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Wed. My, the 4th! Bill here &amp; I couldn't go to
+                                Washington. Damn. Isabill &amp; I went to ball game this aft.
+                                Pirates lost. Dan, Babs, Wally &amp; I at Merrill's tonite. (Bill
+                                rode by) Watched fireworks from hill. Bed 12.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Thurs. a holiday! Up at 10 with Babs. Huge bekbets. Bill
+                                came about 1 &amp; stayed till 5. Talked &amp; he moved radio
+                                upstairs. Then, down on (?) &amp; he was sweeter &amp; grander than
+                                ever. But he said &amp; I thot that we shouldn't do this very often.
+                                Rested. Dinner. Wally in , but I couldn't go to Babs! Messed
+                                around.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -161,25 +222,40 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Sunday. Slept late. Over at Annex &amp; sat. Picnic supper
+                                on porch. Rowed in evening.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Tues. Up late. Stockings. Wally &amp; puzzle. Saw Franny.
+                                Swimming with Sally, Charles McC., Wally, Babs, Joey &amp; Fred. Met
+                                Chubby. Darling. Swam a bit. Again I like him! Fooled this evening.
+                                No one.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Wed. Up late. Took Dammuddy &amp; Aunt Nellie to town.
+                                Shopped. Home. Bath. Cleaned up. Tennis this evening with Dan, Sally
+                                &amp; Jim. More fun. Movies. Jim Crooks, Polly &amp; us. Ate here.
+                                Bed.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Thurs. Dan &amp; Babs &amp; I to town in a.m. Shopped. Met
+                                for lunch. To school. Worked on slides. Took Janet down &amp;
+                                stopped at Hornes for Challis. Home. Babs &amp; I cooked dinner.
+                                More fun! Ride &amp; home &amp; bed early.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Fri. Walked to station &amp; to town with Sir Bill. Another
+                                autopsy today, 9 mo. old colored boy - pneumonia. Dr. Stock very
+                                peculiar. Then home on train with Bill. He couldn't go to movies on
+                                account of boating, so Babs, Walley &amp; I to see "Escapade" with
+                                Bill Powell &amp; a new girl - Good! To Babs for whissey(?). Home at
+                                1 &amp; was I tired?!!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 6 - 7</title>
             <para>
@@ -195,19 +271,33 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Monday. Peggy's birthday, gave her hankies. Picknic supper
+                                on Annex. Went for a row.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Wed. Up! Messed around. Picnic at Windwood with Jim F,
+                                Sally, &amp; Jim C. Sally ill. Got sunburn. Home 6:30. Wally &amp;
+                                Joey came &amp; worked on Xword puzzles. Joey stayed after Wally
+                                went. Left about 12.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Thurs. Up late. Got picnic stuff ready. Left about 3.
+                                McConnells Mills - Wally, Babs, Jim, Sally, Dan &amp; I. Car
+                                trouble. Rapids. Pickles, Ice cream. Rasputin. Slow ride home. Tired
+                                &amp; happy.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Fri. And still no Bill. Kept late at school because of
+                                those d. slides. Pop home. Munny &amp; Pop in bad humor. They left.
+                                I packed etc &amp; bed early 'cause we have to get up early in the
+                                a.m. Off to see Dammuddy.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Bill, his father &amp; I drove up. Bill funny, but (?) nice
+                                to me! Then work. Back to town &amp; shopped. Then lunch. Home
+                                Bathed. Bridged at Sarah's with Terry &amp; Babs also. Home. No Bill
+                                tonite &amp; I was awfully disappointed. German &amp; bed
+                                early.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -217,25 +307,38 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Tuesday. Nadine's last nite here. Played fooey Hide &amp;
+                                Seek. Girls went bathing after Marshmellow roast at nite.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Thurs. Up late. Brunch. Town to baseball gaem. Pirates lost
+                                4-3, but good game. Dinner at William Penn with Eke &amp; Mun! I
+                                drove. Rain. Home. Joey here. Stayed till 10:30. He was
+                                tired.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Fri. Tennis this a.m. Fooled in aft. Betty Dunsford's for
+                                dinner with John &amp; A. Lousy time till Bill came late. FUn then.
+                                He was disgusted tho, I guess. Gosh darn, diary. I like him an awful
+                                lot!</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Sat. Up at 5 &amp; left for Carlisle. Arrived at 12. Munny
+                                &amp; I to see Dammuddy. Weaker but rational. Rested. Munny &amp;
+                                Pop &amp; I went back again. A bit better. Johnstons &amp; Aunt
+                                Nellie for dinner. Fun. Bed early. Rain, but still hot!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Sun. Up at 9. Bill came about 10 - the bum! But at least he
+                                asked me to a picnic Sat. Then said he might come back, but didn't.
+                                Oh me! BUt he wasn't at Terry's! Did German. Called up Babs.
+                                Listened to Amateur Hour. THen Pop left. Bed about 11. 'Nite!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 8 - 9</title>
             <para>
@@ -251,19 +354,34 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Wednesday. Got my marks. Dagnabit! First nite in tent.
+                                Nadine left. Boohoo. Rowed &amp; read. Airplane. Sail-boat ride.
+                                Mrs. Sheaffer came. Very nice.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 -  Fri. Up at 10. Got C.B. marks. Munny furious. Town with
+                                M.W. Missed Aunt Hat. Shopped. Home. Tennis. M.W.'s for supper.
+                                Fooled. Munny called as Joey here. Stayed till 12:30. Did
+                                puzzle.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sat. Bill here this a.m. Didn't think he'd come. Awfully
+                                nice. M.W's bridge &amp; tea this aft. Fun! Jim &amp; Sam Semione,
+                                Johnny Mayer, Charlotte, S. &amp; I to town &amp; saw Clark Gable in
+                                "Hold Your Man" O.K.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Sun. Up &amp; said G'bye to Dammuddy. Sad! Old age, di!
+                                It's tough to think of. Home at 6:15 &amp; Bill here. I was taken
+                                aback. But he left. Fight with Munny. Merrils &amp; bridge. Walking
+                                home &amp; Bill came along. Talked. Then home - bed 12:30. Ain't
+                                love awful?</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Mon. Up on train with Bill. Had to work quite hard today.
+                                Dr. Stock &amp; I made Media. Steam in kitchen took it all out of
+                                me. Then home. Met Helen Trout. O.K. Then home to Babs' After movie
+                                in Ambridge "Oil for the Lamp of China" Good. Bed late.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -273,25 +391,37 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Thursday. Walt Coles' family came. Bertha nice. Rowed with
+                                Mignon &amp; Peggy to Footes Bay. No mail. Boohoo.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sat. (I'm mixed up) Joey came tonite &amp; we went to
+                                Street Fair. I won a cute lamp. No rides. Walked. Home &amp; Xword
+                                puzzle until late.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Up late. Bill came before dinner. Ice cream. Here all
+                                afternoon. Cute. Wally had me embarrassed. Legs on pillow. Dan came.
+                                Supper. Dan &amp; Jim &amp; Shirley &amp; M.W. &amp; Jim's friends
+                                in tonite. Hilarious.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Town at break of dawn - 9 a.m. &amp; worked at school 6 ½
+                                hrs. running up some tissue. Mistake - I guess. I stayed home &amp;
+                                moped about. Wrote a couple of letters etc. Nuts!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Tues. Babs &amp; I up &amp; to work. Drove up with Bill.
+                                Lunch in Pittsburgh with Sally Hall. Betty drove us down. Home.
+                                Dressed. Bill &amp; I to Babs. Dinner. Trout. Dan, Walter, Babs,
+                                Terry, Jane, Bill &amp; me. Fun. Played Monopoly - Fooled. Bed
+                                late!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 10 - 11</title>
             <para>
@@ -307,19 +437,32 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Friday. The Cole's left. Bob &amp; Harry went to
+                                Gravenhurst &amp; didn't get back. We miss them. Gibby is only man
+                                now.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sun. To Sunday School. Walked home with Bill. Nice. M.W.
+                                over in aft. Talked. Got supper. Joey came. Took M.W. home. Movies
+                                in Ambridge. Home. Talked. Munny mad. Bed.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Mon. Had hair-cut. Tennis. Awful Sam Simons. Town with S.
+                                &amp; lunch with Mary South, M. Singleton &amp; J. Griffith. Fun.
+                                Move "King of Jazz." "Looking Forward" Dan &amp; Jim here tonite.
+                                Franny came. Movies. Tea. Bed.  </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Tues. Lunch early &amp; town early. Again worked long time
+                                in lab. Not so long as yesterday. I miss Bill these days. Mended a
+                                bit in the a.m. &amp; cleaned up room. With Munny tonite &amp; bed
+                                early.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Wed. Up &amp; walked home in bedroom slippers for shoes.
+                                Then up on train with Bill. Stayed in after work. Dinner at
+                                Stouffers with Trout, Terry &amp; Babs, then Stanley. "People Will
+                                Talk." Charlie Ruggles &amp; Mary Boland &amp; at last home.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -329,25 +472,39 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Saturday. Boys didn't arive till late. We went rowing &amp;
+                                swimming. No sun.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Up &amp; played tennis with M.W. in a.m. Won. Fooled in
+                                aft. Hair cut &amp; waved. Down to Sally's after supper. Saw Chubby
+                                at Isaly's. Sally &amp; I to bed early after Street Fair. Read
+                                story. Bed.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Tues. S &amp; I to Crutchfields for lunch. Awfully nice on
+                                porch. Ottie had bridge &amp; tea at the Club in aft. Loads of fun.
+                                Jim Pullman(?) &amp; Dan here tonite &amp; we had croquet &amp; then
+                                bridge. Bed late.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Wed. Lunch early &amp; worked 4 hrs in lab today. Loads of
+                                fun but patience needed. Dan, Wally, Babs &amp; I to Warner to see
+                                "Lets Try Again" &amp; "Cockeyed Cavaliers." Fun. Home. Ice cream
+                                &amp; cake.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Thurs. Up on train with Bill. Then to work. Did a lot of
+                                urines. Then helped Dr. Stock most of rest of day. He drove me home.
+                                Then thot I'd go to bed early, but Jim came &amp; stayed till a
+                                little after 10. Then bed! John home tomorrow!! Be glad to see
+                                him!!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 12 - 13</title>
             <para>
@@ -363,19 +520,36 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Sunday. Got up to go to church, but no one went. We read.
+                                "Jane Eyre" is good. I cried over sad part.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Tues. Up at 10:45. Fooled with Sally till lunch. Tennis
+                                with M.W. Won. Movies tonite with Joey. "Letty Lynton." Good. Bent
+                                fender. Ice cream twice. Joey, Wally &amp; I talked. Bed
+                                12:30.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Wed. No tennis as expected. Worked &amp; fooled around. To
+                                Franny's bridge party tonite with Dan. Keen. Pink dress. Bill there.
+                                Danced 3 times. Grand. I love his dancing! Ride. Sam S. followed.
+                                Fun! Bill yelled. Bed late.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Thurs. To town to dentist. Bill here while I in town.
+                                (Bitter) Worked 4 hrs. Dr. McKinley no longer likes me. Bill Jetter
+                                came for a talk after I had finished a letter &amp; was listening to
+                                Rudy. Bed 10:30.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Fri. Another hard day of work. Helped Dr. Stock again &amp;
+                                fun ! Missed Bill on train &amp; thot it may be he's sick. But he
+                                came tonite. Yes, di, he came &amp; I had to go to Merril's for
+                                bridge. Fight with family about car &amp; I was ashamed of myself
+                                after so many dresses, hat, etc. and so home late &amp; to bed &amp;
+                                I was miserable. I missed a night with Bill &amp; Monopoly &amp;
+                                Jane was there &amp; I had that fight. Oh gosh, di - what is the
+                                use?</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -385,25 +559,42 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Monday. Harry has fallen for Mignon. Tonite we all went
+                                rowing. It certainly was funny but I'm crazy about that boy!</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Wed. Up &amp; played tennis with M.W. in a.m. Swimming at
+                                Camp Horne(?) in aft. Neatzy! Movies "Careless Lady" with Joey
+                                tonite. Grand! To Fair. Ride on Heydey. Met with Wally. Home &amp;
+                                talked. Walked to Chale &amp; saw Chubby in white linen suit!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Thurs. Had to get up early to no avail. S &amp; I went to
+                                Betty Terry's bridge this aft. Loads of fun except for Ottie &amp;
+                                Mugs Miller. (Bill has been here). Wally, Bill Jetter, Dan here
+                                tonite. Bridge. Fight. Hair (?) 1st movie with Dammuddy's crowd.
+                                "Secrets" Good.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Fri. Town &amp; dentist again. Filled teeth. Ate lunch with
+                                Jane Griffith. Fun. Out to school. Janet not there. Worked hard.
+                                Babs &amp; I got dinner. Then Wally &amp; Dan came. We all saw
+                                "Sadie McKee" at movies. Cute. Back to Babs' &amp; messed
+                                about.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Sat. Oh what a time. Bill &amp; I up in C.G's car &amp;
+                                then work. Finally thru &amp; home. After much discussion etc,
+                                picnic with Richardsons &amp; Bill Murdock &amp; Miss Reed at
+                                McConnell's Mills. Home after grand time &amp; Monopoly up at
+                                Richardsons. Home. 11 &amp; then to bed. Oh gosh, di - I love him so
+                                much, but always the business of Jane etc. What to do!!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 14 - 15</title>
             <para>
@@ -419,19 +610,34 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Thursday. Put pepper in boys' beds &amp; fixed pajamas.
+                                Went to movies &amp; saw "3 Faces East." Dumb. Harry took Honey
+                                &amp; I was lonely.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sat. Up at 8:30. Still excited! Home. Washed hair,
+                                stockings. Sewed. Bill here! Street Fair with Sally &amp; family.
+                                Keen. Saw Chubby! Cute! Full moon, but no Joey. Came home from
+                                Sally's. Bed early.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sun. Up hideously late. Sally packed. Gang here to say
+                                G'bye. Bill awfully nice on porch! We all rode to town. Sally off -
+                                darn it! Dan, Bill, M.W. &amp; I bridge tonite. Fun. Bed early. Mrs.
+                                Townsend called up &amp; I'm to go to Canada Tues. or Thurs!
+                                Whoops!</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Mon. Up early. Mess of dishes. Town. Took Dan &amp; Clare
+                                Nevin. Worked. Lunch with Dan. He was awful nice! Work again. Brot
+                                Clare &amp; Challis home. Mom 'n' Pop 'n' I fun tonite.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Tues. Up on train with Bill. Quite a day at the lab.
+                                Worked. Lunch in kitchen. Home in (?) Then, after dinner Bill n I
+                                sought elderberry blossoms, came home &amp; peeled them. Then he
+                                left. We talked di, all about men &amp; women - very illuminating.
+                                Munny &amp; I up &amp; to bed after a talk.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -441,25 +647,42 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Friday. Mignon &amp; Harry together all day. I got homesick
+                                tonite with noting to do. Better now. Harry taught Peggy &amp; me
+                                diving.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sun. To S.S. with Sally. Home. Read. M.W., Franny &amp; I
+                                to Pinx's in aft. Met Gerry. Cute. To M.W's for supper. Good.
+                                Shirley came. Sang &amp; home late. Joey had been here &amp; gone.
+                                Oh dear!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Mon. Bill came after I got home from town shopping.
+                                Darling! Played horse shoes. He had to leave. Said G'bye to me! Oh
+                                dear! M.W &amp; I horsed around tonite. Ran into gang at Legion
+                                fair.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Tues. Up early. Baked a gingerbread, not bad. School &amp;
+                                last day of making slides. Home a mite late &amp; got supper with
+                                Munny. Bed early. Getting late now. (I miss Bill!!)</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Wed. Up &amp; to station &amp; train with Bill. I was (?)
+                                today but worked hard. Then home on 5 with Bill. He came for dinner.
+                                Munny in Washington. We fixed elderberry blossoms. Then we were
+                                together on C.C. (T.L. di &amp; only) - I hereby vow to always,
+                                only, and never anyone but Bill. He was so nice, di &amp; we had a
+                                grand talk. Someday we will!! Oh gosh di. Did that slip or did he
+                                mean it? I hope so! I'd never want to marry anyone else! --so help
+                                me!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 16 - 17</title>
             <para>
@@ -475,19 +698,34 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Saturday. Mignon left. Boo hoo! Harry, Peggy &amp; I are
+                                lonesome. I got ducked with my clothes on by Bob. Glasses broken,
+                                but no other damage.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Mon. Down to Sally's &amp; sewed pajamas! Stayed for lunch.
+                                Swam at Camp H with Bill, Sally, Fred &amp; Sam Fader. Fun. Movies
+                                at Cosy with Joey tonite. Station. "Nice Women." Home. Left
+                                early.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Tues. M.W. &amp; I rode around this aft. Ran out of gas.
+                                Date with Dan tonite. He &amp; Babs &amp; Wally &amp; I to movies.
+                                "Eagle &amp; the Hawk." Good. Home. Bridge. OK. Dan's right nice,
+                                but Bill! Oh dear!</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Wed. Sunned in a.m &amp; Bill came. I hardly ever see him
+                                now. Talked a while &amp; then left. School. Worked on study of
+                                slides. What fun. Home &amp; talked with Munny &amp; bed early.
+                                Cool.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Thurs. Kept thinking of yesterday all day &amp; worried a
+                                bit. Drove up &amp; back with Bill. Town with Sally Hall at noon.
+                                Bill in &amp; out. Then down to Joey's &amp; tennissed. Sets 3-6;
+                                3-6;8-6. Fun! Movies "Naughty Marietta" - again. Good. Home late.
+                                Joey's so cute &amp; just as nice as can be.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -497,25 +735,41 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Sunday. Sailboated with Pardow's in a.m. Read &amp; in aft
+                                got aqua-plane &amp; went for rides. Swam tonite in nature's
+                                clothes!</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Tues. Up &amp; to Sally's &amp; sewed on pajamas. To Pinx's
+                                in aft for bridge. Sally's this evening. Home. Jim Crooks, Wally
+                                &amp; Joey here. Wally stayed on. Then old meany. Bed early &amp;
+                                fixed you, diary! Bill here at noon. Real nice about dance.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Wed. Packed. Munny, Eke, Wally &amp; I to double-header
+                                this aft. Won 1 &amp; lost 1. Great! Home late. Supper. Off to New
+                                Brighton with Wally &amp; Babs. Saw Weedy(?) &amp; Bob. Be off
+                                tomorrow! Dammuddy &amp; Aunt Nellie left. Sad.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Thurs. A bit more sun in a.m. Town in aft. Harry Litman
+                                very nice. Seminar - Good. Or rather dumb. To Babs' tonite. Bridge.
+                                Marg Campbell, B. Terry. Dumb. Dan came. Wally late &amp;  Wally's
+                                first day of work.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Fri. Up on train with Bill. So nice, di. Worked hard all
+                                day. Punched a couple of kids for blood. Found out Dr. Stock's
+                                engaged!! Home with Bill n Charlotte. Great rain. Munny met me. No
+                                Bill tonite.. down to Emerys &amp; great fun, really , bridging.
+                                Home. Ice cream with katy. Bed early. Letter from Prill!
+                                Tomorrow??</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 18 - 19</title>
             <para>
@@ -531,19 +785,31 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Monday. Tonite we were to go for ride, but Peggy &amp; I
+                                hid. Naughty! I wrote letters &amp; fooled around.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Wed. Stayed home. Rested. Washed hair. Bathed. Read. Dance
+                                at "Pines" with Jim Crooks tonite. Scotchy &amp; Sally. More fun.
+                                Intense heat! Home 1:30. Oh me. Gingerale.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Thurs. Up early. Met Judd Youtes. He &amp; I drove. I very
+                                little. He is awfully nice, but that's about all I can say. Drove
+                                all day. (?) &amp; Mrs. Townsends. More darn fun. Got to Onillia at
+                                10 &amp; stayed here all night.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Fri. School on time. Awful punching of fingers for blood.
+                                Dan, Franny, Jim &amp; I to Lib Crampton's and dance at Club. Too
+                                hot. Ride. Home. ate. Fooled &amp; finally bed a bit late.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Sat. Drove to work with Bill. Morning flew by. Then home
+                                &amp; Munny had 2 dresses for me! Then Bill, Bert, Dan, Babs, Marion
+                                Sarchet &amp; I picnic to McConnells Mills. Loads of fun. Sun great.
+                                Back to Babs about 8. Home 10. Bill, Bert &amp; I gingerale &amp;
+                                cake. They left early. Bed &amp; now am I tired?!!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -553,25 +819,43 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Tues. Drove to Bracebridge got candy etc. Swam &amp; sewed
+                                in aft. Tonite, Harry (dear boy) paddled &amp; took P &amp; me for
+                                ride in Idyllook!!!</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Thurs. Took Dammuddy &amp; Aunt Nellie to station. Home.
+                                Luncheon in honor of Jerry &amp; Pinx. Swimming. Fun. Home. Wally,
+                                Joey, Sally &amp; Scotchy here tonite. Fun &amp; bed 12! &amp;
+                                you!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Fri. Up early. Breakfast in Orillia. On to Footes Bay.
+                                Arrived noon. Peggy &amp; Betty swell. Met Marian Murray - "Chico."
+                                Betty &amp; Judd (?) He's young, but nice. Good old Muskoka.
+                                Swimming, etc.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Sat. Oh for a year ago! Hot as blazed. Cleaned bar.
+                                Franny's for bridge party with Babs. Loads of fun. Dan, Babs &amp; I
+                                to "Operator 13" tonite &amp; got Wally. Bar cool &amp; we talked.
+                                Bed 1:20</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Sun. up at 10. Bill came about 11:30 &amp; stayed till
+                                5:30. New Palm Beach suit &amp; he looked awful nice. Read etc. Lazy
+                                day. He still hasn't mentioned Jane, di, but I got him worried. I
+                                still don't think Mother likes the idea. It hurts so, di, because
+                                she doesn't like any of my friends &amp; I don't know what she
+                                thinks about Bill. The only thing she likes is that I'm in college.
+                                It makes me feel simply loussy &amp; almost awful whenever I think
+                                if it, di. But it's no good to change I can't - so help me!!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 20 - 21</title>
             <para>
@@ -587,19 +871,34 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Wednesday. Rose at 8:45. Cleaned shoes etc.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Fri. Swim at Camp Horne this aft with Sally, Joey &amp;
+                                Mary Wells. Fun. Home. Fixed for supper. Buffet supper. Franny,
+                                Sally, M.W. &amp; I &amp; boys. Keen. Dance at E Club. Ride. Home.
+                                3,4,5 HFH.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sat, Swan a kit, Great to be here. Expected to go to dance
+                                but didn't. Fun tonite with Judd, our Sultan. His harem. Sill as
+                                heck. Oh dear. Bed late.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Sunday. Up early. Bill came again. Don (?) Stayed for quite
+                                a time &amp; we talked. More like old times. Supposed to have date
+                                with Dan tonite but he didn't come. Swell! Oh me. Read till
+                                late.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Mon. To &amp; on train with Bill. Walked across bridge.
+                                Worked all day, hard. Gosh, I love it, di! Punched another kid for
+                                blood. Home on 5 with Charlotte. Franny &amp; I to movies after lost
+                                supper with Pop. HC leaves for Calif. Saw "No More Ladies." Bill had
+                                been here. He went to movies &amp; came back &amp; we had another
+                                swell talk, on many subjects. Pop left &amp; 'twas sad, 3 whole
+                                weeks!! Bill stayed till 11:45. We fixec porch &amp; then he kissed
+                                me G'nite &amp; I love him so much!! I can't help it!!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -609,25 +908,42 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Thursday. Believe it or not. I was in Canada &amp; I wish I
+                                were there now swimming because I am hot. July 21, 1932 12 P.M.!
+                                Rain &amp; a little relief! Oh me!</para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - Sat. Up again will &amp; played tennis with M.W, Conant
+                                Buckmaster &amp; Rinehart Thieson. Riney &amp; I won. Took boys to
+                                town. To see Aunt Hat. Not home. Movies tonite with Joey.
+                                "Mouthpiece." 6K FH Oh me!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sun. Great day. Sailed this aft with Bill Steele, Chico,
+                                Judd &amp; Betty. Storm. Stayed at Steeles. Supper. Swim.
+                                Horse-shoes. More storm. Everybody worried. Search. Home at
+                                last.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - Mon. Up &amp; to school early today. Messed around. Cleaned
+                                house, too. Babs &amp; I cooked dinner for Munny. To Walkers for
+                                dark cow. Down to bowl. Dan out. Home. Bed early.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Tues. To station &amp; train with Bill. Then record of 74
+                                urines today. Did a couple of bloods &amp; counts. Present today
+                                &amp; I was glad, but early! Home on 5. Bill &amp; Charlotte. Then
+                                called Babs &amp; I was dead tired &amp; couldn't go to Rickey's.
+                                But Bill came. Munny &amp; he read &amp; I did German - till 10.
+                                Then we talked till 11:15. He lay on my lap! Kissed me g'nite again
+                                &amp; it all seems deeper than ever. Di - I'm really happy
+                                again!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 22 - 23</title>
             <para>
@@ -646,13 +962,13 @@
                             <para>1931 - </para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - </para>
                         </listitem>
                         <listitem>
                             <para>1933 - </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - </para>
                         </listitem>
                         <listitem>
                             <para>1935 - </para>
@@ -668,13 +984,13 @@
                             <para>1931 - </para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - </para>
                         </listitem>
                         <listitem>
                             <para>1933 - </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - </para>
                         </listitem>
                         <listitem>
                             <para>1935 - </para>
@@ -683,7 +999,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 24 - 25</title>
             <para>
@@ -702,13 +1018,13 @@
                             <para>1931 - </para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - </para>
                         </listitem>
                         <listitem>
                             <para>1933 - </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - </para>
                         </listitem>
                         <listitem>
                             <para>1935 - </para>
@@ -724,13 +1040,13 @@
                             <para>1931 - </para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - </para>
                         </listitem>
                         <listitem>
                             <para>1933 - </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - </para>
                         </listitem>
                         <listitem>
                             <para>1935 - </para>
@@ -739,7 +1055,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 26 - 27</title>
             <para>
@@ -758,13 +1074,13 @@
                             <para>1931 - </para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - </para>
                         </listitem>
                         <listitem>
                             <para>1933 - </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - </para>
                         </listitem>
                         <listitem>
                             <para>1935 - </para>
@@ -780,13 +1096,13 @@
                             <para>1931 - </para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - </para>
                         </listitem>
                         <listitem>
                             <para>1933 - </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - </para>
                         </listitem>
                         <listitem>
                             <para>1935 - </para>
@@ -795,7 +1111,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 28 - 29</title>
             <para>
@@ -814,13 +1130,13 @@
                             <para>1931 - </para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - </para>
                         </listitem>
                         <listitem>
                             <para>1933 - </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - </para>
                         </listitem>
                         <listitem>
                             <para>1935 - </para>
@@ -836,13 +1152,13 @@
                             <para>1931 - </para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - </para>
                         </listitem>
                         <listitem>
                             <para>1933 - </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - </para>
                         </listitem>
                         <listitem>
                             <para>1935 - </para>
@@ -851,7 +1167,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 30 - 31</title>
             <para>
@@ -870,13 +1186,13 @@
                             <para>1931 - </para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - </para>
                         </listitem>
                         <listitem>
                             <para>1933 - </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - </para>
                         </listitem>
                         <listitem>
                             <para>1935 - </para>
@@ -892,13 +1208,13 @@
                             <para>1931 - </para>
                         </listitem>
                         <listitem>
-                            <para>1932 -</para>
+                            <para>1932 - </para>
                         </listitem>
                         <listitem>
                             <para>1933 - </para>
                         </listitem>
                         <listitem>
-                            <para>1934 -</para>
+                            <para>1934 - </para>
                         </listitem>
                         <listitem>
                             <para>1935 - </para>
