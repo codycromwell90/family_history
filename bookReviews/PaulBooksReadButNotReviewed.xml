@@ -4,28 +4,12 @@
 <d:book xmlns:d="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
     version="5.1">
     <d:info>
-        <d:title>Paul's Book Log - Read but not Reviewed</d:title>
+        <d:title>Paul's Book Log - Read But Not Reviewed</d:title>
         <d:abstract>
-            <d:para>These are the criteria by which I grade a book. A grade of <d:emphasis
-                    role="bold">1</d:emphasis> usually means that I have made a definite decision
-                not to finish a book. Of course, there are some books that I start and set aside.
-                But I only enter the book if I have finished it or determined it is not worth
-                finishing.</d:para>
-            <d:formalpara>
-                <d:title>Grading Scale</d:title>
-                <d:para>
-                    <d:simplelist>
-                        <d:member><d:emphasis role="italic">1</d:emphasis> - Don't bother</d:member>
-                        <d:member><d:emphasis role="italic">2</d:emphasis> - Generally a waste of
-                            time</d:member>
-                        <d:member><d:emphasis role="italic">3</d:emphasis> - OK</d:member>
-                        <d:member><d:emphasis role="italic">4</d:emphasis> - Recommend the book to
-                            others</d:member>
-                        <d:member><d:emphasis role="italic">5</d:emphasis> - Plan to read the book
-                            again</d:member>
-                    </d:simplelist>
-                </d:para>
-            </d:formalpara>
+            <d:para>A list of books that I remember reading before I started keeping notes on the
+                books that I read. I first created the list as a data source to experiment with
+                Python scripts and XML Stylesheets and XQuery searches; I continue to add to it as I
+                remember additional books.</d:para>
         </d:abstract>
     </d:info>
     <d:chapter>
@@ -1674,11 +1658,6 @@
                     </thead>
                     <tbody>
                         <row>
-                            <entry colname="Title">Dr. Zhivago</entry>
-                            <entry colname="Author">Boris Pasternak</entry>
-                            <entry colname="Notes">2006?</entry>
-                        </row>
-                        <row>
                             <entry colname="Title">August 1914</entry>
                             <entry colname="Author">Aleksandr Solzhenitsyn</entry>
                             <entry/>
@@ -1689,18 +1668,8 @@
                             <entry colname="Notes">2006?</entry>
                         </row>
                         <row>
-                            <entry colname="Title">Stories from the Secret War</entry>
-                            <entry colname="Author">Terrance M. Burke</entry>
-                            <entry/>
-                        </row>
-                        <row>
-                            <entry colname="Title">Screwtape Letters</entry>
-                            <entry colname="Author">C.S. Lewis</entry>
-                            <entry colname="Notes">2006?</entry>
-                        </row>
-                        <row>
-                            <entry colname="Title">Alices' Adventures in Wonderland</entry>
-                            <entry colname="Author">Lewis Carroll</entry>
+                            <entry colname="Title">Once Upon a Town</entry>
+                            <entry colname="Author">Bob Green</entry>
                             <entry/>
                         </row>
                         <row>
@@ -1709,18 +1678,18 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Guns, Germs and Steel</entry>
-                            <entry colname="Author">Jared Diamond</entry>
-                            <entry colname="Notes">Audio Book</entry>
+                            <entry colname="Title">Dr. Zhivago</entry>
+                            <entry colname="Author">Boris Pasternak</entry>
+                            <entry colname="Notes">2006?</entry>
                         </row>
                         <row>
-                            <entry colname="Title">Liar's Poker</entry>
-                            <entry colname="Author">Michael Lewis</entry>
-                            <entry/>
+                            <entry colname="Title">Screwtape Letters</entry>
+                            <entry colname="Author">C.S. Lewis</entry>
+                            <entry colname="Notes">2006?</entry>
                         </row>
                         <row>
-                            <entry colname="Title">Once Upon a Town</entry>
-                            <entry colname="Author">Bob Green</entry>
+                            <entry colname="Title">No Country for Old Men</entry>
+                            <entry colname="Author">Cormac McCarthy</entry>
                             <entry/>
                         </row>
                         <row>
@@ -1729,29 +1698,9 @@
                             <entry colname="Notes">2006</entry>
                         </row>
                         <row>
-                            <entry colname="Title">No Country for Old Men</entry>
-                            <entry colname="Author">Cormac McCarthy</entry>
-                            <entry/>
-                        </row>
-                        <row>
                             <entry colname="Title">When Pride Still Mattered: A Life of Vince
                                 Lombardi</entry>
                             <entry colname="Author">David Maraniss</entry>
-                            <entry/>
-                        </row>
-                        <row>
-                            <entry colname="Title">John Paul Jones: A Sailor's Biography</entry>
-                            <entry colname="Author">Samuel Elliot Morrison</entry>
-                            <entry/>
-                        </row>
-                        <row>
-                            <entry colname="Title">Sheridan</entry>
-                            <entry colname="Author">Richard O'Connor</entry>
-                            <entry/>
-                        </row>
-                        <row>
-                            <entry colname="Title">From Dawn to Decadence</entry>
-                            <entry colname="Author">Jacques Barzun</entry>
                             <entry/>
                         </row>
                         <row>
@@ -1760,18 +1709,18 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Hot Commodities</entry>
-                            <entry colname="Author">Jim Rodgers</entry>
-                            <entry/>
+                            <entry colname="Title">Amazing Grace</entry>
+                            <entry colname="Author">Eric Metaxas</entry>
+                            <entry colname="Notes">Audio book</entry>
                         </row>
                         <row>
-                            <entry colname="Title">In The Beginning was the Command Line</entry>
-                            <entry colname="Author">Neil Stephenson</entry>
-                            <entry/>
+                            <entry colname="Title">The Rape of Nanking</entry>
+                            <entry colname="Author">Iris Chang</entry>
+                            <entry colname="Notes"/>
                         </row>
                         <row>
-                            <entry colname="Title">Cryptonomicon</entry>
-                            <entry colname="Author">Neil Stephenson</entry>
+                            <entry colname="Title">From Dawn to Decadence</entry>
+                            <entry colname="Author">Jacques Barzun</entry>
                             <entry/>
                         </row>
                         <row>
@@ -1780,19 +1729,59 @@
                             <entry colname="Notes"/>
                         </row>
                         <row>
+                            <entry colname="Title">Guns, Germs and Steel</entry>
+                            <entry colname="Author">Jared Diamond</entry>
+                            <entry colname="Notes">Audio Book</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">Hot Commodities</entry>
+                            <entry colname="Author">Jim Rodgers</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Alices' Adventures in Wonderland</entry>
+                            <entry colname="Author">Lewis Carroll</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Liar's Poker</entry>
+                            <entry colname="Author">Michael Lewis</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Cryptonomicon</entry>
+                            <entry colname="Author">Neil Stephenson</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">In The Beginning was the Command Line</entry>
+                            <entry colname="Author">Neil Stephenson</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Sheridan</entry>
+                            <entry colname="Author">Richard O'Connor</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">John Paul Jones: A Sailor's Biography</entry>
+                            <entry colname="Author">Samuel Elliot Morrison</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">Gates of Fire</entry>
                             <entry colname="Author">Steven Pressfield</entry>
                             <entry colname="Notes"/>
                         </row>
                         <row>
-                            <entry colname="Title">The Rape of Nanking</entry>
-                            <entry colname="Author">Iris Chang</entry>
-                            <entry colname="Notes"/>
+                            <entry colname="Title">Stories from the Secret War</entry>
+                            <entry colname="Author">Terrance M. Burke</entry>
+                            <entry/>
                         </row>
                         <row>
                             <entry colname="Title"/>
                             <entry colname="Author"/>
-                            <entry colname="Notes"/>
+                            <entry/>
                         </row>
                     </tbody>
                 </tgroup>
@@ -1822,14 +1811,14 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Ghost Soldiers</entry>
+                            <entry colname="Author">Hampton Sides</entry>
+                            <entry colname="Notes">Audio Book</entry>
+                        </row>
+                        <row>
                             <entry colname="Title">Beowulf</entry>
                             <entry colname="Author">J.R.R. Tolkein, translator</entry>
                             <entry colname="Notes">2015</entry>
-                        </row>
-                        <row>
-                            <entry colname="Title">Lions Gate</entry>
-                            <entry colname="Author">Steven Pressfield</entry>
-                            <entry/>
                         </row>
                         <row>
                             <entry colname="Title">The Big Short</entry>
@@ -1837,13 +1826,13 @@
                             <entry colname="Notes">Audio Book</entry>
                         </row>
                         <row>
-                            <entry colname="Title">O, Pioneers!</entry>
-                            <entry colname="Author">Willa Cather</entry>
-                            <entry colname="Notes">Audio Book</entry>
+                            <entry colname="Title">Lions Gate</entry>
+                            <entry colname="Author">Steven Pressfield</entry>
+                            <entry/>
                         </row>
                         <row>
-                            <entry colname="Title">Ghost Soldiers</entry>
-                            <entry colname="Author">Hampton Sides</entry>
+                            <entry colname="Title">O, Pioneers!</entry>
+                            <entry colname="Author">Willa Cather</entry>
                             <entry colname="Notes">Audio Book</entry>
                         </row>
                         <row>
