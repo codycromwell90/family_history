@@ -60,6 +60,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Winning!</entry>
+                            <entry colname="Author">Earl Weaver</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">A Princess of Mars</entry>
                             <entry colname="Author">Edgar Rice Burroughs</entry>
                             <entry/>
@@ -370,6 +375,12 @@
                         <row>
                             <entry colname="Title">The Hitch Hikers Guide to the Galaxy</entry>
                             <entry colname="Author">Douglas Adams</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
+                            <entry colname="Title">It's What You Learn After You Know It All That
+                                Counts</entry>
+                            <entry colname="Author">Earl Weaver</entry>
                             <entry colname="Notes"/>
                         </row>
                         <row>
@@ -1698,6 +1709,11 @@
                             <entry colname="Notes">2006</entry>
                         </row>
                         <row>
+                            <entry colname="Title">The Summer of '49</entry>
+                            <entry colname="Author">David Halberstam</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">When Pride Still Mattered: A Life of Vince
                                 Lombardi</entry>
                             <entry colname="Author">David Maraniss</entry>
@@ -1809,6 +1825,11 @@
                             <entry colname="Title">The Mortal Danger</entry>
                             <entry colname="Author">Aleksandr Solzhenitsyn</entry>
                             <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Education of a Coach</entry>
+                            <entry colname="Author">David Halberstam</entry>
+                            <entry colname="Notes">Audio Book</entry>
                         </row>
                         <row>
                             <entry colname="Title">Ghost Soldiers</entry>
