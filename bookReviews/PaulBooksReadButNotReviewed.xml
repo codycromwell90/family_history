@@ -125,6 +125,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">The Home Team</entry>
+                            <entry colname="Author">James Bready</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">All Creatures Great and Small</entry>
                             <entry colname="Author">James Herriot</entry>
                             <entry/>
@@ -1758,6 +1763,11 @@
                             <entry colname="Title">Alices' Adventures in Wonderland</entry>
                             <entry colname="Author">Lewis Carroll</entry>
                             <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Tom Sawyer</entry>
+                            <entry colname="Author">Mark Twain</entry>
+                            <entry>Audio Book</entry>
                         </row>
                         <row>
                             <entry colname="Title">Liar's Poker</entry>
