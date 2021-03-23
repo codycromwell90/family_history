@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<book xmlns="http://docbook.org/ns/docbook"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
     <info>
         <title>Journal: 1931-1935</title>
         <author>
@@ -29,12 +28,12 @@
                         fileref="../ajk_journal_1931-1935/images/sep/ajk_journal026.jpg"/>
                 </imageobject>
             </inlinemediaobject></para>
-        <para>Dec. 31, 1928   Anne Jennings</para>
+        <para>Dec. 31, 1928 Anne Jennings</para>
         <para>Diary of Elizabeth Anne Jennings, later Anne Jennings Krush. Known to me and her other
             grandchildren as "Nanny." Her eldest daughter, Carol Krush, inherited all of Nanny's
             journals. Aunt Carol sent the journals to me in February, 2020.</para>
         <para>This journal has an interesting set-up; one page for each day of the year, but with
-            lines allowing entries for the same day on four different years.</para>           
+            lines allowing entries for the same day on four different years.</para>
     </chapter>
     <chapter>
         <title>SEPTEMBER</title>
@@ -179,7 +178,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 4 - 5</title>
             <para><inlinemediaobject>
@@ -272,7 +271,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 6 - 7</title>
             <para>
@@ -360,7 +359,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 8 - 9</title>
             <para>
@@ -456,7 +455,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 10 - 11</title>
             <para>
@@ -547,7 +546,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 12 - 13</title>
             <para>
@@ -639,7 +638,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 14 - 15</title>
             <para>
@@ -729,7 +728,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 16 - 17</title>
             <para>
@@ -815,7 +814,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 18 - 19</title>
             <para>
@@ -901,7 +900,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 20 - 21</title>
             <para>
@@ -984,7 +983,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 22 - 23</title>
             <para>
@@ -1000,19 +999,32 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Tuesday. Shirley had a farewell party for M.W. I went with
+                                Jim Crooks. Left at 9:00 but Jim drove us in country. Home late
+                                &amp; no theme!</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Thurs. Assembly in a.m. Also an interest test. No canoe
+                                test. Franny came over tonite. Down to vil later &amp; ate at
+                                Leibers. General good time. </para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Fri. Up at 7. Unpacked all a.m. Set up for lunch - 1st job.
+                                To see Dottie Fagg. Not home. Vil with Peanut. To Eliot for junk
+                                with Hannah. Gang arrived. All over &amp; bed late after talks, etc.
+                                Pril Donnell - a good egg. Mother called tonite. Thrills.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Sat. Up early again. Worked after breakfast. First chapel.
+                                O.K. French reading exam. Not bad. To vill with Prill &amp; Dobby.
+                                Worn out. Betty Richmond for dinner &amp; then Vaudeville. Fun!
+                                Fairbanks &amp; Keown &amp; I took them home. Bed late.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Sun. Up late. Peanut &amp; I to Hole for breakfast. Then
+                                back &amp; to chapel. Fairbanks, Peanut &amp; I out in canoe this
+                                aft. &amp; loads of fun. Fooled around tonite. Getting ready for
+                                classes. Bed early.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -1022,25 +1034,38 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Wednesday. Mary Wells &amp; I saw "Arizona." She was here
+                                for dinner. Last nite. I'll miss her heaps.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Fri. Off for breakfast. Letters. Short assembly - Lost(?).
+                                Shopeed around. Bought chair. Crowd in tonite to dance &amp; vic
+                                &amp; talk. Bed late &amp; am awfully tired. Bought books. Test on
+                                gray books tonite.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sat. Up at 6:30. Ugh! Walked all a.m. Chapel. Class
+                                meeting. Schedules. Set lunch. Agora to help Ginny. Vil with gang.
+                                Bells 6-7. Dottie didn't come. Vaudeville with Keown. Gang in. Bed
+                                late.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Sunday. Up for bekbets. Read paper etc. Chapel with Andy
+                                &amp; Dolly. Grand dinner. Rain today. Tea at Marg Forsythes &amp;
+                                at Marny Maynards. Home. Talked till late tonite. Juila Maslem not
+                                here yet!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Mon. Messed around. To vil &amp; then finally Heredity at
+                                11:40. Going to be good. No Chem lab today. Then over to Barn this
+                                aft. Up to gym. Worked about at Agora. Dolly gave a tea for Rettig.
+                                Home. Messed around tonight. Job - cleaning john(?).</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 24 - 25</title>
             <para>
@@ -1056,19 +1081,32 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Thursday. K. Nelly &amp; I went to see W. Rogers in "Young
+                                as You Feel." I liked it heaps. Bill Jetty Pres., Wilson Tiernan
+                                V.P. &amp; E. Ruff Sec'y Treas of our class.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Sat. Chapel for everyone after breakfast. Went to vil in
+                                a.m. Jim Fulman came in aft. Ride &amp; canoe ride. Fun. Tower dorm
+                                supper &amp; vaudeville with Mary Tufts. Darling!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sun. Up for bekbets. Imagine. Gang of us to get people from
+                                our Eliot rooms. Harriet Rasoo swell! Also Helene Gerber. Van Dusen
+                                good preacher - Long. Gang in Ruth's room this aft. Ate &amp; ate.
+                                Tomorrow - awful.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Mon. First classes. Doesn't seem possible! Education
+                                terrible! Music O.K. but I'm not to take it. Tore around changing
+                                schedules! Got to Chemistry lab &amp; Miss Woodland a peach. Worn
+                                out. Rain. Fun tonite. Bridge, etc. </para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Tues. Oh my! Metabolism's going to be O.K. German, terrific
+                                &amp; Organic simply fierce. Walked miles this aft. Founders, gym,
+                                Agora, vill, Tower, Store &amp; home in time for dinner. Meeting at
+                                Agora. Studied. Heard Louis - Baer fight &amp; Louis won!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -1078,25 +1116,35 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Friday. John left! Great sadness. Down to Sally's all
+                                night. Jim, Sam &amp; Jim C. down for a while.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Sun. To chapel after serving breakfast. Home &amp; went to
+                                bed after dinner since I have a cold. Wrote letters &amp; waited on
+                                supper &amp; bed early.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Mon. First classes. Scared of all of them! Do I belong in
+                                college? or what is wrong? I wait on lunches as a job. Not bad.
+                                Chose sports this aft &amp; at last met Dot Fagg. Awfully cute! Met
+                                Betty Bagg - Good.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Tues. French. Promises to be interesting. Physiology
+                                excellent, but Miss Murphy acts different. I guess she'd have to.
+                                Job - lunch prep. O.K. Home &amp; bed early tonite.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Wed. Swimming Pool Carnival meeting tonight 1st of the
+                                year. Had a free afternoon because we can't start Metabolism lab
+                                yet.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 26 - 27</title>
             <para>
@@ -1152,7 +1200,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 28 - 29</title>
             <para>
@@ -1208,7 +1256,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 30</title>
             <para>
