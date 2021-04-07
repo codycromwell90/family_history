@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<book xmlns="http://docbook.org/ns/docbook"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
     <info>
         <title>Journal: 1931-1935</title>
         <author>
@@ -29,12 +28,12 @@
                         fileref="../ajk_journal_1931-1935/images/jan/ajk_journal026.jpg"/>
                 </imageobject>
             </inlinemediaobject></para>
-        <para>Dec. 31, 1928   Anne Jennings</para>
+        <para>Dec. 31, 1928 Anne Jennings</para>
         <para>Diary of Elizabeth Anne Jennings, later Anne Jennings Krush. Known to me and her other
             grandchildren as "Nanny." Her eldest daughter, Carol Krush, inherited all of Nanny's
             journals. Aunt Carol sent the journals to me in February, 2020.</para>
         <para>This journal has an interesting set-up; one page for each day of the year, but with
-            lines allowing entries for the same day on four different years.</para>           
+            lines allowing entries for the same day on four different years.</para>
     </chapter>
     <chapter>
         <title>OCTOBER</title>
@@ -163,7 +162,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 4 - 5</title>
             <para><inlinemediaobject>
@@ -241,7 +240,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 6 - 7</title>
             <para>
@@ -323,7 +322,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 8 - 9</title>
             <para>
@@ -406,7 +405,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 10 - 11</title>
             <para>
@@ -490,7 +489,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 12 - 13</title>
             <para>
@@ -575,7 +574,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 14 - 15</title>
             <para>
@@ -591,19 +590,31 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Wednesday. Fooled with Sally this aft. Studied. Bowled
+                                tonite with Munny. She beat me. Letters &amp; you tonite.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Fri. Peps beat the Jitters 3-2. What fun. Played to see who
+                                would be on squad. Hope. Hope. Studied a bit &amp; messed around
+                                after dinner at Sarah's. Fun. Step singing.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sat. Lab &amp; got out early. Practice for Cabaret this
+                                aft. Dumb. Waited supper. Cabaret. Witch &amp; Dolly's &amp; my act.
+                                More fun! Dancing &amp; eats. Home &amp; talked it over. Bed in
+                                Betty's bed. Tired.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Sun. Slept till 8:30. So swell. 8 of us then got breakfast,
+                                orange juice, Eng. muffins &amp; coffee. Swell! Read paper. Chubby
+                                Cutler here for dinner, 4. Then studied again for sever quizes for
+                                the week.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Mon. Har to get up. But to Chem bldg &amp; worked. Then
+                                Heredity. Chem lab. all aft. Archery &amp; I was tired &amp; lousy.
+                                (?) tonite copying Saturdays notes &amp; doing Sat. &amp; tomorrow's
+                                reading!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -613,25 +624,39 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Thursday. Chapel today. Jim Crooks. Bill &amp; Jim were all
+                                on. Studied &amp; read tonite.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Sat. Went to libe &amp; got a book. Came home &amp; read.
+                                Freshman serenade tonite. Cute green lanterns. Back &amp; to Alumnae
+                                for Cabaret. Danced with Pinx, Sarah, Ruth &amp; Rosemary. Fun.
+                                Found out I was on basketball squad.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sun. Up late. M. Schoenfuss, Peanut &amp; I breakfasted in
+                                kitchenette. Studied. Long walk this aft to football game (Peanut
+                                &amp; I) Mrs. Trask &amp; Betsy came. To Bobby's. Waited supper.
+                                Studied. Bed.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Mon. Twins arrived! Wilhem &amp; Wilhemina. My, such
+                                exuberance, but not like last year. Terrible time in Chem lab. I
+                                almost got cross. Prill &amp; I to Fisks for dinner. Officers
+                                announced. Pres. Eda Fleming. Sec. Treas. Mary Selgaarde(?).</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Tues. Still getting caught up. Knew nothing in Chemistry
+                                &amp; Miss French wouldn't postpone quiz. Then b.b. this aft &amp;
+                                clicked beautifully with Kilbon. Tonite dinner at Agora &amp; found
+                                out my children are "Dempy" Demplewolff &amp; Betty Gregg. So
+                                exciting &amp; such a grand supper!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 16 - 17</title>
             <para>
@@ -647,19 +672,31 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Friday. S.H.S. lost to Bellevue 6-0. S.H.S. better. I took
+                                Shirley, Peg Handy &amp; Jane Terry. Rain etc. &amp; eats at Bakery.
+                                Fun.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Sun. Up at 8:30. Read &amp; wrote English theme. Studied
+                                till 4:30. Down by lake. So peaceful. Back &amp; to chapel tonite.
+                                Home, studied &amp; bed.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Mon. Classes. Made property committee. Thirlls! Letter from
+                                Munny. Laundry &amp; cute pictures. B.B &amp; I'm sure not to make
+                                1st team. Oh dear! Hockey awful! Am I a flop?</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Tues. Lived in agony all day with Prill, but got no mail.
+                                But we still don't dare think we made a society! Got guinea pig in
+                                Phys. So cute. Named it Rosemary. Awful quiz which I flunked. What a
+                                person!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Wed. Wotta day. Pinned roses on Dempy &amp; Betty Gregg.
+                                More fun! So exciting. Saw Miss Elliott. Did Zo expt all aft. Then,
+                                Initiation dinner at 1812 House tonite &amp; more fun. The new bunch
+                                is simply grand! Oh gosh di, it is swell.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -669,25 +706,39 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Saturday. Stayed home all day &amp; cut out pajamas. What a
+                                job. Did lessons &amp; washed some stockings.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Mon. B.B. practice this aft. Played center 3 times. Wotta
+                                life. Speech recital tonite. Wilfred Walter &amp; Catherine Lacey.
+                                Good. Betty &amp; Marguerite went to Marguerite's &amp; to Boston.
+                                Suckers. Bed on time. Speech Recital. </para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Tues. To vil with Peanut &amp; got some food, etc. To
+                                Stoney's for dinner with M. Schoenfuss, Bee Short, Tillie Bicknell
+                                &amp; Helen Wadsworth. Swell time. Home &amp; studied for Psyc. quiz
+                                tomorrow. Great life!</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Roll Call in German &amp; then Ruth Barnefield, pres. of
+                                Agora came up &amp; gave me roses! I was up in heaven! Oh me. Swell
+                                initiation supper (Mr. Harod (?) &amp; Mrs. McCarthy.) Home &amp;
+                                Mother had called. Dammuddy died at 7:30. It's best, di, but oh
+                                gosh, how awful! I'll never, never see her again until ?</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Thurs. Up at 5. Studied frantically for Chem quiz. Also did
+                                German. Quiz was pretty bad. Then bells, Archery, talk in German
+                                class, meeting of Props committee, fixing of schedules, studying at
+                                Zo libe &amp; up till 12:45 doing those charts.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 18 - 19</title>
             <para>
@@ -743,7 +794,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 20 - 21</title>
             <para>
@@ -799,7 +850,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 22 - 23</title>
             <para>
@@ -855,7 +906,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 24 - 25</title>
             <para>
@@ -911,7 +962,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 26 - 27</title>
             <para>
@@ -967,7 +1018,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 28 - 29</title>
             <para>
@@ -1023,7 +1074,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 30 - 31</title>
             <para>
