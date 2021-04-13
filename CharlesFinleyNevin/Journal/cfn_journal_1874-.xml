@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<book xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <title>Journal: 1874-???</title>
+        <author>
+            <personname>Charles Finly Nevin</personname>
+            <address>              
+                <city>Sewickley</city>
+                <state>Pennsylvania</state>            
+            </address>
+        </author>
+        <revhistory>
+            <revision>
+                <revnumber>1</revnumber>
+                <date>2021-04-12</date>
+                <authorinitials>PSK</authorinitials>
+            </revision>
+        </revhistory>
+    </info>
+    <chapter>
+        <title>Introduction</title>
+        <para><inlinemediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="left"
+                        fileref="./images/cfn001.jpg"/>
+                </imageobject>
+            </inlinemediaobject></para>
+        <para>Diary and scrapbook of Charles Finley Nevin. In the posession of Christopher and Sandra Krush.</para>          
+    </chapter>
+    <chapter>
+        <title>Journal</title>
+        <para><inlinemediaobject>
+            <imageobject>
+                <imagedata scale="75" align="center"
+                    fileref="./images/cfn005.jpg"/>
+            </imageobject>
+        </inlinemediaobject></para>
+        <para> C.F. Nevin.  Jan 15th, 1874</para>
+        <para>Died. BROWN - On January 29, ALICE, daughter of Henry &amp; Ellen Brown of Mt.
+            Blaine, Washington county. Funeral from Center Church to-day at 2 P.M.</para>
+        <?dbfo-need height="6in" ?>
+        <para><inlinemediaobject>
+            <imageobject>
+                <imagedata scale="75" align="center"
+                    fileref="./images/cfn006.jpg"/>
+            </imageobject>
+        </inlinemediaobject></para>
+        <para> C.F. Nevin.  Jan 15th, 1874</para>
+        <para>Died. BROWN - On January 29, ALICE, daughter of Henry &amp; Ellen Brown of Mt.
+            Blaine, Washington county. Funeral from Center Church to-day at 2 P.M.</para>
+        <?dbfo-need height="6in" ?>
+        <para><inlinemediaobject>
+            <imageobject>
+                <imagedata scale="75" align="center"
+                    fileref="./images/cfn007.jpg"/>
+            </imageobject>
+        </inlinemediaobject></para>
+        <para> C.F. Nevin.  Jan 15th, 1874</para>
+        <para>Died. BROWN - On January 29, ALICE, daughter of Henry &amp; Ellen Brown of Mt.
+            Blaine, Washington county. Funeral from Center Church to-day at 2 P.M.</para>
+        <?dbfo-need height="6in" ?>
+        <para><inlinemediaobject>
+            <imageobject>
+                <imagedata scale="75" align="center"
+                    fileref="./images/cfn008.jpg"/>
+            </imageobject>
+        </inlinemediaobject></para>
+        <para> C.F. Nevin.  Jan 15th, 1874</para>
+        <para>Died. BROWN - On January 29, ALICE, daughter of Henry &amp; Ellen Brown of Mt.
+            Blaine, Washington county. Funeral from Center Church to-day at 2 P.M.</para>
+        <?dbfo-need height="6in" ?>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="left"
+                        fileref="./images/cfn009a.jpg"/>
+                </imageobject>
+            </inlinemediaobject>
+            <inlinemediaobject>
+            <imageobject>
+                <imagedata scale="75" align="center"
+                    fileref="./images/cfn009a.jpg"/>
+            </imageobject>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="right"
+                            fileref="./images/cfn009c.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+        </inlinemediaobject>
+        </para>
+        <para> C.F. Nevin.  Jan 15th, 1874</para>
+        <para>Died. BROWN - On January 29, ALICE, daughter of Henry &amp; Ellen Brown of Mt.
+            Blaine, Washington county. Funeral from Center Church to-day at 2 P.M.</para>
+        <?dbfo-need height="6in" ?>
+        
+        
+        
+  
+        
+    </chapter>
+</book>
