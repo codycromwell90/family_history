@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<d:book xmlns:d="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+<d:book xmlns:d="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="5.1">
     <d:info>
         <d:title>Paul's Book Log</d:title>
         <d:subtitle>2020 - </d:subtitle>
         <d:abstract>
-            <d:para>These are the criteria by which I grade a book. A grade of <d:emphasis role="bold">1</d:emphasis> usually means that I have made a definite decision
+            <d:para>These are the criteria by which I grade a book. A grade of <d:emphasis
+                    role="bold">1</d:emphasis> usually means that I have made a definite decision
                 not to finish a book. Of course, there are some books that I start and set aside.
                 But I only enter the book if I have finished it or determined it is not worth
                 finishing.</d:para>
@@ -111,7 +113,8 @@
             <d:para>Stacy gave this to me for Christmas. Beautifully written. The plot is totally
                 unexpected; I won't spoil it here because it is so fun to see how the novel unfolds.
                 Written in the form of journal entries, which works surprisingly well. In a sense,
-                this is a modern version of <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Crime and Punishment</emphasis>.</d:para>
+                this is a modern version of <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Crime and Punishment</emphasis>.</d:para>
         </d:simplesect>
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Intelligent Investor</d:emphasis></d:title>
@@ -296,7 +299,8 @@
                 displayed Twain's biting satire, confidence in modern progress in comparison to
                 medieval ignorance and superstition. So I turned to the internet to get the reaction
                 of others to this book. Susan Harris, a professor states: "By the time Twain is
-                writing <emphasis xmlns="http://docbook.org/ns/docbook" role="italic">Recollections</emphasis>, he’s not a believer. He is anti-Catholic, and he
+                writing <emphasis xmlns="http://docbook.org/ns/docbook" role="italic"
+                    >Recollections</emphasis>, he’s not a believer. He is anti-Catholic, and he
                 doesn’t like the French. So he writes a book about a French-Catholic-martyr?
                 Ostensibly, it doesn’t make a lot of sense." Most modern opinions cited on
                 Wikipedia, unless they are from profession Catholics, either share this befuddlement
@@ -1432,7 +1436,8 @@
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
-            <d:para>Found this book when looking for books about Aristotle after reading <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Aristotle for
+            <d:para>Found this book when looking for books about Aristotle after reading <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Aristotle for
                     Everybody</emphasis>. Thought this might be useful for Thomas when he takes his
                 course in Logic at Tufts. This is an examination of the rules of logic as developed
                 by the ancient Greeks; Socrates gets pride of place in the title for the development
@@ -1669,7 +1674,9 @@
         <d:simplesect label="bookOfTheYear">
             <d:title>Book of the Year</d:title>
             <d:para>Three candidates this year; <d:emphasis role="underline">The
-                    Aviator</d:emphasis> and <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Envy</emphasis> based upon initial grades and <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Nicomachean
+                    Aviator</d:emphasis> and <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Envy</emphasis> based upon initial grades and <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Nicomachean
                     Ethics</emphasis> based upon the influence it has exerted on my further reading
                 interests. I have finished more books this year than in any single year since I have
                 started keeping a record of what I read. There are a few reasons for this. First,
@@ -1682,36 +1689,57 @@
                 another way, since I used my extra time to read a number of books that have been
                 gathering dust on our bookshelves, there were a lot more mediocre books. </d:para>
             <d:para>So, after due consideration, Envy will take the blue ribbon. Mr. Epstein
-                reviewed F.L. Lucas's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Style</emphasis> this year in First Things magazine. After
+                reviewed F.L. Lucas's <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Style</emphasis> this year in First Things magazine. After
                 reading his review, I considered purchasing Mr. Lucas' book for Thomas and Anna to
                 aid in their own writing at college. But after reading Style, I instead opted to
                 print out Mr. Epstein's review and place it inside a copy of Envy for both Thomas
                 and Anna. Mr. Epstein, the student, has far surpassed his master, Mr. Lucas. Second
-                place goes to <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Nicomachean Ethics</emphasis> and third to <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">The
+                place goes to <emphasis xmlns="http://docbook.org/ns/docbook" role="underline"
+                    >Nicomachean Ethics</emphasis> and third to <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">The
                 Aviator</emphasis>.</d:para>
             <d:para>One additional note, my reading this year was heavily influenced by the readings
                 in Anna's freshman English class at Notre Dame. Her teacher is providing a
                 fire-house introduction to Western thought. In the fall semester, she was required
-                to read The Science of the Good, Aristotle's <emphasis xmlns="http://docbook.org/ns/docbook">Nicomachean Ethics</emphasis>, Plato's
+                to read The Science of the Good, Aristotle's <emphasis
+                    xmlns="http://docbook.org/ns/docbook">Nicomachean Ethics</emphasis>, Plato's
                     <emphasis xmlns="http://docbook.org/ns/docbook">Republic</emphasis>, Lucretius
                     <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">On the Nature
-                    of Things</emphasis>, St. Augustine's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Confessions</emphasis>,
+                    of Things</emphasis>, St. Augustine's <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Confessions</emphasis>,
                     <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">The
                     Rule</emphasis> of St. Benedict, selections from the Koran, David Bentley Hart's
                     <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">The Experience
-                    of God</emphasis>, Thomas a'Kempis' <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">The Imitation of
-                    Christ</emphasis>, <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">The Letters of Abelard &amp; Heloise</emphasis>, selections
-                from St. Thomas Aquinas' <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Summa Theologica,</emphasis> and writings by St. Francis of
+                    of God</emphasis>, Thomas a'Kempis' <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">The Imitation of
+                    Christ</emphasis>, <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">The Letters of Abelard &amp; Heloise</emphasis>, selections
+                from St. Thomas Aquinas' <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Summa Theologica,</emphasis> and writings by St. Francis of
                 Assisi, St. Clare and St. Theresa of Avila. Her reading list for the second semester
-                will be: Shakespeare's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Othello</emphasis>, Rene Descartes' <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Discourse on
-                    Method</emphasis>, Diderot's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">D'Alembert's Dream</emphasis>, Erasmus and Martin Luther's
+                will be: Shakespeare's <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Othello</emphasis>, Rene Descartes' <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Discourse on
+                    Method</emphasis>, Diderot's <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">D'Alembert's Dream</emphasis>, Erasmus and Martin Luther's
                     <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Discourse on
-                    Free Will</emphasis>, Pascal's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Pensees</emphasis>, Rousseau's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Reveries of the Solitary
-                    Walker</emphasis>, Hobbes' <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Leviathan</emphasis>, Goethe's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Sorrows of Young
-                    Werther</emphasis>, Shelley's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Frankenstein</emphasis>, Freud's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">The Future of an
-                    Illusion</emphasis>, Marx's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Communist Manifesto</emphasis>, Nietzsche's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Twilight of the
-                    Idols</emphasis>, John Stuart Mill's <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">On Liberty,
-                    Utilitarianism and Other Essays</emphasis> and Sartre’s <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">No Exit and Three Other
+                    Free Will</emphasis>, Pascal's <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Pensees</emphasis>, Rousseau's <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Reveries of the Solitary
+                    Walker</emphasis>, Hobbes' <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Leviathan</emphasis>, Goethe's <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Sorrows of Young
+                    Werther</emphasis>, Shelley's <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Frankenstein</emphasis>, Freud's <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">The Future of an
+                    Illusion</emphasis>, Marx's <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Communist Manifesto</emphasis>, Nietzsche's <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Twilight of the
+                    Idols</emphasis>, John Stuart Mill's <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">On Liberty,
+                    Utilitarianism and Other Essays</emphasis> and Sartre’s <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">No Exit and Three Other
                     Plays</emphasis>. In addition to a broad exposure to Western thought, theology
                 and philosophy, there is a common thread of examining the alleged conflict between
                 science and religion. This has motivated me to read these works as well, both to
@@ -1770,7 +1798,7 @@
                 authority derives from the people of the commonwealth, it is up to the ruler of the
                 commonwealth to enforce, not the Church. But this involves the reader in the
                 arguments of the Protestants against the Catholics. In fact, he spends a great deal
-                of ink refuting a work by St. Robert Bellermine. He also take a dim view of the
+                of ink refuting a work by St. Robert Bellarmine. He also take a dim view of the
                 ancient Greek philosophers. He thinks that the Greeks corrupted Jewish and Christian
                 faith with the idea of demons and spirits and that they argue endlessly about
                 universal forms and essences. While Hobbes uses the Bible for texts to back his
@@ -1830,7 +1858,7 @@
             <d:title><d:emphasis role="underline">The Strange Death of Adolf
                 Hitler</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Anonymus</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Anonymous</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>1/31/21</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
@@ -1906,9 +1934,9 @@
                 were no longer of use for advancing human knowledge. So, in this work, he outlines
                 an approach for using inductive reasoning in the pursuit of scientific knowledge. He
                 recognized that the risk of using an inductive approach would be to get lost in an
-                endless accumluation of facts, so he proposed a framework for guiding induction.
+                endless accumulation of facts, so he proposed a framework for guiding induction.
                 This work is clearly a milestone in the development of the scientific method, but it
-                is not withoud its flaws. With the passage of time, it turns out that deduction is
+                is not without its flaws. With the passage of time, it turns out that deduction is
                 still useful, even in science. And, after stating his purpose, it is rather
                 difficult to follow the framework he proposes for developing induction as he
                 proposes a long list of "aphorisms" to guide the quest for knowledge. And he is not
@@ -1931,15 +1959,16 @@
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">The Communist Manifesto</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Karl Mark and Friedrich Engels</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Karl Mark and Friedrich
+                    Engels</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>2/13/21</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
             <d:para>Another selection from Anna's English reading list this semester. Marx and
                 Engles are surely rolling in their graves at the fact that Amazon is profiting from
-                the sales of this short work; although I must say that I am proud to have found a
-                version that was free ;)  They do have a stong critique of the impact of the
+                the sale of this short work; although I must say that I am proud to have found a
+                version that was free ;) They do have a strong critique of the impact of the
                 industrial revolution on the lives of the working class. But their "10 point plan"
                 for resolving the problem has been pretty convincingly proven wrong by the Soviet
                 Union and even "Communist" China. I think their problem is that they think too much
@@ -1954,7 +1983,8 @@
         <d:simplesect label="review">
             <d:title><d:emphasis role="underline">Let Us Dream</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Pope Francis and Austen Ivereigh</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Pope Francis and Austen
+                    Ivereigh</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>2/24/21</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
@@ -1964,16 +1994,17 @@
                 together. In reading the afterwards, Dr. Ivereigh states that the book started with
                 a period of questions and answers and then he developed some themes as pointed out
                 by Pope Francis. I think a strictly Q&amp;A format would have been more effective.
-                The book  is not universal in scoped; the target audience seems to be only the
+                The book is not universal in scoped; the target audience seems to be only the
                 developed Western countries. The Pope, as the head of the universal Church, clearly
                 articulates the final causes to which our response to the COVID-19 pandemic should
                 aim. His suggestions as to the means to the final end are simplistic (dare I say
-                naive) and contradictory. Pope Francis posseses great charm and charisma, but in
-                this book his concern for the souls of the believers and the well being of the
+                naive) and contradictory. Pope Francis possess great charm and charisma, but in this
+                book his concern for the souls of the believers and the well being of the
                 marginalized are diminished by concrete suggestions of dubious value.</d:para>
         </d:simplesect>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">On Liberty, Utilitarianism and Other Essays</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">On Liberty, Utilitarianism and Other
+                    Essays</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>John Stuart Mill</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>2/25/21</d:member>
@@ -1981,50 +2012,171 @@
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
             <d:para>In the matter of style, Mr. Mill is too verbose. But that is largely due to the
-                stylistic difference between th mid-1800's and today. "On Liberty" is an exposition
+                stylistic difference between the mid-1800's and today. "On Liberty" is an exposition
                 of what today we would call "Classical Liberalism," and some of its tenets seem
                 amenable to modern day Libertarians. "Utilitarianism" is a defense of the idea that
-                moral goodness shoud be determined by the "greatest happiness" principal where what
-                is good is that which produces happiness for the greatest number of people. His
-                idean of happiness seems to drift from that of Socrates/Plato/Aristotle, but not so
-                far as the modern conception of happiness with "feeling good" or self-esteem.
-                Personally, I found "Considerations on Representative Government" to be the most
-                thought provoking. Finally, his calls for equal rights for women in "The Subjugation
-                of Women" have largely been vindicated. Although, I must add that he address only in
-                passing the  danger to a women that they bear the cost in time, money and emotional
+                moral goodness shroud be determined by the "greatest happiness" principal where what
+                is good is that which produces happiness for the greatest number of people. His idea
+                of happiness seems to drift from that of Socrates/Plato/Aristotle, but not so far as
+                the modern conception of happiness with "feeling good" or self-esteem. Personally, I
+                found "Considerations on Representative Government" to be the most thought
+                provoking. Finally, his calls for equal rights for women in "The Subjugation of
+                Women" have largely been vindicated. Although, I must add that he address only in
+                passing the danger to a women that they bear the cost in time, money and emotional
                 energy for the raising of children. Mr. Mill does not seem to consider the
-                possiblity that women will be abandoned by their husbands (or, in the modern case by
-                their romantic partners) and left to raise the children alone.</d:para>
+                possibility that women will be abandoned by their husbands (or, in the modern case
+                by their romantic partners) and left to raise the children alone.</d:para>
         </d:simplesect>
         <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">The Cat in the Hat Comes
-                Back</d:emphasis></d:title>
+            <d:title><d:emphasis role="underline">Twilight of the Idols &amp;
+                    Anti-Christ</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Seuss</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/6/21</d:member>
-                <d:member><d:emphasis role="italic">Grade: </d:emphasis>1</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Friedrich
+                    Nietzsche</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>3/4/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
-            <d:para>My first encounter with Nietsche was in college in my Western Culture class
-                where we were assigned selections from his Birth of Tragedy. I found his writing to
-                dense and hard to read, and I never bothered to read the entire book. These two
-                books have the advantage of being much easier to read. Instead of long academic
-                discussions, he seems to have come to favor collections of short fragments. But he
-                gave up any attempts at reason or logic and issues a steady stream of invective and
-                ad hominem attacks in  place of arguments. So, in illustration, let's turn the
-                tables on Prof. Nietsche. "He is obsessed with sickness and associates this with
-                Western morality in general and Christianity in particular. The psychologist will
-                say that the loss of his father at an early age made him angry at God, the ultimate
-                father figure. He tried to be the obiedient son and pursued theological studies, but
-                when he contracted syphillis in a visit to a brothel, he found the guilt too much to
-                bear. Instead of reforming himself, he turned on Christianity as the cause of his
-                guilt and remorse. His horor at his own sickness lead him to label Christianity as a
-                religion of sickness. His insignificance and lack of success after a promising start
-                to his academic career made him envious and obsessed with a will to power, a power
-                he would never possess himself. His acid pen was a cry for attention from those he
-                envied but would never pay him heed." Note how a mix in a few facts from his
-                biography and sprinkle in a large does of dark speculation on his character and
-                motives. And shade every interpretation in the worst possible light. </d:para>
+            <d:para>Two books in one volume. My first encounter with Nietzsche was in college in my
+                Western Culture class where we were assigned selections from his Birth of Tragedy. I
+                found his writing to dense and hard to read, and I never bothered to read the entire
+                book. These two books have the advantage of being much easier to read. Instead of
+                long academic discussions, he seems to have come to favor collections of short
+                fragments. But he gave up any attempts at reason or logic and issues a steady stream
+                of invective and ad hominem attacks in place of arguments. So, in illustration,
+                let's turn the tables on Prof. Nietzsche. "He is obsessed with sickness and
+                associates this with Western morality in general and Christianity in particular. The
+                psychologist will say that the loss of his father at an early age made him angry at
+                God, the ultimate father figure. He tried to be the obedient son and pursued
+                theological studies, but when he contracted syphilis in a visit to a brothel, he
+                found the guilt too much to bear. Instead of reforming himself, he turned on
+                Christianity as the cause of his guilt and remorse. His horror at his own sickness
+                lead him to label Christianity as a religion of sickness. His insignificance and
+                lack of success after a promising start to his academic career made him envious and
+                obsessed with a will to power, a power he would never possess himself. His acid pen
+                was a cry for attention from those he envied but would never pay him heed." If I
+                were to carry this exercise on for 100 pages and throw in frequent proclamations of
+                how smart I am for being the first to ever think such bold thoughts, then you will
+                have a sense of his style. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">The Future of an Illusion</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Sigmund Freud</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>3/11/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Freud's argument that religion is an illusion based upon human "wish"
+                fulfillment. He also argues that scientific knowledge makes religion obsolete and
+                that it will soon pass away. This is ironic, for he provides no actual evidence for
+                his assertions. Freud was a genius in the development of psychoanalysis to treat
+                mental illness, but many of his ideas have not stood the test of time. This book, in
+                which he moves into areas not amenable to the scientific method, can only convert
+                those whose inclination is already to un-belief. Freud says that those who do not
+                agree are clinging to an illusion. Those who believe know that in this subject,
+                Freud is the delusional one making claims in the name of science that science cannot
+                support.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Remade for Happiness</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Fulton J. Sheen</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>3/12/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Having read Nicomachean Ethics last year, for Lent this year I picked out two
+                books exploring the Christian concept of happiness. Archbishop Sheen lays out the
+                Christian view that happiness lies in discovering and living with the transcendent
+                love of God. This book is written for the "popular" audience, and so he relies much
+                more on argument by analogy than on theological arguments from reason. Not bad, but
+                better suited to young adults or those new to Catholicism.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">On the Good Life</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Marcus Tullius Cicero</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>3/22/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A selection of Cicero's writings that pertain to the definition of a "Good"
+                life. Cicero was a student of Greek philosophy, and in these selections he applies
+                his learning to life in Rome. I don't find his attempts at dialogue to be as
+                effective as Plato's in illuminating philosophical points. But they do offer
+                interesting insights into Roman culture. This was one of Thomas' books from his
+                "Western Political Thought " course, and it fit in nicely with my Lenten reading
+                focusing on what is "happiness."</d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Discourses Addressed to Mixed Congregations</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Cardinal St. John Henry Newman</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>3/23/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Anna was assigned selections of this book in her English class. This is a
+                collection of essays by Cardinal Newman outlining the Catholic faith and its
+                applicability to the citizens of Great Britain. He offers persuasive arguments in
+                favor of Catholic tradition, but his style - like many educated Englishmen of the
+                mid-1800's - can be dense.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Finding True Happiness</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Fr. Robert Spitzer</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>3/26/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Picked this up for Lenten reading following this year's theme of "eudaimonia" or
+                "happiness." This is not a classic in the literary sense, but the book does bear
+                another reading. It is part textbook, part self-help guide and part personal
+                testimony. Where Cardinal Sheen's book on the same topic can be likened to a
+                pre-game speech by a coach to a team, this is more like a plan for running the
+                team's whole season from pre-season workouts, through practices and onto game
+                strategy. There are three more volumes that build upon this book. The question is,
+                do I re-read this with an eye to some of the practical recommendations or do I
+                finish the entire series first?</d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Leadership and Command in the American Civil War</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Steven E. Woodworth, editor</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>4/6/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A collection of essays rather than an actual book on the topic. In general, the
+                essayists focus on a particular general, generally in light of an experience in
+                which their performance was criticized or found wanting. One of the six was a junior
+                officer in the Army early in his career, but the point of view of all the articles
+                is more that of an academic. For instance, the first essay is on Joseph Johnson and
+                his relationship with Jefferson Davis. The author high lights the various ways in
+                which Johnson was an ineffective general and he ascribes most of this to his
+                personal insecurity and hostility to superiors. Certainly true points. But he covers
+                only briefly the military aspects of his poor performance. He mentions his penchant
+                for strategic withdrawls to perserve the fighting strength of his armies and notes
+                his consistent failure to actually reconnointer and plan his withdrawls ahead of
+                time. This resulted in many instances where he was forced to destroy scarce
+                resources that could have been saved with planning. In noting these failures, the
+                essay then examines his hesitency to take responsibility for actions that might harm
+                his reputation, but does not examine his relationships with his subordinates or the
+                composition or capabilities of his staff. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review">
+            <d:title><d:emphasis role="underline">Reflections on the Psalms</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Lewis</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>4/6/21</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>My second go around with this fine book. As much a reflection of how Christians
+                read and understand the Old Testament as it is a guide to making sense of the Psalms
+                themselves. </d:para>
         </d:simplesect>
     </d:chapter>
     <d:appendix>
