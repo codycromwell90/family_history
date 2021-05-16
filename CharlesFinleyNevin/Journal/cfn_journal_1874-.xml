@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <title>Journal: 1874-???</title>
+        <author>
+            <personname>Charles Finly Nevin</personname>
+            <address>              
+                <city>Sewickley</city>
+                <state>Pennsylvania</state>            
+            </address>
+        </author>
+        <revhistory>
+            <revision>
+                <revnumber>1</revnumber>
+                <date>2021-04-12</date>
+                <authorinitials>PSK</authorinitials>
+            </revision>
+        </revhistory>
+    </info>
+    <chapter>
+        <title>Introduction</title>
+        <para><inlinemediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="left" fileref="./images/cfn001.jpg"/>
+                </imageobject>
+            </inlinemediaobject></para>
+        <para>Diary and scrapbook of Charles Finley Nevin. In the posession of Christopher and
+            Sandra Krush.</para>
+    </chapter>
+    <chapter>
+        <title>Journal</title>
+        <para><inlinemediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="center" fileref="./images/cfn005.jpg"/>
+                </imageobject>
+            </inlinemediaobject></para>
+        <para> C.F. Nevin. Jan 15th, 1874</para>
+        <para>Died. BROWN - On January 29, ALICE, daughter of Henry &amp; Ellen Brown of Mt. Blaine,
+            Washington county. Funeral from Center Church to-day at 2 P.M.</para>
+        <?dbfo-need height="6in" ?>
+        <para><inlinemediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="center" fileref="./images/cfn006.jpg"/>
+                </imageobject>
+            </inlinemediaobject></para>
+        <para> One dan?? at Transylvanna La Pleuilirs Lunding. Say he rushed 20 bales cotton ??? 13
+            Aelu lard. Says he can only get 10c but at le???ding bales about 500 # ???</para>
+        <para>Pittsburgh, Penn. Jan. 15th 1874. Cor 3rd &amp; Market. T.H. Nevin Co.</para>
+        <?dbfo-need height="6in" ?>
+        <para><inlinemediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="center" fileref="./images/cfn007.jpg"/>
+                </imageobject>
+            </inlinemediaobject></para>
+        <para> Feb. 24th a daughter 1875. Essie Grafton Nevin.</para>
+        <para>Theo. H Nevin Jr. Apr. 24 1878 9 ¾ #</para>
+        
+        <para>Elizabeth May 3rd, 1889 8 ½ </para>
+        <para>Mr. Wilford H. Nevin, of Pittsburgh, since the marriage of his boon companion, is sad
+            and lonely, dining in seclusion, with Dyspepsia and Despair as chief cook and
+            waiter.</para>
+        <para>St. Louis &amp; New Orleans Packet Company. For Memphis, Vicksburgh &amp; New Orleans.
+            J. ??? A. SCUDDER.  A.J. Carter, Master. Leaves Monday 12th, at 5 p.m. For freight of
+            passage apply on board of company's wharfboat of Market st. JNO. W. CARROLL, Gen. Supt.,
+            CHAS. SCUDDER, Gen. Fgt. Agt.</para>
+        <para>MARRIED. NEVIN - GRAFTON - On Thursday evening January 22, 1874 at the residence of
+            the bride's parents, by the Rev. J.B. Bittinger, D.D., </para>
+        <para>SEWICKLEY WEDDING. A very pleasant occasion was that of the wedding of Mr. Charles F.
+            Nevin to Miss LIzzie Grafton, all of Sewickley, on Thursday evening last. The ceremony
+            took place at the residence of the bride's father, Mr. Grafton, and a large number of
+            invited guests were there to witness the rite and congratulate the handsome couple on
+            their prospect for a long life of wedded happiness. The ceremony was performed by Dr.
+            J.B. Bittinger, of the FIrst Presbyterian church of Sewickley. The usual joyful
+            festivities followed, and with extorted admiration for the splendid display of presents,
+            and the demolition of the good things provided, the evening sped away till "train time"
+            summoned away the party and the guests from the city, and the suburban neighbors hied
+            them home through a sea of mud, to talk over the event of the Sewickley season. Mr.
+            Nevin and his bride started on a tour souithward, whither the kind wishes of all their
+            friends follow them.</para>
+        <para>RANKIN - MURPHY - On Tuesday, February 17, 1874, at St. Stephen Episcopal church,
+            Sewickley, Pa. by Rev. George W. Easter. JAMES H. RANKIN, of Pittsburgh, and KATE F.,
+            daughter of George W. Murphy, Esq. of Haysville.</para>
+        
+        <para>
+            <emphasis role="bold">1874 C.F. Nevin. Jan 15th.</emphasis></para>
+        <para>Only one week more and then a new life. All ready. Letters from Alex. Nevin and
+            Walter. Hope A will get home. Cold.  "zero" Invitations all out, will be a good many
+            present.</para>
+        <para>Present from Mr. and Mrs. Poole Chicago a little early they are in N.Y. - the ??? pan
+            all met Tuesday (13th) Good time.</para>
+        <para>Died. BROWN - On January 29, ALICE, daughter of Henry &amp; Ellen Brown of Mt. Blaine,
+            Washington county. Funeral from Center Church to-day at 2 P.M.</para>
+        <?dbfo-need height="6in" ?>
+        <para><inlinemediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="center" fileref="./images/cfn008.jpg"/>
+                </imageobject>
+            </inlinemediaobject>
+       
+            
+        </para>
+        <para><emphasis role="bold">Monday Jan. 19th '74</emphasis></para>
+        <para>Damp out. Mr. Poole and ??? arrived on Saturday from N.Y. and will ??? over for the
+            wedding. Went to church in the AM. Jack was down home half day spent the evening with
+            Lizzie "Good resolutions" Only think just a few more days of single Life the beginning
+            of a new Life.  Alice was sick yesterday, better this AM.</para>
+        <para>Tuesday Jan 20th 1874</para>
+        <para>Cloudy and Damp. Spent last evening with Lizzie  the last we will spend together as
+            engaged people. Take tea with Ada this evening. Called on Dr. Saturday eve to engage ???
+            seemed pleased with ??? on hand some presents to day and in particular from Ada and ???
+            ??? figures. ??? is a beautiful present Ice Pitchers and Gobblets.</para>
+        
+        <?dbfo-need height="6in" ?>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="left" fileref="./images/cfn009a.jpg"/>
+                </imageobject>
+            </inlinemediaobject>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="center" fileref="./images/cfn009a.jpg"/>
+                </imageobject>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="right" fileref="./images/cfn009c.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </inlinemediaobject>
+        </para>
+        
+        <?dbfo-need height="6in" ?>
+    </chapter>
+</book>
