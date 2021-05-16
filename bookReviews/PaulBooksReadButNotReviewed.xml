@@ -383,6 +383,11 @@
                             <entry colname="Notes"/>
                         </row>
                         <row>
+                            <entry colname="Title">Charge of Cowardice</entry>
+                            <entry colname="Author">Duncan MacNeil</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
                             <entry colname="Title">It's What You Learn After You Know It All That
                                 Counts</entry>
                             <entry colname="Author">Earl Weaver</entry>
@@ -760,6 +765,11 @@
                             <entry colname="Notes">USNA Naval History</entry>
                         </row>
                         <row>
+                            <entry colname="Title">The Godfather</entry>
+                            <entry colname="Author">Mario Puzo</entry>
+                            <entry colname="Notes"/>
+                        </row>
+                        <row>
                             <entry colname="Title">A Connecticut Yankee in King Arthur's
                                 Court</entry>
                             <entry colname="Author">Mark Twain</entry>
@@ -1129,6 +1139,12 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Bootlegger's Boy</entry>
+                            <entry colname="Author">Barry Switzer and Bud Shrake</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
                             <entry colname="Title">The Autobiography of Benjamin Franklin</entry>
                             <entry colname="Author">Benjamin Franklin</entry>
                             <entry/>
