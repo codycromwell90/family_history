@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<book xmlns="http://docbook.org/ns/docbook"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
     <info>
         <title>Journal: 1931-1935</title>
         <author>
@@ -29,12 +28,12 @@
                         fileref="../ajk_journal_1931-1935/images/nov/ajk_journal026.jpg"/>
                 </imageobject>
             </inlinemediaobject></para>
-        <para>Dec. 31, 1928   Anne Jennings</para>
+        <para>Dec. 31, 1928 Anne Jennings</para>
         <para>Diary of Elizabeth Anne Jennings, later Anne Jennings Krush. Known to me and her other
             grandchildren as "Nanny." Her eldest daughter, Carol Krush, inherited all of Nanny's
             journals. Aunt Carol sent the journals to me in February, 2020.</para>
         <para>This journal has an interesting set-up; one page for each day of the year, but with
-            lines allowing entries for the same day on four different years.</para>           
+            lines allowing entries for the same day on four different years.</para>
     </chapter>
     <chapter>
         <title>NOVEMBER</title>
@@ -106,7 +105,8 @@
                             <para>1935 - Sat. Up early. Lived thru classes. Mated flies. Then Marion
                                 Roe-Cloud, Betty McNally, Fairbanks, Peanut, Mudge &amp; I to Boston
                                 Garden to Rodeo. Met . Colonel Jackson &amp; cow-girls. More fun!
-                                Rodeo excellent! Nothing like it! Home. Long bells. Dead tired. Bed. </para>
+                                Rodeo excellent! Nothing like it! Home. Long bells. Dead tired. Bed.
+                            </para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -127,19 +127,34 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Friday. Gang went to Sally's, also Wally &amp; Joe. Had fun
+                                although Dan was nasty to W &amp; J. Bed late. First snow of
+                                season!</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Sun. Studied all morning &amp; all aft. Finished Ramuntcho.
+                                Walked to station tonite with Mudge &amp; Betty. Wrote letters &amp;
+                                bed early.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Mon. Awful getting back to classes. Gym this aft. Fun.
+                                Studied all aft &amp; did Bible all tonite. Oh what is the use when
+                                I'll probably flunk it. I hate it! Bed late after Dobby's
+                                etc.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Tues. Behaved well in Zo today but Miss Murphy still chided
+                                me. Conf with Miss Melcher. She's nice. Lecture by Miss DeBanks on
+                                play &amp; I almost slept. Slaved on German tonite &amp; bed.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Wed. Up early Lab &amp; studied for quiz. Had it. Then
+                                Peanut &amp; M. Roe-Cloud &amp; I to Peanut's with Helen Poor's car.
+                                More fun. Got there 3:30. Talked etc. Then after dinner Everett,
+                                Dick Downs??? &amp; Bernie Hartwell came. Went out in roadster. Fun.
+                                Then Dick &amp; I alone to "Ships Haven," 3 old fashioneds &amp; did
+                                I feel them! Grand discussion tho &amp; more darn fun. Had a (?)
+                                time. Then got other kids - (?) &amp; home about 2.</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -149,25 +164,39 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Saturday. Did nothing till tonite. Bill R. took me to
+                                Sally's party! Was I ever thrilled?! He's so cute &amp; dances
+                                divinely! I had a keen time, but wasn't hungry.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Mon. Mass meeting at Alumnae tonite. Home with Ginny &amp;
+                                kids. Wrote letter to John &amp; Betty &amp; Ginny wrote, too. Saw
+                                Miriam Laurie &amp; she's better.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Tues. Day of Q - Bible quiz &amp; was I scared? Be happy,
+                                really, if I got a D &amp; I don't fool! Wotta man! Relieved after
+                                it &amp; French. Peanut &amp; I to vil. Sundaes. Studied tonite
+                                &amp; bed late.</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Wed. Package, food &amp; letter from Munny! Classes finally
+                                over &amp; at last off to Prill's!!!!! Miss Girggs swell!!! Arrived
+                                &amp; huge dinner. Melvin there. Movies. Fun. Home. Ate. Bed late.
+                                Such fun!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Thurs. Up at 10:30. A little headache! Then grand
+                                breakfast. Bobby, Rog, Ginny, Marion &amp; I also, Mr &amp; Mrs.
+                                Trask fooled around. Grand dinner! Games &amp; card tricks till time
+                                to go back to W. Helen Poor beat us back. Swell cocktails &amp; wine
+                                &amp; the Trasks were so nice!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 5 - 6</title>
             <para><inlinemediaobject>
@@ -182,19 +211,32 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Thursday. Sally took Jim &amp; me home. Cookies. Ice cream
+                                cones. G.R. tonite. Read &amp; cleaned aquarium this aft.</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Sat. Awful classes, 3.  Field day in aft. Crazy football
+                                game. Movies tonite with Dobby &amp; Ruth. "Night of June 13" &amp;
+                                "Fast Companions." Good. Brisk walk. Almost late. Bed.  Conference
+                                with Dean Knaper. Lovely. I like her!</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Sun. Up for bekbets. Studied. To museum for Zo this aft.
+                                Home. Dinner at Latter Grill with Peanut. Home. Studied. Talked with
+                                Pril. Bed early(?) </para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Mon. First indoor gym. My what fun. Tore about. Dinner
+                                Bells. Then studied tonite in libe &amp; over to Zo bldg to see
+                                Rosemary. She has awful diarrhea!</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Tues. Another hard day. Hard time with Chem. Then 1:30 -
+                                3:30 this aft spent selling chances on beans. Conf. with Miss Moody
+                                this aft &amp; she was so nice! B.B. game with Juniors at 4:40 &amp;
+                                we finally won 28-13 or something. I was LOUSY. Shoeny saved the
+                                game. She is grand! S.O.C. meeting at 8:30 tonite to make final
+                                arrangements. Oh di, I'm scared to </para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -204,25 +246,39 @@
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - </para>
+                            <para>1931 - Friday. S.H.S. tied Arnold High 0-0. Wotta game! Down to
+                                Sally's etc. which is on wrong day. (Pardon me for living.) Dan's a
+                                nunt! (but nice)</para>
                         </listitem>
                         <listitem>
-                            <para>1932 - </para>
+                            <para>1932 - Sun. Up late. Studied. Lunch at Noannett with Franny.
+                                Studied. Washed hair. Vespers tonite. Home. Letter, diary &amp;
+                                studied.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - </para>
+                            <para>1933 - Mon. First gym. Great sport. I like Miss Clarke, "Hicky."
+                                First snow of year. Dirty old snow. I guess we're in for it! Oh me!
+                                Prepared to have Junior tonite. Bed at 9:30!</para>
                         </listitem>
                         <listitem>
-                            <para>1934 - </para>
+                            <para>1934 - Tues. Handed in more Zo. Got some back. O.K. this time.
+                                Vill. Home. Barny for dinner. Fooled around after it. To Agora for
+                                Bus. meeting. Home &amp; Prill &amp; I studied together. Rosemary
+                                killed today. Gassed. Oh dear! I'm so sad. She had very bad
+                                scurvy.</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - </para>
+                            <para>1935 - Wed. Up early. Over to Metabolism &amp; fixed rats. Studied
+                                &amp; then lab all aft. To see Miss Beall about Indoor Basketball
+                                &amp; she was swell! I like her so much, di! Then dinner. Dressed,
+                                Miss Busch gave Fairbanks &amp; me tickets to Tibbett concert. He
+                                was grand! Home. Bed late!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 7 - 8</title>
             <para>
@@ -278,7 +334,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 9 - 10</title>
             <para>
@@ -334,7 +390,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 11 - 12</title>
             <para>
@@ -390,7 +446,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 13 - 14</title>
             <para>
@@ -446,7 +502,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 15 - 16</title>
             <para>
@@ -502,7 +558,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 17 - 18</title>
             <para>
@@ -558,7 +614,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 19 - 20</title>
             <para>
@@ -614,7 +670,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 21 - 22</title>
             <para>
@@ -670,7 +726,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 23 - 24</title>
             <para>
@@ -726,7 +782,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 25 - 26</title>
             <para>
@@ -782,7 +838,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 27 - 28</title>
             <para>
@@ -838,7 +894,7 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 29 - 30</title>
             <para>
@@ -894,6 +950,6 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
+        <?dbfo-need height="6in" ?>
     </chapter>
 </book>
