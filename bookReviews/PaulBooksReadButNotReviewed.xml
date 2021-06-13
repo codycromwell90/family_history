@@ -970,6 +970,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Mr. Roberts</entry>
+                            <entry colname="Author">Thomas Heggen</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">Death in Venice</entry>
                             <entry colname="Author">Thomas Mann</entry>
                             <entry colname="Notes">USNA Western Culture</entry>
@@ -1144,7 +1149,6 @@
                             <entry/>
                         </row>
                         <row>
-                            <entry/>
                             <entry colname="Title">The Autobiography of Benjamin Franklin</entry>
                             <entry colname="Author">Benjamin Franklin</entry>
                             <entry/>
@@ -1655,6 +1659,26 @@
                         <row>
                             <entry colname="Title">Zen and the Art of Motorcycle Maintenance</entry>
                             <entry colname="Author">William Pirsig</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Ivan the Terrible</entry>
+                            <entry colname="Author">Henry Troyat</entry>
+                            <entry>not 100% sure this is the correct biography</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title">biography of Benedict Arnold</entry>
+                            <entry colname="Author">???</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">Cromwell: Our Chief of Men</entry>
+                            <entry colname="Author">Antonia Fraser</entry>
+                            <entry>not 100% sure this is the correct biography</entry>
+                        </row>
+                        <row>
+                            <entry colname="Title"/>
+                            <entry colname="Author"/>
                             <entry/>
                         </row>
                         <row>
