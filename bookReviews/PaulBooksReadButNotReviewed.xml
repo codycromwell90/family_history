@@ -495,6 +495,11 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">War As I Knew It</entry>
+                            <entry colname="Author">Gen. George S. Patton</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">At Dawn We Slept</entry>
                             <entry colname="Author">Gordon Prange</entry>
                             <entry/>
@@ -745,6 +750,17 @@
                             <entry/>
                         </row>
                         <row>
+                            <entry colname="Title">Fighter: The True Story of the Battle of
+                                Britain</entry>
+                            <entry colname="Author">Len Deighton</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">SS-GB</entry>
+                            <entry colname="Author">Len Deighton</entry>
+                            <entry/>
+                        </row>
+                        <row>
                             <entry colname="Title">Battle Cry</entry>
                             <entry colname="Author">Leon Uris</entry>
                             <entry/>
@@ -962,6 +978,11 @@
                         <row>
                             <entry colname="Title">Flight of the Intruder</entry>
                             <entry colname="Author">Steven Coonts</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry colname="Title">The Art of War</entry>
+                            <entry colname="Author">Sun Tzu</entry>
                             <entry/>
                         </row>
                         <row>
