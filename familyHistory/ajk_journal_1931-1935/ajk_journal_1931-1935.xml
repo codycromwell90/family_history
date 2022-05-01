@@ -3745,6 +3745,19 @@
         </simplesect>
     </chapter>
     <chapter>
+        <title>Photos from Album - March</title>
+        <mediaobject xml:id="sSweater">
+            <imageobject>
+                <imagedata scale="20" align="center" format="JPG"
+                    fileref="../ajk_journal_1931-1935/images/mar/ajk_album042.jpg"/>
+            </imageobject>
+            <caption>
+                <para>S Sweater</para>
+            </caption>
+        </mediaobject>
+        <para/>
+    </chapter>
+    <chapter>
         <title>APRIL</title>
         <simplesect>
             <title>APRIL 1 - 2</title>
