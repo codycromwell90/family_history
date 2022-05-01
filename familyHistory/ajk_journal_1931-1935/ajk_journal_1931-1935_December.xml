@@ -892,7 +892,7 @@
                             <para>1933 - Thurs. Worked around. Bill came at noon &amp; was here all
                                 day! Fixed up things &amp; we went up &amp; got Sally. Saw Aunt Hat.
                                 Xmas tree lights. I like him too much. Alumni Dance with Dan. Dans
-                                for breakfast. Bed 2.  Reading in cellar. R(?)</para>
+                                for breakfast. Bed 2. Reading in cellar. R(?)</para>
                         </listitem>
                         <listitem>
                             <para>1934 - Fri. Home, Good old home!! John &amp; Mom met me! Babs
@@ -904,8 +904,8 @@
                             <para>1935 - Up late. Finished Xmas cards. To village,. Unpacked in aft.
                                 Bill in for few minutes &amp; we talked. Then M.W. came late after
                                 we finally had dinner about 10. John &amp; Peg arrived &amp; great
-                                Hello's. Hell of a mess with Mom &amp; Pop down on me! Oh God -
-                                What will  happen?</para>
+                                Hello's. Hell of a mess with Mom &amp; Pop down on me! Oh God - What
+                                will happen?</para>
                         </listitem>
                     </itemizedlist>
                 </para>
@@ -1178,7 +1178,7 @@
                             <para>1934 - Thurs. Hair. Lunch &amp; Bill here all aft. Ping Pong etc.
                                 Watta day. Everything but the end, di &amp; we were scared. But tell
                                 me, what does it mean? Class Banquet. Cocktail with Chubby. All fun.
-                                Sat with Jim &amp; D.D.  Home. Wally, Joey, Dan &amp; Ralph here.
+                                Sat with Jim &amp; D.D. Home. Wally, Joey, Dan &amp; Ralph here.
                                 Talked late &amp; bed late.</para>
                         </listitem>
                         <listitem>
@@ -1437,7 +1437,6 @@
                     </itemizedlist>
                 </para>
             </formalpara>
-            
         </simplesect>
         <?dbfo-need height="6in" ?>
         <simplesect>
@@ -1463,7 +1462,7 @@
             </formalpara>
             <formalpara>
                 <title>INDEX OF IMPORTANT EVENTS</title>
-                <para>More initials etc.  <informaltable frame="all">
+                <para>More initials etc. <informaltable frame="all">
                         <tgroup cols="2">
                             <colspec colname="c1" colnum="1" colwidth="1*"/>
                             <colspec colname="c2" colnum="2" colwidth="1*"/>
@@ -1558,7 +1557,6 @@
                         </tgroup>
                     </informaltable></para>
             </formalpara>
-            
         </simplesect>
         <?dbfo-need height="6in" ?>
         <simplesect>
@@ -1601,7 +1599,7 @@
                         </tgroup>
                     </informaltable>
                 </para>
-            </formalpara>            
+            </formalpara>
         </simplesect>
         <?dbfo-need height="6in" ?>
         <simplesect>
@@ -1663,19 +1661,24 @@
                                 <row>
                                     <entry>Apr. 12</entry>
                                     <entry>Ginny Trask</entry>
-                                </row><row>
+                                </row>
+                                <row>
                                     <entry>July 6</entry>
                                     <entry>Peggy Townsend</entry>
-                                </row><row>
+                                </row>
+                                <row>
                                     <entry>Sept 7</entry>
                                     <entry>Pop</entry>
-                                </row><row>
+                                </row>
+                                <row>
                                     <entry>May 3</entry>
                                     <entry>Mom</entry>
-                                </row><row>
+                                </row>
+                                <row>
                                     <entry>Dec. 30</entry>
                                     <entry>Bill</entry>
-                                </row><row>
+                                </row>
+                                <row>
                                     <entry>Dec. 25</entry>
                                     <entry>Prill</entry>
                                 </row>
@@ -1683,7 +1686,7 @@
                         </tgroup>
                     </informaltable>
                 </para>
-            </formalpara>            
+            </formalpara>
         </simplesect>
         <?dbfo-need height="6in" ?>
         <simplesect>
@@ -1811,7 +1814,7 @@
                         </tgroup>
                     </informaltable>
                 </para>
-            </formalpara>            
+            </formalpara>
         </simplesect>
         <?dbfo-need height="6in" ?>
         <simplesect>
@@ -1820,35 +1823,74 @@
                 <inlinemediaobject>
                     <imageobject>
                         <imagedata scale="75" align="center"
-                            fileref="../ajk_journal_1926-1930/images/memo/ajk_journal1039.jpg"/>
+                            fileref="../ajk_journal_1931-1935/images/misc/ajk_journal1042.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
             <formalpara>
-                <title>MEMORANDA</title>
-                <para> US Song! <blockquote>
-                    <para>When the Blue &amp; White</para>
-                    <para>Meet the Green &amp; Gray</para>
-                    <para>On the hockey field today,</para>
-                    <para>We’ll fight, fight with all our might,</para>
-                    <para>With vigor we will play.</para>
-                    <para>If we should win,</para>
-                    <para>We'll cheer our team!</para>
-                    <para>If you should win, we'll say,</para>
-                    <para>"Congratulations, you're some players,</para>
-                    <para>Every dog must have its day!"</para>
-                </blockquote>
+                <title/>
+                <para>
+                    <informaltable frame="all">
+                        <tgroup cols="3">
+                            <colspec colname="c1" colnum="1" colwidth="1*"/>
+                            <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                            <colspec colname="c2" colnum="3" colwidth="1*"/>
+                            <thead>
+                                <row>
+                                    <entry>Nane</entry>
+                                    <entry>Checks</entry>
+                                    <entry>X's</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>Dan</entry>
+                                    <entry>3</entry>
+                                    <entry>3</entry>
+                                </row>
+                                <row>
+                                    <entry>Ruth Benzenhofer</entry>
+                                    <entry>1</entry>
+                                    <entry/>
+                                </row>
+                                <row>
+                                    <entry>Jane Griffith</entry>
+                                    <entry>3</entry>
+                                    <entry>3</entry>
+                                </row>
+                                <row>
+                                    <entry>Aunt Nellie</entry>
+                                    <entry>1</entry>
+                                    <entry>1</entry>
+                                </row>
+                                <row>
+                                    <entry>Jean Johnston</entry>
+                                    <entry>5</entry>
+                                    <entry>6</entry>
+                                </row>                              
+                            </tbody>
+                        </tgroup>
+                    </informaltable>
                 </para>
             </formalpara>
-            <formalpara>
-                <title>MEMORANDA</title>
-                <para>Well, old diary, I've ended you and am about to start another. I was only
-                    twelve when I started this - in the seventh grade. I'm a Junior now. When I end
-                    my next one, I'll have graduated from college, I hope! Time flies, but I've had
-                    fun keeping you even if I did sometimes get 3 weeks behind. The lock to this is
-                    all flooky now, but I can still make it work. I hereby resolve for 1931 to try
-                    not to swear &amp; to keep my new diary more faithfully.</para>
-            </formalpara>
+        </simplesect>
+        <?dbfo-need height="6in" ?>
+        <simplesect>
+            <title>MEMORANDA</title>
+            <para>
+                <inlinemediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="./ajk_journal_1931-1935/images/misc/ajk_journal1042.jpg"/>
+                    </imageobject>
+                </inlinemediaobject>
+            </para>
+            <para> 81</para>
+            <para> 69</para>
+            <para>
+                <emphasis role="underline">48</emphasis></para>
+            <para>196   / 3 = 65 1/3</para>
+            <para>average of all C.B.'s - about <emphasis role="underline">65</emphasis></para>
         </simplesect>
     </chapter>
 </book>
