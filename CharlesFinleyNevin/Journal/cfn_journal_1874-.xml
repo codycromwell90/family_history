@@ -23,7 +23,7 @@
         <title>Introduction</title>
         <para><inlinemediaobject>
                 <imageobject>
-                    <imagedata scale="75" align="left" fileref="./images/cfn001.jpg"/>
+                    <imagedata scale="100" align="left" fileref="./images/cfn001.jpg"/>
                 </imageobject>
             </inlinemediaobject></para>
         <para>Diary and scrapbook of Charles Finley Nevin. In the posession of Christopher and
@@ -33,7 +33,7 @@
         <title>Journal</title>
         <para><inlinemediaobject>
                 <imageobject>
-                    <imagedata scale="75" align="center" fileref="./images/cfn005.jpg"/>
+                    <imagedata scale="100" align="center" fileref="./images/cfn005.jpg"/>
                 </imageobject>
             </inlinemediaobject></para>
         <para> C.F. Nevin. Jan 15th, 1874</para>
@@ -42,7 +42,7 @@
         <?dbfo-need height="6in" ?>
         <para><inlinemediaobject>
                 <imageobject>
-                    <imagedata scale="75" align="center" fileref="./images/cfn006.jpg"/>
+                    <imagedata scale="100" align="center" fileref="./images/cfn006.jpg"/>
                 </imageobject>
             </inlinemediaobject></para>
         <para> One dan?? at Transylvanna La Pleuilirs Lunding. Say he rushed 20 bales cotton ??? 13
@@ -51,7 +51,7 @@
         <?dbfo-need height="6in" ?>
         <para><inlinemediaobject>
                 <imageobject>
-                    <imagedata scale="75" align="center" fileref="./images/cfn007.jpg"/>
+                    <imagedata scale="100" align="center" fileref="./images/cfn007.jpg"/>
                 </imageobject>
             </inlinemediaobject></para>
         <para>
@@ -95,10 +95,12 @@
         </formalpara>
         <para>Present from Mr. and Mrs. Poole Chicago a little early they are in N.Y. - the ??? pan
             all met Tuesday (13th) Good time.</para>
-        <?dbfo-need height="6in" ?>
+        <para>Died. BROWN - On January 29, ALICE, daughter of Henry &amp; Ellen Brown of Mt. Blaine,
+            Washington county. Funeral from Center Church to-day at 2 P.M.</para>
+        <?dbfo-need height="7in" ?>
         <para><inlinemediaobject>
                 <imageobject>
-                    <imagedata scale="75" align="center" fileref="./images/cfn008.jpg"/>
+                    <imagedata scale="100" align="center" fileref="./images/cfn008.jpg"/>
                 </imageobject>
             </inlinemediaobject>
         </para>
@@ -120,7 +122,7 @@
         <para>
             <inlinemediaobject>
                 <imageobject>
-                    <imagedata scale="75" align="left" fileref="./images/cfn009a.jpg"/>
+                    <imagedata scale="100" align="left" fileref="./images/cfn009a.jpg"/>
                 </imageobject>
             </inlinemediaobject>
         </para>
