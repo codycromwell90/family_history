@@ -31,7 +31,7 @@
     </d:info>
     <d:chapter>
         <d:title>2020</d:title>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Bach: Music in the Castle of
                 Heaven</d:emphasis></d:title>
             <d:simplelist>
@@ -54,7 +54,7 @@
                 his values onto Bach more than truly trying to understand Bach. My recommendation -
                 buy Mr. Gardiner’s albums, but skip this book.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Day Will Pass Away</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ivan Chistyakov</d:member>
@@ -76,7 +76,7 @@
                 apparently he was arrested himself at some point. All that is known is that he was
                 killed at the front in 1941 fighting the Germans.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Be Strong and of Good
                 Courage</d:emphasis></d:title>
             <d:simplelist>
@@ -101,7 +101,7 @@
                 written, well reasoned and gives honest attention to viewpoints that differ from the
                 authors'. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Aviator</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Eugene
@@ -116,7 +116,7 @@
                 this is a modern version of <emphasis xmlns="http://docbook.org/ns/docbook"
                     role="underline">Crime and Punishment</emphasis>.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Intelligent Investor</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Benjamin Graham</d:member>
@@ -133,7 +133,7 @@
                 effective use, but my level of interest does not rise above simple curiosity. Which,
                 I suppose, is why I am a software engineer and not a financial analyst.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">President McKinley: Architect of the American
                     Century</d:emphasis></d:title>
             <d:simplelist>
@@ -175,7 +175,7 @@
                 Democrat would much prefer the Republican McKinley's approach of raising
                 taxes.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Solovyov and Larionov</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis> Eugene
@@ -206,7 +206,7 @@
                 attempting a larger examination on the process of recording and understanding
                 history versus living and understanding life in the first place.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">American Sniper</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Chris Kyle, Scott McEwen
@@ -230,7 +230,7 @@
                 book), Mr. Kyle was murdered by a fellow veteran a number of years after the war.
             </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Introduction to Christianity, 2nd
                     Edition</d:emphasis></d:title>
             <d:simplelist>
@@ -270,7 +270,7 @@
                 the world does exist — that is the confidence that supports the Christian and that
                 still makes it rewarding even today to be a Christian"</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Imitation of Christ</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Thomas A' Kempis</d:member>
@@ -283,7 +283,7 @@
                 translation, the language is archaic. While this sometimes works to "elevate" the
                 text, in this case, it often made it hard to retain focus on some passages.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Personal Recollections of Joan of
                 Arc</d:emphasis></d:title>
             <d:simplelist>
@@ -319,7 +319,7 @@
                 reflection on the life of Joan and her impact upon French history, this is a
                 masterful work of historical fiction.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Rule of Four</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ian Caldwell and Dustin
@@ -331,7 +331,7 @@
             <d:para>A work of historical detective work. Interesting and a quick read. I gave this
                 to Anna for Christmas and read it after she finished.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Meetings With Remarkable
                 Manuscripts</d:emphasis></d:title>
             <d:simplelist>
@@ -345,7 +345,7 @@
                 is beautifully illustrated, and Mr. De Hamel acts as an enthusiastic tour
                 guide.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">March 1917 The Red Wheel Node III Book
                     1</d:emphasis></d:title>
             <d:simplelist>
@@ -360,7 +360,7 @@
                 portrayal of the state of chaos. On the other hand, the characters from the earlier
                 novels in the Red Wheel cycle barely make an appearance. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Dreadnaught: Britain, Germany, and the Coming of
                     the Great War</d:emphasis></d:title>
             <d:simplelist>
@@ -400,7 +400,7 @@
                 the Germans. In the end, the weak powers dragged the strong into global
                 conflict.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Blindness</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Jose Saramago</d:member>
@@ -419,7 +419,7 @@
                 with no delineation of the speaker and often no punctuation between
                 statements.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Journey By Moonlight</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Antal Szerb</d:member>
@@ -437,7 +437,7 @@
                 one of his characters, that modern civilization has distracted us to such a degree
                 that we simply forget about death. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Why Intelligence Fails</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert Jervis</d:member>
@@ -473,7 +473,7 @@
                 his career he had said there would be no European war and was wrong only
                 twice"!</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Greece: Biography of a Modern
                 Nation</d:emphasis></d:title>
             <d:simplelist>
@@ -494,7 +494,7 @@
                 that probably shed some light on what much of the Balkans have in store as they deal
                 with the history of oppression by the Ottoman's and the Soviets.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Castles of Steel</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert K. Massie</d:member>
@@ -526,7 +526,7 @@
                 reflect on the naval competition between Britain and Germany in light of the current
                 tensions between the U.S. and China.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Anna Karennina</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Leo Tolstoy</d:member>
@@ -553,7 +553,7 @@
                 I doubt I'd read the whole thing again, although I might return to the final
                 section.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Way West</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>A.B. Guthrie,
@@ -568,7 +568,7 @@
                 maybe Grandpa Rodine's; but since there is a sticker from a bookstore in Boston, I
                 assume Grandpa Krush's.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Jenkins' Ear</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Odell &amp; Willard
@@ -587,7 +587,7 @@
                 the plot is not convincing, the dialog is too wordy and whole effect falls
                 short.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Seven Ages of
                 Washington</d:emphasis></d:title>
             <d:simplelist>
@@ -610,7 +610,7 @@
                 "de-mythologize" Washington in order to illustrate the "real" Washington is more
                 impressive than the myth. Dated in style and content.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Life of Andrew Jackson: Complete in One
                     Volume</d:emphasis></d:title>
             <d:simplelist>
@@ -670,7 +670,7 @@
                 orphaned Creek boy when no Creek woman would do so and raised him as his own child.
             </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Pale Rider: The Spanish Flu of 1918 and How it
                     Changed the World</d:emphasis></d:title>
             <d:simplelist>
@@ -720,7 +720,7 @@
                 high-risk. But in 1918 as in 2020, the interactions between politicians, bureaucrats
                 and scientist seems to have improved very little.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">An Army at Dawn</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member>
@@ -737,7 +737,7 @@
                 adage "the more you sweat in training, the less you bleed in combat." But this book
                 also illustrates just how quickly the Americans learned how to fight.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Victory Machine: The Making &amp; Unmaking of
                     the Warriors Dynasty</d:emphasis></d:title>
             <d:simplelist>
@@ -758,7 +758,7 @@
                 Strauss presents some interesting views, but it in the end it is not a compelling
                 treatment of its subject.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Land of the Firebird: The Beauty of Old
                     Russia</d:emphasis></d:title>
             <d:simplelist>
@@ -770,7 +770,7 @@
             <d:para>An art history of pre-revolutionary Russia. Although Ms. Massie has great
                 enthusiasm for the subject, this book still reads somewhat like a textbook.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">The Collected Tales of Nikolai
                 Gogol</d:emphasis></d:title>
             <d:simplelist>
@@ -787,7 +787,7 @@
                 ability to describe the details of the daily lives and settings of his subject and
                 the willingness to weave the supernatural to make a memorable impression.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Envy</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Joseph Epstein</d:member>
@@ -808,7 +808,7 @@
                 The chapter title, removed from the context of the book, make him seem like an angry
                 crank. And the quote could imply that he has no respect for wisdom. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Native Son</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Richard Wright</d:member>
@@ -840,7 +840,7 @@
                 altogether. Issues of artistic style aside, this remains a compelling
                 novel.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Silk Roads: A New History of the
                     World</d:emphasis></d:title>
             <d:simplelist>
@@ -900,7 +900,7 @@
                 Frankopan writes well, and in his enthusiasm does remind us that there is much to
                 learn from outside our own culture.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Nicomachean Ethics</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Aristotle</d:member>
@@ -916,7 +916,7 @@
                 highest possible goodness. Good is another word that differs greatly from
                 Aristotle’s meaning and common usage today.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Science and the Good</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>John D. Hunter and Paul
@@ -936,7 +936,7 @@
                 two left-of-center academicians who recognize that an attempt to explain away
                 morality allows anyone to justify their actions, good or bad.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">The Republic</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Plato</d:member>
@@ -966,7 +966,7 @@
                 more than straw-men, or worse, sycophants who simply agree with everything he
                 proposes.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">On the Nature of Things</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Lucretius</d:member>
@@ -990,7 +990,7 @@
                 conclusions were often wrong, the process of observation and rational argument
                 clearly anticipate modern scientific methods.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Aristotle for Everybody</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Mortimer J.
@@ -1006,7 +1006,7 @@
                 great strength is in the clear explanation of what Aristotle taught and how it
                 applies even today. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Experience of God: Being, Consciousness,
                     Bliss</d:emphasis></d:title>
             <d:simplelist>
@@ -1038,7 +1038,7 @@
                 his style, there are many long sentences and arcane words. But his arguments are
                 clear, thorough and easy to follow.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Rise and Fall of Great
                 Powers</d:emphasis></d:title>
             <d:simplelist>
@@ -1096,7 +1096,7 @@
                 development (and decline) with political, diplomatic and military power seems to me
                 to be quite sound.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Day of Battle</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member>
@@ -1120,7 +1120,7 @@
                 occasional pointed comment of his own. But in the end, he leaves the reader to their
                 own judgement.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Style: The Art of Writing
                 Well</d:emphasis></d:title>
             <d:simplelist>
@@ -1140,7 +1140,7 @@
                 they need to be. If Mr. Epstein was a student of Mr. Lucas in developing his own
                 style, then I would say that the student has surpassed the master.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">The Confidence Man</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Herman Melville</d:member>
@@ -1151,7 +1151,7 @@
             <d:para>Melville's journey to sea with the whale ship Pequod is unforgeable; his journey
                 down the Mississippi on the steamer Fidele is long-winded and confusing.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">The Charterhouse of Parma</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Stendhal</d:member>
@@ -1166,7 +1166,7 @@
                 that I do not care for wordy style or the lives of the noblemen and women portrayed
                 in the novel.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Abelard and Heloise: The Letters and Other
                     Writings</d:emphasis></d:title>
             <d:simplelist>
@@ -1187,7 +1187,7 @@
                 But they do offer a very personal insight into life in medieval life and philosophy.
             </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Thomas Aquinas: A Portrait</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Denys Turner</d:member>
@@ -1201,7 +1201,7 @@
                 Kreeft's A Shorter Summa as an introduction to his theology. But this book is
                 worthwhile if you want more than a cursory introduction.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Storm of Steel</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ernst Junger</d:member>
@@ -1241,7 +1241,7 @@
                 titles) were promoted ahead of him. So perhaps Tocqueville's suggestion has some
                 merit, at least in this case. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Democracy in America</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Alexis de
@@ -1269,7 +1269,7 @@
                 too much abstraction without supporting detail makes it hard to hold interest.
             </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Apology</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Plato</d:member>
@@ -1282,7 +1282,7 @@
                 atheism and corruption of youth. This should be required reading for all high school
                 students.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Favorite Poems of Henry Wadsworth
                     Longfellow</d:emphasis></d:title>
             <d:simplelist>
@@ -1298,7 +1298,7 @@
                 folklore. "Evangeline" was another long poem, but I did not care for it's soap opera
                 twists and turns of fate.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Guns at Last Light</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Atkinson</d:member>
@@ -1324,7 +1324,7 @@
                 German massacre of prisoners at Gardelegen; this is something my grandfather would
                 have witnessed personally because he was an Army doctor.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Fire Upon the Earth</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Norman F.
@@ -1337,7 +1337,7 @@
                 Christianity for Young Protestants." Like many books that cover a very long period
                 of history, this focuses much more on recent events than early events.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">What is History</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Edward Hallet
@@ -1393,7 +1393,7 @@
                 likely candidate as the Soviet Napoleon given his military role in the civil war.
                 And thus, they over-looked Stalin.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Philosophy 101 by Socrates</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Peter Kreeft</d:member>
@@ -1411,7 +1411,7 @@
                 Socrates. Dr. Kreeft's strongest claim is that we are all philosophers and that we
                 each have the responsibility of self-examination.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Dandelion Wine</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ray Bradbury</d:member>
@@ -1428,7 +1428,7 @@
                 the viewpoints of the young and the very old. When the adults / parents are involved
                 in the story, they are generally dealing with some crisis.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Socratic Logic</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Peter Kreeft</d:member>
@@ -1446,7 +1446,7 @@
                 use as a software engineer; and its use of Aristotelian causes is broader than the
                 understanding of causes in the scientific method. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Loyal Son</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Daniel Epstein</d:member>
@@ -1461,7 +1461,7 @@
                 bad. I don't much care for the author's style. The book could have used better
                 editing as he is often careless with dates.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">No Place to Hide</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>David Bradley</d:member>
@@ -1477,7 +1477,7 @@
                 on radiation were new to me. But Dr. Bradley offers an interesting insider's view on
                 how the tests were conducted. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Tragic Mountains: The Hmong, the Americans and the
                     Secret Wars for Laos, 1942-1992</d:emphasis></d:title>
             <d:simplelist>
@@ -1502,7 +1502,7 @@
                 Hamilton-Merrit for the sheer volume of first-hand research that went into this
                 book.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Black Death</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Rosemary Horrox, translator
@@ -1525,7 +1525,7 @@
                 spread COVID and there is still much we don't know about how COVID spreads and why
                 some are affected more than others.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Othello</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>William
@@ -1536,7 +1536,7 @@
             </d:simplelist>
             <d:para>Such beautiful language used for such an ugly story.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Discourse on Free Will</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Desiderius Erasmus and
@@ -1587,7 +1587,7 @@
                 Luther is all heart; accepting that God loves man, he rejects nearly all rational
                 thought as "sophistry." Personally, I find Erasmus much more convincing.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Last Lion: Visions of Glory,
                     1874-1932</d:emphasis></d:title>
             <d:simplelist>
@@ -1650,7 +1650,7 @@
                 odd paragraph breaks. And his editor earns a failing grade as there are a number of
                 words / names that are miss-spelled.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Discourse on Method and Meditations on First
                     Philosophy</d:emphasis></d:title>
             <d:simplelist>
@@ -1749,7 +1749,7 @@
     </d:chapter>
     <d:chapter>
         <d:title>2021</d:title>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Know Your Enemies: Modern
                 Battle</d:emphasis></d:title>
             <d:simplelist>
@@ -1769,7 +1769,7 @@
                 lacking in certainty. Stylistically, it is rather dry, as one would expect from Army
                 training material. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Leviathan</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Thomas Hobbes</d:member>
@@ -1814,7 +1814,7 @@
                 term "common-wealth" to refer to a government as it emphasizes the goal of the
                 common good. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Rameau's Nephew &amp; D'Alembert's Dream
                 </d:emphasis></d:title>
             <d:simplelist>
@@ -1833,7 +1833,7 @@
                 French culture, it does not offer an alternative that can replace Judeo-Christian
                 morality or Greek / Roman ethics. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Reveries of the Solitary
                 Walker</d:emphasis></d:title>
             <d:simplelist>
@@ -1854,7 +1854,7 @@
                 this work relates to his struggle with his persecutions, which seem to have existed
                 largely in his own imagination.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Strange Death of Adolf
                 Hitler</d:emphasis></d:title>
             <d:simplelist>
@@ -1871,7 +1871,7 @@
                 finish the book; too far fetched, and really, who wants to spend time with Hitler,
                 Goring and Goebels, even if in caricature?</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Hellenika</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Xenophon</d:member>
@@ -1893,7 +1893,7 @@
                 Landmark tradition, this book is a treasure trove of maps, footnotes and appendices
                 to allow the modern reader to make sense of the details.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">The Sorrows of Young
                 Werther</d:emphasis></d:title>
             <d:simplelist>
@@ -1909,7 +1909,7 @@
                 nature of that period. Perhaps this book is more appealing to the young, but I
                 cannot recommend it. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Astoria</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Peter Stark</d:member>
@@ -1921,7 +1921,7 @@
                 Columbia River in present day Oregon. Mr. Stark is a journalist, and stylistically
                 this reads more like an extended magazine article than a history.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">The New Organon</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Francis Bacon</d:member>
@@ -1944,7 +1944,7 @@
                 the idea of spending much time in "philology." So I recommend the first two sections
                 of this book, but skip the rest.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Campaigns of Alexander</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Arrian</d:member>
@@ -1956,7 +1956,7 @@
                 ancient history; a gift for Christmas. Arrian's coverage of the reign of Alexander
                 is very interesting. As always, the quality of the book is top notch.</para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">The Communist Manifesto</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Karl Mark and Friedrich
@@ -1980,7 +1980,7 @@
                 occasion to read this work until now. But having finally read it, I can say that I
                 did not miss much.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Let Us Dream</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Pope Francis and Austen
@@ -2002,7 +2002,7 @@
                 book his concern for the souls of the believers and the well being of the
                 marginalized are diminished by concrete suggestions of dubious value.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">On Liberty, Utilitarianism and Other
                     Essays</d:emphasis></d:title>
             <d:simplelist>
@@ -2027,7 +2027,7 @@
                 possibility that women will be abandoned by their husbands (or, in the modern case
                 by their romantic partners) and left to raise the children alone.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Twilight of the Idols &amp;
                     Anti-Christ</d:emphasis></d:title>
             <d:simplelist>
@@ -2059,7 +2059,7 @@
                 how smart I am for being the first to ever think such bold thoughts, then you will
                 have a sense of his style. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">The Future of an Illusion</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Sigmund Freud</d:member>
@@ -2078,7 +2078,7 @@
                 Freud is the delusional one making claims in the name of science that science cannot
                 support.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Remade for Happiness</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Fulton J. Sheen</d:member>
@@ -2093,7 +2093,7 @@
                 more on argument by analogy than on theological arguments from reason. Not bad, but
                 better suited to young adults or those new to Catholicism.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">On the Good Life</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Marcus Tullius
@@ -2110,7 +2110,7 @@
                 "Western Political Thought " course, and it fit in nicely with my Lenten reading
                 focusing on what is "happiness."</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Discourses Addressed to Mixed
                     Congregations</d:emphasis></d:title>
             <d:simplelist>
@@ -2126,7 +2126,7 @@
                 favor of Catholic tradition, but his style - like many educated Englishmen of the
                 mid-1800's - can be dense.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Finding True Happiness</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Fr. Robert
@@ -2145,7 +2145,7 @@
                 do I re-read this with an eye to some of the practical recommendations or do I
                 finish the entire series first?</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Leadership and Command in the American Civil
                     War</d:emphasis></d:title>
             <d:simplelist>
@@ -2172,7 +2172,7 @@
                 his reputation, but does not examine his relationships with his subordinates or the
                 composition or capabilities of his staff. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Reflections on the Psalms</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Lewis</d:member>
@@ -2184,7 +2184,7 @@
                 read and understand the Old Testament as it is a guide to making sense of the Psalms
                 themselves. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Gallimaufry</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Joseph Epstein</d:member>
@@ -2195,7 +2195,7 @@
             <d:para>A collection of recent essays by Mr. Epstein. A number of these I have already
                 encountered in either the Wall Street Journal or First Things. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Notes From Underground</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Fyodor
@@ -2207,7 +2207,7 @@
             <d:para>An ugly, unsympathetic narrator. The translator notes indicate that this work is
                 a satiric take down of Russian nihilist thought. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Lincoln's Lieutenants: The High Command of the
                     Army of the Potomac</d:emphasis></d:title>
             <d:simplelist>
@@ -2244,7 +2244,7 @@
                 structured around an imaginary conversation between Grant and Lee in which they
                 explore the topic of what it takes to be an ideal general.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Right Ho, Jeeves</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>P.G. Wodehouse</d:member>
@@ -2257,7 +2257,7 @@
                 language is witty and stylish, and the actor renders the dialog with cadences and
                 inflections that really enhance the effect.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Ambition: The Secret
                 Passion</d:emphasis></d:title>
             <d:simplelist>
@@ -2270,7 +2270,7 @@
                 was not his idea! It is an extended essay on the nature of ambition with examples of
                 those whose lives have illustrated the benefits and drawbacks.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Stalin: Waiting for Hitler,
                 1929-1941</d:emphasis></d:title>
             <d:simplelist>
@@ -2315,7 +2315,7 @@
                 deeply immersed in the book, the weight of so much misery would soon require a
                 break.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Other Worlds: Peasants, Pilgrims, Spirits,
                     Saints</d:emphasis></d:title>
             <d:simplelist>
@@ -2332,7 +2332,7 @@
                 Russian countryside. Not as good, in my opinion, as the tales of Gogol but still
                 interesting. I passed this book along to Stephen Brumbaugh.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">John Adams: Volume 1
                 1735-1784</d:emphasis></d:title>
             <d:simplelist>
@@ -2351,7 +2351,7 @@
                 themselves. The book was published by the Book of the Month Club, and although it is
                 a hardback, it is not of very good quality.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Politics</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Aristotle</d:member>
@@ -2373,7 +2373,7 @@
                 interesting that John Adams so clearly adheres to the principles of a balanced,
                 moderate government of virtuous citizens.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">After Virtue</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Alasdair
@@ -2419,7 +2419,7 @@
                 in philosophy and sociology and moral relativism seem even more obvious 40 years
                 after he published this work.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">No Easy Day</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Mark Owen &amp; Kevin
@@ -2437,7 +2437,7 @@
                     Sniper</emphasis>. Not sure if it is the same guy, but it was somewhat annoying
                 to hear the same style of speaking.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Making Sense of the
                 Troubles</d:emphasis></d:title>
             <d:simplelist>
@@ -2481,7 +2481,7 @@
                 process, it is clear that a "life" sentence in Britain means something different
                 than in America.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">The Panzer Killers</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Daniel P. Bolger</d:member>
@@ -2507,7 +2507,7 @@
                 and tactical decisions. As a writer who was a professional soldier before becoming a
                 historian, he is able to </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">A Jaques Barzun Reader</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Jacques Barzun</d:member>
@@ -2520,7 +2520,7 @@
                 criticism of art, music and literature and commentary on contemporary culture
                 (which, given his long career, extends from the 1930s to the earl 2000s).</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Empire of the Summer
                 Moon</d:emphasis></d:title>
             <d:simplelist>
@@ -2542,7 +2542,7 @@
                 States. He seeks to understand his subject on their own terms, covering both the
                 positive and negative aspects.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Skin in the Game: Hidden Asymmetries in Daily
                     Life</d:emphasis></d:title>
             <d:simplelist>
@@ -2564,7 +2564,7 @@
                 libertarians, he takes morality of granted. And make no mistake, he is very blunt in
                 offering his moral viewpoint. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">That All Shall Be Saved</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>David Bentley
@@ -2604,7 +2604,7 @@
                 than as a proven fact, I would say that his argument may well be - is even likely -
                 to be correct. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Only the Brave: July 1944 - The Epic Battle for
                     Guam</d:emphasis></d:title>
             <d:simplelist>
@@ -2620,7 +2620,7 @@
                 style is rather weak, at least compared to Danial Bolger or Rick Atkinson; he isn't
                 helped by the rather dull "performance" of the actor reading his book. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Sense and Sensibility</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Jane Austen</d:member>
@@ -2638,7 +2638,7 @@
                 produce unhappiness. And she does this with the skill of a mother who mixes bitter
                 medicine for her child with sugar.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">War and Peace</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Leo Tolstoy</d:member>
@@ -2650,7 +2650,7 @@
                 how this blend of novel and historical essay influenced Solzhenitsyn in his Red
                 Wheel cycle of novels.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Forensics: What Bugs, Burns, Prints, DNA and More
                     Tell us About Crime</d:emphasis></d:title>
             <d:simplelist>
@@ -2663,7 +2663,7 @@
                 techniques used in forensic science. Stopped reading about two thirds of the way
                 in.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Rebel in the Ranks</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Brad S. Gregory</d:member>
@@ -2681,7 +2681,7 @@
                 to understand what happened without endless discussions on the finer points of
                 theology.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Making Nice</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ferdinand Mount</d:member>
@@ -2708,7 +2708,7 @@
                 his daughter, attempts to seduce his wife and steals the one interesting job that he
                 had assigned to him? All fluff and no substance.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Second Hand Time: The Last of the
                     Soviets</d:emphasis></d:title>
             <d:simplelist>
@@ -2748,7 +2748,7 @@
                 to visit the Soviet Union in 1990, in the last days of the Soviets. This book makes
                 me wonder how things turned out for my friends from that visit.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">The Archipelago of Another
                 Life</d:emphasis></d:title>
             <d:simplelist>
@@ -2765,7 +2765,7 @@
                 moving, highly entertaining story. But, upon further reflection, the details don't
                 jibe and the magic spell disappears.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Portable Plato</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Plato</d:member>
@@ -2778,7 +2778,7 @@
                 and "The Republic". Since I had recently read The Republic, I skipped it this time
                 around.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Born to Run</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Bruce
@@ -2856,7 +2856,7 @@
                 "Life trumps art - always" and this is the chronicle of a real life that is every
                 bit as compelling as the best of his early work.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Norse Mythology</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Neil Gaiman</d:member>
@@ -2873,7 +2873,7 @@
                 making the myths seem "foreign" and he has a way of enunciating each and every
                 syllable of a word that engages the listener's attention.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Born Standing Up</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Steve Martin</d:member>
@@ -2888,7 +2888,7 @@
                 through. Mr. Martin reads his own book and what is most surprising is that the
                 reading is rather flat.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">We Have Been Harmonized</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Kai Strittmatter</d:member>
@@ -2904,7 +2904,7 @@
                 weakness in a heavily bureaucratic party attempting to achieve its desired goals.
                 Basically, a waste of time.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Murder on the Orient
                 Express</d:emphasis></d:title>
             <d:simplelist>
@@ -2921,7 +2921,7 @@
                 Belgian and French characters while struggling with the American and Eastern
                 European characters. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Don Quixote</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Miguel Cervantes</d:member>
@@ -2935,7 +2935,7 @@
                 valued the ideals of chivalry even as society had long moved past the Medieval
                 Period. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Edison</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Edmund Morris</d:member>
@@ -2962,7 +2962,7 @@
                 side, his style is engaging and his approach is balanced when evaluating issues
                 relating to competing claims on patents.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Last Green Valley</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Mark Sullivan</d:member>
@@ -2982,7 +2982,7 @@
                 musings on life, faith and destiny are compelling and provide an unexpected depth to
                 an otherwise simplistic novel.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Robert E. Lee: A Life</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Allen Guelzo</d:member>
@@ -3028,7 +3028,7 @@
                 think that for many in the early years of the United States, the decision would not
                 be as clear.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Before the Revolution: America's Ancient
                     Pasts</d:emphasis></d:title>
             <d:simplelist>
@@ -3050,7 +3050,7 @@
                 even in the late mediaeval period changes in climate had wide ranging economic and
                 political ramifications.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Four Byzantine Novels</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Elizabeth Jeffreys,
@@ -3065,7 +3065,7 @@
                 ship to marry without parental permission, are captured and sold into slavery, and
                 miraculously are re-united with each other and with their parents. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">John Quincy Adams: A Public Life, A Private
                     Life</d:emphasis></d:title>
             <d:simplelist>
@@ -3117,8 +3117,8 @@
         </d:simplesect>
     </d:chapter>
     <d:chapter>
-        <d:title>2021</d:title>
-        <d:simplesect label="review">
+        <d:title>2022</d:title>
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Anabasis</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Xenophon</d:member>
@@ -3130,7 +3130,7 @@
                 classical history, for Christmas. Every bit as well done as their other histories;
                 plus Xenophon is an engaging writer.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Against the Tide: Rickover's Leadership Principles
                     and the Rise of the Nuclear Navy</d:emphasis></d:title>
             <d:simplelist>
@@ -3181,7 +3181,7 @@
                 highly entertaining way. Indeed, given RADM Oliver's masterful "sea stories," this
                 book is an early candidate for the most entertaining book of 2022.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Magpie Murders</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Anthony Horowitz</d:member>
@@ -3196,7 +3196,7 @@
                 in the end I can't say I loved the book. Oh, and Anna didn't hate it, but didn't
                 love it either.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Big in Heaven</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Fr. Stephen
@@ -3217,7 +3217,7 @@
                 action in a story jumps from one time period to another. In spite of these
                 difficulties, the stories are actually quite moving.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Dracula</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Bram Stoker</d:member>
@@ -3244,7 +3244,7 @@
                 syllable was enunciated and drawn out ( for instance Madam Mina became MadaaMEEEEna)
                 and probably added an extra half hour to the recording. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">An Entertaining Tale of
                 Quadrupeds</d:emphasis></d:title>
             <d:simplelist>
@@ -3266,7 +3266,7 @@
                 but it is useful to see what people in other times and places found to be
                 entertaining.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Palmer and Weaver: Together We Were Eleven Foot
                     Nine</d:emphasis></d:title>
             <d:simplelist>
@@ -3292,7 +3292,7 @@
                 wandered over to the fence separating the bullpen from the playing field and signed
                 autographs. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="ebook">
             <d:title><d:emphasis role="underline">A Journey Through Texas: Or a Saddle-trip on the
                     Southwestern Frontier</d:emphasis></d:title>
             <d:simplelist>
@@ -3309,7 +3309,7 @@
                 he offers a vivid portrait of how life was lived in the regions through which he
                 travelled.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Rival Versions of Moral
                 Enquiry</d:emphasis></d:title>
             <d:simplelist>
@@ -3354,7 +3354,7 @@
                 theological / philosophical / moral study is easy to grasp and passes the common
                 sense test of plausibility. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Kissinger: A Biography</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Walter Isaacson</d:member>
@@ -3389,7 +3389,7 @@
                 the hunt, the stand was well stocked with food, tea and vodka and the game keeper
                 had laid out a trail of grain to lead the boars within range of the stand.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Red Notice</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>William Browder</d:member>
@@ -3414,7 +3414,7 @@
                 drawback. But that is a minor complaint and does not prevent me from heartily
                 recommending this book.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">On China</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Henry Kissinger</d:member>
@@ -3443,7 +3443,7 @@
                 insight into Chinese leadership that I had never heard from the mainstream
                 media.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">The Fellowship of the Ring</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>J. R. R. Tolkien</d:member>
@@ -3457,7 +3457,7 @@
                 characters and places. And this time I was struck by how much effort he put into
                 songs, poems and "languages" for humans, elves and dwarves.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">The Great Divorce / The Abolition of
                     Man</d:emphasis></d:title>
             <d:simplelist>
@@ -3476,7 +3476,7 @@
                 Lewis' argument is that his heavenly select seek to convert those at risk of
                 damnation largely through rational argument. I wonder if, at the</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Soul's Upward Yearning</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Fr. Robert
@@ -3502,7 +3502,7 @@
                 difficult style necessary in order to convince a skeptical scientific audience as
                 opposed to shoring up the conviction of the already converted. </para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">First Principles</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Thomas E. Ricks</d:member>
@@ -3527,7 +3527,7 @@
                 military developments. It is telling that his diversions are generally more
                 instructive that his main thesis.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">God in the Dock</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Lewis</d:member>
@@ -3543,7 +3543,7 @@
                 serve as a model for anyone who seeks to persuade rather than to simply score
                 debating points.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">To Kill a Mockingbird</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Harper Lee</d:member>
@@ -3555,7 +3555,7 @@
                 that the depiction of life in Macomb reminded him of St. Mary's county in his
                 youth.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Go Set a Watchman</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Harper Lee</d:member>
@@ -3590,7 +3590,7 @@
                 superficial, social-media culture trying to wrap their heads around Ms. Lee's
                 nuanced ruminations. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">And Then There Were None</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Agatha Christie</d:member>
@@ -3609,7 +3609,7 @@
                 complicated plot. In the end, although this was intellectually stimulating, it was
                 emotionally unsatisfying.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Maryland Folk Legends and Folk
                 Songs</d:emphasis></d:title>
             <d:simplelist>
@@ -3623,7 +3623,7 @@
                 expense of style and readability. There is a heavy emphasis on stories of the
                 supernatural and horror stories.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">The Quiet American</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Graham Greene</d:member>
@@ -3639,7 +3639,7 @@
                 book was perfect for Fowler, but entirely unable to produce a convincing American
                 accent.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Daniel Boone: The Life and Legend of an American
                     Pioneer</d:emphasis></d:title>
             <d:simplelist>
@@ -3653,7 +3653,7 @@
                 visit to the Cumberland Gap national park. A solid work of scholarship and a model
                 of balanced evaluation of available evidence.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Streams of Gold, Rivers of
                 Blood</d:emphasis></d:title>
             <d:simplelist>
@@ -3674,7 +3674,7 @@
                 Augustus, Trajan, Constantine and Justinian. Finally, his final chapter on the First
                 Crusade and the role of the Byzantines is simply outstanding.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Dead Wake: The Last Crossing of the
                     Lusitania</d:emphasis></d:title>
             <d:simplelist>
@@ -3688,7 +3688,7 @@
                 weaving a large amount of primary material into a fast paced narrative. I found the
                 author reading the book to be a bit "swarmy" in his diction.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Brisbane</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Eugene
@@ -3697,10 +3697,16 @@
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
-            <d:para>Somebody, SOMEBODY has to you see. Then she picked out two somebodies. Sally and
-                me.</d:para>
+            <d:para>Not my favorite book by Vodlazkin, but it was still quite interesting. It's
+                exploration of the complex relationship between the Russians and Ukrainians is
+                particularly relevant given the recent invasion by Russia and Putin's insistence
+                that there is no such thing as a Ukrainian nation. Mr. Vodolazkin was born, raised
+                and educated in Kiev under Soviet rule, but now resides in St. Petersburg. I suspect
+                this novel may be a way for him to try to work out his own feelings on the two
+                cultures. His lead character seems intellectually to value more the Russian language
+                / culture, but remains bound by memory and family ties to the Ukraine.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Catcher Was a Spy: The Mysterious Life of Moe
                     Berg</d:emphasis></d:title>
             <d:simplelist>
@@ -3719,7 +3725,7 @@
                 case file. No definitive diagnosis is offered, which is intellectually
                 honest.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Pudd'nhead Wilson</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Mark Twain</d:member>
@@ -3736,7 +3742,7 @@
                 have seemed groundbreaking at the time this was written, it is now too commonplace
                 to hold the reader's interest.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">To Rescue The Republic</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Brett Baier with Catherine
@@ -3762,7 +3768,7 @@
                 'Well, how did you find things down there?' 'Oh, much the same as in Galena,' Grant
                 deadpanned. 'Lawyers nearest the fire.' "</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">On The Confederate Border: Charles County
                     Maryland</d:emphasis></d:title>
             <d:simplelist>
@@ -3777,7 +3783,7 @@
                 anecdotes and profiles of locations prominent in Charles County during the Civil
                 War. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="ebook">
             <d:title><d:emphasis role="underline">Brother Wolf</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Eleanor Bourg
@@ -3800,7 +3806,7 @@
                 be aiming towards a series of books which inevitably detracts from the "literary"
                 qualities of the story.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Catherine the Great: Portrait of a
                     Woman</d:emphasis></d:title>
             <d:simplelist>
@@ -3831,7 +3837,7 @@
                 as Catherine traveled through he recently acquired territory along the Dnieper
                 River, is most likely false. Indeed, Massie holds Potemkin in high esteem.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">At the Back of the North
                 Wind</d:emphasis></d:title>
             <d:simplelist>
@@ -3854,7 +3860,7 @@
                 Biblical name. Diamond's mother (if I remember correctly) points out - chapter and
                 verse - exactly where in the Old Testament the word diamond can be found.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Tribe: On Homecoming and
                 Belonging</d:emphasis></d:title>
             <d:simplelist>
@@ -3879,7 +3885,7 @@
                 questions about why, in the richest society in history, there is so much spiritual
                 malaise (my term, not his.)</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Lieutenant Hornblower</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Forester</d:member>
@@ -3891,7 +3897,7 @@
                 improbable plot and one-dimensional characters combined with realistic attention to
                 details of the craft (aviation or nautical).</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Grand Strategy of the Byzantine
                     Empire</d:emphasis></d:title>
             <d:simplelist>
@@ -3933,7 +3939,7 @@
                 hatred, the powerful and the ignorant may simply lack the elemental curiosity to
                 study the enemy."pg. 287-288</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">An Irish Country Doctor</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Patrick Taylor</d:member>
@@ -3948,7 +3954,7 @@
                 as portrayed by the actor was entertaining. Mr. Taylor should forgo novels and write
                 screenplays for television or movie comedies.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The American Civil War</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>John Keegan</d:member>
@@ -3980,7 +3986,7 @@
                 how the two sides were able to organize their armies from scratch and he explores
                 what motivate the soldiers to fight under such appalling conditions.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Hadji Murat</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Leo Tolstoy</d:member>
@@ -3993,7 +3999,7 @@
                 interesting examination of live in the Caucus mountain region as the Russian empire
                 expanded into the region.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Light in August</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>William Faulkner</d:member>
@@ -4025,7 +4031,7 @@
                 believable depictions of actual people. So I will set Faulkner aside yet again,
                 perhaps never again to return.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">From Warsaw With Love</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>John Pomfret</d:member>
@@ -4039,7 +4045,7 @@
                 editorialized, with the depth and subtlety of a freshman international relations
                 student. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Treasure Island</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert Louis
@@ -4051,7 +4057,7 @@
             <d:para>Entertaining; would have likely enjoyed this more if I had read it as a
                 boy.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="ebook">
             <d:title><d:emphasis role="underline">The Wordhord: Daily Life in Old
                     English</d:emphasis></d:title>
             <d:simplelist>
@@ -4065,7 +4071,7 @@
                 Anglo-Saxon life and culture. Ms. Videen's enthusiasm provides some levity and
                 interest in what wold otherwise be an exercise in reading a dictionary. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Build</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Tony Fadell</d:member>
@@ -4083,7 +4089,7 @@
                 corporate vice-president this book will probably be of use. For a software engineer,
                 there is some useful information but not much.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Freedom</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Sebastian Junger</d:member>
@@ -4097,7 +4103,7 @@
                 supporting an individual to an exploration of what the idea of freedom really means
                 in the modern world.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Riding With Rilke</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ted Bishop</d:member>
@@ -4118,7 +4124,7 @@
                 history, so to each his own. But I can see why Uncle Steve enjoyed the book,
                 combining as it does a love of reading and a love of motorcycles.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Tender is the Night</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>F. Scott
@@ -4151,7 +4157,7 @@
                 my opinion, is that Tolstoy's characters seem more real, more believable, less
                 contrived.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">On The Philosophy of
                 History</d:emphasis></d:title>
             <d:simplelist>
@@ -4171,7 +4177,7 @@
                 to historical knowledge without setting aside their belief in God and the future end
                 of history in the coming of the Kingdom of God.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">The Road Not Taken</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Max Boot</d:member>
@@ -4204,7 +4210,7 @@
                 his subject to counter-act some of the wilder conspiracy theorists who use
                 Lansdale's name in vain (looking at you, Oliver Stone.)</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">The Murder of Roger Ackroyd</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Agatha Christie</d:member>
@@ -4217,7 +4223,7 @@
                 and entertaining mystery. I'm not sure how much I would have liked it if I simply
                 read it, but the actor reading the story was really good.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">The Pioneers</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>David McCollough</d:member>
@@ -4234,7 +4240,7 @@
                 town of Marietta. A wealth of detail focused upon a small place - not badly written,
                 but not particularly interesting.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Sea Runners</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ivan Doig</d:member>
@@ -4247,7 +4253,7 @@
                 really well done, and his focus on the characters over the plot makes this a deeply
                 interesting story. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Millard Fillmore: Biography of a
                     President</d:emphasis></d:title>
             <d:simplelist>
@@ -4280,7 +4286,7 @@
                 movements as the Anti-Masonic party and the anti-immigrant "Know Nothing" party do
                 not reflect highly on his judgement.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Hillbilly Elegy</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>J.D. Vance</d:member>
@@ -4290,13 +4296,13 @@
             </d:simplelist>
             <d:para>An audiobook from the library. A memoir that is - at different times -
                 entertaining, moving, disturbing and educational. Mr. Vance's parents were born in
-                Appalachia and moved to Ohio, along with many others seeking a better life. But many
-                of the non-economic problems they experienced in the hills of Kentucky were carried
-                with the migrants to their new homes. Mr. Vance was lucky, he had just enough
+                Appalachia and moved to Ohio, along with many others seeking a better life. But
+                these migrants brough most of the non-economic problems that they experienced in the
+                hills of Kentucky to their new homes. Mr. Vance was lucky, he had just enough
                 ability and just enough family support to escape a life of poverty and substance
-                abuse. This </d:para>
+                abuse.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Everyday Saints</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Metropolitan Tikhon (
@@ -4313,7 +4319,7 @@
                 one, Metropolitan Tikhon shows us that it was also a history of patient, courageous
                 resistance that was not without its humorous moments.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Killers of the Flower Moon</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>David Grann</d:member>
@@ -4346,7 +4352,7 @@
                 he read as if he were playing the part of grizzled detective in a 1940's film noire
                 movie. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Bomber Mafia</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Malcolm Gladwell</d:member>
@@ -4361,32 +4367,32 @@
                 people involved. An Mr. Gladwell does a good job with his storytelling. Anyway, this
                 is a well-balanced and thought provoking account of the proponents of "high
                 altitude" precision bombing during WWII. These proponents are the "mafia" of the
-                title. Unfortunately, with WWII technology, high altitude precision bombing was an
-                oxymoron. As Mr. Gladwell notes, it wasn't until the 1990's that technology caught
-                up with the vision. The most interesting discussion is on the morality of how a
-                bombing campaign should be conducted. The bomber mafia were motivate by both the
-                practical application and a moral imperative of selectively hitting high value
-                targets with a minimum of casualties. The British, on the other hand, were
-                proponents of night time area bombing (what we would call today "carpet bombing")
-                aimed more at breaking the morale of their opponents than in degrading their war
-                time economy. Gen Curtis LeMay, who took over the conduct of the strategic bombing
-                of Japan took the middle road. When it was apparent that high level bombing simply
-                wasn't effective, he adjusted to very low level bombing runs at night using
-                incendiary bombs (napalm). His moral calculation was that the greater brutality of
-                effect was more than offset by ending the war more quickly and thus preventing an
-                even greater amount of future suffering. Mr. Gladwell is clear whose vision he
-                prefers, but he is honest enough to present both sides of the argument. One final
-                note, this is not the first book I've read by Mr. Gladwell - his strength is in
-                asking a lot of questions, trying to evaluate complex issues in a new light and
-                presenting his views in a compelling narrative. His biggest weakness, in my opinion,
-                is that he gets too wrapped up in his own story and is prone to hyperbole and
-                exaggeration. So, I had a quick laugh at his expense. At one point in this book, he
-                wanted to really emphasize the importance of an observation and said something along
-                the lines of "... given the risk of understatement ...". Based on my experience with
-                Mr. Gladwell's writing, he positively has a phobia of understatement! None the less,
-                this is a fine work.</d:para>
+                title. Unfortunately, with WWII era technology, "precision" high altitude bombing
+                was an oxymoron. As Mr. Gladwell notes, it wasn't until the 1990's that technology
+                caught up with the bomber mafia's vision. The most interesting discussion is on the
+                morality of how a bombing campaign should be conducted. The bomber mafia were
+                motivated by both the practical application and a moral imperative of selectively
+                hitting high value targets with a minimum of casualties. The British, on the other
+                hand, were proponents of night time area bombing (what we would call today "carpet
+                bombing") aimed more at breaking the morale of their opponents rather than in
+                degrading the German war time economy. Gen. Curtis LeMay, who took over the conduct
+                of the strategic bombing of Japan took the middle road approach. When it was
+                apparent that high level bombing simply wasn't effective, he adjusted to very low
+                level bombing runs at night using incendiary bombs (napalm). His moral calculation
+                was that the greater brutality of effect would be offset by ending the war more
+                quickly and thus preventing an even greater amount of future suffering. Mr. Gladwell
+                is clear whose vision he prefers, but he is honest enough to present both sides of
+                the argument. One final note, this is not the first book I've read by Mr. Gladwell -
+                his strength is in asking a lot of questions, trying to evaluate complex issues in a
+                new light and presenting his views in a compelling narrative. His biggest weakness,
+                in my opinion, is that he gets too wrapped up in his own story and is prone to
+                hyperbole and exaggeration. So, I had a quick laugh at his expense. At one point in
+                this book, he wanted to really emphasize the importance of an observation and said
+                something along the lines of "... given the risk of understatement ...". Based on my
+                experience with Mr. Gladwell's writing, he positively has a phobia of
+                understatement! None the less, this is a fine work.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Making of Europe: An Introduction to the
                     History of European Unity</d:emphasis></d:title>
             <d:simplelist>
@@ -4404,7 +4410,7 @@
                 emperor between 1000 and 1100 AD led to what we now know as a European identity.
             </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Men at Arms</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Evelyn Waugh</d:member>
@@ -4417,10 +4423,11 @@
                 the first volume of a trilogy, the abrupt ending would have been quite
                 jarring.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Who Can Hold the Sea</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>James D. Hornfischer</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>James D.
+                    Hornfischer</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>10/24/22</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
@@ -4428,12 +4435,12 @@
             <d:para>An audiobook from the library. Mr. Hornfischer's final work. In fact, he died of
                 a brain tumor shortly before completing the book and his wife wrapped up the lose
                 threads. This covers the history of the US Navy in the early years of the Cold War,
-                ending with the election of Kennedy in 1960.  This is not as riveting as his books
+                ending with the election of Kennedy in 1960. This is not as riveting as his books
                 about the US Navy in WWII, but is still well worth the time. The actor reading the
                 book was quite slow in his diction; setting the playback speed to 125% got him to
                 what I would consider a normal pace.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Fathers and Sons</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Ivan Turgenev</d:member>
@@ -4452,7 +4459,7 @@
                 depth of Dostoevsky or the moral vision of Solzhenitsyn. Frankly, this book was
                 boring.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">We Don't Know Ourselves</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Fintan O'Toole</d:member>
@@ -4507,13 +4514,13 @@
                 which he seems blind - globalism, liberalism, sexual freedom, etc. And the
                 authorities that he accepts without question have their own orthodoxies which he
                 espouses with the fervor equal to that of the Christian Brothers who provided his
-                education. Stylistically, aside from his acerbic tone, he is too wordy.  He seems to
+                education. Stylistically, aside from his acerbic tone, he is too wordy. He seems to
                 think that if one metaphore or simile will shed light on a topic, then a string of
                 three or four in sucession will be even better. In summary, while he is something of
                 a crank, he possesses the ability to make a somewhat dull topic interesting while
                 stimulating thought about Ireland's place in the world.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="audiobook">
             <d:title><d:emphasis role="underline">Index, A History of the</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Dennis Duncan</d:member>
@@ -4533,8 +4540,9 @@
                 eye could quickly take in the same information that requires a minute or two of
                 listening. </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
-            <d:title><d:emphasis role="underline">Where the Deer and the Antelope Play</d:emphasis></d:title>
+        <d:simplesect label="review" role="audiobook">
+            <d:title><d:emphasis role="underline">Where the Deer and the Antelope
+                Play</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Nick Offerman</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>11/13/22</d:member>
@@ -4550,7 +4558,7 @@
                 incidentally) Mr. Offerman gets my first ever Gong. Although I have only seen him in
                 passing, Mr. Offerman is an actor and comedian; in addition I have read at least one
                 interview with Mr. Offerman as an advocate for enjoying the outdoors. So when I read
-                the description of this book and saw that it was inspired,  by the writings of
+                the description of this book and saw that it was inspired, by the writings of
                 Wendell Berry, I thought it might be interesting. But in four chapters (and an
                 introduction) all that I have really come to learn is that Mr. Offerman really has
                 nothing original or interesting to say. Sure, he has an ironic sense of humor, and
@@ -4565,16 +4573,17 @@
                 Observations of One Ignorant American Who Loves to Walk Outside." While Mr. Offerman
                 is fond of acknowledging his own ignorance, what he is even more fond of explaining
                 how most other Americans are the true ignoramuses. In four short chapters, he
-                demonstrates a repeated propensity for listening to  one expert  and then reading a
+                demonstrates a repeated propensity for listening to one expert and then reading a
                 book or two and seeking validation from his circle of friends. Thus armed and
-                deploying a knowing, sarcastic tone, he is  eager to instruct one and all on how
-                things really work.  So instead of wasting any more time, I have banged the gong and
+                deploying a knowing, sarcastic tone, he is eager to instruct one and all on how
+                things really work. So instead of wasting any more time, I have banged the gong and
                 Mr. Offerman's work disappears from the stage (in this case, my phone.) </d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Dialogue</d:emphasis></d:title>
             <d:simplelist>
-                <d:member><d:emphasis role="italic">Author: </d:emphasis>Catherine of Sienna</d:member>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Catherine of
+                    Sienna</d:member>
                 <d:member><d:emphasis role="italic">Date: </d:emphasis>11/18/22</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
@@ -4590,7 +4599,7 @@
                 in her own day who struggle to follow the right path, people today are not much
                 different.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">Memoirs of Service Afloat</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Raphael Semmes</d:member>
@@ -4598,7 +4607,7 @@
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
-            <d:para>When I was a midshipman at the Naval Academy, the Division of English and
+            <d:para>When I was a Midshipman at the Naval Academy, the Division of English and
                 History gave us a pamphlet of book recommendations that were felt to be beneficial
                 for the professional development of Naval officers. I return to this from
                 time-to-time to see if I have knocked any of the books off the list and to get ideas
@@ -4654,7 +4663,7 @@
                     Anecdotes</emphasis> of the Civil War by David Dixon Porter or to Mahan's
                 biography of Admiral Farragut.</d:para>
         </d:simplesect>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">Understanding Human Nature</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Alfred Adler</d:member>
@@ -4667,7 +4676,7 @@
                 theories – inferiority complex and masculine protest, for instance – into a short
                 volume for the general reader. According to the forward, this book was actually a
                 based upon a series of lectures give by Adler to a non-academic audience. Adler is
-                advocate of the science of psycology and this has is pros and cons. On the postive
+                advocate of the science of psychology and this has is pros and cons. On the positive
                 side is an empathy for those suffer from mental and emotional distress. He
                 recognizes the connection between an individual and society and how society
                 influences behavior. On the negative side, he is too sanguine about psychology's
@@ -4677,20 +4686,1076 @@
                 use to an officer in today's Navy. The cover of this book contains an work of modern
                 art, which struck me as familiar - perhaps Nanny had this book in her collection?
                 Given the age of the book, it certainly seems probable that my grandfather (a
-                psychiatrist educated in the early 1940's) would have at least benn familiar with
+                psychiatrist educated in the early 1940's) would have at least been familiar with
                 this work if he didn't actually own it. Also, in some of his descriptions of
                 behavioral issues, I wonder if F. Scott Fitzgerald didn't draw upon this work in his
-                depictions of  Dick and (especially) Nicole Diver.</d:para>
+                depictions of Dick and (especially) Nicole Diver.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Master of Spies: The Memoirs of General
+                    Moravec</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Frantisek
+                    Moravec</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>11/26/22</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>This book came from the collection of Stacy's father. A fascinating look at the
+                role of Czech military intelligence before and during World War II.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="audiobook">
+            <d:title><d:emphasis role="underline">A World Undone</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>G.J. Meyer</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>12/6/22</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Subtitled "The Story of the Great War 1914-1918. An audio book from the library.
+                Well written, and if it offers little in the way of new details on the war, it is
+                the best popular history of WWI that I have read. Most noteworthy is Mr. Meyer's
+                balanced assessment of each of the European nations involved and his ability to link
+                political and military events as the war unfolded. The generals on both sides have
+                long been held in low esteem for their inabilitiy to respond to the realities of
+                trench warefare, Mr. Meyer's illustrates that this was really a political problem.
+                For various reasons, the governments involved were not able to articulate clear
+                aims, nor to set or enforce limits on their military leadership. The greatest
+                weakness is his almost total disregard of the American role. While Americans may
+                naively hold that the war was a long stalement between decadent and incompetant
+                Europeans until America arrived to save the day, it is fair to say the impact of
+                America's entry into the war is greater than portayed by Mr. Meyer. For an
+                understanding of the military aspects of the war, I still prefer Mosiers "The Myth
+                of the Great War," but I would still recommend this to anyone who is looking for a
+                one volume primer on the war. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Notes from a Dead House</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Fyodor
+                    Dostoevsky</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>12/11/22</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>This was a birthday present from Stacy and Thomas. A fictional account of life
+                in a Tsarist prision in Siberia, based upon Dostoevsky's own imprisonment. He shows
+                himself to be a keen student of human nature and it is easy to see ideas that would
+                later be developed in Crime and Punishment and The Brothers Karamazov. It is also
+                easy to see his influence in Solzhenitsyn's One Day in the Life of Ivan Denisovich
+                and The Gulag Archipeligo. What make this work so compelling is that he does not
+                seek to fit his fellow prioners into an idealogical framework. He even recognizes
+                that his own efforts to categorize types of behavior are inadequate to account for
+                the variety of indidual responses to the same circumstances.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Officers and Gentlemen</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Evelyn Waugh</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>12/27/22</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>The second volume in his <emphasis xmlns="http://docbook.org/ns/docbook">Sword
+                    of Honour </emphasis>trilogy. I found this even more humorous than the first
+                volume.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Cunning of Freedom</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Ryszard Leguto</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>12/31/22</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A birthday gift from Stacy and Thomas. If ever there was a concise summary of
+                Anna's freshman humanities seminar with Prof. Gregory, or of the thought of Alasdair
+                MacIntyre, this book is it. Prof. Legutko examines the various conceptions of the
+                word "freedom" in light of the contradiction that the "western" world lives in the
+                "most free" society in history yet many people feel that there is something wrong
+                with society. Leguto emphasizes that the modern definition of freedom is largely
+                that of "negative freedom" - meaning liberty from outside constraint (e.g. laws,
+                rules, tradions, social conventions, etc.) But he returns to the idea of freedom as
+                advocated by Aristotle and Plato, who noted that true freedom involved the
+                improvement of the individual to reach his / her fullest potential. So in a society
+                that views its role as enuring individual rights and equality, there is a constant
+                tension because rights can be granted, but abilities cannot. A society can grant the
+                artist the "right" to depict whatever their imagination can concieve, but it cannot
+                give that artist the skill to actually depict that vision. He also notes that,
+                despite the modern tendency to reject all tradition and "orthodox" belief, the
+                political implementation of "liberalism" is as strident and uncompromising as any
+                tradition. </d:para>
+        </d:simplesect>
+        <d:simplesect label="bookOfTheYear">
+            <d:title>Book of the Year</d:title>
+            <d:para>My favorite non-fiction was The Grand Stategy of the Byzantine Empire . Best
+                fiction was To Kill a Mockingbird, although the Fellowship of the Ring would have
+                taken top honors if it weren't the second or third time that I have read it.
+                Honorable mention to The Soul's Upward Yearning, and Hillbillie Elegy.</d:para>
+        </d:simplesect>
+    </d:chapter>
+    <d:chapter>
+        <d:title>2023</d:title>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Age of Acrimony: How Americans Fought to Fix
+                    Their Democracy, 1865-1915</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Jon Grinspan</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/3/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A birthday gift from Stacy and Thomas. An interesting and thought provoking
+                examination of the evolution of the American political process between the Civil War
+                and World War I. Americans today tend to think of the political vitriol present on
+                TV and on social media to be an aberration but this book shows that the relatively
+                sedate political environment between the end of WWI and the end of the Cold War was
+                more the outlier. If anyone today remembers that era of politics at all, it is to
+                remember the corruption of such political "machines" such as Tammany Hall. Yet voter
+                participation in the elections following the Civil War were much higher than voter
+                turnout today. Mr. Grinspan's contention is that the Progressive era of the early
+                1900's (encompassing both parties) gave verbal homage to good governance while
+                seeking (with less outright acknowledgement) to minimize the participation of
+                "undesirable" elements of the electorate. An interesting idea, but perhaps over
+                simplified? Which brings us to the great weakness of the book. It makes some very
+                interesting observations while providing very limited evidence to support his
+                claims. Not that he doesn't have evidence, but rather his focus tends to wander. He
+                chose to intertwine the biographies of Will Kelly and his daughter, Florence Kelly
+                Wischnewetzky to serve as "exemplars" of the evolution of politics. This may make
+                the book more accessible to the general reader, but I personally found that they
+                were both too much the outsider to prove his points. One other note, in terms of
+                "Aristotelian" wisdom, this falls in the realm of practical wisdom rather than
+                contemplative wisdom. He notes the debates on the exercise of democracy, but never
+                seeks to define the term. Like most Americans, he accepts that we live in a
+                democracy when our constitution actually provides for a "representative" democracy.
+                But he does a good job of noting the conflicting views of whether the rule of the
+                majority is a good thing or a bad thing and what the implications are for the actual
+                "machinery" of practical politics.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The True Believer: Thoughts on the Nature of Mass
+                    Movements</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Eric Hoffer</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/8/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Thomas read this book in his Western Political Thought. Mr. Hoffer was a
+                longshoreman, but one who was widely read and a keen observer of human nature. I
+                will start with the negatives. Mr. Hoffer does not define what he means by "mass
+                movement." Certainly it encompasses the great totalitarian regimes of the Nazis and
+                the Communists, but he in addition to political revolutions he also lumps in
+                religious movements such as the rise of Christianity and the creation of Islam. He
+                betrays the modern prejudices against the middle ages and regard for religion as
+                just another social and political activity. The biggest shortcoming is that he
+                reaches conclusions that are too broad and general. But this is still a fascinating
+                book. If his conclusions are too broad, his insights into human nature are quite
+                compelling. He does a good job portraying modern humanities difficulty in adapting
+                to rapid changes in technology, economic systems, learning and social structures.
+                Rather than considering this book as a finished product such as Aristotle's
+                Politics, it is more akin to Pascal's Pensees, a collection of insightful
+                observations rather than a unified system of thought. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="eBook">
+            <d:title><d:emphasis role="underline">How to Live Like a Monk: Medieval Wisdom for
+                    Modern Life</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Daniele
+                    Cybulskie</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/8/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Ms. Cybulskie attempts two things: first, to dispel modern myths about the lives
+                of the religious orders of the middle ages; second, to try to derive lessons from
+                the lives of the religious to modern readers with no interest in a religious life
+                themselves. The result is rather mediocre, too little detail about too large a
+                subject to meet her first objective and too much of an attempt at a self-help manual
+                to achieve the second.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="audioBook">
+            <d:title><d:emphasis role="underline">Death on the Nile</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Agatha Christie</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/10/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Full of unexpected twists and turns; Ms. Christie has a knack for keeping the
+                solution to the mystery obscure until the very end. This is not my favorite of hers,
+                however. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">A Day in the Life of Ivan
+                Denisovich</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Aleksandr
+                    Solzhenitsyn</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/13/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A Christmas gift from Stacy. I had listened to this as an audio book in 1995, it
+                was even better the second time around. Probably, for most Americans, the most
+                accessible of Solzhenitsyn's works. It presents probably Ivan Denisovich's best day
+                in his time in the camps, yet this only drives home the desperate plight of
+                political prisoners in the Soviet gulags. The book is short and fast paced, without
+                melodrama or overwrought emotion yet compelling all the same. Obvious parallels to
+                Dostoevsky's <emphasis xmlns="http://docbook.org/ns/docbook">Notes from a Dead
+                    House</emphasis>; it takes nothing away from Dostoevsky to recognize that this
+                is a superior work.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Digenis Akritas: The Two-Blood Border
+                    Lord</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Unknown</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/13/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>One of Thomas' books from his course on Byzantine literature. A pale imitation,
+                perhaps, of Homer. The "Two-Blood" refers to the mixed heritage of the hero; a
+                Syrian father and a Greek (Byzantine) mother who established himself along the upper
+                reaches of the Euphrates River.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="audioBook">
+            <d:title><d:emphasis role="underline">The Satanic Verses</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Salman Rushdie</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/21/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>An audiobook from the library. I was in college when this book was published and
+                the Iranian government issued its call for the death of the author. Given the book's
+                notoriety, I purchased a copy, but I don't think I got more than two pages into it.
+                At that age, I was not a big reader of fiction and I was instantly turned off by the
+                "magical realism" style of this novel. (I had slogged through 100 Years of Solitude
+                as a Plebe - and I do mean slogged!) And this time around, I listened to about 2/3
+                of the novel before we left for our trip to Ireland, and I wasn't sure that I would
+                finish it. Here are my problems with the work. There are plot threads that do not
+                seem to get resolved - namely Gibreel's visions of the life of Mohammed (I presume
+                this is what upset the Iranians.) The use of "magical realism" is inconsistent and
+                it is not clear if we are to take them seriously. The book is from the point of view
+                of a "third-person omniscient" narrator, but one who gives us cause to question his
+                intentions. This is part of the reason why the use of the supernatural doesn't
+                really work. Also, in a work that seems to wrestle comparisons between "modern" and
+                tradition viewpoints, we don't learn where the narrator (and the author) stand. This
+                leaves me with the impression that nothing is resolved. Perhaps this is the author's
+                intention, after all, nothing is more "modern" than to refuse to take a stand on
+                issues of importance. But, if this is so, I think it is a literary failure. People
+                have a need for resolution, after all our everyday lives are full of unresolved
+                ambiguities. It is bad music if a theme is not concluded on a "closed" cadence. On
+                the plus side, Mr Rushdie is a keen critic of both modernity and those who long for
+                "the good old days." He has a wry sense of humor and an often times beautiful style.
+                This was enhanced by the actor reading the novel. But his fine writing style cannot
+                overcome the other defects. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="audioBook">
+            <d:title><d:emphasis role="underline">Shadowplay</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Joseph O'Connor</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/3/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A work of historical fiction depicting the life of Bram Stoker. It certainly was
+                helpful to have read (or listened, in my case) to Dracula before listening to this
+                book. It was also helpful to have recently visited Dublin - Stoker's home town. In a
+                further coincidence, I first learned of Mr. O'Connor in a recent review in the Wall
+                Street Journal covering his latest novel - a historical novel about the "Pimpernel
+                of the Vatican - an Irish priest at the Vatican who helped Jews evade the Germans in
+                WWII. Our guide during our tour of the Ring of Kerry in December discussed this
+                priest at some length as we had never heard about him. Based on this review and our
+                recent trip, I looked for Mr. O'Connor's work at the library and found this. In some
+                ways, Mr. O'Connor imitates Dracula by presenting the novel as a collection of diary
+                entries, letters, interviews, etc. One disadvantage to listening vs. reading is that
+                he seems to abandon this structure at times, but it is not possible to go back and
+                check. He also shows how numerous life experiences (people's names, visits to
+                certain locations, etc.) were later reflected in Dracula. I'm curious if this novel
+                is an accurate portrayal of Stoker's life or just a clever interpretation. Mr.
+                O'Connor style is often beautiful and generally engaging. Certainly I would say I
+                prefer his style to Stoker's; but Stoker created a character of lasting influence on
+                popular (if not literary) culture whereas I doubt this novel will be widely read or
+                long remembered. All in all, a fine work. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="eBook">
+            <d:title><d:emphasis role="underline">The Shame of the Cities</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Lincoln Steffens</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/4/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Learned about Lincoln Steffens in The Age of Acrimony and decided to read some
+                of his work first hand. And I'm glad I did because in some ways this book is far
+                superior to Mr. Grinspan's. This book is a collection of new articles that he
+                published that were gathered into a publication. His articles examine political
+                corruption in the city governments of St. Louis, Minneapolis, Chicago, Pittsburgh,
+                Philadelphia and New York. The first thing that strikes a contemporary peruser of
+                political journalism is Mr. Steffens' freedom from the need to adhere to a party (or
+                idealogical) line. His interest is in how government really works (for good and for
+                bad) and how it can be improved. He casts blame and praise where he sees fit,
+                regardless of party and he is quite dismissive of those who simply vote the party
+                line. One other amusing observation from the perceptive of 2023 versus 1902 - he
+                holds Chicago, the contemporary by-word for political corruption and inefficiency,
+                in high regard for their attempts to reform the city government. (In fact, I would
+                like to learn more about the Chicago Municipal Voters' League and how it acted as a
+                check on the Republican and Democratic political machines .) As I read this, I
+                remembered John Stuart Mills' criticism of American democracy for the potential for
+                the tyranny of a majority. Mr. Stephens recognizes this (his critique of the
+                Republican party's control of Philadelphia, Pittsburgh and Pennsylvania in general
+                is a good supporting example.) But he also highlights two other ways popular will
+                can be suppressed. A minority in state population holding a majority in a major
+                population center (New York and at times St. Louis) and an independent clique that
+                manages to impose its will on the machines of both parties (St. Louis and
+                Minneapolis). And a final difference in views from Mr. Steffens and the general
+                contemporary discourse: today most hold the view that individuals are the victims of
+                weak politicians and corrupt parties whereas Mr. Steffens takes the view that the
+                people are really to blame for allowing the political class to get away with bad
+                behaviour and shameless self-interest. My only complaint with his work is that I
+                would have liked more detail. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Between Two Millstones, Book
+                1</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Aleksandr
+                    Solzhenitsyn</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/6/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Subtitled "Sketches of Exile, 1974-1978." A history of Solzhenitsyn's arrival in
+                the West and his struggle to adapt to life in exile. For an American, whose entire
+                family at one point made a decision (either willingly or motivated by political or
+                economic motives) to leave the home country and start life anew, Solzhenitsyn was
+                involuntarily exiled from Russia by the Soviets. In Solzhenitsyn's view, he remained
+                a patriotic Russian who was engaged in a death struggle with the Soviet Union. So he
+                was a reluctant resident in the West, even more so once he realized how many were
+                either actively supportive of or willing to live with the Soviet regime. It is
+                Solzhenitsyn's great gift to the West that he was able to show just how depraved the
+                Soviets were in reality. So many of his first impressions of life in exile were a
+                barrage of criticism from those on the left who still harbored warm feelings for
+                Marxism, from fellow Russian dissidents who often had personal agendas, from a press
+                that hounded him yet seemed interested solely in his fame and not his idea, and from
+                a flood of requests for his time, energy and attention that distracted him from his
+                desire to write. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Black Ops</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Enrique "Ric"
+                    Prado</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/20/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Subtitled "The Life of a CIA Shadow Warrior." Mr. Prado was born in Cuba and his
+                family were refugees who fled Castro's communist regime. Mr. Prado's stated goal
+                with his memoir of his time in the CIA is to try to correct popular misconceptions
+                of the CIA based upon Hollywood dramatizations and to recruit a new generation
+                willing to serve their country in the clandestine services. Mr. Prado's got his
+                start in paramilitary operations in support of the Contras in Nicaragua and became a
+                case officer with service in South America, the Philippines and the Middle East. His
+                is not a nuanced view of an intelligence analyst but of one who has seen America's
+                opponents up close - in their native habitat, so to speak. There is plenty of good
+                old-fashioned anti-communist preaching with a Cuban-American flavor. I particularly
+                enjoyed his treatment of the Contra operations against the Sandinistas. I also liked
+                how he used the CIA's publication review process to build his own credibility by
+                leaving the "redacted" annotations in the book - even if this results in a sentence
+                being chopped in mid-stream. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="audioBook">
+            <d:title><d:emphasis role="underline">Recessional</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>David Mamet</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/21/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>0</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Subtitled: "The Death of American Free Speech and the Cost of a Free Lunch."
+                Seems to be a collection of essays, or perhaps just short chapters riffing on the
+                looniness of left wing politics. I would describe his views as libertarian. As a
+                famous playwright / screenwriter, he certainly writes with a nonchalant and self
+                confident style, but without the humor of P.J. O'Rourke. Gave this up after only one
+                day as tomorrow is Ash Wednesday and this isn't well suited for Lenten reflection.
+                There is an off -chance that I may return to it, so it gets a 0 instead of a 1.
+            </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Halifax Explosion</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Ken Cuthbertson</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/21/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Uncle Steve sent this book to me; it is an account of the explosion of a ship
+                carrying ammunition in Halifax harbor during WWI. The explosion resulted in
+                thousands of casualties. The book is well written and fast paced; Mr. Cuthbertson
+                does a great job of weaving his research into a compelling narrative
+                account.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="audioBook">
+            <d:title><d:emphasis role="underline">Proof of Heaven</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Eben Alexander</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/27/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Subtitled: A Neurosurgeon's Journey Into the Afterlife. Dr. Alexander was
+                stricken with bacterial meningitis and spent seven days in a coma before making a
+                startling and unexpected recovery. Dr. Alexander recounts his near death experience
+                and attempts to provide an idea of the fullness of consciousness experience in the
+                afterlife. A quick search on the Internet produces an article published in Esquire
+                magazine claiming to debunk his account, and also a rebuttal of the debunking
+                published on the website of the International Association for Near-Death Studies.
+                These seem to revolve more around his credibility as a witness rather than a
+                scientific debate. A fascinating account, but he admits that his language is
+                insufficient to fully describe his experiences. I suspect that a committed
+                materialist will never accept his account, and it is telling that his would-be
+                debunker writes for a men's fashion magazine rather than the New England Journal of
+                Medicine. In any case, this is a fascinating account, but he admits that his
+                language is insufficient to fully describe his experiences. This leads to my biggest
+                criticism of his writing - namely that his descriptions frequently come across in
+                the language of the "New Age." I think it may have been more convincing if Mozart or
+                Bach had this experience; perhaps the beauty of music would better convey life in
+                heaven!</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="audioBook">
+            <d:title><d:emphasis role="underline">Thomas Merton: An Introduction to his Life,
+                    Teachings and Practices</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Jon Sweeney</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>3/23/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>The title effectively summarizes this book, although I think that Mr. Sweeney is
+                writing for those who share his left-leaning political views. To his credit, he is
+                transparent about his views and does not try to hide those aspects of Merton's life
+                that the contemporary elite culture would find objectionable. Merton was a gifted
+                writer and spiritual guide and by no means a role model as a Trappist monk, yet he
+                remained true to his order and his faith. While Mr. Sweeney speculates on whether
+                Merton's studies would have led him to become sort of a non-denominational spiritual
+                guru, he recognizes that this is not where Merton stood at the time of his death.
+                Stylistically, this book is too much about Mr. Sweeney, and too dismissive of those
+                who do not share his views. If you wanted to introduce Merton to someone of a
+                "progressive" liberal viewpoint (perhaps even hostile to Christianity) then this
+                book would be a good choice. But if you really want to get to know Merton, read his
+                works for yourself.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="audioBook">
+            <d:title><d:emphasis role="underline">The Magician's Nephew</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>C.S. Lewis</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>3/29/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>One of the last books written in the Chronicles of Narnia series, but the first
+                in chronological order. Not my favorite in the series but still entertaining. Its
+                biggest weakness is that the plot is too constrained in trying to set up the rest of
+                the series. On the other hand, it is interesting to note how Lewis works in
+                arguments from his adult works in such a fashion as to be comprehended by young
+                readers. This was read by Kenneth Branaugh who does a wonderful job with the
+                accents. As an aside, I was given a boxed paperback collection of the Chronicles of
+                Narnia as either a birthday or Christmas present shortly after we moved to Maryland
+                in 1973. (I seem to remember receiving the books at Nanny's house in Baltimore, so
+                it was probably my birthday in 1974 or 1975.) As I was in first or second grade at
+                the time, I didn't read them right away - I finally got to that when I was in middle
+                school.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="eBook">
+            <d:title><d:emphasis role="underline">Star of the Sea: A Novel</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Joseph O'Connor</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>4/15/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>An interesting story, mostly a work of historical fiction but part murder
+                mystery. The plot is driven by a sea voyage of a ship full of Irish immigrants bound
+                for New York. Frequent jumps back in time allow for character development and the
+                enhancement of the mystery. I was most impressed by his balanced examination of the
+                lead up to the Potato Famine, presenting the good and bad from both sides and
+                ridiculing those (on both sides) who offer easy explanations and solutions. He is
+                able to do this without diminishing in any way the horrors experience by the poor in
+                Ireland. Less effective was his development of the two main characters in the book
+                Pius Mulvaney and Lord Meredith. With Mulvaney, his actions, thoughts and demeanor
+                while in England (particularly in prison) seem totally at odds with his actions and
+                demeanor while aboard ship. And Meredith is nearly a carbon copy of Bram Stoke from
+                his novel <emphasis xmlns="http://docbook.org/ns/docbook" role="underline"
+                    >Shadowplay</emphasis>. All in all, this is a very fine story that is often
+                thought provoking, but doesn't rise to the level of greatness.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">A History of the Crusades: Vol.
+                I</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Steven Runciman</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>4/23/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Subtitled: THE FIRST CRUSADE and the Foundation of the Kingdom of Jerusalem.
+                Thomas gave me the three volume set for Christmas. A well-written history of the
+                events that precipitated the crusading spirit in western Europe and the remarkable
+                chain of events that led to the capture of Jerusalem.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Born to Fight</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>James Webb</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>4/30/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Subtitled: How the Scots-Irish Shaped America. Part family history, part memoir
+                and part a popular history of the Scots-Irish and their impact on American history,
+                culture and politics. I found this book quite interesting for a number of reasons.
+                First, Mr. Webb was sworn in as Secretary of the Navy at the Naval Academy on the
+                steps of Bancroft Hall facing Tecumseh Court in May 1987. As a plebe at the Academy,
+                I was required to stand in formation for the ceremony. Secretary Webb had a short
+                tenure in this position; being undone perhaps by his unyielding character and lack
+                of political savvy. In reading this book, it is easy to equate he personality to
+                that of the stereotypical Ulster-man. Second, as my family background has a large
+                presence of Scots-Irish, I enjoyed his coverage of the immigration of that
+                community. While my fore-bearers travelled from central Pennsylvania to Pittsburgh,
+                his followed the Shenandoah valley south into the Appalachian regions of Virginia,
+                Kentucky and Tennessee. Two vastly different experiences between his family and
+                mine. Third, this provides much of the "back story" to J.D. Vance's <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Hillbilly
+                    Elegy</emphasis>; it is ironic that Vance caught so much flack for his book than
+                Webb did for this work. Indeed, just 20 years after the publication of Born to
+                Fight, it is had to see any publisher daring print this book today. But in many ways
+                Secretary Webb foresaw this development in noting how the political and cultural
+                elites in England and America have always looked upon the Scots-Irish as "poor white
+                trash." Secretary Webb is a fine writer and his enthusiasm for his subject is
+                contagious. Nevertheless, this book does not provide a balanced, even-handed
+                treatment of its subject; although in all fairness I don't think that was the
+                author's intent. After all, his family background has molded him as one who was born
+                to fight.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Justice and Charity</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Michael P. Krom</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/01/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Subtitled: An Introduction to Aquinas's Moral, Economic, and Political Thought.
+                A Christmas gift from Stacy. The sub-title offers a nice summary; one could say that
+                this tries to summarize Aquinas' teachings in a similar structure as Aristotle's
+                    <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">Nicomachean
+                    Ethics</emphasis> and <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Politics</emphasis> and to then offer a few case studies on how
+                to apply his teaching to modern issues. Rather dry as it is probably intended as a
+                textbook rather than for the general reader, but well organized and clearly
+                written.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Stiff Upper Lip, Jeeves</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>P.G. Wodehouse</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/7/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>The first time I've read a P.G. Wodehouse novel rather than listening to a
+                recorded version. Still, delightfully entertaining and amusing. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Father Elijah: An
+                Apocalypse</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Michael D.
+                    O'Brien</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/9/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>As a novel, I consider this an Catholic equivalent to a Tom Clancy novel. The
+                characters lack depth and are really more like characters in a movie. The plot is
+                fast paced and exciting and the stakes are nothing less than saving the world. Where
+                Clancy explores political and military issues, Mr. O'Brien weaves in some heavy
+                hitting theological themes: the problem of evil, the nature of free will, the City
+                of God versus the City of Man, etc. So while I can't say that this a masterpiece of
+                literature that will still be read in 500 years (although, who knows?), I can say
+                that I always found it hard to put this book down because I was so fully immersed in
+                his story.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Death Comes for the
+                Archbishop</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Willa Cather</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/15/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>I have been a fan of Willa Cather's writing ever since I read <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">My Antonia</emphasis>,
+                but it has taken me some time to get to this work. Partly because it is hard to find
+                her work these days without a conscious effort, and partly because the title of this
+                novel seems somewhat ominous. Despite the title, I found this to be a beautifully
+                written account of two priests who arrived in New Mexico shortly after the Mexican
+                War and their interactions with the various people who lived in New Mexico as it was
+                slowly integrated into the United States.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Deer Pasture</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Rick Bass</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/17/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A mildly interesting and occasionally entertaining collection of vignettes about
+                the author's experiences hunting with his family on a ranch in the Texas hill
+                country.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Travels with George</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Nathaniel
+                    Philbrick</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/29/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Subtitled "In Search of Washington and His Legacy." Mom gave this to me for
+                Christmas. Mr. Philbrick starts with an interesting premise - to retrace the routes
+                of George Washington's tours of the 13 States during his presidency. And when he
+                covers the details and impacts of these journeys, the book is quite interesting. But
+                by inserting himself, his wife, and (most annoyingly) his dog into the book, he
+                constantly dilutes the impact of his work. He states that his intention was to
+                imitate John Steinbeck's <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Travels with Charley</emphasis>; not having read that book I
+                can't judge the quality of his imitation. But based upon this work, I now have
+                little desire to ever read Steinbeck's travelogue. Really, Mr. Philbrick should have
+                turned this into three books - one about Washington's travels (which should also
+                have included his journey with the forces sent to quell the Whiskey Rebellion in
+                western Pennsylvania), another about Washington and slavery and the final volume
+                about his own travels.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Halcyon</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Elliot Ackerman</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>5/30/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Read an interview with Mr. Ackerman in the Wall Street Journal - he is a
+                graduate of Tufts University and served in the Marine Corps. This is a very
+                interesting book; nominally it is a novel, but the story is in someways simply a
+                vehicle for a work of historiography that seems to try to balance a modern
+                progressive worldview with a serious understanding of the past. He writes with
+                genuine style and an ability for epigram-like statements, realistic portrayals of
+                his main characters and convincing narrative. His secondary characters tend to come
+                across more one-dimensionally and the pacing of his plot is more akin to a TV script
+                than an convincing representation of real life. For me, the biggest weakness is that
+                the target audience to which he seems to be writing is the contemporary left-leaning
+                / progressive college educated professional; but his greatest strength is that he
+                seems to be trying to get this audience to seriously re-consider current efforts to
+                condemn earlier times/people who do not measure up to present day standards and to
+                seriously engage with the past. I found that this book is in someways quite similar
+                to <emphasis xmlns="http://docbook.org/ns/docbook" role="underline">The
+                    Aviator</emphasis> by Vodolazkin; more pertinent to American culture less
+                polished as a work of literature. I was torn between grading this as a 3 or a 4. In
+                some ways his writing is quite striking and I may go back and extract some of his
+                more interesting quotes. But the plot is just too clumsy for me to really recommend
+                this to others (but it will be perfect for Stephen Brumbaugh.)</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Religion and Culture</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Christopher
+                    Dawson</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>6/16/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Like Alasdair MacIntyre's Three Rival Versions of Moral Enquiry, this book was a
+                result of Mr. Dawson's participation in the Gifford Lecture series (with Dawson
+                speaking in 1948 and MacIntyre in 1988.) The purpose of the lecture is to explore
+                the concept of "natural theology" as a means of treating religion in a rational (or
+                even "scientific") manner. Like MacIntyre, Dawson points out the problems with this
+                approach to studying religion and then embarks upon a learned examination of
+                region’s role in our society and culture. Whereas MacIntyre takes a philosophical
+                tact and examines the concept of religion and "virtue" in establishing a common
+                moral standard, Dawson takes a historical approach and argues that religion is
+                universally the primary driver of human culture. As much as a modern Western
+                academic would dispute this claim, Dawson presents a wide range of evidence to
+                illustrate that religion was the primary driver of nearly every society that has
+                ever existed. In an earlier review, I commented on the problematic way that
+                Sebastian Junger looks at modern "primitive" cultures and extending observations of
+                these cultures back in time to apply to early human history. Dawson makes frequent
+                use of this technique, but in a more believable manner as he calls out the ways that
+                culture diffuses from society to society. At the end of After Virtue, MacIntyre
+                notes the modern disregard for the traditional concept of virtue, notes the confused
+                attempts of moderns to share a cohesive approach to morality and ends by asking how
+                a new / revived appreciation for virtue could lead to a revived Western culture. At
+                the end of Religion and Society, Dawson notes that moderns have also largely
+                discarded religion as an essential component of their society, notes the social
+                instability that results and asks the reader to ponder how to restore a stable
+                culture. Neither writer offers a concrete answer, but I would say that their
+                criticisms can almost be described as prophetic. In terms of style, while it may be
+                unfair to judge a series of speeches that have been edited and compiled into a book,
+                Mr. Dawson is straight-forward but somewhat dry. Yet, this is one category in which
+                he clearly out shines MacIntyre!</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">An Honest President: The Life and Presidencies of
+                    Grover Cleveland</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>H. Paul Jeffers</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>7/2/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Aside from the historical curiosity of being the only president to serve a
+                second term after first losing re-election, I found that Cleveland had some
+                interesting thoughts on the nature of public service and good government. And when
+                Mr. Jeffers does quote him, Cleveland's plain speaking style is best for
+                understanding his thought. But more often than not, Mr. Jeffers prefers to quote
+                from other historians. Not at all a good biography.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Deerslayer</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>James Fenimore
+                    Cooper</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>7/2/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>I read <emphasis xmlns="http://docbook.org/ns/docbook">The Last of the
+                    Mohicans</emphasis> in high school. So I expected this would be somewhat similar
+                - a story with plenty of action of dubious realism. Action there is, but less than
+                might be expected in a novel of this length. What was truly unexpected were the
+                interminably long monologues by Natty Bumpo - a.k.a Deerslayer. Mr. Cooper's stated
+                intention with this novel is to provide the "back story" of Natty Bumpo, but he uses
+                him as a mouth-piece to expand upon Mr. Cooper's thoughts on historical, cultural
+                and ethnic matters. The effect is greatly underwhelming.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="eBook">
+            <d:title><d:emphasis role="underline">A History of the Second World War in 100
+                    Maps</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Jeremy Black</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>7/19/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>I checked this electronic book out from the library thinking that the author
+                would use the 100 maps to explain the course of events in WWII. Instead, what the
+                author attempted to provide was a description of how maps were used during that
+                conflict. He broke up the 100 maps by use (strategic, tactical, operational,
+                propaganda, etc.) but this greatly impeded any narrative flow to this topic. He also
+                seemed to have some issue with categorization - for instance a map used in planning
+                strategic bombing attacks was shown in the "Tactical" section. And his selection of
+                maps seems more haphazard than systematic. But the inclusion of maps used to prepare
+                for the Normandy landings was very interesting. Unfortunately, the library did not
+                have a hard copy of the book; an electronic book application is a poor choice for
+                viewing maps that often extend across two pages.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Life and Fate</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Vassily Grossman</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>8/6/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>In a sense, this novel is Grossman's re-setting of War and Peace centered on the
+                Battle of Stalingrad. If this was his intent, I think he succeeds quite admirably.
+                But perhaps that was not his intent. For in War and Peace, Tolstoy presents his
+                theories of history and illustrates how he thinks the invasion of Russia was
+                influenced (or not) by his characters. In Life and Fate, the battle rally serves as
+                a framework in which Grossman examines the impact of a major event upon the lives of
+                individuals. A central theme in this book is the contrast of individual freedom
+                against the power of the state. Grossman served as a journalist covering the Soviet
+                Red Army during WWII, and his writing does a marvellous job showing the small
+                details of life in war time Soviet society. He also does a great job conveying the
+                sense of anxiety and suspicion attendant upon life in a totalitarian state. Another
+                obvious comparison is with Solzhenitsyn's <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Gulag
+                    Archipelago</emphasis> and <emphasis xmlns="http://docbook.org/ns/docbook">The
+                    First Circle</emphasis>. Solzhenitsyn's view is from inside the camp, looking
+                out at society. Grossman, on the other had, is out in society but at times looks
+                into life in the gulag. Both authors seem compelled to present an honest and in
+                depth view of how individuals are impacted by events they cannot control.
+                Solzhenitsyn's tone and style, as one who bore the full experience of the Gulag, is
+                more stark, uncompromising and prophetic. Grossman is more patient and sympathetic
+                in tone, but the lessons he draws tend to be more abstract. Interestingly, both
+                writers attempt to provide a glimpse of the thought and interior life of Stalin, but
+                I'm not sure that either provides a convincing portrayal. It would be interesting to
+                hear what a Stalin scholar thought of these scenes, although now that I mention that
+                I seem to remember that Stephen Kotkin did provide a critique of Solzhenitsyn's
+                attempt. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">A History of the Island</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Eugene
+                    Vodolazkin</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>8/8/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A really fascinating work of fiction that is really more a work of
+                historiography and philosophy than a novel. The form this book takes is of a
+                medieval chronicle of the events on a mythical island. Based upon the coverage of
+                history, politics and religion, it is clear that this island is an allegorical
+                representation of Russia. The twist that makes this book so fascinating is that two
+                of the Island's rulers live for hundreds of years, into the modern age, and they
+                provide commentary on their personal memories. More interesting still, are their
+                interactions with a present day publisher and film maker, which allows the author to
+                portray direct interaction between medieval and modern view points. At times this is
+                poignant, and at times quite funny - as seriously as we "moderns" take our selves,
+                there are many aspects of modern life that can be quite ridiculous. In addition to
+                being a novelist, Vodolazkin is a scholar of medieval history. So it was a great
+                benefit to have read so much Byzantine history from Thomas' collection prior to
+                reading this. Some notable Byzantines appear - particularly Procopius (Prokopy in
+                this story) who wrote an official history of the Byzantine court and also a "secret"
+                account that was far from flattering. The political divisions on the Island between
+                North and South can perhaps be interpreted as the divide between Russia and the
+                Ukraine, but I may be reading current events into my interpretation. As the story
+                shifts to the modern era, it is fun to try to match characters to various Soviet
+                leaders. And if this story can be read a criticism of the current Russian regime,
+                Vodolazkin's projected path forward seems to involve a rejection of the Western
+                European viewpoint in favor a reconsideration of a Russian worldview that
+                reconsiders the fusion of faith, politics and culture more in tune with medieval
+                Russian society than what has come since. But this idea may be influenced by my
+                (admittedly dim) recollection of his essay "The Age of Concentration."</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">John Adams: Volume II 1784 -
+                1826</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Page Adams</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/8/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>The second volume of Mr. Smith's fine biography. The best feature of this
+                biography is how much the author allows the subject to speak in his own words. Mr.
+                Smith puts Adams' extensive writings to good use. While this does impede the
+                narrative flow of the book, it does allow a more direct insight to Adams' thought,
+                belief, personality and character. I also appreciate the fact that Mr. Smith
+                generally does not interject his own opinions but allows the reader to form their
+                own judgment. He does from time to time recount contemporary views (that is
+                contemporary to 1962 when the book was published) but in small doses. And this
+                biography is happily free from the contemporary (to 2023) fashion of endless
+                hand-wringing and casting of judgement on the shortcomings of our fore bearers in
+                regards to currents standards of morality - in marked contrast, for instance, to Mr.
+                Philbrick's account of Washington's travels as president. Thanks to their extensive
+                correspondence, the intelligent and capable Abigail Adams is also presented with due
+                credit. I find it quite interesting to contrast the depiction of Abigail in this
+                book compared to Nagel's nagging and harping portrayal in his biography of John
+                Quincy Adams. They are both working form the same source material but the selection
+                and presentation of quotes result in dramatically divergent depictions. Biographies
+                of American presidents tend to focus solely on the political and executive
+                accomplishments at the expense of understanding the political philosophy (if one
+                exists) of the subject. In truth, probably few presidents have demonstrated enough
+                thoughtfulness to be considered to have a philosophy. Jefferson, of course, maybe
+                Theodore Roosevelt to a degree and Adams are the only ones that come to mind. I
+                think in the long run, Adams' reputation will only continue to grow. If he has
+                shortcomings as a politician (which led to only a single term as president) were
+                mostly the result of a well-reasoned stance upon the principles that he held.
+                Indeed, it would be an interesting study to study Adams through the lens of
+                Aristotle's <emphasis xmlns="http://docbook.org/ns/docbook">Nicomachean
+                    Ethics</emphasis> and <emphasis xmlns="http://docbook.org/ns/docbook"
+                    >Politics</emphasis>. While Jefferson, like Plato, was more enamored of the
+                theoretical ideal, Adams seems a good example of Aristotle's understanding of virtue
+                as the mean between two extremes. Rick's First Principles makes a superficial
+                examination of this, but the main thrust of his argument is a divide on preference
+                for Roman versus Greek philosophy in the education of our early statesmen rather
+                than an examination of their actual guide stones. One final observation, it is
+                interesting that the three prominent schools of thought on foreign policy were first
+                manifested in our first three presidents. Washington the isolationist who warned
+                against foreign entanglements, Adams the realist seeking to balance principle with
+                sufficient force to demand respect and Jefferson the idealist seeking to promote the
+                ideals of human freedom.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Cold Warrior: James Jesus
+                Angleton</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Tom Mangold</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/24/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>This book was given to Stacy by her father; it is inscribed: "For Stacy: You
+                have always wanted to know what I did. Well, here is a slice, 28 months, of my
+                professional life. With all my love, Dad, 5/18/91". For this biography, Mr. Mangold
+                talked to an impressive number of former intelligence officers of a number of
+                agencies. What is remarkable, to me, is the willingness of so many individuals to go
+                on the record and for many others to do so off the record. Given the turmoil that
+                Angleton's years long quest to find a Soviet spy in the Agency, it is clear that
+                many wanted to ensure that there was a reckoning for this fruitless quest. It is
+                seems likely that Stacy's father was one of the sources although he is not listed in
+                the end notes. His picture (taken in the parking lot of our local Giant grocery
+                store, according to Stacy) is included and his inscription serves as an endorsement
+                that the portrayal of his service as Angleton's successor as head of
+                counterintelligence at CIA. Mangold deserves kudos for his research, but I will ding
+                him on his presentation. He writes like a journalist, lots of very short paragraphs
+                (sometime only of a single sentence) keep the pace moving very quickly combined with
+                florid metaphors. But he did not attempt to weave the various aspects of Angleton's
+                mole hunt into a single narrative - choosing instead to follow different
+                investigations in different chapters. This causes the narrative flow to jump back
+                and forth and does not give a clear picture of how multiple investigations played
+                out at the same time or how they related to events in the Cold War. But to his
+                credit, he does include the testimony of those who worked for Angleton who shared
+                his conviction of Soviet penetration of the Agency. The reader should also be aware
+                that while the many sources who disagreed with Angleton were willing to talk about
+                his failures, the book is largely silent on what ever successes he may have had.
+                Perhaps there were none as one source alleges, but the sources of the story would
+                not likely have wanted the Soviet to know about what was working well. So, in all,
+                this book is of tremendous value for our family to understand the accomplishments of
+                Stacy's father and is of great value as a record of events in the Cold War. But it
+                will probably be many years from now before all aspects of this story are able to be
+                told and for a final judgement to be formed. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="audioBook">
+            <d:title><d:emphasis role="underline">The Bible: The Bible in a Year
+                    Podcast</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>God the Father, God the
+                    Son, God the Holy Spirit (read by Father Mike Schmitz)</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/25/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>As the divinely inspired Word of God the Bible gets no human rating, but I do
+                give kudos to Father Mike Schmitz's project to read - and explain - the Bible. I
+                don't know the source of this project, but it seems to have come to fruition during
+                the COVID-19 pandemic. The readings are taken from the Great Adventure Bible, which
+                has been organized in chronological order, with non-narrative books such as the
+                Psalms and the Epistles folded in. So, it is not like just picking up the typical
+                Bible and going from Genesis to Revelations. Each day a few chapters from the
+                narrative book are read, then a few chapters from the non-narrative. After finishing
+                the day's readings, Father Schmitz offers a prayer and then covers the high points
+                from the readings. This is done more in the style of a lecture to young students
+                (Father Schmitz serves as a chaplain at the University of Minnesota - Duluth). I had
+                seen Father Mike in an online lecture some time prior to this effort, and I found
+                him too cheerful - even sappy - as if he had stepped off the set of a 1950's family
+                TV show. But in this effort, his enthusiasm winds up being somewhat contagious and
+                he supplements his "gushing" (his word) with a very reasoned and orthodox
+                interpretation of the Bible. The last time I listened to a recording of the Bible, I
+                believe it was read by Jame Earl Jones - Fr. Schmitz does not possess the stentorian
+                voice of Mr. Jones, but rather has a relaxed style of one friend reading to another.
+                As a Catholic, it really highlights the importance of having a learned guide to help
+                understand the context rather than simply reading it and somehow understanding what
+                is being communicated. For instance, he ties the figurative keys that Christ bestows
+                to Peter with the office of the chief assistant to the king of Israel in the time of
+                David and Solomon. Having read both accounts myself, I did not make the connection,
+                nor is it likely that I would have ever done so. Perhaps this isn't a deeply
+                important observation in itself, but it did bring home to me how immersed in the
+                "Old Testament" were Christ and his disciples and how strong are the ties between
+                the Old and New Testaments. Father Schmitz does point out areas where Catholics and
+                Protestants disagree, and he does not shy away from stories or teachings that seem
+                foreign or nonsensical to contemporary culture. Perhaps most importantly, he
+                constantly emphasizes the point that this Book is one very important way that God
+                uses in his love for each and every person. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Complete Father Brown</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>G.K. Chesterton</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>9/25/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Found this when Anna, Thomas and I visited a used book store. I've read (and
+                reviewed) most, if not all of these stories, but enjoyed them the second time
+                around. I am struck by how Arthur Conan Doyle has Sherlock Holmes solve his crimes
+                by minute observation of physical clues - in a scientific manner, so to speak. In
+                contrast, Father Brown solves his cases by a deep and sympathetic understanding of
+                human behavior.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="eBook">
+            <d:title><d:emphasis role="underline">We</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Yevgeny Zamyatin</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>10/4/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A dystopian word written by a disaffected Soviet citizen. I saw this book
+                recommended a couple of different places - can't remember where exactly. In the mold
+                of Orwell's 1984, although written in a lighter, less oppressive style. Not that
+                Zamyatin's vision for the future is any less bleak, it is just that the citizens who
+                inhabit this world seem quite happy with their lot. This book, pubished in 1921, hit
+                too close to home for the Soviet censors. Luckily for Zamyatin, this ended in exile
+                abroad instead of a long stint in the gulag.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="eBook">
+            <d:title><d:emphasis role="underline">The Professor's House</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Willa Cather</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>11/4/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A novel that can be best described as an account of a man's (yes, the professor)
+                midlife crisis. Not Ms. Cather's best work, but her fine writing style still held my
+                interest. There was a reviewer in the Wall Street Journal who recommended this as
+                one of the five best novels dealing with the American West - I find this to be a
+                curious choice for while the plot does indeed wind itself into the desert southwest,
+                it is primarily set in the Midwest (Michigan). Perhaps the intent was to contrast
+                the effect of the simple life of the west with that of the more cosmopolitan east
+                coast in the intellectual life of post WWI America. Or perhaps to explore the
+                decline of a mostly agrarian nation. But there is no clear theme that is developer
+                other than a late middle-aged man's puzzlement at how his life has turned out after
+                he has achieved the success he sought as a young man.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Moby Dick</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Herman Melville</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>11/7/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>My third time through this book, and each time is better than the last.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Brideshead Revisited</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Evelyn Waugh</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>11/12/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Found this in a used book store. I generally have no interest in movies, tv
+                shows or books about the British aristocracy - particulary those set in the period
+                beween the two world wars. So while this novel seems to enjoy wide esteem, I have
+                long avoided it. But I must confess I was pleasantly surprised. While I find the
+                characters to be beyond my understanding or sympathy, Mr. Waugh is able to utilize
+                them both for darkly ironic humor and exploration of "big questions." The novel
+                seems to be a sort of elegy for a way of life that was passing - specifically the
+                end of the traditional aristocratic society of Britain. But it is more complicated
+                than that because the Brideshead family, as Catholic nobility, were both a part of
+                the old order and yet still outsiders.  </d:para>
         </d:simplesect>
     </d:chapter>
     <d:appendix>
         <d:title>Template</d:title>
-        <d:simplesect label="review">
+        <d:simplesect label="review" role="printBook">
             <d:title><d:emphasis role="underline">The Cat in the Hat Comes
                 Back</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Seuss</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/10/22</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/10/23</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
