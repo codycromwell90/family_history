@@ -4854,8 +4854,10 @@
                 compelling. He does a good job portraying modern humanities difficulty in adapting
                 to rapid changes in technology, economic systems, learning and social structures.
                 Rather than considering this book as a finished product such as Aristotle's
-                Politics, it is more akin to Pascal's Pensees, a collection of insightful
-                observations rather than a unified system of thought. </d:para>
+                    <emphasis xmlns="http://docbook.org/ns/docbook" role="underline"
+                    >Politics</emphasis>, it is more akin to Pascal's <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Pensees</emphasis>, a
+                collection of insightful observations rather than a unified system of thought. </d:para>
         </d:simplesect>
         <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">How to Live Like a Monk: Medieval Wisdom for
@@ -5044,7 +5046,7 @@
                 a flood of requests for his time, energy and attention that distracted him from his
                 desire to write. </d:para>
         </d:simplesect>
-        <d:simplesect label="review" role="printBook">
+        <d:simplesect label="review" role="audioBook">
             <d:title><d:emphasis role="underline">Black Ops</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Enrique "Ric"
@@ -5382,8 +5384,9 @@
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
-            <d:para>Like Alasdair MacIntyre's Three Rival Versions of Moral Enquiry, this book was a
-                result of Mr. Dawson's participation in the Gifford Lecture series (with Dawson
+            <d:para>Like Alasdair MacIntyre's <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Three Rival Versions of Moral Enquiry</emphasis>, this book was
+                a result of Mr. Dawson's participation in the Gifford Lecture series (with Dawson
                 speaking in 1948 and MacIntyre in 1988.) The purpose of the lecture is to explore
                 the concept of "natural theology" as a means of treating religion in a rational (or
                 even "scientific") manner. Like MacIntyre, Dawson points out the problems with this
@@ -5690,13 +5693,13 @@
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
-            <d:para>A dystopian word written by a disaffected Soviet citizen. I saw this book
-                recommended a couple of different places - can't remember where exactly. In the mold
-                of Orwell's 1984, although written in a lighter, less oppressive style. Not that
-                Zamyatin's vision for the future is any less bleak, it is just that the citizens who
-                inhabit this world seem quite happy with their lot. This book, pubished in 1921, hit
-                too close to home for the Soviet censors. Luckily for Zamyatin, this ended in exile
-                abroad instead of a long stint in the gulag.</d:para>
+            <d:para>A dystopian work of science fiction written by a disaffected Soviet citizen. I
+                saw this book recommended a couple of different places - can't remember where
+                exactly. In the mold of Orwell's 1984, although written in a lighter, less
+                oppressive style. Not that Zamyatin's vision for the future is any less bleak, it is
+                just that the citizens who inhabit this world seem quite happy with their lot. This
+                book, published in 1921, hit too close to home for the Soviet censors. Luckily for
+                Zamyatin, this ended in exile abroad instead of a long stint in the gulag.</d:para>
         </d:simplesect>
         <d:simplesect label="review" role="eBook">
             <d:title><d:emphasis role="underline">The Professor's House</d:emphasis></d:title>
@@ -5736,16 +5739,209 @@
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
-            <d:para>Found this in a used book store. I generally have no interest in movies, tv
-                shows or books about the British aristocracy - particulary those set in the period
-                beween the two world wars. So while this novel seems to enjoy wide esteem, I have
+            <d:para>Found this in a used book store. I generally have no interest in movies, TV
+                shows or books about the British aristocracy - particularly those set in the period
+                between the two world wars. So while this novel seems to enjoy wide esteem, I have
                 long avoided it. But I must confess I was pleasantly surprised. While I find the
                 characters to be beyond my understanding or sympathy, Mr. Waugh is able to utilize
                 them both for darkly ironic humor and exploration of "big questions." The novel
                 seems to be a sort of elegy for a way of life that was passing - specifically the
                 end of the traditional aristocratic society of Britain. But it is more complicated
                 than that because the Brideshead family, as Catholic nobility, were both a part of
-                the old order and yet still outsiders.  </d:para>
+                the old order and yet still outsiders. None of the characters in this book are
+                particularly sympathetic. Most of the Catholic characters come across as somewhat
+                bizarre. At first, this may give the impression that Waugh is being critical of his
+                co-religionists. In contrast, the non-Catholic characters seem much more in tune
+                with modern sensibilities but on close inspection all seem to empty, or shallow
+                imitations of real people. I suspect that Waugh intends this as an indictment of
+                modern culture.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Battle for Your Computer</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Alon Arvatz</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>12/23/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>2</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Subtitled: Israel and The Growth of the Global Cyber-Security Industry. This
+                could have been a very interesting examination of Israelis cyber warfare
+                capabilities, but it is instead more a tribute to the Israeli entrepreneurial
+                spirit. This really should have been a collection of magazine articles and not a
+                full length book.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Clash of Civilizations and the Remaking of World Order</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Samuel P. Huntington</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>12/29/23</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>From Thomas' collection. This book has generated some controversy, particularly
+                among those who may be said to belong to an "internationalist" viewpoint. And the
+                impact of this work can be seen by those who have contributed jacket "blurbs":
+                Francis Fukuyama, Zbignew Brzezinski and Henry Kissinger. In a sense, this book is
+                an answer to Fukuyama's argument in The End Of History that Western liberal
+                democracy has emerged as the final form of human government. (So when I describe an
+                "internationalist" view point, I mean someone who accepts Fukuyama's assessment and
+                advocates the promotion of this viewpoint in American relations with all countries -
+                a position that Huntington labels as "Western universilist.") Both this work and
+                Fukuyama's The End of History were written in the immediate aftermath of the end of
+                the Cold War. Huntington's core argument is that, in international relations, this
+                event marked the end of one model of relations - namely that of relations driven by
+                ideology ( e.g. the battle between Fascism / Communism and liberal capitalism.) Just
+                as the ideology model replaced a model based upon competition between nation states
+                and imperial expansion, Huntington argues that the new "model" will be based
+                primarily upon conflict between different "world views" or "civilizations."
+                Advancing this argument would perhaps not be too controversial except that he notes
+                (and offers evidence) that since the end of WWII, the highest number of conflict
+                have occurred either within or at the borders of the Islamic world. Some seem to
+                take this as denigration of Muslims, but Huntington is looking at data and asking
+                questions as opposed to making a moral judgement. On the other hand, Huntington is
+                upfront about his belief in the importance of Western civilization, but as one
+                unique civilization among other equally unique (and valid) civilizations. Given that
+                much of the data presented was from 1995 or earlier, I read through this pretty
+                quickly. But looking back from the vantage point of 2023, it seems clear that his
+                "model" has been a much better predictor of what has happened in the past 30 years
+                that Fukuyama's. My biggest complaint with this book is an issue of style,
+                Huntington writes with all the charm of the author of a college textbook. </d:para>
+        </d:simplesect>
+        <d:simplesect label="bookOfTheYear">
+            <d:title>Book of the Year</d:title>
+            <d:para>The Bible, of course. But Father Schmitz's Bible in a Year podcast was top
+                notch. My favorite work of fiction is a toss up between <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">A Day in the Life of Ivan
+                    Denisovich</emphasis> or <emphasis xmlns="http://docbook.org/ns/docbook"
+                    role="underline">Moby Dick</emphasis>, with an honorable mention to <emphasis
+                    xmlns="http://docbook.org/ns/docbook" role="underline">Death Comes for the
+                    Archbishop</emphasis>.</d:para>
+        </d:simplesect>
+    </d:chapter>
+    <d:chapter>
+        <d:title>2024</d:title>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Soldiers of the Cross</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>David Power Conyngham</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/11/24</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Anna gave this book to me for Christmas. Conyngham was an Irish immigrant and
+                reporter who also served for a time as an officer in the Union Army in the Civil
+                War. He started work on a book about Catholic priests and religious sisters who
+                served during the Civil War. The book was never finished, and at some point the
+                unfinished draft ended up at Notre Dame. Two professors transcribed and edited the
+                manuscript and the Univeristy of Notre Dame Press published the work. As a history,
+                it is episodic and incomplete, but does provide a fascinating look at the daily
+                lives of those who served and fought in the Civil War. One interesting detail is
+                that the priests often served as money handlers for soldiers, holding their pay and
+                sending it on to relatives at home. And stylistically, he writes with a charm
+                lacking in modern journalism. Having recently completed the transcription of my
+                great-great grandfather's journal (composed mostly of newspaper clipping relating to
+                relatives and friends), it is noteworthy how journalists in the 1800's wrote in a
+                style that is at once high minded (emphasiszing more of the positive) and in a voice
+                that seems to address the reader with a degree of familiarity and respect (as if
+                written to a friend or colleague). In contrast, most reporting today is dry and
+                pedantic, as if reporters are assuming the position of "expert" in relation to their
+                viewers. One final note - the quality of the binding and paper of this book is
+                phenomenal.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Quartermasters</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Robert O'Harrow, Jr.</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/13/24</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>This was recommended by Ali's (Rodine) husband Clayton. Ir you are not familiar
+                with the tremendous impact that General Montgomery Meigs had on the outcome of the
+                Civil War, then this book is a good introduction. If you are at all familiar with
+                his role, then this book offers nothing new. It also an interesting account of his
+                work on reconstructing the U.S. Capitol building and building an aqueduct to supply
+                Washington, D.C. </d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Love-Girl and the Innocent</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Alexander Solzhenitsyn</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/15/24</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>A short play depicting life in Stalin's gulag. Similar to A Day in the Life of
+                Ivan Denisovich, it provides a brief snapshot of the daily life in camp. Unlike Ivan
+                Denisovich, the play includes an element of romance. While I prefer the novel to the
+                play, this is still an effective account of the gross injustice of life in Stalin's
+                Soviet Union.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">By the Rivers of Babylon</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Michael D. O'Brien</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/16/24</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>3</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>This was a Christmas present. This is a work of historical (and theological)
+                fiction; imagining the early life and exile of the prophet Ezekiel. In a sense, this
+                reminds me of James Michener's <emphasis xmlns="http://docbook.org/ns/docbook">The
+                    Source</emphasis> as an attempt to portray life in ancient Israel. At times,
+                this is too simplistic, but at other points it is quite effective in stirring the
+                imagination. Of all the prophets, it is curious that he choose Ezekiel. Certainly
+                his contemporary Daniel would seem to better capture the popular audience. But I
+                think part of this book's charm is its focus on someone who might be somewhat
+                overlooked - if one can say that about a prohept immortalized in the Old
+                Testament.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">Albion's Seed: Four British Folkways in America</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>David Hackett Fischer</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/30/24</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>Stephen Brumbaugh had originally recommended this to me and Stacy ordered it for
+                me for Christmas. A detailed examination of how different waves of immigrants from
+                England shaped (and continue to shape) the development of American politcs and
+                culture. The four waves are the Puritans to New England (primarily from East
+                Anglia), the Cavaliers to Virginia (from southern and western England), the Quakers
+                to Pennsylvania and New Jersey (from northern England) and the Scots-Irish to the
+                frontier (from the borders of Scotland and England and Northern Ireland.) He does a
+                very good job of highlighting how the language and customs of each of the groups
+                reflect the English culture which the immigrants left behind.  Although this is a
+                very detailed and organized book more geared for academia than the general public,
+                Mr. Fischer is an engaging writer. The only drawback is that he does such a great
+                job of marshalling evidence for his argument that one is left to question how much
+                evidence that doesn't support his view was left out.  That, of course, is true of
+                any work of non-fiction, but a reader tends to overlook the absence of
+                counter-arguments (or facts) when absorbed in the narrative flow of a work intended
+                for the general public.</d:para>
+        </d:simplesect>
+        <d:simplesect label="review" role="printBook">
+            <d:title><d:emphasis role="underline">The Master and Margarita</d:emphasis></d:title>
+            <d:simplelist>
+                <d:member><d:emphasis role="italic">Author: </d:emphasis>Mikhail Bulgakov</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>2/11/24</d:member>
+                <d:member><d:emphasis role="italic">Grade: </d:emphasis>4</d:member>
+                <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
+            </d:simplelist>
+            <d:para>The afterwards to this book nicely sums up some of the salient features of this
+                novel. "...uppn first reading we are left unsure of both his intentions and his
+                beliefs."  "...we have been profoundly amused by both the situations and the
+                characters, but we have also been disturbed." The opening chapter is hilarious, two
+                Soviet artists discussing creating a work showing the folly of religion encounter
+                the devil. The second chapter, a jump back in time to Pontius Pilate and a
+                crucifixtion scene similar, but not exactly so, to that of Christ. What makes the
+                novel disturbing is the thought that the author's intent may be a work of blasphemy.
+                Yet, the fact that satan walks freely in the streets of Moscow and Pilate's
+                Jerusalem is operated much like the Stalinist regime leads one to belive that this
+                is a work of satire. Bulgakov wrote at a particularly perilous time for artistic
+                freedom; this book was written during the height of Stalin's reighn of terror in the
+                1930's. </d:para>
         </d:simplesect>
     </d:chapter>
     <d:appendix>
@@ -5755,7 +5951,7 @@
                 Back</d:emphasis></d:title>
             <d:simplelist>
                 <d:member><d:emphasis role="italic">Author: </d:emphasis>Dr. Seuss</d:member>
-                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/10/23</d:member>
+                <d:member><d:emphasis role="italic">Date: </d:emphasis>1/10/24</d:member>
                 <d:member><d:emphasis role="italic">Grade: </d:emphasis>5</d:member>
                 <d:member><d:emphasis role="italic">Comments: </d:emphasis></d:member>
             </d:simplelist>
