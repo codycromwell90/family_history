@@ -46,6 +46,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 1</title>
                 <para>
@@ -80,6 +81,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 2</title>
                 <para>
@@ -115,8 +117,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
-        </simplesect>
-        <?dbfo-need height="6in" ?>
+        </simplesect>    
         <simplesect>
             <title>FEBRUARY 3 - 4</title>
             <para><inlinemediaobject>
@@ -126,6 +127,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 3</title>
                 <para>
@@ -164,6 +166,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 4</title>
                 <para>
@@ -200,7 +203,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 5 - 6</title>
             <para>
@@ -211,6 +213,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 5</title>
                 <para>
@@ -245,6 +248,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 6</title>
                 <para>
@@ -281,8 +285,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
-        </simplesect>
-        <?dbfo-need height="6in" ?>
+        </simplesect>       
         <simplesect>
             <title>FEBRUARY 7 - 8</title>
             <para>
@@ -293,6 +296,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 7</title>
                 <para>
@@ -330,6 +334,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="6in" ?>
             <formalpara>
                 <title>FEBRUARY 8</title>
                 <para>
@@ -364,8 +369,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
-        </simplesect>
-        <?dbfo-need height="6in" ?>
+        </simplesect>      
         <simplesect>
             <title>FEBRUARY 9 - 10</title>
             <para>
@@ -376,6 +380,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 9</title>
                 <para>
@@ -410,6 +415,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 10</title>
                 <para>
@@ -445,7 +451,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 11 - 12</title>
             <para>
@@ -456,6 +461,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 11</title>
                 <para>
@@ -490,6 +496,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 12</title>
                 <para>
@@ -525,7 +532,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 13 - 14</title>
             <para>
@@ -536,6 +542,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 13</title>
                 <para>
@@ -571,6 +578,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 14</title>
                 <para>
@@ -607,7 +615,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 15 - 16</title>
             <para>
@@ -618,6 +625,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 15</title>
                 <para>
@@ -652,6 +660,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 16</title>
                 <para>
@@ -687,7 +696,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 17 - 18</title>
             <para>
@@ -698,6 +706,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 17</title>
                 <para>
@@ -733,6 +742,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 18</title>
                 <para>
@@ -770,7 +780,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 19 - 20</title>
             <para>
@@ -781,6 +790,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 19</title>
                 <para>
@@ -813,6 +823,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 20</title>
                 <para>
@@ -846,7 +857,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 21 - 22</title>
             <para>
@@ -857,6 +867,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 21</title>
                 <para>
@@ -890,6 +901,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 22</title>
                 <para>
@@ -926,7 +938,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 23 - 24</title>
             <para>
@@ -937,6 +948,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 23</title>
                 <para>
@@ -970,6 +982,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 24</title>
                 <para>
@@ -1007,7 +1020,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 25 - 26</title>
             <para>
@@ -1018,6 +1030,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 25</title>
                 <para>
@@ -1053,6 +1066,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 26</title>
                 <para>
@@ -1088,7 +1102,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 27 - 28</title>
             <para>
@@ -1099,6 +1112,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 27</title>
                 <para>
@@ -1134,6 +1148,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 28</title>
                 <para>
@@ -1169,7 +1184,6 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 29</title>
             <para>
@@ -1180,6 +1194,7 @@
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 29</title>
                 <para>

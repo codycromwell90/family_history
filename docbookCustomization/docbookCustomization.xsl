@@ -4,7 +4,7 @@
     xmlns:fo='http://www.w3.org/1999/XSL/Format'
     exclude-result-prefixes="xs"
     version="2.0">
-    <xsl:import href="../../../../Program Files/Oxygen XML Editor 22/frameworks/docbook/xsl/fo/docbook.xsl"/>
+    <xsl:import href="../../../../Program Files/Oxygen XML Editor 23/frameworks/docbook/xsl/fo/docbook.xsl"/>
     <xsl:import href="krush-titlepage.xsl"/>
        
     <xsl:param name="generate.toc" select="'book toc'"/>

@@ -6,16 +6,11 @@
         <title>Journal: 1926-1930</title>
         <author>
             <personname>Elizabeth Anne Jennings</personname>
-            <address>
-                <street>3 Linden Place</street>
-                <city>Sewickley</city>
-                <state>Pennsylvania</state>
-            </address>
         </author>
         <revhistory>
             <revision>
                 <revnumber>1</revnumber>
-                <date>2020—05-18</date>
+                <date>2022—05-15</date>
                 <authorinitials>PSK</authorinitials>
             </revision>
         </revhistory>
@@ -28,7 +23,7 @@
                     fileref="../ajk_journal_1931-1935/images//ajk_journal850.jpg"/>
             </imageobject>
         </inlinemediaobject></para>
-        <para>Dec. 31, 1928   Anne Jennings</para>
+        <para>This book belongs to Anne Jennings from Aunt Hat, Christmas 1930.</para>
         <para>Diary of Elizabeth Anne Jennings, later Anne Jennings Krush. Known to me and her other
             grandchildren as "Nanny." Her eldest daughter, Carol Krush, inherited all of Nanny's
             journals. Aunt Carol sent the journals to me in February, 2020.</para>
@@ -41,10 +36,12 @@
             <title>JANUARY 1</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal851.jpg"/>
                     </imageobject>
-                </inlinemediaobject></para>
+                </inlinemediaobject>
+            </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 1</title>
                 <para>
@@ -82,16 +79,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 2 - 3</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal852.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 2</title>
                 <para>
@@ -111,7 +108,7 @@
                                 Drank wine. Threatened mistletoe. Made bed. Packed. Sally &amp; Jim
                                 came. Listened to Pitt get beaten by USC 35-0. Tough! Bill didn't
                                 show up! Down to Sally's to say g'bye! Letter from J. Crooks! Last
-                                night! ??? &amp; Sad!</para>
+                                night! Sat. &amp; Sad!</para>
                         </listitem>
                         <listitem>
                             <para>1934 - Tues. Up early. Dentist. O.K. Town with Munny &amp; got
@@ -128,12 +125,13 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 3</title>
                 <para>
                     <itemizedlist>
                         <listitem>
-                            <para>1931 - Saturday. Got up MIT P.T. at 11:15. Luncheon at Penguin Tea
+                            <para>1931 - Saturday. Got up mit P.T. at 11:15. Luncheon at Penguin Tea
                                 Shop. Grand Slam. Tea at Pinx's. Supper, bridge at Terry's. P.T.
                                 &amp; M.W. left!!!</para>
                         </listitem>
@@ -157,7 +155,7 @@
                             <para>1935 - Thurs. Up at 9:30. No job at Valley Hospital! Oh dear. Town
                                 &amp; to dentist. Nice man. Home. Read. Called Babs. Munny &amp; I
                                 alone &amp; I was restless till Bill came. Yes, he came tonite di.
-                                We played Ping Pong &amp; talked &amp; were good &amp; I had such a
+                                We played Ping Pong &amp; `talked &amp; were good &amp; I had such a
                                 pleasant evening. I hope he did! I missed him till he came, di -
                                 awfully!!</para>
                         </listitem>
@@ -165,16 +163,16 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 4 - 5</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal853.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 4</title>
                 <para>
@@ -212,6 +210,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 5</title>
                 <para>
@@ -249,17 +248,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 6 - 7</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal854.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 6</title>
                 <para>
@@ -296,6 +295,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 7</title>
                 <para>
@@ -334,17 +334,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 8 - 9</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal855.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 8</title>
                 <para>
@@ -379,6 +379,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 9</title>
                 <para>
@@ -415,17 +416,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 10 - 11</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal856.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 10</title>
                 <para>
@@ -459,6 +460,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 11</title>
                 <para>
@@ -495,17 +497,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 12 - 13</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal857.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 12</title>
                 <para>
@@ -541,6 +543,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 13</title>
                 <para>
@@ -575,17 +578,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 14 - 15</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal858.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 14</title>
                 <para>
@@ -620,6 +623,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 15</title>
                 <para>
@@ -653,17 +657,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 16 - 17</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal859.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 16</title>
                 <para>
@@ -698,6 +702,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 17</title>
                 <para>
@@ -733,17 +738,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 18 - 19</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal860.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 18</title>
                 <para>
@@ -770,15 +775,16 @@
                                 etc). Took Miss Davis to dinner. Was I glad? Waited.(?)</para>
                         </listitem>
                         <listitem>
-                            <para>1935 - Frid. Wonderful snow today! But after class Dobson &amp; I
+                            <para>1935 - Fri. Wonderful snow today! But after class Dobson &amp; I
                                 did an expt for Physiology &amp; it worked swelly. Then got more
                                 props for Barn. Experimental play "Postal Orders" tonite &amp; it
-                                was darn good. Sleigh ride for 1st time with gang. More ??? fun.
+                                was darn good. Sleigh ride for 1st time with gang. More darn fun.
                                 Home &amp; bed looked good!</para>
                         </listitem>
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 19</title>
                 <para>
@@ -813,17 +819,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 20 - 21</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal861.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 20</title>
                 <para>
@@ -857,6 +863,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 21</title>
                 <para>
@@ -892,17 +899,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 22 - 23</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal862.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 22</title>
                 <para>
@@ -933,6 +940,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 23</title>
                 <para>
@@ -967,17 +975,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 24 - 25</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal863.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 24</title>
                 <para>
@@ -1014,6 +1022,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 25</title>
                 <para>
@@ -1047,17 +1056,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 26 - 27</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal864.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 26</title>
                 <para>
@@ -1092,6 +1101,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 27</title>
                 <para>
@@ -1126,17 +1136,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 28 - 29</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal865.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 28</title>
                 <para>
@@ -1171,6 +1181,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 29</title>
                 <para>
@@ -1207,17 +1218,17 @@
                 </para>
             </formalpara>
         </simplesect>
-<?dbfo-need height="6in" ?>
         <simplesect>
             <title>JANUARY 30 - 31</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jan/ajk_journal866.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 30</title>
                 <para>
@@ -1251,6 +1262,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JANUARY 31</title>
                 <para>
@@ -1292,11 +1304,12 @@
             <title>FEBRUARY 1 - 2</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal867.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 1</title>
                 <para>
@@ -1331,6 +1344,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 2</title>
                 <para>
@@ -1367,16 +1381,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 3 - 4</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal868.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 3</title>
                 <para>
@@ -1415,6 +1429,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 4</title>
                 <para>
@@ -1451,17 +1466,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 5 - 6</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal869.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 5</title>
                 <para>
@@ -1496,6 +1511,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 6</title>
                 <para>
@@ -1533,17 +1549,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 7 - 8</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal870.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 7</title>
                 <para>
@@ -1581,6 +1597,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 8</title>
                 <para>
@@ -1616,17 +1633,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 9 - 10</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal871.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 9</title>
                 <para>
@@ -1661,6 +1678,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 10</title>
                 <para>
@@ -1696,17 +1714,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 11 - 12</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal872.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 11</title>
                 <para>
@@ -1741,6 +1759,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 12</title>
                 <para>
@@ -1776,17 +1795,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 13 - 14</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal873.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 13</title>
                 <para>
@@ -1822,6 +1841,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 14</title>
                 <para>
@@ -1858,17 +1878,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 15 - 16</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal874.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 15</title>
                 <para>
@@ -1903,6 +1923,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 16</title>
                 <para>
@@ -1938,17 +1959,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 17 - 18</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal875.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 17</title>
                 <para>
@@ -1984,6 +2005,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 18</title>
                 <para>
@@ -2021,17 +2043,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 19 - 20</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal876.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 19</title>
                 <para>
@@ -2064,6 +2086,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 20</title>
                 <para>
@@ -2097,17 +2120,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 21 - 22</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal877.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 21</title>
                 <para>
@@ -2141,6 +2164,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 22</title>
                 <para>
@@ -2177,17 +2201,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 23 - 24</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal878.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 23</title>
                 <para>
@@ -2221,6 +2245,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 24</title>
                 <para>
@@ -2258,17 +2283,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 25 - 26</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal879.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 25</title>
                 <para>
@@ -2304,6 +2329,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 26</title>
                 <para>
@@ -2339,17 +2365,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 27 - 28</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal880.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 27</title>
                 <para>
@@ -2385,6 +2411,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 28</title>
                 <para>
@@ -2420,17 +2447,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>FEBRUARY 29</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/feb/ajk_journal881a.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>FEBRUARY 29</title>
                 <para>
@@ -2461,12 +2488,15 @@
         <title>MARCH</title>
         <simplesect>
             <title>MARCH 1</title>
-            <para><inlinemediaobject>
+            
+            <para>
+                <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal881b.jpg"/>
                     </imageobject>
-                </inlinemediaobject></para>
+                </inlinemediaobject>
+            </para>
             <formalpara>
                 <title>MARCH 1</title>
                 <para>
@@ -2502,16 +2532,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 2 - 3</title>
-            <para><inlinemediaobject>
+            <para>
+                <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal882.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 2</title>
                 <para>
@@ -2546,6 +2577,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 3</title>
                 <para>
@@ -2583,16 +2615,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 4 - 5</title>
-            <para><inlinemediaobject>
+            <para>
+                <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal883.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 4</title>
                 <para>
@@ -2629,6 +2662,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 5</title>
                 <para>
@@ -2663,17 +2697,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 6 - 7</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal884.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 6</title>
                 <para>
@@ -2707,6 +2741,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 7</title>
                 <para>
@@ -2743,17 +2778,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 8 - 9</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="65" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal884a.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 8</title>
                 <para>
@@ -2787,6 +2822,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 9</title>
                 <para>
@@ -2823,17 +2859,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 10 - 11</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal885.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 10</title>
                 <para>
@@ -2869,6 +2905,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 11</title>
                 <para>
@@ -2905,17 +2942,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 12 - 13</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal886.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 12</title>
                 <para>
@@ -2948,6 +2985,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 13</title>
                 <para>
@@ -2983,17 +3021,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 14 - 15</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal887.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 14</title>
                 <para>
@@ -3031,6 +3069,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 15</title>
                 <para>
@@ -3065,17 +3104,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 16 - 17</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal888.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 16</title>
                 <para>
@@ -3109,6 +3148,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 17</title>
                 <para>
@@ -3144,17 +3184,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 18 - 19</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal889.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 18</title>
                 <para>
@@ -3190,6 +3230,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 19</title>
                 <para>
@@ -3226,17 +3267,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 20 - 21</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal890.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 20</title>
                 <para>
@@ -3272,6 +3313,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 21</title>
                 <para>
@@ -3309,17 +3351,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 22 - 23</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
-                            fileref="../ajk_journal_1931-1935/images/mar/ajk_journal892.jpg"/>
+                        <imagedata scale="70" align="center"
+                            fileref="../ajk_journal_1931-1935/images/mar/ajk_journal891.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 22</title>
                 <para>
@@ -3355,6 +3397,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 23</title>
                 <para>
@@ -3392,17 +3435,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 24 - 25</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
-                            fileref="../ajk_journal_1931-1935/images/mar/ajk_journal891.jpg"/>
+                        <imagedata scale="70" align="center"
+                            fileref="../ajk_journal_1931-1935/images/mar/ajk_journal892.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 24</title>
                 <para>
@@ -3440,6 +3483,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 25</title>
                 <para>
@@ -3478,17 +3522,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 26 - 27</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal893.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 26</title>
                 <para>
@@ -3527,6 +3571,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 27</title>
                 <para>
@@ -3568,17 +3613,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 28 - 29</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal894.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 28</title>
                 <para>
@@ -3618,6 +3663,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 29</title>
                 <para>
@@ -3656,17 +3702,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MARCH 30 - 31</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="65" align="center"
                             fileref="../ajk_journal_1931-1935/images/mar/ajk_journal895.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 30</title>
                 <para>
@@ -3705,6 +3751,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MARCH 31</title>
                 <para>
@@ -3748,7 +3795,7 @@
         <title>Photos from Album - March</title>
         <mediaobject xml:id="sSweater">
             <imageobject>
-                <imagedata scale="20" align="center" format="JPG"
+                <imagedata scale="100" align="center" format="JPG"
                     fileref="../ajk_journal_1931-1935/images/mar/ajk_album042.jpg"/>
             </imageobject>
             <caption>
@@ -3763,11 +3810,12 @@
             <title>APRIL 1 - 2</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal896.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 1</title>
                 <para>
@@ -3806,6 +3854,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 2</title>
                 <para>
@@ -3843,16 +3892,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 3 - 4</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal897.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 3</title>
                 <para>
@@ -3888,6 +3937,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 4</title>
                 <para>
@@ -3923,17 +3973,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 5 - 6</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal898.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 5</title>
                 <para>
@@ -3970,6 +4020,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 6</title>
                 <para>
@@ -4008,17 +4059,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 7 - 8</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal899.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 7</title>
                 <para>
@@ -4054,6 +4105,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 8</title>
                 <para>
@@ -4089,17 +4141,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 9 - 10</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal900.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 9</title>
                 <para>
@@ -4134,6 +4186,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 10</title>
                 <para>
@@ -4169,17 +4222,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 11 - 12</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal901.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 11</title>
                 <para>
@@ -4214,6 +4267,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 12</title>
                 <para>
@@ -4249,17 +4303,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 13 - 14</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal902.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 13</title>
                 <para>
@@ -4294,8 +4348,9 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
-                <title>APRIL 16</title>
+                <title>APRIL 14</title>
                 <para>
                     <itemizedlist>
                         <listitem>
@@ -4330,17 +4385,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 15 - 16</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal903.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 15</title>
                 <para>
@@ -4376,6 +4431,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 16</title>
                 <para>
@@ -4410,17 +4466,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 17 - 18</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal904.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 17</title>
                 <para>
@@ -4455,6 +4511,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 18</title>
                 <para>
@@ -4489,17 +4546,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 19 - 20</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal905.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 19</title>
                 <para>
@@ -4536,6 +4593,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 20</title>
                 <para>
@@ -4573,17 +4631,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 21 - 22</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal906.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 21</title>
                 <para>
@@ -4620,6 +4678,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 22</title>
                 <para>
@@ -4657,17 +4716,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 23 - 24</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal907.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 23</title>
                 <para>
@@ -4703,6 +4762,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 24</title>
                 <para>
@@ -4736,17 +4796,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 25 - 26</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal908.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 25</title>
                 <para>
@@ -4782,6 +4842,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 26</title>
                 <para>
@@ -4820,17 +4881,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 27 - 28</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal909.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 27</title>
                 <para>
@@ -4866,6 +4927,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 28</title>
                 <para>
@@ -4902,17 +4964,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>APRIL 29 - 30</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/apr/ajk_journal910.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 29</title>
                 <para>
@@ -4948,6 +5010,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>APRIL 30</title>
                 <para>
@@ -4993,7 +5056,7 @@
             <title>MAY 1 - 2</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal912.jpg"/>
                     </imageobject>
                 </inlinemediaobject></para>
@@ -5033,6 +5096,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 2</title>
                 <para>
@@ -5068,16 +5132,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MAY 3 - 4</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal913.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 3</title>
                 <para>
@@ -5113,6 +5177,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 4</title>
                 <para>
@@ -5150,11 +5215,12 @@
             <title>MAY 5 - 6</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal914.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 5</title>
                 <para>
@@ -5188,6 +5254,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 6</title>
                 <para>
@@ -5230,11 +5297,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal915.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 7</title>
                 <para>
@@ -5269,6 +5337,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 8</title>
                 <para>
@@ -5308,11 +5377,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal916.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 9</title>
                 <para>
@@ -5346,6 +5416,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 10</title>
                 <para>
@@ -5388,11 +5459,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal917.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 11</title>
                 <para>
@@ -5428,6 +5500,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 12</title>
                 <para>
@@ -5469,11 +5542,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal918.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 13</title>
                 <para>
@@ -5512,6 +5586,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 14</title>
                 <para>
@@ -5553,11 +5628,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal919.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 15</title>
                 <para>
@@ -5592,6 +5668,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 16</title>
                 <para>
@@ -5634,11 +5711,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal920.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 17</title>
                 <para>
@@ -5674,6 +5752,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 18</title>
                 <para>
@@ -5716,11 +5795,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal921.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 19</title>
                 <para>
@@ -5760,6 +5840,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 20</title>
                 <para>
@@ -5804,11 +5885,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal922.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 21</title>
                 <para>
@@ -5843,6 +5925,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 22</title>
                 <para>
@@ -5886,11 +5969,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal923.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 23</title>
                 <para>
@@ -5926,6 +6010,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 24</title>
                 <para>
@@ -5970,11 +6055,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal924.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 25</title>
                 <para>
@@ -6012,6 +6098,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 26</title>
                 <para>
@@ -6055,11 +6142,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal925.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 27</title>
                 <para>
@@ -6095,6 +6183,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 28</title>
                 <para>
@@ -6138,11 +6227,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal926.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 29</title>
                 <para>
@@ -6178,6 +6268,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 30</title>
                 <para>
@@ -6223,11 +6314,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/may/ajk_journal927.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MAY 31</title>
                 <para>
@@ -6272,7 +6364,7 @@
             <title>JUNE 1</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="images/jun/ajk_journal927a.jpg"/>
                     </imageobject>
                 </inlinemediaobject></para>
@@ -6310,16 +6402,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JUNE 2 - 3</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal930.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 2</title>
                 <para>
@@ -6356,6 +6448,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 3</title>
                 <para>
@@ -6397,11 +6490,12 @@
             <title>JUNE 4 - 5</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal931.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 4</title>
                 <para>
@@ -6439,6 +6533,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 5</title>
                 <para>
@@ -6480,11 +6575,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal932.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 6</title>
                 <para>
@@ -6521,6 +6617,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 7</title>
                 <para>
@@ -6562,11 +6659,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal933.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 8</title>
                 <para>
@@ -6602,6 +6700,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 9</title>
                 <para>
@@ -6645,11 +6744,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal934.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 10</title>
                 <para>
@@ -6686,6 +6786,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 11</title>
                 <para>
@@ -6729,11 +6830,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal935.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 12</title>
                 <para>
@@ -6771,6 +6873,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 13</title>
                 <para>
@@ -6811,11 +6914,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal936.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 14</title>
                 <para>
@@ -6851,6 +6955,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 15</title>
                 <para>
@@ -6894,11 +6999,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal937.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 16</title>
                 <para>
@@ -6936,6 +7042,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 17</title>
                 <para>
@@ -6979,11 +7086,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal938.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 18</title>
                 <para>
@@ -7020,6 +7128,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 19</title>
                 <para>
@@ -7064,11 +7173,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal939.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 20</title>
                 <para>
@@ -7104,6 +7214,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 21</title>
                 <para>
@@ -7148,11 +7259,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal940.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 22</title>
                 <para>
@@ -7190,6 +7302,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 23</title>
                 <para>
@@ -7233,11 +7346,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal941.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 24 - Great day! see <emphasis role="underline">1932</emphasis></title>
                 <para>
@@ -7275,6 +7389,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 25</title>
                 <para>
@@ -7319,11 +7434,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal942.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 26</title>
                 <para>
@@ -7360,6 +7476,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 27 - See 1933!!! Good old Eke!</title>
                 <para>
@@ -7406,11 +7523,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal943.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 28</title>
                 <para>
@@ -7447,6 +7565,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 29</title>
                 <para>
@@ -7491,11 +7610,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jun/ajk_journal944.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JUNE 30</title>
                 <para>
@@ -7541,7 +7661,7 @@
             <title>JULY 1</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal944a.jpg"/>
                     </imageobject>
                 </inlinemediaobject></para>
@@ -7585,16 +7705,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 2 - 3</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal945.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 2</title>
                 <para>
@@ -7633,6 +7753,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 3</title>
                 <para>
@@ -7671,16 +7792,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 4 - 5</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal946.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 4</title>
                 <para>
@@ -7717,6 +7838,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 5</title>
                 <para>
@@ -7755,17 +7877,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 6 - 7</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal947.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 6</title>
                 <para>
@@ -7802,6 +7924,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 7</title>
                 <para>
@@ -7838,17 +7961,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 8 - 9</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal948.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 8</title>
                 <para>
@@ -7886,6 +8009,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 9</title>
                 <para>
@@ -7921,17 +8045,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 10 - 11</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal949.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 10</title>
                 <para>
@@ -7967,6 +8091,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 11</title>
                 <para>
@@ -8004,17 +8129,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 12 - 13</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal950.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 12</title>
                 <para>
@@ -8054,6 +8179,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 13</title>
                 <para>
@@ -8094,17 +8220,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 14 - 15</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal951.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 14</title>
                 <para>
@@ -8142,6 +8268,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 15</title>
                 <para>
@@ -8179,17 +8306,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 16 - 17</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal952.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 16</title>
                 <para>
@@ -8227,6 +8354,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 17</title>
                 <para>
@@ -8267,17 +8395,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 18 - 19</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal953.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 18</title>
                 <para>
@@ -8315,6 +8443,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 19</title>
                 <para>
@@ -8354,17 +8483,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 20 - 21</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal954.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 20</title>
                 <para>
@@ -8399,6 +8528,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 21</title>
                 <para>
@@ -8440,17 +8570,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 22 - 23</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal955.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 22</title>
                 <para>
@@ -8488,6 +8618,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 23</title>
                 <para>
@@ -8528,17 +8659,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 24 - 25</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal956.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 24</title>
                 <para>
@@ -8575,6 +8706,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 25</title>
                 <para>
@@ -8614,17 +8746,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 26 - 27</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal957.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 26</title>
                 <para>
@@ -8661,6 +8793,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 27</title>
                 <para>
@@ -8698,17 +8831,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 28 - 29</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal958.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 28 - 1932, good news!</title>
                 <para>
@@ -8745,6 +8878,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 29</title>
                 <para>
@@ -8783,17 +8917,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>JULY 30 - 31</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/jul/ajk_journal959.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 30</title>
                 <para>
@@ -8831,6 +8965,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>JULY 31</title>
                 <para>
@@ -8876,7 +9011,7 @@
             <title>AUGUST 1-2</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal960.jpg"/>
                     </imageobject>
                 </inlinemediaobject></para>
@@ -8917,6 +9052,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 2</title>
                 <para>
@@ -8954,16 +9090,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 3 - 4</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal961.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 3</title>
                 <para>
@@ -8999,6 +9135,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 4</title>
                 <para>
@@ -9039,16 +9176,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 5 - 6</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal962.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 5</title>
                 <para>
@@ -9089,6 +9226,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 6</title>
                 <para>
@@ -9126,17 +9264,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 7 - 8</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal963.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 7</title>
                 <para>
@@ -9175,6 +9313,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 8</title>
                 <para>
@@ -9213,17 +9352,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 9 - 10</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal964.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 9</title>
                 <para>
@@ -9239,7 +9378,7 @@
                                 moonlight swim. Eats, talk &amp; bed late.</para>
                         </listitem>
                         <listitem>
-                            <para>1933 - Wed. Tennis with Wally. Bill here, Jack Deasy. Canoed &amp;
+                            <para>1933 - Wed. Tennis with Wally. Bill here, <link linkend="deasy">Jack Deasy</link>. Canoed &amp;
                                 sailed with Wally &amp; Joey. Fun. Dan came tonite &amp; we all went
                                 to Franny's for bridge. Fun. Bill starts work tomorrow. Won't see
                                 him much now.</para>
@@ -9262,6 +9401,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 10</title>
                 <para>
@@ -9300,17 +9440,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 11 - 12</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal965.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 11</title>
                 <para>
@@ -9347,6 +9487,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 12</title>
                 <para>
@@ -9382,17 +9523,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 13 - 14</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal966.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 13</title>
                 <para>
@@ -9430,6 +9571,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 14</title>
                 <para>
@@ -9470,17 +9612,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 15 - 16</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal967.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 15</title>
                 <para>
@@ -9518,6 +9660,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 16</title>
                 <para>
@@ -9554,17 +9697,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 17 - 18</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal968.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 17</title>
                 <para>
@@ -9604,6 +9747,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 18</title>
                 <para>
@@ -9642,17 +9786,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 19 - 20</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal969.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 19</title>
                 <para>
@@ -9691,6 +9835,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 20</title>
                 <para>
@@ -9730,17 +9875,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 21 - 22</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal970.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 21 - finished bar! Whoopie---</title>
                 <para>
@@ -9776,6 +9921,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 22</title>
                 <para>
@@ -9816,17 +9962,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 23 - 24</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal971.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 23</title>
                 <para>
@@ -9867,6 +10013,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 24</title>
                 <para>
@@ -9905,17 +10052,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 25 - 26</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal972.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 25</title>
                 <para>
@@ -9952,6 +10099,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 26</title>
                 <para>
@@ -9992,17 +10140,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 27 - 28</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal973.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 27</title>
                 <para>
@@ -10043,6 +10191,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 28</title>
                 <para>
@@ -10082,17 +10231,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 29 - 30</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal974.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 29</title>
                 <para>
@@ -10131,6 +10280,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 30</title>
                 <para>
@@ -10174,17 +10324,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>AUGUST 31</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/aug/ajk_journal975.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>AUGUST 31</title>
                 <para>
@@ -10229,7 +10379,7 @@
             <title>SEPTEMBER 1</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal975a.jpg"/>
                     </imageobject>
                 </inlinemediaobject></para>
@@ -10273,16 +10423,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 2 - 3</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal976.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 2</title>
                 <para>
@@ -10322,6 +10472,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 3</title>
                 <para>
@@ -10366,16 +10517,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 4 - 5</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal977.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 4</title>
                 <para>
@@ -10416,6 +10567,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 5</title>
                 <para>
@@ -10459,17 +10611,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 6 - 7</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal978.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 6</title>
                 <para>
@@ -10508,6 +10660,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 7</title>
                 <para>
@@ -10547,17 +10700,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 8 - 9</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal979.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 8</title>
                 <para>
@@ -10603,6 +10756,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 9</title>
                 <para>
@@ -10643,17 +10797,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 10 - 11</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal980.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 10</title>
                 <para>
@@ -10693,6 +10847,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 11</title>
                 <para>
@@ -10734,17 +10889,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 12 - 13</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal981.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 12</title>
                 <para>
@@ -10787,6 +10942,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 13</title>
                 <para>
@@ -10826,17 +10982,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 14 - 15</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal982.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 14</title>
                 <para>
@@ -10877,6 +11033,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 15</title>
                 <para>
@@ -10916,17 +11073,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 16 - 17</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal983.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 16</title>
                 <para>
@@ -10965,6 +11122,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 17</title>
                 <para>
@@ -11002,17 +11160,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 18 - 19</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal984.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 18</title>
                 <para>
@@ -11050,6 +11208,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 19</title>
                 <para>
@@ -11088,17 +11247,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 20 - 21</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal985.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 20</title>
                 <para>
@@ -11134,6 +11293,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 21</title>
                 <para>
@@ -11171,17 +11331,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 22 - 23</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal986.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 22</title>
                 <para>
@@ -11217,6 +11377,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 23</title>
                 <para>
@@ -11253,17 +11414,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 24 - 25</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal987.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 24</title>
                 <para>
@@ -11299,6 +11460,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 25</title>
                 <para>
@@ -11332,17 +11494,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 26 - 27</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal988.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 26</title>
                 <para>
@@ -11378,6 +11540,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 27</title>
                 <para>
@@ -11414,17 +11577,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 28 - 29</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/sep/ajk_journal989.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 28</title>
                 <para>
@@ -11459,6 +11622,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 29</title>
                 <para>
@@ -11494,17 +11658,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>SEPTEMBER 30</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
-                            fileref="../ajk_journal_1931-1935/images/sep/ajk_journal990a.jpg"/>
+                        <imagedata scale="25" align="center"
+                            fileref="../ajk_journal_1931-1935/images/sep/ajk_journal990b.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>SEPTEMBER 30</title>
                 <para>
@@ -11547,7 +11711,7 @@
             <title>OCTOBER 1</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal990.jpg"/>
                     </imageobject>
                 </inlinemediaobject></para>
@@ -11587,16 +11751,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 2 - 3</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal991.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 2</title>
                 <para>
@@ -11631,6 +11795,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 3</title>
                 <para>
@@ -11668,16 +11833,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 4 - 5</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal992.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 4</title>
                 <para>
@@ -11712,6 +11877,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 5</title>
                 <para>
@@ -11746,17 +11912,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 6 - 7</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal993.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 6</title>
                 <para>
@@ -11792,6 +11958,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 7</title>
                 <para>
@@ -11828,17 +11995,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 8 - 9</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal994.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 8</title>
                 <para>
@@ -11876,6 +12043,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 9</title>
                 <para>
@@ -11911,17 +12079,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 10 - 11</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal995.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 10</title>
                 <para>
@@ -11957,6 +12125,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 11</title>
                 <para>
@@ -11995,17 +12164,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 12 - 13</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal996.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 12</title>
                 <para>
@@ -12045,6 +12214,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 13</title>
                 <para>
@@ -12080,17 +12250,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 14 - 15</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal997.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 14</title>
                 <para>
@@ -12125,6 +12295,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 15</title>
                 <para>
@@ -12162,17 +12333,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 16 - 17</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal998.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 16</title>
                 <para>
@@ -12207,6 +12378,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 17</title>
                 <para>
@@ -12244,17 +12416,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 18 - 19</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal999.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 18</title>
                 <para>
@@ -12290,6 +12462,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 19</title>
                 <para>
@@ -12329,17 +12502,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 20 - 21</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal1001.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 20</title>
                 <para>
@@ -12377,6 +12550,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 21</title>
                 <para>
@@ -12417,17 +12591,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 22 - 23</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal1002.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 22</title>
                 <para>
@@ -12463,6 +12637,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 23</title>
                 <para>
@@ -12497,17 +12672,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 24 - 25</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal1003.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 24</title>
                 <para>
@@ -12543,6 +12718,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 25</title>
                 <para>
@@ -12579,17 +12755,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 26 - 27</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal1004.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 26</title>
                 <para>
@@ -12627,6 +12803,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 27</title>
                 <para>
@@ -12663,17 +12840,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 28 - 29</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal1005.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 28</title>
                 <para>
@@ -12711,6 +12888,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 29</title>
                 <para>
@@ -12747,17 +12925,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>OCTOBER 30 - 31</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/oct/ajk_journal1006.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 30</title>
                 <para>
@@ -12795,6 +12973,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>OCTOBER 31</title>
                 <para>
@@ -12840,7 +13019,7 @@
             <title>NOVEMBER 1 - 2</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1007.jpg"/>
                     </imageobject>
                 </inlinemediaobject></para>
@@ -12878,6 +13057,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 2</title>
                 <para>
@@ -12911,16 +13091,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 3 - 4</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1008.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 3</title>
                 <para>
@@ -12956,6 +13136,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 4</title>
                 <para>
@@ -12991,16 +13172,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 5 - 6</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1009.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 5</title>
                 <para>
@@ -13036,6 +13217,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 6</title>
                 <para>
@@ -13073,17 +13255,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 7 - 8</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1010.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 7</title>
                 <para>
@@ -13123,6 +13305,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 8</title>
                 <para>
@@ -13162,17 +13345,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 9 - 10</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1011.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 9</title>
                 <para>
@@ -13211,6 +13394,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 10</title>
                 <para>
@@ -13247,17 +13431,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 11 - 12</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1012.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 11</title>
                 <para>
@@ -13292,6 +13476,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 12</title>
                 <para>
@@ -13326,17 +13511,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 13 - 14</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1013.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 13</title>
                 <para>
@@ -13372,6 +13557,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 14</title>
                 <para>
@@ -13408,17 +13594,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 15 - 16</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1014.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 15</title>
                 <para>
@@ -13452,6 +13638,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 16</title>
                 <para>
@@ -13486,17 +13673,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 17 - 18</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1015.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 17</title>
                 <para>
@@ -13530,6 +13717,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 18</title>
                 <para>
@@ -13563,17 +13751,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 19 - 20</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1016.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 19</title>
                 <para>
@@ -13606,6 +13794,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 20</title>
                 <para>
@@ -13641,17 +13830,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 21 - 22</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1017.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 21</title>
                 <para>
@@ -13687,6 +13876,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 22</title>
                 <para>
@@ -13723,17 +13913,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 23 - 24</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1018.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 23</title>
                 <para>
@@ -13769,6 +13959,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 24</title>
                 <para>
@@ -13803,17 +13994,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 25 - 26</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1019.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 25</title>
                 <para>
@@ -13850,6 +14041,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 26</title>
                 <para>
@@ -13888,17 +14080,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 27 - 28</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1020.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 27</title>
                 <para>
@@ -13936,6 +14128,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 28</title>
                 <para>
@@ -13973,17 +14166,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>NOVEMBER 29 - 30</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/nov/ajk_journal1021.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 29</title>
                 <para>
@@ -14019,6 +14212,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>NOVEMBER 30</title>
                 <para>
@@ -14064,7 +14258,7 @@
             <title>DECEMBER 1 - 2</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1022.jpg"/>
                     </imageobject>
                 </inlinemediaobject></para>
@@ -14103,6 +14297,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 2</title>
                 <para>
@@ -14140,16 +14335,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 3 - 4</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1023.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 3</title>
                 <para>
@@ -14185,6 +14380,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 4</title>
                 <para>
@@ -14223,16 +14419,16 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 5 - 6</title>
             <para><inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1024.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 5</title>
                 <para>
@@ -14269,6 +14465,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 6</title>
                 <para>
@@ -14307,17 +14504,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 7 - 8</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1025.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 7</title>
                 <para>
@@ -14352,6 +14549,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 8</title>
                 <para>
@@ -14388,17 +14586,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 9 - 10</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1026.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 9</title>
                 <para>
@@ -14434,6 +14632,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 10</title>
                 <para>
@@ -14472,17 +14671,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 11 - 12</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1027.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 11</title>
                 <para>
@@ -14517,6 +14716,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 12</title>
                 <para>
@@ -14552,17 +14752,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 13 - 14</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1028.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 13</title>
                 <para>
@@ -14597,6 +14797,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 14</title>
                 <para>
@@ -14633,17 +14834,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 15 - 16</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1029.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 15</title>
                 <para>
@@ -14677,6 +14878,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 16</title>
                 <para>
@@ -14713,17 +14915,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 17 - 18</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1030.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 17</title>
                 <para>
@@ -14759,6 +14961,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 18</title>
                 <para>
@@ -14797,17 +15000,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 19 - 20</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1031.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 19</title>
                 <para>
@@ -14845,6 +15048,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 20</title>
                 <para>
@@ -14885,17 +15089,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 21 - 22</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1032.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 21</title>
                 <para>
@@ -14933,6 +15137,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 22</title>
                 <para>
@@ -14977,17 +15182,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 23 - 24</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1033.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 23</title>
                 <para>
@@ -15029,6 +15234,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 24</title>
                 <para>
@@ -15070,17 +15276,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 25 - 26</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1034.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 25</title>
                 <para>
@@ -15120,6 +15326,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 26</title>
                 <para>
@@ -15164,17 +15371,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 27 - 28</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1035.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 27</title>
                 <para>
@@ -15215,6 +15422,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 28</title>
                 <para>
@@ -15259,17 +15467,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 29 - 30</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1036.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 29</title>
                 <para>
@@ -15316,6 +15524,7 @@
                     </itemizedlist>
                 </para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 30</title>
                 <para>
@@ -15357,17 +15566,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>DECEMBER 31</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/dec/ajk_journal1037.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>DECEMBER 31</title>
                 <para>
@@ -15420,11 +15629,12 @@
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/misc/ajk_journal1037a.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>Resolutions</title>
                 <para>
@@ -15461,17 +15671,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MEMORANDA</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/misc/ajk_journal1038.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>MEMORANDA</title>
                 <para xml:id="abbrev">The initials of the following people are frequently found in
@@ -15483,6 +15693,7 @@
                         </listitem>
                     </itemizedlist></para>
             </formalpara>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>INDEX OF IMPORTANT EVENTS</title>
                 <para>More initials etc. <informaltable frame="all">
@@ -15581,17 +15792,17 @@
                     </informaltable></para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MEMORANDA</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/misc/ajk_journal1039.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>INDEX OF IMPORTANT DATES</title>
                 <para>
@@ -15624,17 +15835,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MEMORANDA</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/misc/ajk_journal1040.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>BIRTHDAYS AND ANNIVERSARIES</title>
                 <para>
@@ -15711,17 +15922,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MEMORANDA</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/misc/ajk_journal1041.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title>PEOPLE TO WRITE TO</title>
                 <para>
@@ -15732,7 +15943,7 @@
                             <colspec colname="c2" colnum="3" colwidth="1*"/>
                             <thead>
                                 <row>
-                                    <entry>Nane</entry>
+                                    <entry>Name</entry>
                                     <entry>Checks</entry>
                                     <entry>X's</entry>
                                 </row>
@@ -15839,17 +16050,17 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MEMORANDA</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="../ajk_journal_1931-1935/images/misc/ajk_journal1042.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
             </para>
+            <?dbfo-need height="2in" ?>
             <formalpara>
                 <title/>
                 <para>
@@ -15860,7 +16071,7 @@
                             <colspec colname="c2" colnum="3" colwidth="1*"/>
                             <thead>
                                 <row>
-                                    <entry>Nane</entry>
+                                    <entry>Name</entry>
                                     <entry>Checks</entry>
                                     <entry>X's</entry>
                                 </row>
@@ -15897,13 +16108,12 @@
                 </para>
             </formalpara>
         </simplesect>
-        <?dbfo-need height="6in" ?>
         <simplesect>
             <title>MEMORANDA</title>
             <para>
                 <inlinemediaobject>
                     <imageobject>
-                        <imagedata scale="75" align="center"
+                        <imagedata scale="70" align="center"
                             fileref="./ajk_journal_1931-1935/images/misc/ajk_journal1042.jpg"/>
                     </imageobject>
                 </inlinemediaobject>
@@ -15915,5 +16125,99 @@
             <para>196   / 3 = 65 1/3</para>
             <para>average of all C.B.'s - about <emphasis role="underline">65</emphasis></para>
         </simplesect>
-    </chapter>   
+    </chapter>
+    <chapter>
+        <title>Miscellaneous: 1931 - 1935</title>
+        <para>These are loose items that were inside of the journal</para>
+        <simplesect>
+            <title>Miscellaneous</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="center" format="JPG"
+                        fileref="../ajk_journal_1931-1935/images/misc/ajk_journal123.jpg"/>
+                </imageobject>
+            </mediaobject>
+            <mediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="center" format="JPG"
+                        fileref="../ajk_journal_1931-1935/images/misc/ajk_journal124.jpg"/>
+                </imageobject>
+            </mediaobject>
+            <mediaobject>
+                <imageobject>
+                    <imagedata scale="50" align="center" format="JPG"
+                        fileref="../ajk_journal_1931-1935/images/misc/ajk_journal126.jpg"/>
+                </imageobject>
+                <caption><para>Louis 1929</para></caption>
+            </mediaobject>
+            <mediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="center" format="JPG"
+                        fileref="../ajk_journal_1931-1935/images/misc/ajk_journal127.jpg"/>
+                </imageobject>               
+            </mediaobject>
+            <mediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="center" format="JPG"
+                        fileref="../ajk_journal_1931-1935/images/misc/ajk_journal128.jpg"/>
+                </imageobject>
+                <caption><para>Oct. 1931</para></caption>
+            </mediaobject>
+            <?dbfo-need height="4in" ?>
+            <mediaobject>
+                <imageobject>
+                    <imagedata scale="75" align="center" format="JPG"
+                        fileref="../ajk_journal_1931-1935/images/misc/ajk_journal129.jpg"/>
+                </imageobject>              
+            </mediaobject>
+            <mediaobject>
+                <imageobject>
+                    <imagedata scale="60" align="center" format="JPG"
+                        fileref="../ajk_journal_1931-1935/images/misc/ajk_journal130.jpg"/>
+                </imageobject>
+            </mediaobject>
+            <mediaobject>
+                <imageobject>
+                    <imagedata scale="50" align="center" format="JPG"
+                        fileref="../ajk_journal_1931-1935/images/misc/ajk_journal131.jpg"/>
+                </imageobject>
+            </mediaobject>
+            <mediaobject xml:id="deasy">
+                <imageobject>
+                    <imagedata scale="50" align="center" format="JPG"
+                        fileref="../ajk_journal_1931-1935/images/misc/ajk_journal132.jpg"/>
+                </imageobject>
+            </mediaobject>
+        </simplesect>
+        <?dbfo-need height="4in" ?>
+        <simplesect>
+            <title>Postcard</title>
+            <para>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center" format="JPG"
+                            fileref="../ajk_journal_1931-1935/images/misc/ajk_journal133.jpg"/>
+                    </imageobject>
+                    <caption><para>OH WAD SOME POW'R THI GIFT OF US</para></caption>
+                </mediaobject>
+            </para>
+            <?dbfo-need height="2in" ?>
+            <para>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata scale="75" align="center"
+                            fileref="../ajk_journal_1931-1935/images/misc/ajk_journal134.jpg"/>
+                    </imageobject>
+                </mediaobject>
+            </para>
+            <?dbfo-need height="2in" ?>
+            <para>
+                Dear Anne:
+            </para>
+            <para>We're having fine time so far. Saw Chicago last night, from taxi &amp; bus
+                windows. Gee - this is flat country out here. The valleys aren't deep enough to hide
+                a worm, hardly. How was the lecture Sunday? Passing lots of cows but only ½ answer
+                when I yell "Anne." Graf (?) me a line. Jim</para>
+        </simplesect>            
+    </chapter>
 </book>
